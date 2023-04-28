@@ -9,64 +9,100 @@
 </head>
 
 <body>
-  <div class="header">
-<div>
-  <img src="https://www.globuslighting.pl/wp-content/uploads/2021/11/logo_Globus_lighting.svg">
-</div>
-<nav class="topnav">
-  <a href="#">Menu</a>
-  <a href="#">Produkty</a>
-  <a href="#">Rozwiązania</a>
-  <a href="#">Projektowanie</a>
-  <a href="#">Realizacjie</a>
-  <a href="#">Blog</a>
-  <a href="#">O nas</a>
-  <a href="#">Kontakt</a>
-  <a href="#">PL</a>
-</nav>
+  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+  <div class="header sticky">
+    <nav class="topnav ">
+      <div>
+        <img src="https://www.globuslighting.pl/wp-content/uploads/2021/11/logo_Globus_lighting.svg">
+      </div>
+      <div>
+      <div class="dropdown">
+        <button class="dropbtn">Menu
+        </button>
+        <div class="dropdown-content">
+          <div class="header_dr">
+            <h2>Mega Menu</h2>
+          </div>
+          <div class="row_dr">
+            <div class="column_dr">
+              <h3>Category 1</h3>
+              <a href="#">Link 1</a>
+              <a href="#">Link 2</a>
+              <a href="#">Link 3</a>
+            </div>
+            <div class="column_dr">
+              <h3>Category 2</h3>
+              <a href="#">Link 1</a>
+              <a href="#">Link 2</a>
+              <a href="#">Link 3</a>
+            </div>
+            <div class="column_dr">
+              <h3>Category 3</h3>
+              <a href="#">Link 1</a>
+              <a href="#">Link 2</a>
+              <a href="#">Link 3</a>
+            </div>
+          </div>
+        </div>
+        </div>
+    </nav>
+    <div class="progress-container sticky">
+      <div class="progress-bar" id="myBar"></div>
+    </div>
   </div>
 
-  <div class="row">
-  <div class="leftcolumn">
-    <div class="card">
-      <h2>Tytuł</h2>
-      <h5>Title description, Dec 7, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+  <div class="row space">
+    <div class="leftcolumn">
+      <div class="card">
+        <h2>Tytuł</h2>
+        <h5>Title description, Dec 7, 2017</h5>
+        <div class="fakeimg" style="height:200px;">Image_1</div>
+        <p>Some text..</p>
+        <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+          ullamco.</p>
+      </div>
+      <div class="card">
+        <h2>Tytuł_2</h2>
+        <h5>Title description, Sep 2, 2017</h5>
+        <div class="fakeimg" style="height:200px;">Image_2</div>
+        <p>Some text..</p>
+        <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+          ullamco.</p>
+      </div>
     </div>
-    <div class="card">
-      <h2>Tytuł</h2>
-      <h5>Title description, Sep 2, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <div class="rightcolumn">
+      <div class="card">
+        <h2>O NAS</h2>
+        <div class="fakeimg" style="height:100px;">Image_nas</div>
+        <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+      </div>
+      <div class="card">
+        <h3>Popular Post</h3>
+        <div class="fakeimg">
+          <p>Image_p1</p>
+        </div>
+        <div class="fakeimg">
+          <p>Image_p2</p>
+        </div>
+        <div class="fakeimg">
+          <p>Image_p3</p>
+        </div>
+      </div>
+      <div class="card">
+        <h3>Kontakt</h3>
+        <p>Some text..</p>
+      </div>
     </div>
   </div>
-  <div class="rightcolumn">
-    <div class="card">
-      <h2>About Me</h2>
-      <div class="fakeimg" style="height:100px;">Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-    </div>
-    <div class="card">
-      <h3>Popular Post</h3>
-      <div class="fakeimg"><p>Image</p></div>
-      <div class="fakeimg"><p>Image</p></div>
-      <div class="fakeimg"><p>Image</p></div>
-    </div>
-    <div class="card">
-      <h3>Follow Me</h3>
-      <p>Some text..</p>
-    </div>
+
+  <div class="footer">
+    <h2>Footer</h2>
   </div>
-</div>
 
-<div class="footer">
-  <h2>Footer</h2>
-</div>
 
-  
   <script src="script.js"></script>
 
   <!--
