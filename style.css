@@ -245,7 +245,7 @@ nav{
   transform: translateY(2px);
 }
 
-/*content z gradientem i animacją */ 
+/*content z gradientem i animacją  kontener na ok  137 znaków */ 
 .container
 {
   display: flex;
@@ -309,7 +309,7 @@ nav{
 .container .box:nth-child(1):before,
 .container .box:nth-child(1):after
 {
-  background: linear-gradient(315deg, #ffbc00, #ff0058)
+  background: linear-gradient(315deg, #febc00, #ff0058)
 }
 
 .container .box:nth-child(2):before,
