@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Asap&family=Roboto:ital,wght@0,500;0,900;1,500&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css");
 
 /* start => zapobieganie zmianie stylu w przypadku aauto-wypełniania form*/
 input:-webkit-autofill,
@@ -781,4 +783,27 @@ a {
 .mapa_google {
   padding: 50px;
   background-color: #333;
+}
+/* Create three equal columns that floats next to each other */
+.column_foot {
+background-color:#333;
+color:#e5e5e5;
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row_foot:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column_foot {
+    width: 100%;
+  }
 }
