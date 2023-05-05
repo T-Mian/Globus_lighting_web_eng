@@ -167,7 +167,7 @@ nav{
 /* inny .service-box plus hover*.content*/
 .service-box-ver_beta {
   width: 400px;
-  height: 250px;
+  height: 270px;
   border-radius: 5px;
   display: flex;
   justify-content: center;
@@ -191,7 +191,7 @@ nav{
 }
 .service-box-ver_beta p {
   text-align: center;
-  width: 330px;
+  width: 350px;
   margin: 0px 0px 20px 0px;
   color: #e5e5e5;
 }
@@ -806,4 +806,9 @@ color:#e5e5e5;
   .column_foot {
     width: 100%;
   }
+}
+
+footer{
+  margin-left: 5%;
+  margin-right: 5%;
 }
