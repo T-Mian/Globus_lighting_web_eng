@@ -12,7 +12,7 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #fff;//możesz skorzystać, ale nie musisz
+  -webkit-text-fill-color: #e5e5e5;//możesz skorzystać, ale nie musisz
   -webkit-box-shadow: 0 0 0px 1000px #000 inset;
   transition: background-color 5000s ease-in-out 0s;
 }
@@ -55,7 +55,7 @@ nav{
 .logo a{
   font-family: "Roboto", sans-serif;
   font-weight: 600;
-  color: #fff;
+  color: #e5e5e5;
   font-size: 2rem;
 }
 .menu{
@@ -69,11 +69,11 @@ nav{
   display: flex;
   font-size: 1rem;
   font-weight: 600;
-  color: #fff;
+  color: #e5e5e5;
   border-radius: 5px;
 }
 .menu a:hover{
-  color: #fff;
+  color: #e5e5e5;
   background-color: #333;
   box-shadow: inset 0px 2px 4px rgba(254,203,0,0.3), 
               inset 0px 4px 8px rgba(254,203,0,0.3), 
@@ -91,7 +91,7 @@ nav{
   left: 25%;
   top: 40%;
   transform: translate(-13%,-42%);
-  color: #fff;
+  color: #e5e5e5;
 }
 .main-text h1{
   font-size: 3.5rem;
@@ -113,16 +113,16 @@ nav{
   text-align: center;
 }
 .title p{
-  color: #fff;
+  color: #e5e5e5;
 }
 .title h2{
-  color: #fff;
+  color: #e5e5e5;
   position: relative;
   text-transform: uppercase;
   font-size: 3rem;
-  margin-bottom: 30px;
 }
 .content{
+  height: 310px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -130,7 +130,7 @@ nav{
   margin: 20px 0px;
 }
 .content h2{
-  color: #fff;
+  color: #e5e5e5;
 }
 .service-box {
   width: 400px;
@@ -154,13 +154,13 @@ nav{
               0px 8px 16px rgba(254,203,0,0.7), 
               0px 12px 24px rgba(254,203,0,0.7);
   transform: translateY(-10px);
-  transition: 0.2s;
+  transition: 0.5s;
 }
 .service-box p {
   text-align: center;
   width: 230px;
   margin: 0px 0px 20px 0px;
-  color: #fff;
+  color: #e5e5e5;
 }
 /* inny .service-box plus hover*.content*/
 .service-box-ver_beta {
@@ -191,7 +191,7 @@ nav{
   text-align: center;
   width: 330px;
   margin: 0px 0px 20px 0px;
-  color: #fff;
+  color: #e5e5e5;
 }
 /*Contact*/
 #contact{
@@ -227,7 +227,7 @@ nav{
   padding: 10px;
   border: none;
   outline: none;
-  color: #fff;
+  color: #e5e5e5;
   background: #0f0f0f;
   font-size: 15px;
   box-shadow: 0px 1px 2px rgba(254,203,0,0.5), 
@@ -250,14 +250,14 @@ nav{
   display: inline-block;
   font-size: 1rem;
   font-weight: 600;
-  color: #fff;
+  color: #e5e5e5;
   background: #000;
   border-radius: 5px;
   border: none;
   font-family: 'Asap';
 }
 .row2 input[type='submit']:hover{
-  color: #fff;
+  color: #e5e5e5;
   background-color: #222;
   box-shadow: inset 0px 2px 4px rgba(254,203,0,0.3), 
               inset 0px 4px 8px rgba(254,203,0,0.3), 
@@ -284,7 +284,7 @@ nav{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 40px 30px;
+  margin: 30px 30px;
   transition: 0.5s;
 }
 
@@ -297,7 +297,7 @@ nav{
   width: 50%;
   height: 100%;
   text-decoration: none;
-  background: #fff;
+  background: #e5e5e5;
   border-radius: 8px;
   transform: skewX(15deg);
   transition: 0.5s;
@@ -311,7 +311,7 @@ nav{
   left: 50;
   width: 50%;
   height: 100%;
-  background: #fff;
+  background: #e5e5e5;
   border-radius: 8px;
   transform: skewX(15deg);
   transition: 0.5s;
@@ -435,7 +435,7 @@ nav{
   border-radius: 8px;
   z-index: 1;
   transform: 0.5s;
-  color: #fff;
+  color: #e5e5e5;
 }
 
 .container .box:hover .content
@@ -446,7 +446,7 @@ nav{
 
 .container .box .content h2
 {
-  color: #fff;
+  color: #e5e5e5;
   margin-bottom: 10px;
   border-radius: 4px;
 }
@@ -463,7 +463,7 @@ nav{
   display: inline-block;
   font-size: 1.1em;
   color: #111;
-  background: #fff;
+  background: #e5e5e5;
   padding: 10px;
   border-radius: 4px;
   text-decoration: none;
@@ -704,6 +704,10 @@ nav{
   color: #fecb00;
 }
 
+span{
+  color: #fff;
+}
+
 .blores_element_grid h2{
   color: #fecb00;
 }
@@ -712,12 +716,17 @@ nav{
   text-align:center;
   position:relative;
   border:5px solid #fecb00;
-  width:300px;
+  width:500px;
   top:150px;
   border-radius:20px;
   left:50%;
   margin: -50px 0 0 -150px;
   animation: border-flicker 2s linear infinite;
+}
+
+
+.sqwBorder_flic::hover {
+  animation-play-state: paused;
 }
 
 
@@ -759,4 +768,17 @@ box-shadow: 0px 0px 78px 4px rgba(254, 203, 0,0.73);
 -moz-box-shadow: 0px 0px 78px 4px rgba(254, 203, 0,0.73);
 box-shadow: 0px 0px 78px 4px rgba(254, 203, 0,0.73);
   }
+}
+
+a {
+  color: #ffc107;
+}
+
+.pauza{
+  margin-bottom: 2em;
+}
+
+.mapa_google {
+  padding: 50px;
+  background-color: #333;
 }
