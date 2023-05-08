@@ -915,3 +915,81 @@ footer{
   background: #7f5bd2;
   width: 0%;
 }
+
+/* banery na poczatek */
+.container_baner {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 100%;
+	max-width: 1000px;
+	height: 80%;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-column-gap: 10px;
+	perspective: 1000px;
+}
+
+
+.panel_baner {
+	width: 100%;
+	height: 100%;
+	/*position: relative;*/
+	transform-style: preserve-3d;
+	transform-origin: 50% 0;
+	transform: translateZ(0) translateX(0) rotateY(0deg);
+	position: relative;
+}
+
+.panel_baner::after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.7) 10%, rgba(0, 0, 0, 0));
+}
+
+.front_baner,
+.back_baner {
+	width: 100%;
+	height: 100%;
+	background-image: url("https://www.globuslighting.pl/wp-content/uploads/2014/10/Warsztat.png");
+	background-size: cover;
+	background-position: left top;
+	position: absolute;
+	backface-visibility: hidden;
+}
+
+.back_baner {
+	transform: scaleX(-1) rotateY(180deg);
+}
+
+.panel_baner:nth-child(1) .front_baner {
+	background-position: 0 0;
+}
+.panel_baner:nth-child(2) .front_baner {
+	background-position: -250px 0;
+}
+.panel_baner:nth-child(3) .front_baner {
+	background-position: -500px 0;
+}
+.panel_baner:nth-child(4) .front_baner {
+	background-position: -750px 0;
+}
+
+.panel_baner:nth-child(1) .back_baner {
+	background-position: 250px 0;
+}
+.panel_baner:nth-child(2) .back_baner {
+	background-position: 500px 0;
+}
+.panel_baner:nth-child(3) .back_baner {
+	background-position: 750px 0;
+}
+.panel_baner:nth-child(4) .back_baner {
+	background-position: 1000px 0;
+}
