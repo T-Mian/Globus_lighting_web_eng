@@ -25,18 +25,70 @@ select:-webkit-autofill:focus {
     width: 100%;
   }
   .pauza{
-      margin-bottom: 6em;
+      margin-bottom: 1em;
   }
   .glowing-btn{
-    font-size: 1em;
+    font-size: 0.5em;
   }
   .blores_element_grid{
     display:flexbox ;
   }
+  .tekst_przerywnik{
+    padding-top: 1em;
+  }
+  .content{
+    margin-top: 5vh;
+  }
+  #services{
+    margin-bottom: 35vh;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  #services{
+    margin-bottom: 35vh;
+  }
+}
+
+
+@media screen and (max-width: 990px) {
+  .super_pauza{
+  margin-bottom:3vh;
+  padding-top: 355vh;
+  }
+}
+
+
+@media screen and (max-width: 1024px) {
+  .super_pauza{
+  margin-bottom:3vh;
+  padding-top: 130vh;
+  }
+}
+
+@media screen and (max-width: 1450px) {
+  .super_pauza{
+  margin-bottom:5vh;
+  padding-top: 20vh;
+  }
+}
+
+
+
+.super_pauza{
+  margin-bottom:3vh;
+  margin-top: 5vh;
+}
+
+.tekst_przerywnik{
+  color: #e5e5e5;
+  text-align: center;
+  position: initial;
+  margin-top: 10px;
 }
 
 body{
-  margin: 0px;
+  margin:0px ;
   padding: 0px;
   font-family: "Asap", sans-serif;
   background: #222;
@@ -50,6 +102,7 @@ ul{
   list-style: none;
 }
 a{
+  color: #ffc107;
   text-decoration: none;
 }
 /*Navigation*/
@@ -174,13 +227,13 @@ nav{
 }
 .service-box p {
   text-align: center;
-  width: 230px;
+  max-width: 230px;
   margin: 0px 0px 20px 0px;
   color: #e5e5e5;
 }
 /* inny .service-box plus hover*.content*/
 .service-box-ver_beta {
-  width: 400px;
+  max-width: 400px;
   height: 270px;
   border-radius: 5px;
   display: flex;
@@ -205,7 +258,7 @@ nav{
 }
 .service-box-ver_beta p {
   text-align: center;
-  width: 350px;
+  max-width: 350px;
   margin: 0px 0px 20px 0px;
   color: #e5e5e5;
 }
@@ -783,6 +836,7 @@ box-shadow: 0px 0px 78px 4px rgba(254, 203, 0,0.73);
 
 a {
   color: #ffc107;
+  text-decoration: none;
 }
 
 .pauza{
