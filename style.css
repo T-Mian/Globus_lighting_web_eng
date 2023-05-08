@@ -19,7 +19,21 @@ select:-webkit-autofill:focus {
   transition: background-color 5000s ease-in-out 0s;
 }
 /*  stop */
-
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column_foot {
+    width: 100%;
+  }
+  .pauza{
+      margin-bottom: 6em;
+  }
+  .glowing-btn{
+    font-size: 1em;
+  }
+  .blores_element_grid{
+    display:flexbox ;
+  }
+}
 
 body{
   margin: 0px;
@@ -481,12 +495,12 @@ nav{
 }
 /* świecący guzik neonowy z ekstra poświatą */
 .glowing-btn{
-  width: 500px;
+  max-width: 400px;
   position: relative;
   /*color: var(--glow-color);*/
   color: #e5e5e5;
   cursor: pointer;
-  padding: 0.35em 1em;
+  padding: 3%;
   border: 0.15em solid var(--glow-color);
   border-radius: 0.45em;
   background: none;
@@ -669,13 +683,6 @@ nav{
   }
 }
 
-
-@media only screen and (max-width: 600px) {
-  .glowing-btn{
-    font-size: 1em;
-  }
-}
-
 .blores{
   left: 25%;
   display: grid;
@@ -716,19 +723,21 @@ span{
 
 .sqwBorder_flic {
   text-align:center;
-  position:relative;
+  position:static;
   border:5px solid #fecb00;
-  width:500px;
-  top:150px;
+  max-width:70%;
+  top:10%;
   border-radius:20px;
-  left:50%;
+  left:25%;
   margin: -50px 0 0 -150px;
   animation: border-flicker 2s linear infinite;
 }
-
+.sqwBorder_flic h2{
+  font-size: 2em;
+}
 
 .sqwBorder_flic::hover {
-  animation-play-state: paused;
+  animation: paused;
 }
 
 
@@ -777,7 +786,7 @@ a {
 }
 
 .pauza{
-  margin-bottom: 2em;
+margin-block: 1em 2em;
 }
 
 .mapa_google {
@@ -791,7 +800,6 @@ color:#e5e5e5;
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -801,12 +809,6 @@ color:#e5e5e5;
   clear: both;
 }
 
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column_foot {
-    width: 100%;
-  }
-}
 
 footer{
   margin-left: 5%;
