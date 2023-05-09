@@ -1,6 +1,6 @@
 
 
-import url("https://unpkg.co/gsap@3/dist/gsap.min.js")
+//import url("https://unpkg.co/gsap@3/dist/gsap.min.js")
 // guzik Go to top "Top"
 // Get the button:
 
@@ -40,14 +40,20 @@ function topFunction() {
 }
 
 
+const lista_panelu=["https://www.globuslighting.pl/wp-content/uploads/2014/10/Rozwiazania_przemysl1.png","https://www.globuslighting.pl/wp-content/uploads/2014/10/Warsztat.png","https://www.globuslighting.pl/wp-content/uploads/2014/10/Sklep.png"]
+let celownik_panelu= 0
+
 let panels = document.querySelectorAll(".panel_baner");
 let fronts = document.querySelectorAll(".front_baner");
 let backs = document.querySelectorAll(".back_baner");
+const mirrorTL = gsap.timeline();
+const nextTL = gsap.timeline();
+
+
 
 function cykl() {
 	mirrorTL.restart();
-	//titleTL.restart();
-	setTimeout(cykl, 6000);
+	setTimeout(cykl, 5000);
 }
 
 cykl() 
@@ -63,8 +69,18 @@ mirrorTL
 			backgroundPosition: "-30px 0px",
 			ease: "expo.inOut",
 			onComplete: () => {
-				//gsap.to(replay_btn, 1, { opacity: 1 });
 			}
 		},
-		"-=2.3"
-	);
+		"-=2.3")
+  .to(backs, 2.5, { backgroundPosition: "-30px 0px", ease: "expo.inOut" })
+	.to(panels, 2.5, { z:0, rotationY: -180, ease: "expo.inOut" }, "-=2.3")
+  .from(
+		fronts,
+		2.5,
+		{
+			backgroundPosition: "30px 0px",
+			ease: "expo.inOut",
+			onComplete: () => {
+			}
+		},
+		"-=2.3")
