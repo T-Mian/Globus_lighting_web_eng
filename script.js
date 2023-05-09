@@ -40,8 +40,8 @@ function topFunction() {
 }
 
 
-const lista_panelu=["https://www.globuslighting.pl/wp-content/uploads/2014/10/Rozwiazania_przemysl1.png","https://www.globuslighting.pl/wp-content/uploads/2014/10/Warsztat.png","https://www.globuslighting.pl/wp-content/uploads/2014/10/Sklep.png"]
-let celownik_panelu= 0
+//const lista_panelu=["https://www.globuslighting.pl/wp-content/uploads/2014/10/Rozwiazania_przemysl1.png","https://www.globuslighting.pl/wp-content/uploads/2014/10/Warsztat.png","https://www.globuslighting.pl/wp-content/uploads/2014/10/Sklep.png"]
+//let celownik_panelu= 0
 
 let panels = document.querySelectorAll(".panel_baner");
 let fronts = document.querySelectorAll(".front_baner");
@@ -84,3 +84,4 @@ mirrorTL
 			}
 		},
 		"-=2.3")
+
