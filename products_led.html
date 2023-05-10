@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,9 +9,189 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-</head>
-<body>
 
-  
+  <style>
+    :root {
+      --card-height: 300px;
+      --card-width: calc(var(--card-height) / 1.5);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    @media screen and (max-width: 1450px) {
+      .bg h1 {
+        font-size: 10vh;
+      }
+    }
+
+    .bg {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    .bg h1 {
+      font-size: 20vh;
+      filter: opacity(0.5);
+      color: #eee;
+    }
+
+    .body_produkt {
+      width: 100vw;
+      height: 100vh;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .card_produkt {
+      width: var(--card-width);
+      height: var(--card-height);
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: flex-end;
+      padding: 0 36px;
+      perspective: 2500px;
+      margin: 0 50px;
+    }
+
+    .cover-image_produkt {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .wrapper_produkt {
+      transition: all 0.5s;
+      position: absolute;
+      width: 100%;
+      z-index: -1;
+    }
+
+    .card_produkt:hover .wrapper_produkt {
+      transform: perspective(900px) translateY(-5%) rotateX(25deg) translateZ(0);
+      box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
+      -webkit-box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
+      -moz-box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
+    }
+
+    .wrapper_produkt::before,
+    .wrapper_produkt::after {
+      content: "";
+      opacity: 0;
+      width: 100%;
+      height: 80px;
+      transition: all 0.5s;
+      position: absolute;
+      left: 0;
+    }
+
+    .wrapper_produkt::before {
+      top: 0;
+      height: 100%;
+      background-image: linear-gradient(to top,
+          transparent 46%,
+          rgba(12, 13, 19, 0.5) 68%,
+          rgba(12, 13, 19) 97%);
+    }
+
+    .wrapper_produkt::after {
+      bottom: 0;
+      opacity: 1;
+      background-image: linear-gradient(to bottom,
+          transparent 46%,
+          rgba(12, 13, 19, 0.5) 68%,
+          rgba(12, 13, 19) 97%);
+    }
+
+    .card_produkt:hover .wrapper_produkt::before,
+    .wrapper_produkt::after {
+      opacity: 1;
+    }
+
+    .card_produkt:hover .wrapper_produkt::after {
+      height: 120px;
+    }
+
+    .title_produkt {
+      width: 100%;
+      transition: transform 0.5s;
+    }
+
+    .card_produkt:hover .title_produkt {
+      transform: translate3d(0%, -50px, 100px);
+    }
+
+    .character_produkt {
+      width: 100%;
+      opacity: 0;
+      transition: all 0.5s;
+      position: absolute;
+      z-index: -1;
+    }
+
+    .card_produkt:hover .character_produkt {
+      opacity: 1;
+      transform: translate3d(0%, -30%, 100px);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="bg">
+    <h1>Products</h1>
+  </div>
+  <sector class="body_produkt">
+    <a href="#dokont" alt="nazwa_alt" target="_blank">
+      <div class="card_produkt">
+        <div class="wrapper_produkt">
+          <img src="/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+        </div>
+        <img src="/ar-base-title.png" class="title_produkt" />
+
+        <img src="/BASE-N18.png" class="character_produkt" />
+      </div>
+    </a>
+
+    <a href="#dokont" alt="nazwa_alt" target="_blank">
+      <div class="card_produkt">
+        <div class="wrapper_produkt">
+          <img src="/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+        </div>
+        <img src="/ar-base-title.png" class="title_produkt" />
+
+        <img src="/BASE-N18.png" class="character_produkt" />
+      </div>
+    </a>
+    <a href="#dokont" alt="nazwa_alt" target="_blank">
+      <div class="card_produkt">
+        <div class="wrapper_produkt">
+          <img src="/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+        </div>
+        <img src="/ar-base-title.png" class="title_produkt" />
+
+        <img src="/BASE-N18.png" class="character_produkt" />
+      </div>
+    </a>
+    <a href="#dokont" alt="nazwa_alt" target="_blank">
+      <div class="card_produkt">
+        <div class="wrapper_produkt">
+          <img src="/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+        </div>
+        <img src="/ar-base-title.png" class="title_produkt" />
+
+        <img src="/BASE-N18.png" class="character_produkt" />
+      </div>
+    </a>
+
+
+  </sector>
+
 </body>
+
 </html>

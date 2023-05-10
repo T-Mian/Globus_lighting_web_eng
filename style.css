@@ -32,6 +32,7 @@ select:-webkit-autofill:focus {
   }
   .blores_element_grid{
     display:flexbox ;
+    flex-direction: column;
   }
   .tekst_przerywnik{
     padding-top: 1em;
@@ -42,12 +43,28 @@ select:-webkit-autofill:focus {
   #services{
     margin-bottom: 35vh;
   }
+    .big_btn {
+  font-size: 10 px;
+}
+  .blores{
+  display: flex;
+  flex-direction: column;
+  }
+
 }
 
 @media screen and (max-width: 900px) {
   #services{
     margin-bottom: 35vh;
   }
+  .big_btn {
+  font-size: 16 px;
+}
+  .blores{
+  display: flex;
+  flex-direction: column;
+  }
+
 }
 
 
@@ -56,6 +73,9 @@ select:-webkit-autofill:focus {
   margin-bottom:3vh;
   padding-top: 355vh;
   }
+  .big_btn {
+  font-size: 18 px;
+}
 }
 
 
@@ -73,7 +93,13 @@ select:-webkit-autofill:focus {
   }
 }
 
+h1 h2 h3 h4 h5 h6 {
+  color: #e5e5e5;
+}
 
+.big_btn{
+  font-size: 24 px;
+}
 
 .super_pauza{
   margin-bottom:3vh;
