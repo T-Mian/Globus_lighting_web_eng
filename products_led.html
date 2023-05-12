@@ -16,6 +16,11 @@
       --card-width: calc(var(--card-height) / 1.5);
     }
 
+    body {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
     * {
       box-sizing: border-box;
     }
@@ -24,6 +29,19 @@
       .bg h1 {
         font-size: 10vh;
       }
+    }
+
+    .category {
+      color: #e5e5e5;
+      margin-left: 10%;
+      margin-top: 10%;
+      border-radius: 25px;
+      padding: 10px;
+      box-shadow: 0px 1px 2px rgba(254, 203, 0, 0.5),
+        0px 2px 4px rgba(254, 203, 0, 0.5),
+        0px 4px 8px rgba(254, 203, 0, 0.5),
+        0px 8px 16px rgba(254, 203, 0, 0.5);
+
     }
 
     .bg {
@@ -42,10 +60,13 @@
     .body_produkt {
       width: 100vw;
       height: 100vh;
-      margin: 0;
+      margin-top: 6%;
+      margin-botom: 7%;
       display: flex;
+      flex-wrap: wrap;
       justify-content: center;
       align-items: center;
+      flex-direction: row;
     }
 
     .card_produkt {
@@ -57,13 +78,18 @@
       align-items: flex-end;
       padding: 0 36px;
       perspective: 2500px;
-      margin: 0 50px;
+      margin: 10px 50px;
     }
 
     .cover-image_produkt {
       width: 100%;
       height: 100%;
       object-fit: cover;
+    }
+
+    .content_wraper {
+      display: flexbox;
+      flex-wrap: wrap;
     }
 
     .wrapper_produkt {
@@ -152,13 +178,13 @@
       </div>
       <!--Navigation-->
       <ul class="menu">
-        <li><a href="#main">Home</a></li>
+        <li><a href="#">Home</a></li>
         <li><a href="#">Products</a></li>
-        <li><a href="#contact">Solutions</a></li>
-        <li><a href="#contact">Financing</a></li>
-        <li><a href="#contact">Realisations</a></li>
-        <li><a href="#contact">Blog</a></li>
-        <li><a href="#contact">About us</a></li>
+        <li><a href="#">Solutions</a></li>
+        <li><a href="#">Financing</a></li>
+        <li><a href="#">Realisations</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">About us</a></li>
       </ul>
     </nav>
   </section>
@@ -166,92 +192,206 @@
   <div class="bg">
     <h1>Products</h1>
   </div>
-  
-  <section class="body_produkt">
-    <a href="#dokont" alt="nazwa_alt" target="_blank">
-      <div class="card_produkt">
-        <div class="wrapper_produkt">
-          <img src="/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+  <section class="content_wraper" style="text-align: center;">
+    <h2 class="category"> Category alfa </h2>
+
+    <section class="body_produkt">
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk.png" class="character_produkt" />
         </div>
-        <img src="/ar-base-title.png" class="title_produkt" />
+      </a>
 
-        <img src="/BASE-N18.png" class="character_produkt" />
-      </div>
-    </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v2.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
 
-    <a href="#dokont" alt="nazwa_alt" target="_blank">
-      <div class="card_produkt">
-        <div class="wrapper_produkt">
-          <img src="/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v3.png" class="character_produkt" />
         </div>
-        <img src="/ar-base-title.png" class="title_produkt" />
+      </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v3.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
 
-        <img src="/BASE-N18.png" class="character_produkt" />
-      </div>
-    </a>
-    <a href="#dokont" alt="nazwa_alt" target="_blank">
-      <div class="card_produkt">
-        <div class="wrapper_produkt">
-          <img src="/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v2.png" class="character_produkt" />
         </div>
-        <img src="/ar-base-title.png" class="title_produkt" />
+      </a>
 
-        <img src="/BASE-N18.png" class="character_produkt" />
-      </div>
-    </a>
-    <a href="#dokont" alt="nazwa_alt" target="_blank">
-      <div class="card_produkt">
-        <div class="wrapper_produkt">
-          <img src="/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v4.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk.png" class="character_produkt" />
         </div>
-        <img src="/ar-base-title.png" class="title_produkt" />
-
-        <img src="/BASE-N18.png" class="character_produkt" />
-      </div>
-    </a>
-
-
-  </section>
-  <section>
-    <div class="dupp">
-      <div class="progress-container">
-        <div class="progress-bar" id="myBar"></div>
-      </div>
-    </div>
-  </section>
-  <br class="pauza">
-  <!-- sektor footer-->
-  <section>
-    <footer>
-      <div class="row_foot">
-        <div class="column_foot">
-          <h2>Contact details</h2>
-          <p>GL Sp. z o.o.<br>
-            st. Fabryczna 14<br>
-            53-609 Wroclaw <br>
-            <span>Phone:</span><br>
-            <a href="#">+48 71 307 33 39</a><br>
-            <span>e-mail:</span><br>
-            <a href="mailto:gl@globuslighting.pl">gl@globuslighting.pl</a>
-          </p>
+      </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v5.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title_vers3.png" class="title_produkt" />
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v2.png" class="character_produkt" />
         </div>
-        <div class="column_foot">
-          <h2>GL Sp. z o.o.</h2>
-          <p>Globus Lighting comes from the Globus company with nearly 100 years of tradition. We started with tools
-            for the industry, now we are a separate company who is Polish,<span>producer of industry <span> and
-                specialist lighting. LED lighting is amazing saving and durable so we would like to invite all
-                interested to contact with us. As a producer of LED lighting we create not only for industry but also
-                street <span><a href="#"> commercial,</a> <a href="#">hotel,</a><a href="#"> office lighting,</a>or
-                  for<a href="#"> workshops lighting.</a></span></p>
+      </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title_vers2.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v2.png" class="character_produkt" />
+        </div>
+      </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk.png" class="character_produkt" />
+        </div>
+      </a>
+
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v2.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v3.png" class="character_produkt" />
+        </div>
+      </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v3.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v2.png" class="character_produkt" />
+        </div>
+      </a>
+
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v4.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk.png" class="character_produkt" />
+        </div>
+      </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v5.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title_vers3.png" class="title_produkt" />
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v2.png" class="character_produkt" />
+        </div>
+      </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title_vers2.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v2.png" class="character_produkt" />
+        </div>
+      </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk.png" class="character_produkt" />
+        </div>
+      </a>
+
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v2.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v3.png" class="character_produkt" />
+        </div>
+      </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v3.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v2.png" class="character_produkt" />
+        </div>
+      </a>
+
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v4.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk.png" class="character_produkt" />
+        </div>
+      </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v5.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title_vers3.png" class="title_produkt" />
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v2.png" class="character_produkt" />
+        </div>
+      </a>
+      <a href="#dokont" alt="nazwa_alt" target="_blank">
+        <div class="card_produkt">
+          <div class="wrapper_produkt">
+            <img src="/produkty_karty_covery/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
+          </div>
+          <img src="/produkty_karty_title/ar-base-title_vers2.png" class="title_produkt" />
+
+          <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v2.png" class="character_produkt" />
+        </div>
+      </a>
+    </section>
+
+
+    <section >
+      <div class="dupp">
+        <div class="progress-container">
+          <div class="progress-bar" id="myBar"></div>
         </div>
       </div>
-    </footer>
-  </section>
-  <section>
-    <h6 style="margin-left: 12%;color: gray;">Globus Lighting – producer of LED lighting, industry and specialist
-      lighting and modern lighting solutions. LED lighting is 100% made in Poland.<br>SEP – LTB </h6>
+    </section>
+    <br class="pauza">
 
-  </section>
+     </section>          
   <script src="script.js"></script>
 
 </body>
