@@ -141,7 +141,7 @@ nav{
   display: inline-flex;
   justify-content: space-around;
   align-items: center;
-  height: 55px;
+  height: 40px;
   width: 100%;
   position: fixed;
   z-index: 10;

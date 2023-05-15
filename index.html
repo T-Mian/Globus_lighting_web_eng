@@ -43,7 +43,27 @@
         0px 8px 16px rgba(254, 203, 0, 0.5);
 
     }
+    .hexagon_loga{
+			position: relative;
+			height: 150px;
+			width: 140px;
+			background: #333;
+			margin: 10px;
+			clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+			transition: 2s;
+		}
 
+    .logo_s{
+      position: fixed;
+      top: 20px;
+      left:20px;
+      z-index: 11;
+    }
+    .logo_s:hover{
+      transition: 1s;
+			background: #fecb00;
+      cursor: pointer;
+    }
     .bg {
       position: fixed;
       top: 50%;
@@ -172,10 +192,10 @@
   <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
   </div>
   <section>
-    <nav>
-      <div class="logo">
-        <img src="https://www.globuslighting.pl/wp-content/uploads/2021/11/logo_Globus_lighting.svg">
+    <div >
+        <img style="padding:10px;" class="logo_s hexagon_loga" src="https://www.globuslighting.pl/wp-content/uploads/2021/11/logo_Globus_lighting.svg">
       </div>
+    <nav>
       <!--Navigation-->
       <ul class="menu">
         <li><a href="#">Home</a></li>
@@ -262,7 +282,7 @@
           <div class="wrapper_produkt">
             <img src="/produkty_karty_covery/Produkt_cover_AR_BASE.jpg" class="cover-image_produkt" />
           </div>
-          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+          <img src="/produkty_karty_title/ar-base-title_vers3.png" class="title_produkt" />
 
           <img src="/produkty_karty_charakter/ar-base-char_sm_etyk.png" class="character_produkt" />
         </div>
@@ -273,7 +293,7 @@
           <div class="wrapper_produkt">
             <img src="/produkty_karty_covery/Produkt_cover_AR_BASE_v2.jpg" class="cover-image_produkt" />
           </div>
-          <img src="/produkty_karty_title/ar-base-title.png" class="title_produkt" />
+          <img src="/produkty_karty_title/ar-base-title_vers3.png" class="title_produkt" />
 
           <img src="/produkty_karty_charakter/ar-base-char_sm_etyk_v3.png" class="character_produkt" />
         </div>
