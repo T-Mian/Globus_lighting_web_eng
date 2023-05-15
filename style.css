@@ -160,6 +160,7 @@ nav{
 .menu{
   display: flex;
 }
+
 .menu a{
   height: 50px;
   margin: 10px;
@@ -908,7 +909,7 @@ footer{
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
   background:linear-gradient(#ffcc66,#ff33ff); /* Set a background color */
-  color: white; /* Text color */
+  color: #333333; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 15px; /* Some padding */
   border-radius: 20px 0px 20px 0px; /* Rounded corners */
@@ -916,7 +917,11 @@ footer{
 }
 
 #myBtn:hover {
+  transition: 1s;
   background: linear-gradient( #ff33ff ,#ffcc66);
+  transform: scale(1.2);
+  filter: brightness(1.3);
+  cursor: pointer;
 }
 
 .dupp {
