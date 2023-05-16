@@ -20,7 +20,7 @@
       }
     }
 
-  .ribbon {
+.ribbon {
   position: absolute;
   right: var(--right, 10px);
   top: var(--top, -3px);
@@ -28,14 +28,14 @@
 }
 .ribbon > .content_ribon {
   color: white;
-  font-size: 1.25rem;
+  font-size: 1rem;
   text-align: center;
-  font-weight: 400;
+  font-weight: 300;
   background: var(--color, #2ca7d8) linear-gradient(45deg, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 0.25) 100%);
   padding: 8px 2px 4px;
   clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 100%, 0 100%);
-  width: var(--width, 32px);
-  min-height: var(--height, 36px);
+  width: var(--width, 50px);
+  min-height: var(--height, 50px);
   transition: clip-path 1s, padding 1s, background 1s;
 }
 .ribbon.slant-up > .content_ribon {
@@ -55,54 +55,90 @@
 }
 
 
-    .category_produkt {
-      color: #e5e5e5;
-      margin-left: 10%;
-      margin-top: 10%;
-      border-radius: 25px;
-      padding: 10px;
-      box-shadow: 0px 1px 2px rgba(254, 203, 0, 0.5),
+.category_produkt {
+  width: 90%;
+  color: #e5e5e5;
+  text-align: center;
+  text-shadow: 0px 2px 4px rgba(254, 203, 0, 0.5);
+  border-radius: 25px;
+  margin-top: 90px;
+  margin-bottom: 10px;
+  box-shadow: 0px 1px 2px rgba(254, 203, 0, 0.5),
         0px 2px 4px rgba(254, 203, 0, 0.5),
         0px 4px 8px rgba(254, 203, 0, 0.5),
         0px 8px 16px rgba(254, 203, 0, 0.5);
+  }
 
-    }
-    .hexagon_loga{
-			position: relative;
-			height: 150px;
-			width: 140px;
-			background: #333;
-			margin: 10px;
-			clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-			transition: 2s;
-		}
+.hexagon_loga{
+  position: relative;
+	height: 150px;
+	width: 140px;
+	background: #333;
+	margin: 10px;
+	clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+	transition: 2s;
+	}
 
-    .logo_s{
-      position: fixed;
-      top: 20px;
-      left:20px;
-      z-index: 11;
-    }
-  .heexx{
-      position: relative;
-			height: 130px;
-			width: 110px;
-      top: 40px;
-      left:250px;
-			background: #333;
-			margin: 5px;
-			clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-			transition: 2s;
-      z-index: 11;
-      padding:10px;
-    }
+.logo_s{
+  position: fixed;
+  top: 20px;
+  left:20px;
+  z-index: 11;
+  }
+
+.heexx{
+  position: relative;
+	height: 130px;
+	width: 110px;
+  top: 40px;
+  left:250px;
+	background: #333;
+	clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+	transition: 2s;
+  z-index: 11;
+  padding:10px;  
+  margin-bottom: 10px;
+  }
+
 .heexx:hover{
-    transition: 1s;
-		background: linear-gradient(0deg, #fecb00, #ff0058);
-    transform: scale(1.2);
-    cursor: pointer;
-    transform: translate(0, 1rem);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.08);  
+  transition: 1s;
+	background: linear-gradient(0deg, #fecb00, #ff0058);
+  cursor: pointer;
+  transform: translate(0, 1rem) scale(1.2);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+  z-index: 12;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip > .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color:red;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  z-index: 15;
+}
+
+#zastosowanie_produkt{
+  display:flexbox;
+  flex-wrap: wrap;
+  margin-top:50px;
+  padding-left:20vw;
+  justify-content: space-around;
 }
 
   .logo_s:hover{
@@ -122,7 +158,7 @@
 
     .bg h1 {
       font-size: 20vh;
-      filter: opacity(0.5);
+      filter: opacity(0.2);
       color: #eee;
     }
 
@@ -130,7 +166,7 @@
       width: 100vw;
       height: 100vh;
       margin-top: 6%;
-      margin-botom: 7%;
+      margin-bottom: 7%;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
