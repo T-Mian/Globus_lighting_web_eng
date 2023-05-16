@@ -186,11 +186,18 @@ nav{
 .menu{
   display: flex;
 }
+.menu i {
+  line-height: 60px;
+  padding-left:3px;
+} 
 
+.menu i:hover {
+   color: #fecb00;
+}
 .menu a{
   height: 50px;
   margin: 10px;
-  line-height: 43px;
+  line-height: 60px;
   padding: 0 40px;
   display: flex;
   font-size: 1rem;
