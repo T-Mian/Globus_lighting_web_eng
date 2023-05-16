@@ -53,7 +53,7 @@ const nextTL = gsap.timeline();
 
 function cykl() {
 	mirrorTL.restart();
-	setTimeout(cykl, 5000);
+	setTimeout(cykl, 10000);
 }
 
 cykl() 
@@ -73,7 +73,7 @@ mirrorTL
 		},
 		"-=2.3")
   .to(backs, 2.5, { backgroundPosition: "-30px 0px", ease: "expo.inOut" })
-	.to(panels, 2.5, { z:0, rotationY: -180, ease: "expo.inOut" }, "-=2.3")
+	.to(panels, 2.5, { z:+300, rotationY: -180, ease: "expo.inOut" }, "-=2.3")
   .from(
 		fronts,
 		2.5,
@@ -84,5 +84,17 @@ mirrorTL
 			}
 		},
 		"-=2.3")
+	.from(
+		backs,
+		2.5,
+		{
+			backgroundPosition: "-30px 0px",
+			ease: "expo.inOut",
+			onComplete: () => {
+			}
+		},
+		"-=2.3")
+	.to(fronts, 2.5, { backgroundPosition: "30px 0px", ease: "expo.inOut" })
+	.to(panels, 2.5, { z: 0, rotationY: 0, ease: "expo.inOut" }, "-=2.3")
 
   

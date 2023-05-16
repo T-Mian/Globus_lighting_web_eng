@@ -1018,8 +1018,8 @@ footer{
 .back_baner {
 	width: 100%;
 	height: 100%;
-	/*background-image: url("https://www.globuslighting.pl/wp-content/uploads/2014/10/Warsztat.png");*/
-  background: linear-gradient( #fecb00, #ff0058);
+	background-image: url("foto/pexels-amar-saleem-294560.jpg");
+  /*background: linear-gradient( #fecb00, #ff0058);*/
   background-size: cover;
 	background-position: left top;
 	position: absolute;
@@ -1044,16 +1044,16 @@ footer{
 }
 
 .panel_baner:nth-child(1) .back_baner {
-	background-position: 250px 0;
+	background-position: 250px 0px;
 }
 .panel_baner:nth-child(2) .back_baner {
-	background-position: 500px 0;
+	background-position: 500px 0px;
 }
 .panel_baner:nth-child(3) .back_baner {
-	background-position: 750px 0;
+	background-position: 750px 0px;
 }
 .panel_baner:nth-child(4) .back_baner {
-	background-position: 1000px 0;
+	background-position: 1000px 0px;
 }
 
 .heksag {
