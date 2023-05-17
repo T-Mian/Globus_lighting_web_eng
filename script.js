@@ -95,6 +95,5 @@ mirrorTL
 		},
 		"-=2.3")
 	.to(fronts, 2.5, { backgroundPosition: "30px 0px", ease: "expo.inOut" })
-	.to(panels, 2.5, { z: 0, rotationY: 0, ease: "expo.inOut" }, "-=2.3")
+	.to(panels, 2.5, { z: 0, rotationY: 0, ease: "expo.inOut" }, "-=2.5")
 
-  
