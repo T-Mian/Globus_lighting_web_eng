@@ -112,7 +112,7 @@ function pokazHint(text){
   let obecny_opis = document.getElementById("text_categorii");
   let hint = document.getElementById("hint");
   if (obecny_opis != aktuall_category){
-      hint.innerHTML=text;
+      hint.innerHTML= " : "+text;
       hint.style.opacity = "0.5";
   }else{
     hint.style.opacity = "0.5";
@@ -121,5 +121,5 @@ function pokazHint(text){
 
 function schowajHint(){
   document.getElementById("hint").innerHTML="";
- 
 }
+
