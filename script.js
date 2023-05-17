@@ -97,3 +97,29 @@ mirrorTL
 	.to(fronts, 2.5, { backgroundPosition: "30px 0px", ease: "expo.inOut" })
 	.to(panels, 2.5, { z: 0, rotationY: 0, ease: "expo.inOut" }, "-=2.5")
 
+
+var aktuall_category =document.getElementById("text_categorii")
+aktuall_category='ALL'
+
+function zminaKategorii(text_STR){
+  var categoria = document.getElementById("text_categorii");
+  categoria.innerHTML=text_STR;
+  categoria.style.opacity = "1";
+  aktuall_category = text_STR;
+}
+
+function pokazHint(text){
+  let obecny_opis = document.getElementById("text_categorii");
+  let hint = document.getElementById("hint");
+  if (obecny_opis != aktuall_category){
+      hint.innerHTML=text;
+      hint.style.opacity = "0.5";
+  }else{
+    hint.style.opacity = "0.5";
+  }
+}
+
+function schowajHint(){
+  document.getElementById("hint").innerHTML="";
+ 
+}
