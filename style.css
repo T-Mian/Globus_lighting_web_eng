@@ -23,6 +23,21 @@ h1 h2 h3 h4 h5 h6 {
   color: #e5e5e5;
 }
 
+*::-webkit-scrollbar,
+body::-webkit-scrollbar,
+html::-webkit-scrollbar {
+  background-color: #333333;
+  height: 20px;
+  width: 20px;
+}
+*::-webkit-scrollbar-thumb,
+body::-webkit-scrollbar-thumb,
+html::-webkit-scrollbar-thumb {
+  background: #333333;
+  border-radius: 99em;
+  /*border-radius: 50%;*/
+  border: 6px solid #666;
+}
 
 /*  stop */
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
@@ -148,7 +163,8 @@ a:hover{
 	clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 	transition: 2s;
   animation-delay: 2s;
-  animation: logo_start 2s linear; 
+  animation: logo_start 2s linear;
+  z-index: 99
 
 
 }
