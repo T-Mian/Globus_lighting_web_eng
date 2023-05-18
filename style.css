@@ -165,8 +165,6 @@ a:hover{
   animation-delay: 2s;
   animation: logo_start 2s linear;
   z-index: 99
-
-
 }
 
 .logo_s{
@@ -177,7 +175,7 @@ a:hover{
 }
 .logo_s:hover{
   transition: 1s;
-	background: #666;
+	background: #fecb00;
   transform: scale(1.1);
   cursor: pointer;
 }
@@ -590,8 +588,7 @@ nav{
   }
 }
 
-.container .box .content
-{
+.container .box .content{
   position: relative;
   left: 0;
   padding: 20px 40px;
@@ -947,7 +944,7 @@ margin-block: 1em 2em;
 background-color:#333;
 color:#e5e5e5;
   float: left;
-  width: 50%;
+  width: 40%;
   padding: 10px;
 }
 
