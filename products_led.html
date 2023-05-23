@@ -20,7 +20,8 @@
 <body>
   <!-- sektor z btn. na poczatek strony -->
   <section>
-    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    <div>
+      <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
     </div>
   </section>
 
@@ -28,27 +29,29 @@
   <section>
     <!-- sekcja z logiem firmy -->
     <div>
-      <a href="home.html">
-        <img id="logos" style="padding:10px;" class="logo_s hexagon_loga" src="svg/logo_Globus_lighting_FECB00.svg"
-          onmouseover="this.src='svg/logo_Globus_lighting.svg'"
-          onmouseout="this.src='svg/logo_Globus_lighting_FECB00.svg'">
-      </a>
+      <div>
+        <a href="home.html">
+          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="svg/logo_Globus_lighting_FECB00.svg"
+            onmouseover="this.src='svg/logo_Globus_lighting.svg'"
+            onmouseout="this.src='svg/logo_Globus_lighting_FECB00.svg'">
+        </a>
+      </div>
+      <!-- sekcja z nav -->
+      <nav>
+        <!--Navigation-->
+        <ul class="menu" style="margin-left:20%;">
+          <li><a href="home.html"><i class="fa-solid fa-house"></i>Home</a></li>
+          <li><a href="products_led.html"><i class="fa-solid fa-tags"></i>Products </a></li>
+          <li><a href="#"><i class="fa-solid fa-pen-ruler"></i> Solutions</a></li>
+          <li><a href="#"><i class="fa-solid fa-dollar-sign"></i> Financing </a></li>
+          <li><a href="#"> <i class="fa-solid fa-landmark-dome"></i> Realisations</a></li>
+          <li><a href="#"><i class="fa-solid fa-blog"></i> Blog </a></li>
+          <li><a href="#"><i class="fa-solid fa-passport"></i> About us </a></li>
+        </ul>
+      </nav>
     </div>
-    <!-- sekcja z nav -->
-    <nav>
-      <!--Navigation-->
-      <ul class="menu" style="margin-left:20%;" >
-        <li><a href="home.html"><i class="fa-solid fa-house"></i>Home</a></li>
-        <li><a href="products_led.html"><i class="fa-solid fa-tags"></i>Products </a></li>
-        <li><a href="#"><i class="fa-solid fa-pen-ruler"></i> Solutions</a></li>
-        <li><a href="#"><i class="fa-solid fa-dollar-sign"></i> Financing </a></li>
-        <li><a href="#"> <i class="fa-solid fa-landmark-dome"></i> Realisations</a></li>
-        <li><a href="#"><i class="fa-solid fa-blog"></i> Blog </a></li>
-        <li><a href="#"><i class="fa-solid fa-passport"></i> About us </a></li>
-      </ul>
-    </nav>
   </section>
-
+  <!--
   <section style="padding-left:25%;z-index:8;padding-top:7%;">
     <h3 style="color:#e5e5e5;padding-left:10%;">New products</h3>
     <ul class="scrool_produkt">
@@ -76,7 +79,7 @@
       <li> <img src="foto/arbido_1M_mleko_foto.png" alt="xxx" /><span>Mauris Consectetur</span></li>
       <li> <img src="foto/arbido_1M_mleko_foto.png" alt="xxx" /><span>Mauris Consectetur</span></li>
     </ul>
-  </section>
+  </section> -->
 
   <!--sektor Zastosowań  -->
   <section>
