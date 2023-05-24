@@ -163,7 +163,7 @@ a:hover{
 	transition: 2s;
   animation-delay: 2s;
   animation: logo_start 2s linear;
-  z-index: 99
+  z-index: 99;
 }
 
 .logo_s{
@@ -1152,4 +1152,73 @@ footer{
 .hexagon:hover:after {
   border-radius: 50px;
   transition: 0.5s;
+}
+
+/* dropdown_menu efekt z glassmorphism-em   */
+.dropdown_menu {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: block;
+  visibility: hidden;
+  position: fixed;
+  opacity: 0;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 60;
+  backdrop-filter: blur(75px);
+  border-radius: 0 0 25% 0;
+}
+
+    .dropdown-content a {
+      display: block;
+
+    }
+
+.dropdown-content a:hover {
+  transition: 900ms;
+  border-radius: 0 20%;
+  transform: scale(1.1);
+}
+.dropdown_menu:hover .dropdown-content {
+  visibility: visible;
+  opacity: 1;
+  transition: 1500ms;
+}
+
+.side_menu {
+  position: relative;
+  display: inline-block;
+}
+.side-content{
+  display: block;
+  visibility: hidden;
+  position: fixed;
+  opacity: 0;
+  max-width: 500px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 70;
+  backdrop-filter: blur(75px);
+  border-radius: 0 0 25% 0;
+  margin-left:10px;
+
+}
+.side-content a {
+  display: block;
+
+}
+.side_menu:hover .side-content {
+  visibility: visible;
+  opacity: 1;
+  transition: 500ms;
+  margin-top:-120px;
+  transform: translateX(160px) ;
+}
+
+.side-content a:hover {
+  transition: 900ms;
+  border-radius: 0 20%;
+  transform: scale(1.1);
 }

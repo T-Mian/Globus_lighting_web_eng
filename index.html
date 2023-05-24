@@ -12,44 +12,6 @@
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <style>
-    .dropdown_menu {
-      position: relative;
-      display: inline-block;
-    }
-
-    .dropdown-content {
-      display: block;
-      visibility: hidden;
-      position: fixed;
-      opacity: 0;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-      z-index: 60;
-      backdrop-filter: blur(75px);
-      border-radius: 25% 0 25% 0;
-
-    }
-
-    .dropdown-content a {
-      display: block;
-
-    }
-
-    .dropdown-content a:hover {
-      transition: 900ms;
-      letter-spacing: 2px;
-      border-radius: 0 0 25% 0;
-
-    }
-
-
-    .dropdown_menu:hover .dropdown-content {
-      visibility: visible;
-      opacity: 1;
-      transition: 1500ms;
-    }
-  </style>
 
 </head>
 
@@ -69,23 +31,120 @@
       <nav>
         <!--Navigation-->
         <ul class="menu" style="margin-left:10%;">
-          <li><a href="home.html"><i class="fa-solid fa-house"></i>Home</a></li>
-          <li class="dropdown_menu"><a href="products_led.html"><i class="fa-solid fa-tags"></i><span> Products
-              </span> <i class="fa fa-caret-down"></i></a>
+          <li>
+            <a href="home.html">
+              <i class="fa-solid fa-house"></i>
+              Home
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="products_led.html">
+              <i class="fa-solid fa-tags"></i>
+              <span>
+                Products
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
             <div class="dropdown-content">
-              <a href="#">Link 1 Products</a>
-              <a href="#">Link 2 Products</a>
-              <a href="#">Link 3v Products</a>
+              <a href="#">LED products</a>
+              <a href="#">Industrial photovoltaics</a>
+              <span class="side_menu">
+                <a href="#">
+                  Architectural lighting
+                  <i class="fa-solid fa-caret-right"></i>
+                  <div class="side-content">
+                    <a href="#">Industrial lighting</a>
+                    <a href="#">Street lighting</a>
+                    <a href="#">Hotel lighting</a>
+                    <a href="#"> Office lighting </a>
+                  </div>
+                </a>
+              </span>
+              <a href="#">Car chargers</a>
+              <a href="#">LED products catalogue</a>
             </div>
           </li>
-
-          <li><a href="#"><i class="fa-solid fa-pen-ruler"></i> Solutions<i class="fa fa-caret-down"></i></a></li>
-          <li><a href="#"><i class="fa-solid fa-dollar-sign"></i> Financing </a></li>
-          <li><a href="#"> <i class="fa-solid fa-landmark-dome"></i> Realisations<i class="fa fa-caret-down"></i> </a>
+          <li class="dropdown_menu">
+            <a href="#">
+              <i class="fa-solid fa-pen-ruler"></i>
+              <span>
+                Solutions
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="#">Industrial lighting</a>
+              <a href="#">Street lighting</a>
+              <a href="#">Hotel lighting</a>
+              <a href="#"> Office lighting </a>
+              <a href="#"> Commercial facilities lighting </a>
+              <a href="#"> Sports facilities lighting </a>
+              <span class="side_menu">
+                <a href="#">
+                  Architectural lighting
+                  <i class="fa-solid fa-caret-right"></i>
+                  <div class="side-content">
+                    <a href="#">Industrial lighting</a>
+                    <a href="#">Street lighting</a>
+                    <a href="#">Hotel lighting</a>
+                    <a href="#"> Office lighting </a>
+                  </div>
+                </a>
+              </span>
+              <a href="#"> Workshop lighting </a>
+              <a href="#"> Explosion proof lighting </a>
+              <a href="#"> Lighting audit </a>
+            </div>
           </li>
-          <li><a href="#"><i class="fa-solid fa-blog"></i> Blog </a></li>
-          <li><a href="#"><i class="fa-solid fa-passport"></i> About us <i class="fa fa-caret-down"></i></a></li>
-          <li><a href="#"><i class="fa-solid fa-pen-nib"></i>Contact</a></li>
+          <li>
+            <a href="#">
+              <i class="fa-solid fa-dollar-sign"></i>
+              Financing
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="#">
+              <i class="fa-solid fa-landmark-dome"></i>
+              <span>
+                Realisations
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="#">Main Railway Station in Wroclaw</a>
+              <a href="#">Mondelez</a>
+              <a href="#"> Siegienia Aubi </a>
+              <a href="#"> Stradom </a>
+              <a href="#"> Orlik football field </a>
+              <a href="#"> Glassworks lighting </a>
+              <a href="#"> Production halls lighting </a>
+              <a href="#"> Opakofarb </a>
+              <a href="#">City Forum Archicom</a>
+              <a href="#">LG Chem Magazine</a>
+              <a href="#">Lorenz Bahlsen Magazine</a>
+            </div>
+          </li>
+          <li>
+            <a href="#">
+              <i class="fa-solid fa-blog"></i>
+              Blog
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="#">
+              <i class="fa-solid fa-passport"></i>
+              About us
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="#">Career</a>
+            </div>
+          </li>
+          <li>
+            <a href="#"> <i class="fa-solid fa-pen-nib"></i>
+              Contact
+            </a>
+          </li>
         </ul>
       </nav>
     </div>
