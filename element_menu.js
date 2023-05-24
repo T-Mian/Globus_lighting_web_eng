@@ -1,15 +1,16 @@
 //Tomasz Mianecki 
 //versja 1
 
-let caret_down = "<i class=\"fa fa-caret-down\"></i>"
 
-let caret_right= "<i class=\"fa-solid fa-caret-right\"></i>"
+const caret_down = "<i class=\"fa fa-caret-down\"></i>"
 
-const list_glowne_elementy=["Home","Products","Solutions","Financing","Realisations","Blog","About us","Contact"] 
+const caret_right= "<i class=\"fa-solid fa-caret-right\"></i>"
 
-const lista_pod_menu=["LED products","Industrial photovoltaics","Car chargers","LED products catalogue","Industrial lighting","Street lighting","Hotel lighting","Office lighting","Commercial facilities lighting","Sports facilities lighting","Architectural lighting","Monuments lighting","Facade lighting","Park ang garden lighting","Parking lighting","Workshop lighting ","Explosion proof lighting","Lighting audit","Main Railway Station in Wroclaw","Mondelez","Siegienia Aubi","Stradom"," Orlik football field"," Glassworks lighting","Production halls lighting","Opakofarb","City Forum Archicom","LG Chem Magazine","Lorenz Bahlsen Magazine","Career"]
+const list_glowne_elementy=["Home1","Products2","Solutions2","Financing1","Realisations2","Blog1","About us2","Contact1"] 
+
+const lista_pod_menu=["LED products0","Industrial photovoltaics0","Car chargers0","LED products catalogue0","Industrial lighting0","Street lighting0","Hotel lighting0","Office lighting0","Commercial facilities lighting0","Sports facilities lighting0","Architectural lighting3","Monuments lighting0","Facade lighting0","Park ang garden lighting0","Parking lighting0","Workshop lighting0","Explosion proof lighting0","Lighting audit0","Main Railway Station in Wroclaw0","Mondelez0","Siegienia Aubi0","Stradom0"," Orlik football field0"," Glassworks lighting0","Production halls lighting0","Opakofarb0","City Forum Archicom0","LG Chem Magazine0","Lorenz Bahlsen Magazine0","Career0"]
 
 const lista_ikons_glowne=["<i class=\"fa-solid fa-house\"></i>","<i class=\"fa-solid fa-tags\"></i>","<i class=\"fa-solid fa-pen-ruler\"></i>","," <i class=\"fa-solid fa-dollar-sign\"></i>","<i class=\"fa-solid fa-landmark-dome\"></i>","<i class=\"fa-solid fa-blog\"></i>"," <i class=\"fa-solid fa-passport\"></i>","<i class=\"fa-solid fa-pen-nib\"></i>"]
 
-const lista_adresow = ["home.html","products_led.html","#"]
+const lista_adresow = ['home.html','products_led.html','#']
 
