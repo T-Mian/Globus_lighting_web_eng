@@ -13,7 +13,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 
 <!-- sektor body -->
@@ -38,51 +38,105 @@
         </a>
       </div>
       <!-- sekcja z nav -->
-      
+
       <nav>
         <!--Navigation-->
-       <ul class="menu" style="margin-left:10%;">
-          <li><a href="home.html"><i class="fa-solid fa-house"></i>Home</a></li>
-          <li><a href="products_led.html"><i class="fa-solid fa-tags"></i>Products <i class="fa fa-caret-down"></i></a></li>
-          <li><a href="#"><i class="fa-solid fa-pen-ruler"></i> Solutions<i class="fa fa-caret-down"></i></a></li>
-          <li><a href="#"><i class="fa-solid fa-dollar-sign"></i> Financing </a></li>
-          <li><a href="#"> <i class="fa-solid fa-landmark-dome"></i> Realisations<i class="fa fa-caret-down"></i> </a></li>
-          <li><a href="#"><i class="fa-solid fa-blog"></i> Blog </a></li>
-          <li><a href="#"><i class="fa-solid fa-passport"></i> About us <i class="fa fa-caret-down"></i></a></li>
+        <ul class="menu" style="margin-left:10%;">
+          <li>
+            <a href="home.html">
+              <i class="fa-solid fa-house"></i>
+              <span>Home</span>
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="products_led.html">
+              <i class="fa-solid fa-tags"></i>
+              <span>
+                Products
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="#">LED products</a>
+              <a href="#">Industrial photovoltaics</a>
+              <a href="#">Car chargers</a>
+              <a href="#">LED products catalogue</a>
+            </div>
+          </li>
+          <li class="dropdown_menu" style="left:-5px;">
+            <a href="#">
+              <i class="fa-solid fa-pen-ruler"></i>
+              <span>
+                Solutions
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="#">Industrial lighting</a>
+              <a href="#">Street lighting</a>
+              <a href="#">Hotel lighting</a>
+              <a href="#"> Office lighting </a>
+              <a href="#"> Commercial facilities lighting </a>
+              <a href="#"> Sports facilities lighting </a>
+              <span class="side_menu">
+                <a href="#">
+                  Architectural lighting
+                  <i class="fa-solid fa-caret-right"></i>
+                  <div class="side-content">
+                    <a href="#">Monuments lighting</a>
+                    <a href="#">Facade lighting</a>
+                    <a href="#">Park ang garden lighting</a>
+                    <a href="#"> Parking lighting</a>
+                  </div>
+                </a>
+              </span>
+              <a href="#"> Workshop lighting </a>
+              <a href="#"> Explosion proof lighting </a>
+              <a href="#"> Lighting audit </a>
+            </div>
+          </li>
+
+          <li style="left:5px;" ><a href="#"><i class="fa-solid fa-dollar-sign"></i> <span>Financing </span> </a></li>
+
+          <li class="dropdown_menu" style="left:5px;">
+            <a href="#">
+              <i class="fa-solid fa-landmark-dome"></i>
+              <span>
+                Realisations
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="#">Main Railway Station in Wroclaw</a>
+              <a href="#">Mondelez</a>
+              <a href="#"> Siegienia Aubi </a>
+              <a href="#"> Stradom </a>
+              <a href="#"> Orlik football field </a>
+              <a href="#"> Glassworks lighting </a>
+              <a href="#"> Production halls lighting </a>
+              <a href="#"> Opakofarb </a>
+              <a href="#">City Forum Archicom</a>
+              <a href="#">LG Chem Magazine</a>
+              <a href="#">Lorenz Bahlsen Magazine</a>
+            </div>
+          </li>
+          </li>
+          <li><a href="#"><i class="fa-solid fa-blog"></i> <span>Blog </span></a></li>
+          <li class="dropdown_menu" style="left:-15px;">
+            <a href="#">
+              <i class="fa-solid fa-passport"></i>
+              About us
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="#">Career</a>
+            </div>
+          </li>
           <li><a href="#"><i class="fa-solid fa-pen-nib"></i>Contact</a></li>
         </ul>
       </nav>
     </div>
   </section>
-  <!--
-  <section style="padding-left:25%;z-index:8;padding-top:7%;">
-    <h3 style="color:#e5e5e5;padding-left:10%;">New products</h3>
-    <ul class="scrool_produkt">
-      <li> <img src="foto/arbido_05M_cler_foto.png" alt="xxx " />
-        <span>Lorem Ipsum</span>
-      </li>
-      <li> <img src="foto/arbido_0,5m_pokrywa_foto.png" alt="xxx " />
-        <span>ARBIDO</span>
-      </li>
-      <li> <img src="foto/arbido_0,5m_pokrywa_foto.png"" alt=" xxx" /><span>ARBIDO</span></li>
-      <li> <img src="foto/arbido_0,5m_pokrywa_foto.png" alt="xxx" /><span>ARBIDO</span></li>
-      <li> <img src="foto/arbido_05M_cler_foto.png" alt="xxx" /><span>Nunc Tortor</span></li>
-      <li> <img src="foto/arbido_0,5m_pokrywa_foto.png" alt="xxx " /><span>Metus Mollis</span></li>
-      <li> <img src="foto/arbido_05M_cler_foto.png" alt="xxx" /><span>Congue Sagittis</span></li>
-      <li> <img src="foto/arbido_05M_cler_foto.png" alt="xxx " /><span>Vestibulum Et</span></li>
-      <li> <img src="foto/arbido_0,5m_pokrywa_foto.png" alt="xxx" /><span>Donec Eget</span></li>
-      <li> <img src="foto/arbido_05M_cler_foto.png" alt="xxx" /><span>Maecenas et Justo</span></li>
-      <li> <img src="foto/arbido_0,5m_pokrywa_foto.png" alt="xxx" /><span>Malesuada Quam</span></li>
-      <li> <img src="foto/arbido_05M_cler_foto.png" alt="xxx" /><span>Ultricies Sollicitudin</span></li>
-      <li> <img src="foto/arbido_0,5m_pokrywa_foto.png" alt="xxx" /><span>Gravida Nibh</span></li>
-      <li> <img src="foto/arbido_05M_cler_foto.png" alt="xxx" /><span>Pellentesque Sapien</span></li>
-      <li> <img src="foto/arbido_0,5m_pokrywa_foto.png" alt="xxx" /><span>Suspendisse Vel</span></li>
-      <li> <img src="foto/arbido_1M_mleko_foto.png" alt="xxx" /><span>Mauris Consectetur</span></li>
-      <li> <img src="foto/arbido_1M_mleko_foto.png" alt="xxx" /><span>Mauris Consectetur</span></li>
-      <li> <img src="foto/arbido_1M_mleko_foto.png" alt="xxx" /><span>Mauris Consectetur</span></li>
-      <li> <img src="foto/arbido_1M_mleko_foto.png" alt="xxx" /><span>Mauris Consectetur</span></li>
-    </ul>
-  </section> -->
 
   <!--sektor Zastosowań  -->
   <section>
