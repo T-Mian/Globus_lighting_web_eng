@@ -192,9 +192,10 @@ a:hover{
 nav{
   top: 5px;
   display: inline-flex;
+  flex-wrap: wrap;
   /*justify-content: space-around;*/
   align-items: center;
-  height: 40px;
+  height: auto;
   width: 100%;
   position: fixed;
   z-index: 10;
@@ -213,6 +214,7 @@ nav{
 
 .menu{
   display:flex;
+  flex-wrap: wrap;
 }
 .menu i {
   line-height: 60px;
@@ -227,8 +229,9 @@ nav{
   height: 50px;
   margin: 10px;
   line-height: 60px;
-  padding: 0 40px;
+  padding: 0 20px;
   display: flex;
+  flex-wrap: wrap;
   font-size: 1rem;
   font-weight: 600;
   color: #e5e5e5;
