@@ -5,6 +5,13 @@
   }
 }
 
+/* Responsive layout  */
+@media screen and (max-width: 600px) {
+  .column_produkt_led {
+  width: 100%;
+  }
+}
+
 .title_led{
   margin-top: 20vh;
   color: #e5e5e5;
@@ -12,3 +19,28 @@
   padding-left: 15%;
   z-index: 10;
 }
+
+/* takie same wymiary */
+.column_produkt_led {
+  float: left;
+  width: 40%;
+  padding: 5%x;
+  height: 500px; /* Do mozliwej zmiany */
+  border-radius: 5%;
+  align-items: center;
+  overflow: auto;
+}
+ /* wyczyść floats po kolumnach*/
+.row_produkt_led:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.card_opisu {
+  border: 1px solid rgba(255, 255, 255, .25);
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.45);
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5px);
+}
+
