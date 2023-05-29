@@ -6,21 +6,102 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Products</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="produkt_led.css" rel="stylesheet" type="text/css" />
   <link rel="shortcut icon" href="foto/Favikon_globus_tru.png">
   <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 
-<body>
-  <div id="logo_firmy"></div>
-  <div id="div_menu"></div>
-  <section id="przedstawienie produktu">
-    <div>
-      <div id="wizual_produktu">
+<body style="background-image:url(foto/bg_produkt.jpg);background-attachment: fixed;">
+  <section>
+    <div id="logo_firmy"></div>
+    <div id="div_menu"></div>
+  </section>
+  <div class="title_led">
+    <h1>
+      <span id="title_produkts"
+        style="border-radius: 0 25px 25px 0; background-color:#fecb00;padding-right: 10%;padding-left: 10%;">
+        Belus
+      </span>
+      <span id="produkt_ikons"
+        style="margin-left: 10%;border-radius: 25pc;background-color: #fecb00;padding-left:5%;padding-right: 5%;color: #333;">
+        <i class="fa-solid fa-warehouse"></i><i class="fa-solid fa-up-down"></i><i
+          class="fa-solid fa-industry"></i></i><i class="fa-solid fa-truck-fast"></i></span><sup><i
+          class="fa-solid fa-circle-info"></i><sup id="opis_ikons" style="visibility: visible;">Tekst testowy</sup>
+      </sup>
+    </h1>
+  </div>
+
+  <section id="przedstawienie produktu" class="row_produkt_led" style="background-color: rgba(102, 102, 102, 0.30);">
+
+    <div style="margin-left: 15%;">
+      <div id="wizual_produktu" class="column_produkt_led">
+
+        <img src="foto_produkt_led/arbido_05M_cler_foto.png" id="foto_produkt" style="max-width: 100%;">
+
       </div>
-      <div id="opis_produktu">
+
+      <div id="opis_produktu" class="column_produkt_led card_opisu">
+        <h2 id="titlte_opis" style="text-align: center;color: #fecb00;"> Belus</h2>
+        <h3><span> Product description : </span></h3>
+        <p id="szczegułowy_opis" style="text-align: center;color: #333;">Lorem ipsum dolor sit amet, consectetur
+          adipiscing elit,
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+          in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
     </div>
+  </section>
+
+  <section style="margin-top: 5%;">
+    <h3 > <span class="produkt_pod_tematy" >Photometry</span> </h3>
+    <div id="photometry">
+      <img src="led_photometry/mibus_R06302_roz.JPG">
+      <img src="led_photometry/mibus_R06302_roz.JPG">
+      <img src="led_photometry/mibus_R06302_roz.JPG">
+      <img src="led_photometry/mibus_R06302_roz.JPG">
+      <img src="led_photometry/nimbo_4_500w_202_roz.png">
+    </div>
+
+  </section>
+
+
+  <section>
+    <div id="dodatki"></div>
+  </section>
+
+  <!-- footer -->
+  <section style="margin-top: 7%;">
+    <footer style="background-color: #333;">
+      <div class="row_foot">
+        <div class="column_foot">
+          <h2 style="text-transform: uppercase;letter-spacing: 2.4px;"> <i class="fa-regular fa-address-book"></i>&nbsp
+            Contact details </h2>
+          <!-- <hr style="background-color: #fecb00;content: '';width: 50%;left:3%;size:5px;"/> -->
+          <p> <i class="fa-regular fa-envelope"></i>&nbsp GL Sp. z o.o.<br>
+            st. Fabryczna 14<br>
+            53-609 Wroclaw <br>
+            <br>
+            <span> <i class="fa-solid fa-phone"></i>&nbsp Phone:</span>
+            <a href="#">+48 71 307 33 39</a><br>
+            <span> <i class="fa-solid fa-globe"></i>&nbsp e-mail:</span>
+            <a href="mailto:gl@globuslighting.pl">gl@globuslighting.pl</a>
+          </p>
+        </div>
+        <div class="column_foot">
+          <h2 style="content: ''; margin-bottom: 1em;"></h2>
+          <p> <span> Globus Lighting</span> comes from the Globus company with nearly 100 years of tradition.We started
+            with tools for the industry, now we are a separate
+            company who is Polish, <span>producer of industry </span> and specialist
+            lighting. LED lighting is amazing saving and durable so we would like
+            to invite all interested to contact with us. As a producer of LED lighting
+            we create not only for industry but also street <span><a href="#"> commercial,</a>
+              <a href="#">hotel,</a><a href="#"> office lighting,</a>
+              or for<a href="#"> workshops lighting.</a></span></p>
+        </div>
+      </div>
+    </footer>
   </section>
 
   <script src="script.js"></script>

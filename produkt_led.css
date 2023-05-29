@@ -3,6 +3,9 @@
   .title_led{
     margin-top:30vh;
   }
+  #photometry img{
+   display: grid;
+  }
 }
 
 /* Responsive layout  */
@@ -43,4 +46,48 @@
   box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
   backdrop-filter: blur(5px);
 }
+#photometry{
+  margin-top:5%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center; 
+}
 
+#photometry img {
+  margin:2%;
+  border-radius: 15px;
+  max-width: 15%;
+
+}
+
+.produkt_pod_tematy{
+  border-radius: 0 25px 25px 0;
+  background-color:#666;
+  padding-right: 10%;
+  padding-left: 10%;
+  color: #fecb00;
+  text-shadow: #FC0 1px 0 10px;
+}
+
+#produkt_ikons{
+  margin-left: 10%;
+  border-radius: 25px;
+  background-color: #fecb00;
+  padding-left:5%;
+  padding-right: 5%;
+  color: #333;
+}
+#produkt_ikons i{
+  padding-left:2%;
+}
+#title_produkts{
+  border-radius: 0 25px 25px 0;
+  background-color:#fecb00;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+#opis_ikons{
+  visibility: visible;
+  font-style: italic;
+}
