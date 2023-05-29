@@ -31,7 +31,7 @@
         <i class="fa-solid fa-microscope"></i>
       </span>
       <sup>
-        <i class="fa-solid fa-circle-info"></i>
+        <i class="fa-solid fa-circle-info" onmouseenter="showInfoIcins(this)" onmouseleave="hidenIkons(this)"></i>
         <sup id="opis_ikons">
           Tekst testowy
         </sup>
@@ -165,6 +165,13 @@
       document.getElementById("szczegułowy_opis").style.fontSize = "1em";
       document.getElementById("myBtnPlus").removeAttribute("disabled")
       document.getElementById("myBtnMinus").setAttribute("disabled", "");
+    }
+    function showInfoIcins(){
+      document.getElementById("opis_ikons").style.visibility="visible"
+    }
+
+    function hidenIkons(){
+      document.getElementById("opis_ikons").style.visibility="hidden"
     }
   </script>
 </body>
