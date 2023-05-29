@@ -13,21 +13,28 @@
 </head>
 
 <body style="background-image:url(foto/bg_produkt.jpg);background-attachment: fixed;">
+
   <section>
     <div id="logo_firmy"></div>
     <div id="div_menu"></div>
   </section>
+
   <div class="title_led">
     <h1>
-      <span id="title_produkts"
-        style="border-radius: 0 25px 25px 0; background-color:#fecb00;padding-right: 10%;padding-left: 10%;">
-        Belus
+      <span id="title_produkts">
+        Test
       </span>
-      <span id="produkt_ikons"
-        style="margin-left: 10%;border-radius: 25pc;background-color: #fecb00;padding-left:5%;padding-right: 5%;color: #333;">
-        <i class="fa-solid fa-warehouse"></i><i class="fa-solid fa-up-down"></i><i
-          class="fa-solid fa-industry"></i></i><i class="fa-solid fa-truck-fast"></i></span><sup><i
-          class="fa-solid fa-circle-info"></i><sup id="opis_ikons" style="visibility: visible;">Tekst testowy</sup>
+      <span id="produkt_ikons">
+        <i class="fa-solid fa-warehouse"></i>
+        <i class="fa-solid fa-up-down"></i>
+        <i class="fa-solid fa-industry"></i>
+        <i class="fa-solid fa-microscope"></i>
+      </span>
+      <sup>
+        <i class="fa-solid fa-circle-info" onmouseenter="showInfoIcins(this)" onmouseleave="hidenIkons(this)"></i>
+        <sup id="opis_ikons">
+          Tekst testowy
+        </sup>
       </sup>
     </h1>
   </div>
@@ -35,14 +42,14 @@
   <section id="przedstawienie produktu" class="row_produkt_led" style="background-color: rgba(102, 102, 102, 0.30);">
 
     <div style="margin-left: 15%;">
+
       <div id="wizual_produktu" class="column_produkt_led">
-
         <img src="foto_produkt_led/arbido_05M_cler_foto.png" id="foto_produkt" style="max-width: 100%;">
-
       </div>
 
       <div id="opis_produktu" class="column_produkt_led card_opisu">
-        <h2 id="titlte_opis" style="text-align: center;color: #fecb00;"> Belus</h2>
+
+        <h2 id="titlte_opis" style="text-align: center;color: #fecb00;"> Test</h2>
         <h3><span> Product description : </span></h3>
         <p id="szczegułowy_opis" style="text-align: center;color: #333;">Lorem ipsum dolor sit amet, consectetur
           adipiscing elit,
@@ -50,14 +57,29 @@
           exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
           in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <div style="display: block;align-content: space-around;">
+          <button onclick="myFunctionSize()" id="myBtnPlus">
+            <i class="fa-solid fa-up-right-and-down-left-from-center"></i>
+          </button>
+          <button onclick="myFunctionSizeMin()" id="myBtnMinus" disabled>
+            <i class="fa-solid fa-down-left-and-up-right-to-center"></i>
+          </button>
+        </div>
       </div>
+
     </div>
   </section>
 
   <section style="margin-top: 5%;">
-    <h3 > <span class="produkt_pod_tematy" >Photometry</span> </h3>
+    <h3>
+      <span class="produkt_pod_tematy">
+        Photometry
+      </span>
+      <span style="margin-left: 5%;">
+        <i class="fa-solid fa-lightbulb"></i>
+      </span>
+    </h3>
     <div id="photometry">
-      <img src="led_photometry/mibus_R06302_roz.JPG">
       <img src="led_photometry/mibus_R06302_roz.JPG">
       <img src="led_photometry/mibus_R06302_roz.JPG">
       <img src="led_photometry/mibus_R06302_roz.JPG">
@@ -66,11 +88,36 @@
 
   </section>
 
-
+  <!-- Dodatkowe elementy -->
   <section>
-    <div id="dodatki"></div>
+    <h3>
+      <span class="produkt_pod_tematy">
+        Info
+      </span>
+      <span style="margin-left: 5%;">
+        <i class="fa-solid fa-clipboard"></i>
+      </span>
+    </h3>
+    <div id="dodatki">
+    </div>
   </section>
 
+  <!-- tabela z produktami -->
+  <section>
+    <h3>
+      <span class="produkt_pod_tematy">
+        Configurations available
+      </span>
+      <span style="margin-left: 5%;">
+        <i class="fa-solid fa-table"></i>
+      </span>
+    </h3>
+    <div class="tabela_led" id="table_led">
+    </div>
+  </section>
+  <div style="display: flex;flex-direction: row-reverse;margin-right: 20%;">
+    <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/kuleczki.png">
+  </div>
   <!-- footer -->
   <section style="margin-top: 7%;">
     <footer style="background-color: #333;">
@@ -106,6 +153,27 @@
 
   <script src="script.js"></script>
   <script src="element_menu.js"></script>
+  <script>
+    function myFunctionSize() {
+      document.getElementById("szczegułowy_opis").style.fontSize = "20px";
+      let btn = document.getElementById("myBtnPlus")
+      btn.setAttribute("disabled", "");
+      let btn_2 = document.getElementById("myBtnMinus").removeAttribute("disabled")
+    }
+
+    function myFunctionSizeMin() {
+      document.getElementById("szczegułowy_opis").style.fontSize = "1em";
+      document.getElementById("myBtnPlus").removeAttribute("disabled")
+      document.getElementById("myBtnMinus").setAttribute("disabled", "");
+    }
+    function showInfoIcins(){
+      document.getElementById("opis_ikons").style.visibility="visible"
+    }
+
+    function hidenIkons(){
+      document.getElementById("opis_ikons").style.visibility="hidden"
+    }
+  </script>
 </body>
 
 </html>
