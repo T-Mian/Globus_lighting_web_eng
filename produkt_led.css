@@ -1,0 +1,14 @@
+
+@media screen and (max-width: 900px) {
+  .title_led{
+    margin-top:30vh;
+  }
+}
+
+.title_led{
+  margin-top: 20vh;
+  color: #e5e5e5;
+  text-transform: uppercase;
+  padding-left: 15%;
+  z-index: 10;
+}

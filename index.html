@@ -6,21 +6,59 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Products</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="produkt_led.css" rel="stylesheet" type="text/css" />
   <link rel="shortcut icon" href="foto/Favikon_globus_tru.png">
   <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <style>
+
+/* takie same wymiary */
+.column_produkt_led {
+  float: left;
+  width: 40%;
+  padding: 5%x;
+  height: 500px; /* Do mozliwej zmiany */
+}
+
+/* wyczyść floats po kolumnach*/
+.row_produkt_led:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column_produkt_led {
+    width: 100%;
+  }
+}
+</style>
 </head>
 
 <body>
   <div id="logo_firmy"></div>
   <div id="div_menu"></div>
-  <section id="przedstawienie produktu">
-    <div>
-      <div id="wizual_produktu">
+  
+  <div class="title_led" ><h1 id="title_produkts">Belus</h1></div>
+  
+  <section id="przedstawienie produktu" class="row_produkt_led">
+    <div style="margin-left: 15%;">
+      <div id="wizual_produktu" class="column_produkt_led"  style="background-color: #666;">
+        <img src="foto_produkt_led/arbido_05M_cler_foto.png" id="foto_produkt" style="max-width: 100%;">
       </div>
-      <div id="opis_produktu">
+      <div id="opis_produktu" class="column_produkt_led" style="background-color: #555;">
+      <h2 id="titlte_opis">Oprawa Belus </h2>
+        <p id="szczegułowy_opis" >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
     </div>
+  </section>
+  
+  <section>
+    <div id="photometry"></div>
+  </section>
+  <section>
+    <div id="dodatki"></div>
   </section>
 
   <script src="script.js"></script>
