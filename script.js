@@ -101,12 +101,33 @@ mirrorTL
 var aktuall_category =document.getElementById("text_categorii")
 aktuall_category='ALL'
 
-function zminaKategorii(text_STR){
+var list_zastosowań=["_industr","_line","_tepmer","_specjal","_ex","_zewenetrz","_sport_zew","_ofice","_agro","_archit"]
+
+function display_Mnie(params) {
+  if (params=='_catalog') {
+    for (let staf of list_zastosowań) {
+      document.getElementById(staf).style.display="flex";
+    }
+  }else {
+    for (let staf of list_zastosowań) {
+      if (staf == params) {
+        document.getElementById(staf).style.display="flex";
+      } else {
+        document.getElementById(staf).style.display="none";
+      }
+    }
+  } 
+}
+
+function zminaKategorii(text_STR,id_data){
   var categoria = document.getElementById("text_categorii");
+  let id_s=id_data.substr(7);
   categoria.innerHTML=text_STR;
   categoria.style.opacity = "1";
   aktuall_category = text_STR;
+  display_Mnie(id_s)
 }
+
 
 function pokazHint(text){
   let obecny_opis = document.getElementById("text_categorii");
@@ -114,6 +135,7 @@ function pokazHint(text){
   if (obecny_opis != aktuall_category){
       hint.innerHTML= " : "+text;
       hint.style.opacity = "0.5";
+    
   }else{
     hint.style.opacity = "0.5";
   }
