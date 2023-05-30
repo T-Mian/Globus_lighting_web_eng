@@ -10,6 +10,7 @@
   <link rel="shortcut icon" href="foto/Favikon_globus_tru.png">
   <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 </head>
 
 <body style="background-image:url(foto/bg_produkt.jpg);background-attachment: fixed;">
@@ -22,7 +23,7 @@
   <div class="title_led">
     <h1>
       <span id="title_produkts">
-        Test id="title_produkts"
+        Produkt
       </span>
       <span id="produkt_ikons">
         <i class="fa-solid fa-warehouse"></i>
@@ -31,9 +32,9 @@
         <i class="fa-solid fa-microscope"></i>
       </span>
       <sup>
-        <i class="fa-solid fa-circle-info" onmouseenter="showInfoIcins(this)" onmouseleave="hidenIkons(this)"></i>
-        <sup id="opis_ikons">
-          Tekst testowy id="opis_ikons"
+        <i class="fa-solid fa-circle-info" onmouseenter="showInfoIcins(this)" onmouseleave="hidenIkons(this)"  ></i>
+        <sup id="opis_ikons" style="display:flexbox;width: 100px;height:auto;color: darkred;z-index: 99;">
+          "Zastosowania"
         </sup>
       </sup>
     </h1>
@@ -46,13 +47,13 @@
 
       <div id="wizual_produktu" class="column_produkt_led">
         
-        <img src="foto_produkt_led/arbido_05M_cler_foto.png" id="foto_produkt" style="max-width: 100%;">
+        <img id="foto_produkt" src="foto_produkt_led/arbido_05M_cler_foto.png"  style="max-width: 100%;">
       </div>
 
       <div id="opis_produktu" class="column_produkt_led card_opisu">
 
         <h2 id="titlte_opis" style="text-align: center;color: #fecb00;"> 
-          Test id="titlte_opis" 
+          Tytuł opisu 
         </h2>
         <h3>
           <span>
@@ -77,6 +78,7 @@
       </div>
     </div>
   </section>
+  
 <!-- Pliki z krzywymi rozsyłu  -->
   <section style="margin-top: 5%;">
     <h3>
@@ -105,10 +107,10 @@
         <i class="fa-solid fa-clipboard"></i>
       </span>
     </h3>
-    <div id="dodatki" style="color: #e5e5e5;">
-      Karta rodziny
-      Pliki fotometryczne
-      Dodatkowe możliwości 
+    <div id="dodatki" style="color: #e5e5e5;text-align: right;">
+     <p>  Karta rodziny<br>
+      Pliki fotometryczne<br>
+      Dodatkowe możliwości </p>
     </div>
   </section>
 
@@ -124,6 +126,7 @@
     </h3>
     <div class="tabela_led" id="table_led">
     </div>
+    <!-- dodatek identyfikacyjny SWI plus footer -->
   </section>
   <div style="display: flex;flex-direction: row-reverse;margin-right: 20%;">
     <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/kuleczki.png">
