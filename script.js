@@ -104,16 +104,37 @@ aktuall_category='ALL'
 var list_zastosowań=["_industr","_line","_tepmer","_specjal","_ex","_zewenetrz","_sport_zew","_ofice","_agro","_archit"]
 
 function display_Mnie(params) {
-  if (params=='_catalog') {
-    for (let staf of list_zastosowań) {
-      document.getElementById(staf).style.display="flex";
+
+  if (params=='_catalog') 
+  {
+    for (let staf of list_zastosowań) 
+    {
+      let staf_id=document.getElementById(staf)
+      staf_id.removeAttribute("style")
+      //staf_id.style.display="flex";
+      //staf_id.style.marginTop="+0%"
     }
-  }else {
-    for (let staf of list_zastosowań) {
-      if (staf == params) {
-        document.getElementById(staf).style.display="flex";
-      } else {
-        document.getElementById(staf).style.display="none";
+  }
+  else 
+  {
+    for (let staf of list_zastosowań) 
+    {
+      if (staf == params) 
+      {  
+        let staf_id=document.getElementById(staf)
+        staf_id.style.display="flex";
+        if (params=='_industr' ||params=='_catalog' ) {
+          
+        } else {
+          staf_id.style.marginTop="-39%"
+        }
+
+      }
+      else 
+      {
+        let staf_id= document.getElementById(staf)
+        staf_id.style.display="none";
+        staf_id.style.marginTop="+0%"
       }
     }
   } 
