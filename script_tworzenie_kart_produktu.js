@@ -36,7 +36,7 @@ function funkcjiaOdczytuXML(xml){
      x[i].getElementsByTagName("CATEGORIA")[0].childNodes[0].nodeValue +
     "</td></tr>"
    }
-  document.getElementById("_archit_carts").innerHTML = carta;
+  document.getElementById("demo").innerHTML = carta;
 }
 
 loadDoc()
