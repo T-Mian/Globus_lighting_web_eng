@@ -26,9 +26,17 @@ function funkcjiaOdczytuXML(xml){
   let numer = 1
   const xmlDoc = xml.responseXML;
   const x = xmlDoc.getElementsByTagName("CARTS");
-   let carta="";
+   let carta="<tr><th>RODZINA</th><th>ALT</th><th>CATEGORIA</th></tr>";;
    for (let i = 0; i <x.length; i++){
-     
+      carta += "<tr><td>" +
+    x[i].getElementsByTagName("RODZINA")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("ALT")[0].childNodes[0].nodeValue +
+    "</td><td>"+
+     x[i].getElementsByTagName("CATEGORIA")[0].childNodes[0].nodeValue +
+    "</td></tr>"
    }
+  document.getElementById("_archit_carts").innerHTML = carta;
 }
-//document.getElementById("demo").innerHTML = carta;
+
+loadDoc()
