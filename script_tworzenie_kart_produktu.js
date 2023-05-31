@@ -31,3 +31,4 @@ function funkcjiaOdczytuXML(xml){
      
    }
 }
+//document.getElementById("demo").innerHTML = carta;
