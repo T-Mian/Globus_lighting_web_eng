@@ -4,7 +4,7 @@
     <NUMER_ID>1</NUMER_ID>
     <RODZINA>BELUS</RODZINA>
     <ALT>BELUS</ALT>
-    <CATEGORIA>_industr_carts </CATEGORIA>
+    <CATEGORIA>_industr_carts</CATEGORIA>
     <FLAGA>1</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
     <PLIK_DODATKOWY>X</PLIK_DODATKOWY>
@@ -13,14 +13,14 @@
     <NUMER_ID>2</NUMER_ID>
     <RODZINA>High-Bay-BELUS</RODZINA>
     <ALT>High Bay BELUS </ALT>
-    <CATEGORIA> _industr_carts </CATEGORIA>
+    <CATEGORIA>_industr_carts</CATEGORIA>
     <FLAGA>1</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
     <PLIK_DODATKOWY>X</PLIK_DODATKOWY>
   </CARTS>
   <CARTS>
     <NUMER_ID>3</NUMER_ID>
-    <RODZINA>SQUBUS</RODZINA>
+    <RODZINA>High-Bay-SQUBUS</RODZINA>
     <ALT>High Bay SQUBUS</ALT>
     <CATEGORIA>_industr_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
@@ -29,7 +29,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>4</NUMER_ID>
-    <RODZINA>SQR</RODZINA>
+    <RODZINA>High-Bay-SQR</RODZINA>
     <ALT>SQR</ALT>
     <CATEGORIA>_industr_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
@@ -38,7 +38,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>5</NUMER_ID>
-    <RODZINA>HERBUS TREND</RODZINA>
+    <RODZINA>HERBUS-TREND</RODZINA>
     <ALT>HERBUS TREND</ALT>
     <CATEGORIA>_industr_carts</CATEGORIA>
     <FLAGA>1</FLAGA>
@@ -47,7 +47,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>6</NUMER_ID>
-    <RODZINA>HERBUS ECO/TURBO</RODZINA>
+    <RODZINA>HERBUS-ECO-TURBO</RODZINA>
     <ALT>HERBUS ECO/TURBO</ALT>
     <CATEGORIA>_industr_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
