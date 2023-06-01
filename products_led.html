@@ -14,6 +14,19 @@
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <style>
+    table,
+    th,
+    td {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      padding: 5px;
+    }
+  </style>
 </head>
 
 <!-- sektor body -->
@@ -153,8 +166,8 @@
       </a>
 
       <a id="produkt_line" href="#zastosowanie_produkt" title="Linear and rail luminaires"
-        onclick="zminaKategorii('Linear and rail luminaires','produkt_line')" onmouseenter="pokazHint('Linear and rail luminaires')"
-        onmouseleave="schowajHint()">
+        onclick="zminaKategorii('Linear and rail luminaires','produkt_line')"
+        onmouseenter="pokazHint('Linear and rail luminaires')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
           <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
           <path
@@ -173,8 +186,8 @@
       </a>
 
       <a id="produkt_specjal" href="#zastosowanie_produkt" title="Specialist lighting"
-        onclick="zminaKategorii('Specialist lighting','produkt_specjal')" onmouseenter="pokazHint('Specialist lighting')"
-        onmouseleave="schowajHint()">
+        onclick="zminaKategorii('Specialist lighting','produkt_specjal')"
+        onmouseenter="pokazHint('Specialist lighting')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 576 512">
           <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
           <path
@@ -183,76 +196,77 @@
       </a>
 
       <a id="produkt_ex" href="#zastosowanie_produkt" title="Explosion-proof fixtures"
-        onclick="zminaKategorii('Explosion-proof fixtures','produkt_ex')" onmouseenter="pokazHint('Explosion-proof fixtures')"
-        onmouseleave="schowajHint()">
+        onclick="zminaKategorii('Explosion-proof fixtures','produkt_ex')"
+        onmouseenter="pokazHint('Explosion-proof fixtures')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 576 512">
           <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
           <path
             d="M499.6 11.3c6.7-10.7 20.5-14.5 31.7-8.5s15.8 19.5 10.6 31L404.8 338.6c2.2 2.3 4.3 4.7 6.3 7.1l97.2-54.7c10.5-5.9 23.6-3.1 30.9 6.4s6.3 23-2.2 31.5l-87 87H378.5c-13.2-37.3-48.7-64-90.5-64s-77.4 26.7-90.5 64H117.8L42.3 363.7c-9.7-6.7-13.1-19.6-7.9-30.3s17.4-15.9 28.7-12.4l97.2 30.4c3-3.9 6.1-7.7 9.4-11.3L107.4 236.3c-6.1-10.1-3.9-23.1 5.1-30.7s22.2-7.5 31.1 .1L246 293.6c1.5-.4 3-.8 4.5-1.1l13.6-142.7c1.2-12.3 11.5-21.7 23.9-21.7s22.7 9.4 23.9 21.7l13.5 141.9L499.6 11.3zM64 448v0H512v0h32c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H64zM288 0c13.3 0 24 10.7 24 24V72c0 13.3-10.7 24-24 24s-24-10.7-24-24V24c0-13.3 10.7-24 24-24z" />
         </svg>
-</a>
-      
-        <a id="produkt_zewenetrz" href="#zastosowanie_produkt" title="External lighting"
-          onclick="zminaKategorii('External lighting','produkt_zewenetrz')" onmouseenter="pokazHint('External lighting')"
-          onmouseleave="schowajHint()">
-          <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
-            <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
-            <path
-              d="M288 48c0-26.5 21.5-48 48-48h96c26.5 0 48 21.5 48 48V192h40V120c0-13.3 10.7-24 24-24s24 10.7 24 24v72h24c26.5 0 48 21.5 48 48V464c0 26.5-21.5 48-48 48H432 336c-26.5 0-48-21.5-48-48V48zm64 32v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V80c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16zm16 80c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V176c0-8.8-7.2-16-16-16H368zM352 272v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V272c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16zm176-16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V272c0-8.8-7.2-16-16-16H528zM512 368v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V368c0-8.8-7.2-16-16-16H528c-8.8 0-16 7.2-16 16zM224 160c0 6-1 11-2 16c20 14 34 38 34 64c0 45-36 80-80 80H160V480c0 18-15 32-32 32c-18 0-32-14-32-32V320H80c-45 0-80-35-80-80c0-26 13-50 33-64c-1-5-1-10-1-16c0-53 42-96 96-96c53 0 96 43 96 96z" />
-          </svg>
+      </a>
 
-        </a>
+      <a id="produkt_zewenetrz" href="#zastosowanie_produkt" title="External lighting"
+        onclick="zminaKategorii('External lighting','produkt_zewenetrz')" onmouseenter="pokazHint('External lighting')"
+        onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M288 48c0-26.5 21.5-48 48-48h96c26.5 0 48 21.5 48 48V192h40V120c0-13.3 10.7-24 24-24s24 10.7 24 24v72h24c26.5 0 48 21.5 48 48V464c0 26.5-21.5 48-48 48H432 336c-26.5 0-48-21.5-48-48V48zm64 32v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V80c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16zm16 80c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V176c0-8.8-7.2-16-16-16H368zM352 272v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V272c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16zm176-16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V272c0-8.8-7.2-16-16-16H528zM512 368v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V368c0-8.8-7.2-16-16-16H528c-8.8 0-16 7.2-16 16zM224 160c0 6-1 11-2 16c20 14 34 38 34 64c0 45-36 80-80 80H160V480c0 18-15 32-32 32c-18 0-32-14-32-32V320H80c-45 0-80-35-80-80c0-26 13-50 33-64c-1-5-1-10-1-16c0-53 42-96 96-96c53 0 96 43 96 96z" />
+        </svg>
 
-        <a id="produkt_sport_zew" href="#zastosowanie_produkt" title="Sports facilities and outdoor areas"
-          onclick="zminaKategorii('Sports facilities and outdoor areas','produkt_sport_zew')"
-          onmouseenter="pokazHint('Sports facilities and outdoor areas')" onmouseleave="schowajHint()">
-          <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
-            <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
-            <path
-              d="M400 96a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm27.2 64l-61.8-48.8c-17.3-13.6-41.7-13.8-59.1-.3l-83.1 64.2c-30.7 23.8-28.5 70.8 4.3 91.6L288 305.1V416c0 17.7 14.3 32 32 32s32-14.3 32-32V288c0-10.7-5.3-20.7-14.2-26.6L295 232.9l60.3-48.5L396 217c5.7 4.5 12.7 7 20 7h64c17.7 0 32-14.3 32-32s-14.3-32-32-32H427.2zM56 384a72 72 0 1 1 144 0A72 72 0 1 1 56 384zm200 0A128 128 0 1 0 0 384a128 128 0 1 0 256 0zm184 0a72 72 0 1 1 144 0 72 72 0 1 1 -144 0zm200 0a128 128 0 1 0 -256 0 128 128 0 1 0 256 0z" />
-          </svg>
+      </a>
 
-        </a>
+      <a id="produkt_sport_zew" href="#zastosowanie_produkt" title="Sports facilities and outdoor areas"
+        onclick="zminaKategorii('Sports facilities and outdoor areas','produkt_sport_zew')"
+        onmouseenter="pokazHint('Sports facilities and outdoor areas')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M400 96a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm27.2 64l-61.8-48.8c-17.3-13.6-41.7-13.8-59.1-.3l-83.1 64.2c-30.7 23.8-28.5 70.8 4.3 91.6L288 305.1V416c0 17.7 14.3 32 32 32s32-14.3 32-32V288c0-10.7-5.3-20.7-14.2-26.6L295 232.9l60.3-48.5L396 217c5.7 4.5 12.7 7 20 7h64c17.7 0 32-14.3 32-32s-14.3-32-32-32H427.2zM56 384a72 72 0 1 1 144 0A72 72 0 1 1 56 384zm200 0A128 128 0 1 0 0 384a128 128 0 1 0 256 0zm184 0a72 72 0 1 1 144 0 72 72 0 1 1 -144 0zm200 0a128 128 0 1 0 -256 0 128 128 0 1 0 256 0z" />
+        </svg>
 
-        <a id="produkt_ofice" href="#zastosowanie_produkt" title="Offices and social rooms"
-          onclick="zminaKategorii('Offices and social rooms','produkt_ofice')" onmouseenter="pokazHint('Offices and social rooms')"
-          onmouseleave="schowajHint()">
-          <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
-            <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
-            <path
-              d="M184 48H328c4.4 0 8 3.6 8 8V96H176V56c0-4.4 3.6-8 8-8zm-56 8V96H64C28.7 96 0 124.7 0 160v96H192 352h8.2c32.3-39.1 81.1-64 135.8-64c5.4 0 10.7 .2 16 .7V160c0-35.3-28.7-64-64-64H384V56c0-30.9-25.1-56-56-56H184c-30.9 0-56 25.1-56 56zM320 352H224c-17.7 0-32-14.3-32-32V288H0V416c0 35.3 28.7 64 64 64H360.2C335.1 449.6 320 410.5 320 368c0-5.4 .2-10.7 .7-16l-.7 0zm320 16a144 144 0 1 0 -288 0 144 144 0 1 0 288 0zM496 288c8.8 0 16 7.2 16 16v48h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H496c-8.8 0-16-7.2-16-16V304c0-8.8 7.2-16 16-16z" />
-          </svg>
-        </a>
+      </a>
 
-        <a id="produkt_agro" href="#zastosowanie_produkt" title="Fixtures for growing plants"
-          onclick="zminaKategorii('Fixtures for growing plants','produkt_agro')"
-          onmouseenter="pokazHint('Fixtures for growing plants')" onmouseleave="schowajHint()">
-          <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 512 512">
-            <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
-            <path
-              d="M512 32c0 113.6-84.6 207.5-194.2 222c-7.1-53.4-30.6-101.6-65.3-139.3C290.8 46.3 364 0 448 0h32c17.7 0 32 14.3 32 32zM0 96C0 78.3 14.3 64 32 64H64c123.7 0 224 100.3 224 224v32V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V320C100.3 320 0 219.7 0 96z" />
-          </svg>
-        </a>
+      <a id="produkt_ofice" href="#zastosowanie_produkt" title="Offices and social rooms"
+        onclick="zminaKategorii('Offices and social rooms','produkt_ofice')"
+        onmouseenter="pokazHint('Offices and social rooms')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M184 48H328c4.4 0 8 3.6 8 8V96H176V56c0-4.4 3.6-8 8-8zm-56 8V96H64C28.7 96 0 124.7 0 160v96H192 352h8.2c32.3-39.1 81.1-64 135.8-64c5.4 0 10.7 .2 16 .7V160c0-35.3-28.7-64-64-64H384V56c0-30.9-25.1-56-56-56H184c-30.9 0-56 25.1-56 56zM320 352H224c-17.7 0-32-14.3-32-32V288H0V416c0 35.3 28.7 64 64 64H360.2C335.1 449.6 320 410.5 320 368c0-5.4 .2-10.7 .7-16l-.7 0zm320 16a144 144 0 1 0 -288 0 144 144 0 1 0 288 0zM496 288c8.8 0 16 7.2 16 16v48h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H496c-8.8 0-16-7.2-16-16V304c0-8.8 7.2-16 16-16z" />
+        </svg>
+      </a>
 
-        <a id="produkt_archit" href="#zastosowanie_produkt" title="Architectural lighting"
-          onclick="zminaKategorii('Architectural lighting','produkt_archit')" onmouseenter="pokazHint('Architectural lighting')"
-          onmouseleave="schowajHint()">
-          <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 512 512">
-            <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
-            <path
-              d="M240.1 4.2c9.8-5.6 21.9-5.6 31.8 0l171.8 98.1L448 104l0 .9 47.9 27.4c12.6 7.2 18.8 22 15.1 36s-16.4 23.8-30.9 23.8H32c-14.5 0-27.2-9.8-30.9-23.8s2.5-28.8 15.1-36L64 104.9V104l4.4-1.6L240.1 4.2zM64 224h64V416h40V224h64V416h48V224h64V416h40V224h64V420.3c.6 .3 1.2 .7 1.8 1.1l48 32c11.7 7.8 17 22.4 12.9 35.9S494.1 512 480 512H32c-14.1 0-26.5-9.2-30.6-22.7s1.1-28.1 12.9-35.9l48-32c.6-.4 1.2-.7 1.8-1.1V224z" />
-          </svg>
-        </a>
-      
-        <a id="produkt_catalog" href="#zastosowanie_produkt" title="Catalogue" onclick="zminaKategorii('Catalogue','produkt_catalog')"
-          onmouseenter="pokazHint('Catalogue')" onmouseleave="schowajHint()">
-          <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 572 512">
-            <!-<!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License -
-              https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
-              <path
-                d="M528.3 46.5H388.5c-48.1 0-89.9 33.3-100.4 80.3-10.6-47-52.3-80.3-100.4-80.3H48c-26.5 0-48 21.5-48 48v245.8c0 26.5 21.5 48 48 48h89.7c102.2 0 132.7 24.4 147.3 75 .7 2.8 5.2 2.8 6 0 14.7-50.6 45.2-75 147.3-75H528c26.5 0 48-21.5 48-48V94.6c0-26.4-21.3-47.9-47.7-48.1zM242 311.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5V289c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5V251zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm259.3 121.7c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5V228c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5v-22.8c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5V190z" />
-          </svg>
-        </a>
+      <a id="produkt_agro" href="#zastosowanie_produkt" title="Fixtures for growing plants"
+        onclick="zminaKategorii('Fixtures for growing plants','produkt_agro')"
+        onmouseenter="pokazHint('Fixtures for growing plants')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 512 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M512 32c0 113.6-84.6 207.5-194.2 222c-7.1-53.4-30.6-101.6-65.3-139.3C290.8 46.3 364 0 448 0h32c17.7 0 32 14.3 32 32zM0 96C0 78.3 14.3 64 32 64H64c123.7 0 224 100.3 224 224v32V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V320C100.3 320 0 219.7 0 96z" />
+        </svg>
+      </a>
+
+      <a id="produkt_archit" href="#zastosowanie_produkt" title="Architectural lighting"
+        onclick="zminaKategorii('Architectural lighting','produkt_archit')"
+        onmouseenter="pokazHint('Architectural lighting')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 512 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M240.1 4.2c9.8-5.6 21.9-5.6 31.8 0l171.8 98.1L448 104l0 .9 47.9 27.4c12.6 7.2 18.8 22 15.1 36s-16.4 23.8-30.9 23.8H32c-14.5 0-27.2-9.8-30.9-23.8s2.5-28.8 15.1-36L64 104.9V104l4.4-1.6L240.1 4.2zM64 224h64V416h40V224h64V416h48V224h64V416h40V224h64V420.3c.6 .3 1.2 .7 1.8 1.1l48 32c11.7 7.8 17 22.4 12.9 35.9S494.1 512 480 512H32c-14.1 0-26.5-9.2-30.6-22.7s1.1-28.1 12.9-35.9l48-32c.6-.4 1.2-.7 1.8-1.1V224z" />
+        </svg>
+      </a>
+
+      <a id="produkt_catalog" href="#zastosowanie_produkt" title="Catalogue"
+        onclick="zminaKategorii('Catalogue','produkt_catalog')" onmouseenter="pokazHint('Catalogue')"
+        onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 572 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License -
+            https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M528.3 46.5H388.5c-48.1 0-89.9 33.3-100.4 80.3-10.6-47-52.3-80.3-100.4-80.3H48c-26.5 0-48 21.5-48 48v245.8c0 26.5 21.5 48 48 48h89.7c102.2 0 132.7 24.4 147.3 75 .7 2.8 5.2 2.8 6 0 14.7-50.6 45.2-75 147.3-75H528c26.5 0 48-21.5 48-48V94.6c0-26.4-21.3-47.9-47.7-48.1zM242 311.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5V289c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5V251zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm259.3 121.7c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5V228c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5v-22.8c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5V190z" />
+        </svg>
+      </a>
     </div>
   </section>
 
@@ -266,8 +280,8 @@
   <h2 class="category_produkt">
     <span id="text_categorii">
       Catalogue
-    </span> 
-    <em id="hint"></em> 
+    </span>
+    <em id="hint"></em>
   </h2>
   <section class="content_wraper" style="text-align: center;z-index:8;">
 
@@ -275,717 +289,127 @@
     <section class="body_produkt" id="alfa">
       <!-- przepysl_magazyn  -->
       <div id="_industr" class="zastosowania_zgrupowanie_kart">
-        <!--carts -->
-        <!-- 1 -->
+
         <h2 class="category_produkt" style="margin-top: -50px;">
           <i class="fa-solid fa-industry"></i>
         </h2>
-        
-        <a href="strona_produktu_led.html" alt="BELUS" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_BELUS.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/BELUS-title.png" class="title_produkt" />
+        <!--carts -->
 
-            <img src="/produkty_karty_charakter/BELUS-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 2 -->
-        <a href="strona_produktu_led.html" alt="High-Bay-BELUS" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_High-Bay-BELUS.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/High-Bay-BELUS-title.png" class="title_produkt" />
-            <img src="/produkty_karty_charakter/High-Bay-BELUS-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 3 -->
-        <a href="strona_produktu_led.html" alt="High Bay SQUBUS" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div> -->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_High-Bay-SQUBUS.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/High-Bay-SQUBUS-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/High-Bay-SQUBUS-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 4 -->
-        <a href="strona_produktu_led.html" alt="SQR" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!-- <div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div> -->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_High-Bay-SQR.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/SQR-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/SQR-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 5 -->
-        <a href="strona_produktu_led.html" alt="HERBUS TREND" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!-- <div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div> -->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HERBUS-TREND.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HERBUS-TREND-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HERBUS-TREND-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 6 -->
-        <a href="strona_produktu_led.html" alt="HERBUS ECO/TURBO" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--  <div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HERBUS-TURBO.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HERBUS-TURBO-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HERBUS-TURBO-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 7 -->
-        <a href="strona_produktu_led.html" alt="HB-U" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div> -->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HB-U.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HB-U-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HB-U-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 8 -->
-        <a href="strona_produktu_led.html" alt="HB-U2" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">New</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HB-U2.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HB-U2-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HB-U2-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 9 -->
-        <a href="strona_produktu_led.html" alt="HB-CLEAN" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!-- <div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div> -->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HB-CLEAN.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HB-CLEAN-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HB-CLEAN-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 10 -->
-        <a href="strona_produktu_led.html" alt="HB-MINI" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!-- <div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HB-MINI.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HB-MINI-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HB-MINI-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 11 -->
-        <a href="strona_produktu_led.html" alt="SOLID" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!-- <div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_SOLID.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/SOLID-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/SOLID-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 12 -->
-        <a href="strona_produktu_led.html" alt="TUBUS" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_TUBUS.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/TUBUS-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/TUBUS-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 13 -->
-        <a href="strona_produktu_led.html" alt="LINUS" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!-- <div class="ribbon slant-up" style="--color: #fecb00;">
-              <div class="content_ribon">TOP</div>
-            </div> -->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_LINUS.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/LINUS-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/LINUS-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 14 -->
-        <a href="strona_produktu_led.html" alt="CLEANLINE" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon slant-down" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_CLEANLINE.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/CLEANLINE-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/CLEANLINE-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 15 -->
-        <a href="strona_produktu_led.html" alt="BSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon down" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_BSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/BSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/BSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 16 -->
-        <a href="strona_produktu_led.html" alt="GLARE" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_GLARE.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/GLARE-title.png" class="title_produkt" />
-            <img src="/produkty_karty_charakter/GLARE-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
+        <div id="_industr_carts" class="zastosowania_zgrupowanie_kart">
+        </div>
       </div>
       <!-- liniowe-->
 
       <div id="_line" class="zastosowania_zgrupowanie_kart">
+
         <h2 class="category_produkt">
           <i class="fa-solid fa-slash"></i>
         </h2>
-        <a href="strona_produktu_led.html" alt="FLYBUS" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!-- <div class="ribbon check" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_FLYBUS.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/FLYBUS-title.png" class="title_produkt" />
-            <img src="/produkty_karty_charakter/FLYBUS-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 18 -->
-        <a href="strona_produktu_led.html" alt="3-phase track" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!-- <div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div> -->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_SZYNOPRZEWOD.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/SZYNOPRZEWOD-title.png" class="title_produkt" />
 
-            <img src="/produkty_karty_charakter/SZYNOPRZEWOD-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 19 -->
-        <a href="strona_produktu_led.html" alt="TL-HE" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--  <div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div> -->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_TL-HE.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/TL-HE-title.png" class="title_produkt" />
-            <img src="/produkty_karty_charakter/TL-HE-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 20 -->
-        <a href="strona_produktu_led.html" alt="SUN-L" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_SUN-L.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/SUN-L-title.png" class="title_produkt" />
+        <!--carts -->
+        <div id="_line_carts" class="zastosowania_zgrupowanie_kart">
 
-            <img src="/produkty_karty_charakter/SUN-L-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 21 -->
-        <a href="strona_produktu_led.html" alt="SUN-S" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div> -->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_SUN-S.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/SUN-S-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/SUN-S-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
+        </div>
       </div>
       <!--temperatury -->
 
       <div id="_tepmer" class="zastosowania_zgrupowanie_kart">
+
         <h2 class="category_produkt">
           <i class="fa-solid fa-temperature-high"></i>
         </h2>
-        <!-- 22 -->
-        <a href="strona_produktu_led.html" alt="UHT" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_UHT.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/UHT-title.png" class="title_produkt" />
+        <!--carts -->
+        <div id="_tepmer_carts" class="zastosowania_zgrupowanie_kart">
 
-            <img src="/produkty_karty_charakter/UHT-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 23 -->
-        <a href="strona_produktu_led.html" alt="HSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 24 -->
-        <a href="strona_produktu_led.html" alt="CSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_CSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/CSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/CSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
+        </div>
       </div>
       <!--specjalistyczne -->
 
       <div id="_specjal" class="zastosowania_zgrupowanie_kart">
+
         <h2 class="category_produkt">
           <i class="fa-solid fa-hammer"></i>
         </h2>
-        <!-- 22 -->
-        <a href="strona_produktu_led.html" alt="UHT" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_UHT.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/UHT-title.png" class="title_produkt" />
 
-            <img src="/produkty_karty_charakter/UHT-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 23 -->
-        <a href="strona_produktu_led.html" alt="HSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HSL-title.png" class="title_produkt" />
+        <!--carts -->
+        <div id="_specjal_carts" class="zastosowania_zgrupowanie_kart">
 
-            <img src="/produkty_karty_charakter/HSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 24 -->
-        <a href="strona_produktu_led.html" alt="CSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_CSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/CSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/CSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
+        </div>
       </div>
       <!--przeciwwybuchowe-->
 
       <div id="_ex" class="zastosowania_zgrupowanie_kart">
+
         <h2 class="category_produkt">
           <i class="fa-solid fa-explosion"></i>
         </h2>
-        <!-- 22 -->
-        <a href="strona_produktu_led.html" alt="UHT" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_UHT.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/UHT-title.png" class="title_produkt" />
+        <!--carts -->
+        <div id="_ex_carts" class="zastosowania_zgrupowanie_kart">
 
-            <img src="/produkty_karty_charakter/UHT-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 23 -->
-        <a href="strona_produktu_led.html" alt="HSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 24 -->
-        <a href="strona_produktu_led.html" alt="CSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_CSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/CSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/CSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
+        </div>
       </div>
       <!-- zewnetrzne -->
 
       <div id="_zewenetrz" class="zastosowania_zgrupowanie_kart">
+
         <h2 class="category_produkt">
           <i class="fa-solid fa-tree-city"></i>
         </h2>
-        <!-- 22 -->
-        <a href="strona_produktu_led.html" alt="UHT" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_UHT.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/UHT-title.png" class="title_produkt" />
+        <!--carts -->
+        <div id="_zewenetrz_carts" class="zastosowania_zgrupowanie_kart">
 
-            <img src="/produkty_karty_charakter/UHT-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 23 -->
-        <a href="strona_produktu_led.html" alt="HSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 24 -->
-        <a href="strona_produktu_led.html" alt="CSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_CSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/CSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/CSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
+        </div>
       </div>
       <!-- sportowe -->
 
       <div id="_sport_zew" class="zastosowania_zgrupowanie_kart">
+
         <h2 class="category_produkt">
           <i class="fa-solid fa-person-biking"></i>
         </h2>
-        <!-- 22 -->
-        <a href="strona_produktu_led.html" alt="UHT" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_UHT.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/UHT-title.png" class="title_produkt" />
+        <!--carts -->
+        <div id="_sport_zew_carts" class="zastosowania_zgrupowanie_kart">
 
-            <img src="/produkty_karty_charakter/UHT-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 23 -->
-        <a href="strona_produktu_led.html" alt="HSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 24 -->
-        <a href="strona_produktu_led.html" alt="CSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_CSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/CSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/CSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
+        </div>
       </div>
       <!-- biorowe -->
 
       <div id="_ofice" class="zastosowania_zgrupowanie_kart">
+
         <h2 class="category_produkt">
           <i class="fa-solid fa-business-time"></i>
         </h2>
-        <!-- 22 -->
-        <a href="strona_produktu_led.html" alt="UHT" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_UHT.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/UHT-title.png" class="title_produkt" />
+        <!--carts -->
+        <div id="_ofice_carts" class="zastosowania_zgrupowanie_kart">
 
-            <img src="/produkty_karty_charakter/UHT-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 23 -->
-        <a href="strona_produktu_led.html" alt="HSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 24 -->
-        <a href="strona_produktu_led.html" alt="CSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_CSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/CSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/CSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
+        </div>
       </div>
       <!-- do_roslin -->
 
       <div id="_agro" class="zastosowania_zgrupowanie_kart">
+
         <h2 class="category_produkt">
           <i class="fa-solid fa-seedling"></i>
         </h2>
-        <!-- 22 -->
-        <a href="strona_produktu_led.html" alt="UHT" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_UHT.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/UHT-title.png" class="title_produkt" />
+        <!--carts -->
+        <div id="_agro_carts" class="zastosowania_zgrupowanie_kart">
 
-            <img src="/produkty_karty_charakter/UHT-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 23 -->
-        <a href="strona_produktu_led.html" alt="HSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 24 -->
-        <a href="strona_produktu_led.html" alt="CSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_CSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/CSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/CSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
+        </div>
       </div>
       <!-- do_aritektury -->
 
       <div id="_archit" class="zastosowania_zgrupowanie_kart">
+
         <h2 class="category_produkt">
           <i class="fa-solid fa-landmark"></i>
         </h2>
-        <!-- 22 -->
-        <a href="strona_produktu_led.html" alt="UHT" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_UHT.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/UHT-title.png" class="title_produkt" />
+        <!--carts -->
+        <div id="_archit_carts" class="zastosowania_zgrupowanie_kart">
 
-            <img src="/produkty_karty_charakter/UHT-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 23 -->
-        <a href="strona_produktu_led.html" alt="HSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <div class="ribbon up" style="--color: #fecb00;">
-                <div class="content_ribon">TOP</div>
-              </div>
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_HSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/HSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/HSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
-        <!-- 24 -->
-        <a href="strona_produktu_led.html" alt="CSL" target="_blank">
-          <div class="card_produkt">
-            <div class="wrapper_produkt">
-              <!--<div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>-->
-              <img src="/produkty_karty_covery/Produkt_cover_bg_hex_CSL.jpg" class="cover-image_produkt" />
-            </div>
-            <img src="/produkty_karty_title/CSL-title.png" class="title_produkt" />
-
-            <img src="/produkty_karty_charakter/CSL-char_simple.png" class="character_produkt" />
-          </div>
-        </a>
+        </div>
       </div>
 
 
-      <!-- FORMATKA 
-      <a href="strona_produktu_led.html" alt="nazwa_alt" target="_blank">
-        <div class="card_produkt">
-          <div class="wrapper_produkt">
-            <div class="ribbon up" style="--color: #fecb00;">
-              <div class="content_ribon">New</div>
-            </div>
-            <img src="/produkty_karty_covery/XXX.jpg" class="cover-image_produkt" />
-          </div>
-          <img src="/produkty_karty_title/XXX.png" class="title_produkt" />
-
-          <img src="/produkty_karty_charakter/XXX.png" class="character_produkt" />
-        </div>
-      </a> 
-      -->
     </section>
   </section>
 
@@ -997,8 +421,9 @@
       </div>
     </div>
   </section>
-
   </section>
+
+  <script src="script_tworzenie_kart_produktu.js"></script>
   <script src="script.js"></script>
 </body>
 
