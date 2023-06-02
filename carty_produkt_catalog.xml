@@ -290,8 +290,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>34</NUMER_ID>
-    <RODZINA>MINEX</RODZINA>
-    <ALT>MINEX</ALT>
+    <RODZINA>EX-MINEX</RODZINA>
+    <ALT>EX-MINEX</ALT>
     <CATEGORIA>_ex_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
@@ -299,8 +299,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>35</NUMER_ID>
-    <RODZINA>MINIMINEX</RODZINA>
-    <ALT>MINIMINEX</ALT>
+    <RODZINA>EX-MINIMINEX</RODZINA>
+    <ALT>EX-MINIMINEX</ALT>
     <CATEGORIA>_ex_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
@@ -308,8 +308,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>36</NUMER_ID>
-    <RODZINA>ORION</RODZINA>
-    <ALT>ORION</ALT>
+    <RODZINA>EX-ORION</RODZINA>
+    <ALT>EX-ORION</ALT>
     <CATEGORIA>_ex_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
@@ -317,8 +317,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>37</NUMER_ID>
-    <RODZINA>ERIS</RODZINA>
-    <ALT>ERIS</ALT>
+    <RODZINA>EX-ERIS</RODZINA>
+    <ALT>EX-ERIS</ALT>
     <CATEGORIA>_ex_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
@@ -326,8 +326,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>38</NUMER_ID>
-    <RODZINA>TRILUX</RODZINA>
-    <ALT>TRILUX</ALT>
+    <RODZINA>EX-TRILUX</RODZINA>
+    <ALT>EX-TRILUX</ALT>
     <CATEGORIA>_ex_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
@@ -335,8 +335,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>39</NUMER_ID>
-    <RODZINA>BILUX</RODZINA>
-    <ALT>BILUX</ALT>
+    <RODZINA>EX-BILUX</RODZINA>
+    <ALT>EX-BILUX</ALT>
     <CATEGORIA>_ex_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
@@ -344,8 +344,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>40</NUMER_ID>
-    <RODZINA>MULTISAFE</RODZINA>
-    <ALT>MULTISAFE</ALT>
+    <RODZINA>EX-MULTISAFE</RODZINA>
+    <ALT>EX-MULTISAFE</ALT>
     <CATEGORIA>_ex_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
@@ -353,8 +353,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>41</NUMER_ID>
-    <RODZINA>PYROS</RODZINA>
-    <ALT>PYROS</ALT>
+    <RODZINA>EX-PYROS</RODZINA>
+    <ALT>EX-PYROS</ALT>
     <CATEGORIA>_ex_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
@@ -362,8 +362,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>42</NUMER_ID>
-    <RODZINA>PT</RODZINA>
-    <ALT>PT</ALT>
+    <RODZINA>EX-PT</RODZINA>
+    <ALT>EX-PT</ALT>
     <CATEGORIA>_ex_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
@@ -398,7 +398,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>46</NUMER_ID>
-    <RODZINA>ULE 2 ECO</RODZINA>
+    <RODZINA>ULE-2-ECO</RODZINA>
     <ALT>Oprawy uliczne ULE 2 ECO</ALT>
     <CATEGORIA>_zewenetrz_carts</CATEGORIA>
     <FLAGA>2</FLAGA>
@@ -407,7 +407,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>47</NUMER_ID>
-    <RODZINA>ULE 2</RODZINA>
+    <RODZINA>ULE-2</RODZINA>
     <ALT>Oprawy uliczne ULE 2 </ALT>
     <CATEGORIA>_zewenetrz_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
@@ -434,7 +434,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>50</NUMER_ID>
-    <RODZINA>NIMBO  MARINA</RODZINA>
+    <RODZINA>NIMBO-MARINA</RODZINA>
     <ALT>Naświetlacze NIMBO  MARINA</ALT>
     <CATEGORIA>_zewenetrz_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
@@ -497,7 +497,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>57</NUMER_ID>
-    <RODZINA>SQUBUS</RODZINA>
+    <RODZINA>High-Bay-SQUBUS</RODZINA>
     <ALT>Oprawy High Bay SQUBUS</ALT>
     <CATEGORIA>_sport_zew_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
@@ -641,7 +641,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>73</NUMER_ID>
-    <RODZINA>Hori</RODZINA>
+    <RODZINA>Hori-CAN</RODZINA>
     <ALT>Uprawa marihuany leczniczej Hori</ALT>
     <CATEGORIA>_agro_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
@@ -650,7 +650,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>74</NUMER_ID>
-    <RODZINA>Hori</RODZINA>
+    <RODZINA>Hori-VEG</RODZINA>
     <ALT>Uprawa warzyw i owoców Hori</ALT>
     <CATEGORIA>_agro_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
@@ -659,7 +659,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>75</NUMER_ID>
-    <RODZINA>Hori</RODZINA>
+    <RODZINA>Hori-FLO</RODZINA>
     <ALT>Uprawa kwiatów Hori</ALT>
     <CATEGORIA>_agro_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
