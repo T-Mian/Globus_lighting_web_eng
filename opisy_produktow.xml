@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OPISY_PRODUKTOW>
+  <PRODUKT>
+    <PRODUKT_ID>1</PRODUKT_ID>
+    <RODZINA>Belus</RODZINA>
+    <ICONY_RODZINY>&lt;i class="fa-solid fa-industry"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-up-down"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-warehouse"&gt;&lt;/i&gt;</ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/BELUS-char_simple.png</FOTO>
+    <H3_OPISU>Belus</H3_OPISU>
+    <OPIS_TRESC_PL>Belka szczelna LED przeznaczona do oświetlania hal produkcyjnych, magazynów i miejsc pracy w pomieszczeniach o wysokości do 8 metrów. Obudowa oprawy BELUS jest wykonana z wysokogatunkowego stopu aluminium, która jednocześnie pełni funkcję radiatora. Zapewnia to optymalną temperaturę pracy LED, co przyczynia się do wydłużenia czasu życia oprawy. Element świetlny oparty jest o liniowy moduł LED o długości 28cm dzięki czemu długość oprawy i emitowany strumień świetlny mogą być precyzyjnie dostosowane do konkretnego zadania.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>Tight LED beam designed to illuminate production halls, warehouses and workplaces in rooms with a height of up to 8 meters. The housing of the BELUS luminaire is made of high-quality aluminum alloy, which also acts as a heat sink. This ensures the LED optimum operating temperature, which contributes to extending the lifetime of the luminaire. The light element is based on a linear LED module with a length of 28 cm,  thanks to which the length of the luminaire and the emitted flux can be precisely adjusted to a specific task. </OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Faisceau LED étroit conçu pour éclairer les halls de production, les entrepôts et les lieux de travail dans des pièces d'une hauteur maximale de 8 mètres. Le boîtier du luminaire BELUS est en alliage d'aluminium de haute qualité, qui sert également de dissipateur thermique. Cela garantit une température de fonctionnement optimale de la LED, ce qui contribue à prolonger la durée de vie du luminaire. L'élément lumineux est basé sur un module LED linéaire d'une longueur de 28 cm, grâce auquel la longueur du luminaire et le flux lumineux émis peuvent être ajustés avec précision à une tâche spécifique.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/0-150x150.png,https://www.globuslighting.pl/wp-content/uploads/2023/03/belus_pro_40_st-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>2</PRODUKT_ID>
+    <RODZINA>High Bay BELUS</RODZINA>
+    <ICONY_RODZINY>&lt;i class="fa-solid fa-industry"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-up-down"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-warehouse"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-basketball"&gt;&lt;/i&gt;</ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/High-Bay-BELUS-char_simple.png</FOTO>
+    <H3_OPISU>High Bay BELUS</H3_OPISU>
+    <OPIS_TRESC_PL>Oświetlenie centrum logistycznego
+Oprawy High Bay BELUS złożone  z dwóch belek szczelnych LED zostały  stworzone jako energooszczędny odpowiednik opraw metalohalogenowych 250W, a High Bay BELUS  złożony z trzech belek jako odpowiednik opraw metalohalogenowych 400W. Lampy HighBay LED  znajdują zastosowanie na produkcji oraz w magazynach wysokiego składowania. Dzięki wysokiemu wskaźnikowi ochrony (IP65) oprawy te sprawdzają  się również w otoczeniu pyłowym w pomieszczeniach o wysokości powyżej 4m.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>Logistic center lighting
+High Bay BELUS luminaires made of two tight LED beams are created as an  an energy-saving equivalent of 250W metal halide luminaires, a High Bay BELUS  luminaires made of three tight LED beams are created as an an energy-saving equivalent of 400W metal halide luminaires. HighBay LED lamps are used in production and in high-bay warehouses. Thanks to the high protection index (IP65), these luminaires are also suitable for dusty environments in rooms with a height of more than 4 m</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Eclairage centre logistique
+Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été créés comme un équivalent économe en énergie des luminaires aux halogénures métalliques de 250 W, et High Bay BELUS composé de trois faisceaux comme un équivalent des luminaires aux halogénures métalliques de 400 W. Les lampes LED HighBay sont utilisées dans la production et dans les entrepôts à hauts rayonnages. Grâce à l'indice de protection élevé (IP65), ces luminaires conviennent également aux environnements poussiéreux dans les pièces d'une hauteur supérieure à 4 m.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2015/11/4-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>3</PRODUKT_ID>
+    <RODZINA>High Bay SQUBUS</RODZINA>
+    <ICONY_RODZINY>
+&lt;i class="fa-solid fa-industry"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-up-down"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-warehouse"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-basketball"&gt;&lt;/i&lt;</ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/High-Bay-SQUBUS-char_simple.png</FOTO>
+    <H3_OPISU>High Bay SQUBUS</H3_OPISU>
+    <OPIS_TRESC_PL>SQUBUS został stworzony aby bezpośrednio zastąpić pod kątem kształtu i rozmiaru tradycyjne lampy metalohalogenkowe. Szeroki wybór sposobów montażu oraz wysoki stopień ochrony oprawy sprawiają, że oprawa znajduje szerokie zastosowanie nie tylko przy produkcji lub magazynach wysokiego składowania, ale również w obiektach sportowych.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>SQUBUS was created to replace traditional metal halide lamps in terms of shape and size. A wide range of mounting methods and a high protection index make the luminaire widely used not only in production or high-bay warehouses, but also in sports facilities</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>SQUBUS a été créé pour remplacer directement les lampes aux halogénures métalliques traditionnelles en termes de forme et de taille. Une large gamme de méthodes de montage et un haut degré de protection du luminaire rendent le luminaire largement utilisé non seulement dans les entrepôts de production ou à hauts rayonnages, mais également dans les installations sportives.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2015/11/4-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>4</PRODUKT_ID>
+    <RODZINA>SQR</RODZINA>
+    <ICONY_RODZINY>&lt;i class="fa-solid fa-industry"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-warehouse"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-basketball"&gt;&lt;/i&gt;</ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/High-Bay-SQR-char_simple.png</FOTO>
+    <H3_OPISU>SQR</H3_OPISU>
+    <OPIS_TRESC_PL>Aluminiowa, modułowa oprawa typu high bay. SQR posiada szeroki zakres mocy, różne kąty rozsyłu, IP66 oraz IK10. Dedykowana jest to zastosowań przemysłowych takich jak oświetlenie magazynów lub hal produkcyjnych. Sprawdzi się także w halach sportowych. Może być montowana na zwieszanych linkach, dostropowo lub na regulowanym uchwycie do ściany. Opcjonalnie dostępne jest sterowanie DALI, Zigbee, mikrofalowy czujnik ruchu lub czujnik PIR.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>Aluminum, modular high bay luminaire. SQR has a wide power range, different beam angles, IP66 and IK10. It is dedicated to industrial applications such as lighting warehouses or production halls. It will also work in sports halls. It can be mounted on suspended cords, on the surface of the ceiling or on an adjustable wall bracket. DALI, Zigbee, microwave motion sensor or PIR sensor are optional control systems. </OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Luminaire grande hauteur modulaire en aluminium. SQR a une large plage de puissance, différents angles de faisceau, IP66 et IK10. Il est dédié aux applications industrielles telles que l'éclairage d'entrepôts ou de halls de production. Il fonctionnera également dans les salles de sport. Il peut être monté sur des cordons suspendus, au plafond ou sur un support mural réglable. DALI, Zigbee, capteur de mouvement à micro-ondes ou capteur PIR sont disponibles en option.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/SQR_K60100-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/SQR_K2585-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/SQR_K90-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/SQR_K60-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>5</PRODUKT_ID>
+    <RODZINA>HERBUS TREND</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-warehouse"></i><i class="fa-solid fa-square-parking"></i><i class="fa-solid fa-person-shelter"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/HERBUS-TREND-char_simple.png</FOTO>
+    <H3_OPISU>Oprawa hermetyczna HERBUS TREND</H3_OPISU>
+    <OPIS_TRESC_PL>Oprawa Herbus TREND to oprawa uniwersalna, szczególnie stosowana tam gdzie istnieje ryzyko zapylenia, wilgotności i uszkodzenia mechanicznego. Ze względu na szczelność na poziomie IP66, oraz odporność na uderzenia IK10 idealnie nadaje się do zastosowań technicznych. Uniwersalny kształt niska waga dają wygodę i pozwalają na szybki montaż.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>The Herbus TREND luminaire is a universal luminaire, especially used where there is a risk of dust, humidity and mechanical damage.  Due to the IP66 and IK10, it is ideal for technical applications. Universal shape and low weight give comfort and allow quick installation.</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Le luminaire Herbus TREND est un luminaire universel, spécialement utilisé là où il y a un risque de poussière, d'humidité et de dommages mécaniques. En raison de l'étanchéité IP66 et de la résistance aux chocs IK10, il est idéal pour les applications techniques. La forme universelle, le faible poids offrent un confort et permettent un montage rapide.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/06/Herbus_trend_rozs-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>6</PRODUKT_ID>
+    <RODZINA>HERBUS</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-warehouse"></i><i class="fa-solid fa-square-parking"></i><i class="fa-solid fa-person-shelter"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/HERBUS-ECO-TURBO-char_simple.png</FOTO>
+    <H3_OPISU>Oprawa hermetyczna HERBUS</H3_OPISU>
+    <OPIS_TRESC_PL>Oprawy hermetyczne Herbus to zamienniki tradycyjnych opraw na świetlówki fluorescencyjne o mocach 2x36W, 2x58W stosowanych w przemyśle. Jest to rozwiązanie skierowane w obszary, gdzie istotna jest duża wydajność świetlna oprawy przy stosunkowo niewielkich kosztach zakupu. Obudowa o uniwersalnym designie ma wysoką szczelność IP66 i wykonana jest z trwałego tworzywa ABS z kloszem z poliwęglanu. Jest to materiał nietoksyczny, samogasnący, gwarantując podwyższoną odporność na uszkodzenia. Klosz mleczny z poliwęglanu gwarantujący równomierny i optymalny sposób dystrybucji światła. Klipsy wykonano ze stali nierdzewnej. Obszary zastosowania: hale produkcyjne, hale magazynowe, budynki gospodarcze, pomieszczenia techniczne, korytarze i przejścia, parkingi podziemne</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>Hermetic luminaires Herbus are replacements for traditional fluorescent lamps with a power of 2x36W, 2x58W used in industry. This solution is dedicated to areas where high luminous efficiency of the luminaire is important at relatively low purchase costs. The housing with a universal design has IP66 index and is made of durable ABS plastic with a polycarbonate shade. It is a non-toxic, self-extinguishing material, guaranteeing increased resistance to damage. Milky shade made of polycarbonate guarantees an even and optimal way of light distribution. The clips are made of stainless steel. Areas of application: production halls, warehouses, outbuildings, technical rooms, corridors and passages, underground car parks</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Les luminaires hermétiques Herbus remplacent les luminaires traditionnels pour lampes fluorescentes d'une puissance de 2x36W, 2x58W utilisés dans l'industrie. Il s'agit d'une solution destinée aux zones où une efficacité lumineuse élevée du luminaire est importante à des coûts d'achat relativement faibles. Le boîtier de conception universelle a une étanchéité IP66 élevée et est fabriqué en plastique ABS durable avec un couvercle en polycarbonate. Il s'agit d'un matériau non toxique et auto-extinguible, garantissant une résistance accrue aux dommages. Couverture laiteuse en polycarbonate qui garantit une répartition uniforme et optimale de la lumière. Les clips sont en acier inoxydable. Domaines d'application : halls de production, halls de stockage, dépendances, locaux techniques, couloirs et passages, parkings souterrains</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2018/08/optyka_hermetyk-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>7</PRODUKT_ID>
+    <RODZINA>HB-U</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-warehouse"></i><i class="fa-solid fa-up-down"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/HB-U-char_simple.png</FOTO>
+    <H3_OPISU>HB-U</H3_OPISU>
+    <OPIS_TRESC_PL>Okrągłe oprawy typu high bay występujące w trzech wariantach mocy: 100W, 150W, 200W,   rozsył  110 stopni. Oprawy HB-U dedykowane są do zastosowań przemysłowych m.in. w halach produkcyjnych czy magazynach. HB-U są wykonane z aluminium pomalowanego proszkowo. Możliwe są dwa sposoby montażu: zwieszany lub za pomocą regulowanego uchwytu.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>Round high bay luminaires available in three power variants: 100W, 150W, 200W with light distribution angle of 110 degrees. HB-U luminaires are dedicated to industrial applications, e.g. in production halls or warehouses. HB-U are made of powder-coated aluminum.There are two ways of mounting: suspended or using an adjustable handle. </OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Luminaires grande hauteur ronds disponibles en trois variantes de puissance : 100W, 150W, 200W, distribution 110 degrés. Les luminaires HB-U sont dédiés aux applications industrielles, par ex. dans les halls de production ou les entrepôts. Les HB-U sont en aluminium peint par poudrage. Il existe deux modes de montage : suspendu ou à l'aide d'une poignée réglable.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-u-roz-10-110-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>8</PRODUKT_ID>
+    <RODZINA>HB-U2</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-warehouse"></i><i class="fa-solid fa-up-down"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/HB-U2-char_simple.png</FOTO>
+    <H3_OPISU>HB-U2</H3_OPISU>
+    <OPIS_TRESC_PL>HB-U2 to ekonomiczne i kompaktowe oświetlenie z zoptymalizowaną konstrukcją  radiatora. High bay HB-U2 to wyjątkowa oprawa z  możliwością wyboru kąta rozsyłu światła, wyboru mocy oprawy oraz wyboru barwy światła( 4000K lub 5000K). Opcje  sterowania to 1-10V, DALI, Casambi (technologia bezprzewodowa Bluetooth) oraz dodatkowo czujniki ruchu w tym również czujnik PIR. Zarówno moduł Casambi jak i czujniki  występują w formie wygodnego pluginu, dając przy tym pełną paletę pożądanych przez klienta funkcjonalności. Ponadto występuje również możliwość zmiany rozsyłu światła poprzez użycie dodatkowych odbłyśników, co jest szczególnie przydatne przy bardziej wymagających projektach oświetlenia.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>HB-U2 is an economical and compact lighting with an optimized heat sink design. High bay HB-U2 is a unique luminaire with a possibility of choice of light distribution angle, power and choice of light colour temperature (4000K or 5000K). The available control system are 1-10V, DALI, Casambi (Bluetooth wireless technology) and additionally motion sensor including a PIR sensor. Both the Casambi module and other sensors are available in the form of a convenient plug-in, providing a full range of functionalities. In addition, it is also possible to change the light distribution by using </OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>HB-U2 est un éclairage économique et compact avec une conception de dissipateur de chaleur optimisée. High bay HB-U2 est un luminaire unique avec un choix d'angle de distribution de lumière, un choix de puissance de luminaire et un choix de couleur de lumière (4000K ou 5000K). Les options de contrôle sont 1-10V, DALI, Casambi (technologie sans fil Bluetooth) et en plus des capteurs de mouvement, y compris un capteur PIR. Le module Casambi et les capteurs sont disponibles sous la forme d'un plug-in pratique, offrant une gamme complète de fonctionnalités souhaitées par le client. De plus, il est également possible de modifier la répartition de la lumière en utilisant des réflecteurs supplémentaires, ce qui est particulièrement utile pour les projets d'éclairage plus exigeants.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2023/04/HB-U2-200_N-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/04/HB-U2-200_M-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/04/HB-U2-200_W-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>9</PRODUKT_ID>
+    <RODZINA>HB-CLEAN</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-warehouse"></i><i class="fa-solid fa-hotel"></i><i class="fa-solid fa-shop"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/HB-CLEAN-char_simple.png</FOTO>
+    <H3_OPISU>HB-CLEAN</H3_OPISU>
+    <OPIS_TRESC_PL>Oprawy typu high-bay HB-CLEAN  z gładką, ułatwiającą utrzymanie czystości powierzchnią oprawy. Dzięki estetycznemu wykonaniu sprawdzą się zarówno w obiektach przemysłu oraz przetwórstwa spożywczego jak i w wysokich pomieszczeniach obiektów użyteczności publicznej np.  w centrach handlowych lub konferencyjnych. HB-CLEAN występują w wariantach bez sterowania oraz ze sterowaniem DALI, Zigbee, na czujnik ruchu. Mogą być wyposażone w soczewki  o różnych kątach rozsyłu lub klosze ograniczające UGR. Istnieją różne warianty montażu zwieszanego.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>HB-CLEAN are high-bay luminaires with a smooth, easy-to-clean surface. Thanks to their aesthetic design, they suit  both industrial and food processing facilities as well as high rooms of public utility facilities, e.g. shopping or conference centers. HB-CLEAN are available in variants without control or with DALI, Zigbee, motion sensor control. They can be equipped with lenses with different beam angles or UGR limiting covers. There are different variants of suspended mounting. </OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Luminaires grande hauteur HB-CLEAN avec une surface lisse et facile à nettoyer du luminaire. Grâce à leur design esthétique, ils feront leurs preuves aussi bien dans les installations industrielles et agro-alimentaires que dans les locaux de grande hauteur des installations d'utilité publique, par exemple dans les centres commerciaux ou de conférence. Les HB-CLEAN sont disponibles dans des variantes sans commande et avec DALI, Zigbee, commande par capteur de mouvement. Ils peuvent être équipés de lentilles avec différents angles de faisceau ou de caches de limitation UGR. Il existe différentes variantes de montage suspendu.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/HB-CLEAN-ROZSYL-60st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/HB-CLEAN-ROZSYL-90st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/HB-CLEAN-ROZSYL-120st-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>10</PRODUKT_ID>
+    <RODZINA>HB-MINI</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-warehouse"></i><i class="fa-solid fa-hotel"></i><i class="fa-solid fa-shop"></i><i class="fa-solid fa-school"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/HB-MINI-char_simple.png</FOTO>
+    <H3_OPISU>HB-MINI</H3_OPISU>
+    <OPIS_TRESC_PL>Oprawa HB-MINI cechuje się niższymi mocami znamionowymi (30W, 50W i 75W). Obudowa oprawy jest wykonana z malowanego proszkowo na kolor biały stopu aluminium, a klosz z transparentnego poliwęglanu (PC).  HB-MINI może być stosowana zarówno w obiektach przemysłowych, magazynach jak i w wysokich holach galerii handlowych, szkół czy sal konferencyjnych. Oprawy z tej serii mogą zostać wyposażone w sterowane 1-10V lub DALI. W celu maksymalnego ograniczenia efektu olśnienia do oprawy można dodać pokrywę klosza wykonaną z poliwęglanu.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>The HB-MINI luminaire is characterized by low power (30W, 50W and 75W). The housing of the luminaire is made of powder coated aluminum alloy, and the shade is made of transparent polycarbonate (PC). HB-MINI can be used both in industrial facilities, warehouses and high halls of shopping malls, schools and conference rooms. It is available with control systems such as 1-10V or DALI. In order to minimize the glare effect, you can add a cover made of polycarbonate to the luminaire. </OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Le luminaire HB-MINI se caractérise par des puissances inférieures (30W, 50W et 75W). Le boîtier du luminaire est en alliage d'aluminium enduit de poudre et le diffuseur est en polycarbonate transparent (PC). HB-MINI peut être utilisé aussi bien dans les installations industrielles, les entrepôts que dans les halls hauts des centres commerciaux, des écoles et des salles de conférence. Les luminaires de cette série peuvent être équipés d'une commande 1-10V ou DALI. Afin de minimiser l'effet d'éblouissement, vous pouvez ajouter un couvercle en polycarbonate au luminaire.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-60st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-120stklosz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-120st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-90stklosz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-90st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-60stklosz-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>11</PRODUKT_ID>
+    <RODZINA>SOLID</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-building-wheat"></i><i class="fa-solid fa-cow"></i><i class="fa-solid fa-flask-vial"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/SOLID-char_simple.png</FOTO>
+    <H3_OPISU>SOLID</H3_OPISU>
+    <OPIS_TRESC_PL>Odporna na uderzenia i chemikalia oprawa przemysłowa LED. Obudowa jest wykonana ze stali nierdzewnej austenitycznej AISI 304, a przesłona z bezpiecznego, satynowanego szkła hartowanego. Oprawa GL-SOLID może być stosowana m.in. w obiektach rolniczych, na fermach hodowlanych, w przemyśle chemicznym czy w miejscach występowania amoniaku      i kwasów organicznych.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>Impact and chemical resistant LED industrial luminaire. The housing is made of AISI 304 austenitic stainless steel, and the shade is made of safe, satin tempered glass. The GL-SOLID luminaire can be used e.g. in agricultural facilities, farms, in the chemical industry or in places where ammonia and organic acids occur. </OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Luminaire industriel à LED résistant aux chocs et aux produits chimiques. Le boîtier est en acier inoxydable austénitique AISI 304 et le diffuseur est en verre trempé satiné sûr. Le luminaire GL-SOLID peut être utilisé par ex. dans les installations agricoles, les fermes d'élevage, dans l'industrie chimique ou dans les endroits où l'ammoniac et les acides organiques sont présents.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/GL-SOLID-86710-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>12</PRODUKT_ID>
+    <RODZINA>TUBUS</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-building-wheat"></i><i class="fa-solid fa-cow"></i><i class="fa-solid fa-flask-vial"></i><i class="fa-solid fa-droplet"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/TUBUS-char_simple.png</FOTO>
+    <H3_OPISU>TUBUS</H3_OPISU>
+    <OPIS_TRESC_PL>Oprawy te są odporne na działanie amoniaku, pył i wodę. Z racji szczelności IP69K cechuje je odporność na mycie pod ciśnieniem 100 bar w temperaturze 80º, jednoczenie oprawę charakteryzują wysokie parametry odporności na uderzenia IK10. Oprawy TUBUS mogą być zwieszane na stalowych linkach lub montowane bezpośrednio do powierzchni.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>These luminaires are resistant to ammonia, dust and water. Due to IP69K, they are resistant to washing under pressure of 100 bar at 80 Celsius degrees. At the same time the luminaire is characterized by high IK10 impact resistance index. TUBUS luminaires can be suspended on steel cords or mounted directly to the surface.</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Ces luminaires sont résistants à l'ammoniac, à la poussière et à l'eau. Grâce à IP69K, ils résistent au lavage sous une pression de 100 bars à 80 degrés Celsius. En même temps, le luminaire se caractérise par un indice de résistance aux chocs élevé IK10. Les luminaires TUBUS peuvent être suspendus sur des câbles en acier ou montés directement sur la surface.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/TUBUS_K60-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/TUBUS_K90-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/TUBUS_K120-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>13</PRODUKT_ID>
+    <RODZINA>LINUS</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-warehouse"></i><i class="fa-solid fa-square-parking"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/LINUS-char_simple.png</FOTO>
+    <H3_OPISU>LED linear luminaires LINUS</H3_OPISU>
+    <OPIS_TRESC_PL>LINUS jest serią lekkich i wytrzymałych (IP65, IK08) opraw liniowych, które mogą być zwieszane na regulowanych, stalowych linkach lub montowane dostropowo. Oprawa LINUS może być zastosowana do oświetlenia obiektów handlowych, garaży, magazynów lub warsztatów. Dzięki licznym możliwościom konfiguracji oprawę tą można dopasować do swoich potrzeb. Może być ona zasilana jednostronnie lub przelotowo. Dostępne są opcje sterowania DALI, Zigbee, 1-10V, czujnik ruchu, czujnik natężenia oświetlenia. Barwa światła  może zostać dobrana w zakresie od 3000K do 6500K.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>LINUS is light and durable (IP65, IK08) linear luminaire that can be suspended on adjustable steel cords or ceiling mounted. The LINUS luminaire can be used to illuminate commercial facilities, garages, warehouses or workshops. Thanks to numerous configuration options, this luminaire can be adapted to your needs. It can be powered unilaterally or through. Available control systems are DALI, Zigbee, 1-10V, motion sensor, light intensity sensor. The colour temperature can be selected in the range from 3000K to 6500K</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>LINUS est une série de luminaires linéaires légers et durables (IP65, IK08) qui peuvent être suspendus sur des cordons en acier réglables ou montés au plafond. Le luminaire LINUS peut être utilisé pour éclairer des installations commerciales, des garages, des entrepôts ou des ateliers. Grâce à de nombreuses possibilités de configuration, ce luminaire s'adapte à vos besoins. Il peut être alimenté unilatéralement ou traversant. Les options de contrôle sont DALI, Zigbee, 1-10V, détecteur de mouvement, capteur d'intensité lumineuse. La couleur de la lumière peut être sélectionnée dans la plage de 3000K à 6500K.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/Linus_k120st-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>14</PRODUKT_ID>
+    <RODZINA>CleanLINE</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-warehouse"></i><i class="fa-solid fa-square-parking"></i><i class="fa-solid fa-store"></i><i class="fa-solid fa-building-wheat"></i><i class="fa-solid fa-volleyball"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/CLEANLINE-char_simple.png</FOTO>
+    <H3_OPISU>CleanLINE</H3_OPISU>
+    <OPIS_TRESC_PL>Oprawy CleanLINE należą do grupy lamp do zastosowań w miejscach pracy, gdzie ważna jest niezawodność w zakresie oświetlenia. Poprzez wykorzystanie wysokojakościowych materiałów i komponentów mamy gwarancję jakości i żywotności oprawy.                      Obudowa z wysokogatunkowego aluminium wykonana jest Polsce, jak i cały produkcji oprawy. Gładkie, opływowe kształty pozwalają na zachowanie czystości, optyka daje szeroki zakres możliwości, a jednoczenie bardzo dobre parametry UGR.                                                             Oprawa może działać wraz z systemami sterowania 1-10, oraz DALI, DALI2.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>CleanLINE luminaires belong to the group of lamps used in workplaces where reliability in terms of lighting is very important. By using high-quality materials and components, we guarantee the quality and durability of the luminaire. Housing made of high-quality aluminum is made in Poland, as well as the entire luminaire. Smooth shape allows you to keep the luminaire clean, the optics provides a wide range of possibilities and it has very good UGR parameters. The luminaire can work with control systems such as 1-10, and DALI, DALI2</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Les luminaires CleanLINE appartiennent au groupe des lampes à utiliser dans les lieux de travail où la fiabilité en termes d'éclairage est importante. En utilisant des matériaux et des composants de haute qualité, nous garantissons la qualité et la durabilité du luminaire. Le boîtier en aluminium de haute qualité est fabriqué en Pologne, ainsi que toute la production du luminaire. Des formes lisses et profilées vous permettent de rester propre, l'optique offre un large éventail de possibilités, et en même temps de très bons paramètres UGR. Le luminaire peut fonctionner avec les systèmes de contrôle 1-10 et DALI, DALI2.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/06/GL-SMT-01-AD20-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/06/GL-SMT-01-30-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/06/GL-SMT-01-60-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/06/GL-SMT-01-90-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/06/GL-SMT-01-AS20-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>15</PRODUKT_ID>
+    <RODZINA>BSL</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-scale-balanced"></i><i class="fa-solid fa-magnifying-glass"></i><i class="fa-solid fa-shield-heart"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/BSL-char_simple.png</FOTO>
+    <H3_OPISU>Safe LED lighting BSL</H3_OPISU>
+    <OPIS_TRESC_PL><h4> Oświetlenie niskonapięciowe 12V – 24V LED</h4><br/>
+Oprawy stanowiskowe BSL zostały przygotowane w taki sposób, aby zapewnić komfort i bezpieczeństwo w miejscu pracy. Możliwość wyboru odpowiedniego dyfuzora wraz  z wygodnym zawiesiem i wysokim CRI (>80 lub >90) sprawia, że stanowisko będzie dokładnie oświetlone i równocześnie wolne od przykrego olśnienia.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>LED low voltage lighting 12V – 24V
+BSL workstation luminaires have been designed to ensure comfort and safety in the workplace. The ability to choose the diffuser with a comfortable sling and a high CRI (>80 or >90) makes the workplace well illuminated and at the same time free from unpleasant glare.
+</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Eclairage basse tension 12V - 24V LED
+Les luminaires de poste de travail BSL ont été préparés de manière à assurer le confort et la sécurité sur le lieu de travail. La possibilité de choisir le bon diffuseur avec une sangle confortable et un IRC élevé (>80 ou >90) rend le stand bien éclairé et en même temps exempt d'éblouissement désagréable.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2015/11/4-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2015/11/3-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2015/11/2-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2015/11/1-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>16</PRODUKT_ID>
+    <RODZINA>GLARE</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-industry"></i><i class="fa-solid fa-warehouse"></i><i class="fa-solid fa-square-parking"></i><i class="fa-solid fa-shop"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/GLARE-char_simple.png</FOTO>
+    <H3_OPISU>GLARE</H3_OPISU>
+    <OPIS_TRESC_PL>Liniowy High Bay GLARE jest serią lekkich i wytrzymałych (IP66, IK08) opraw liniowych, które mogą być zwieszane na  stalowych linkach lub montowane dostropowo, w tym z   regulowanym  kontem przechyłu. Oprawa GLARE może być zastosowana do oświetlenia obiektów handlowych, garaży i parkingów , magazynów lub obiektów sportowych. Dzięki licznym możliwościom konfiguracji oprawę tą można dopasować do swoich potrzeb. Dostępne są opcje sterowania DALI, 1-10V, czujnik ruchu,PIR,  i to wszystko za pomocą systemu inteligentnej kontroli. Barwa światła  to 4000K  lub 5000K.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>Linear High Bay GLARE is a light and durable (IP66, IK08) linear luminaire that can be suspended on steel cords or ceiling-mounted, including adjustable tilt angle. The GLARE luminaire can be used to illuminate commercial facilities, garages and parking lots, warehouses or sports facilities. Thanks to numerous configuration options, this luminaire can be adapted to your needs. Available control systems are DALI, 1-10V, motion sensor, PIR. The colour temperature is 4000K or 5000K. </OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Linear High Bay GLARE est une série de luminaires linéaires légers et durables (IP66, IK08) qui peuvent être suspendus sur des câbles en acier ou montés au plafond, y compris un angle d'inclinaison réglable. Le luminaire GLARE peut être utilisé pour éclairer des installations commerciales, des garages et des parkings, des entrepôts ou des installations sportives. Grâce à de nombreuses possibilités de configuration, ce luminaire s'adapte à vos besoins. Il existe des options de contrôle DALI, 1-10V, détecteur de mouvement, PIR, et tout cela avec un système de contrôle intelligent. La couleur de la lumière est de 4000K ou 5000K.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/12/glare_f0_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/glare_f3_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/glare_f4_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/glare_f5_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/glare_f6_roz-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>17</PRODUKT_ID>
+    <RODZINA>FLYBUS</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-slash"></i><i class="fa-solid fa-building"></i><i class="fa-solid fa-hotel"></i><i class="fa-solid fa-shop"></i><i class="fa-solid fa-bowl-food"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/FLYBUS-char_simple.png</FOTO>
+    <H3_OPISU>FLYBUS</H3_OPISU>
+    <OPIS_TRESC_PL>FLYBUS to prosta w formie, ale jednocześnie elegancka oprawa do szeroko pojętych przestrzeni użytkowych takich jak biura, hotele, restauracje, sklepy, korytarze czy klatki schodowe. Oprawa wykonana jest z anodowanego profilu aluminiowego, który można zamówić w dowolnym kolorze z palety RAL. Szeroka gama mocy pozwala na dokładne dopasowanie do potrzeb Klienta – FLYBUS może pełnić rolę zarówno głównej oprawy oświetleniowej jak i oświetlenia akcentowego.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>FLYBUS is simple, but at the same time time, elegant luminaire for widely used spaces such as offices, hotels, restaurants, shops, corridors and staircases. The luminaire is made of anoddzed aluminium profile, which can be made in any colour from RAL palette. A wide range of power allows to suit to customers needs - FLYBUS can be both the main luminaire and the accent lighting.</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>FLYBUS est un luminaire de forme simple mais en même temps élégant pour les espaces utilitaires largement compris tels que les bureaux, les hôtels, les restaurants, les magasins, les couloirs et les escaliers. Le luminaire est fabriqué en profilé d'aluminium anodisé, qui peut être commandé dans n'importe quelle couleur de la palette RAL. Une large plage de puissance permet un ajustement précis aux besoins du client - FLYBUS peut agir à la fois comme luminaire principal et comme éclairage d'accentuation.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/08/N-150x150.jpg , https://www.globuslighting.pl/wp-content/uploads/2021/08/W-150x150.jpg , https://www.globuslighting.pl/wp-content/uploads/2021/04/Flybus_rozsyl-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>18</PRODUKT_ID>
+    <RODZINA>3-PHASE TRACK</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-slash"></i><i class="fa-solid fa-house-chimney"></i><i class="fa-solid fa-shop"></i><i class="fa-solid fa-hotel"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/Szynoprzewod-char_simple.png</FOTO>
+    <H3_OPISU>3-PHASE TRACK</H3_OPISU>
+    <OPIS_TRESC_PL>Instalacje z użyciem szynoprzewodów pozwalają na wygodne i niemalże dowolne aranżacje z użyciem opraw oświetleniowych montowanych na szyny 3-fazowe. Dzięki użyciu szynoprzewodów, można w łatwy sposób przearanżować oświetlenie lokalu. Zaletą jest szybkość pierwszej instalacji, oraz szybkość późniejszych ewentualnych zmian. Poza samymi szynoprzewodami, dostępne są akcesoria, łączniki, systemy montażu natynkowego, jak i zwieszanego. Szynoprzewody są głównie stosowane w muzeach, biurach, galeriach handlowych, sklepach, oraz coraz częściej w mieszkaniach prywatnych.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>Installations with such tracks allows convenient and almost any arrangements with luminaires mounted on 3-phase tracks. Thanks to using track lighting, you can easily rearrange the lighting in your place. The advantage is the quickness of the first installation and the quickness of further possible changes. In addition to track lighting, accessories such as connectors, surface and suspended mounting systems are available. Tracks are mainly used in museums, shops, offices, shopping malls and more often in private houses. </OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Les installations avec de tels rails permettent des arrangements pratiques et presque tous avec des luminaires montés sur des rails triphasés. Grâce à l'utilisation d'un éclairage sur rail, vous pouvez facilement réorganiser l'éclairage à votre place. L'avantage est la rapidité de la première installation et la rapidité des modifications ultérieures éventuelles. En plus de l'éclairage sur rail, des accessoires tels que des connecteurs, des systèmes de montage en surface et suspendus sont disponibles. Les rails sont principalement utilisés dans les musées, les magasins, les bureaux, les centres commerciaux et plus souvent dans les maisons privées.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/10/TLD3_fot1Black-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/10/TLL15_SUN_BL-Kopia-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/10/TLHE_FOTO2-Kopia-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>19</PRODUKT_ID>
+    <RODZINA>TL-HE</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-slash"></i><i class="fa-solid fa-shop"></i><i class="fa-solid fa-building"></i><i class="fa-solid fa-house-chimney"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/TL-HE-char_simple.png</FOTO>
+    <H3_OPISU>TL-HE</H3_OPISU>
+    <OPIS_TRESC_PL>TL-HE to liniowa oprawa LED montowana bezpośrednio do szynoprzewodu 3-fazowego. Produkt łączy w sobie cechy klasycznej linii świetlnej szybkiego montażu oraz reflektorów zasilanych poprzez adapter. Takie rozwiązanie pozwala na szybką konfigurację systemu oświetlenia oraz znacznie obniża koszty instalacji. Oprawa charakteryzuje się najwyższą dostępną wydajnością (165 lm/W). Poprzez wbudowany mikroswitch można ustawić moc w zakresie 50,45,40 oraz 35 W.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>TL-HE is a linear LED luminaire mounted directly on 3-phase track. This product combines the features of a classic quick mounting light line and adapter powered spotlights. Such solutions allows quick lighting system configuration and significantly reduces installation costs. The luminaire is characterised by the highest available efficiency (165 lm/W). Through the built-in microswitch you can set the power in the range of 50, 45, 40 and 35 W.</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>TL-HE est un luminaire LED linéaire monté directement sur un rail triphasé. Le produit combine les caractéristiques d'une ligne lumineuse classique à montage rapide et de réflecteurs alimentés par un adaptateur. Cette solution permet une configuration rapide du système d'éclairage et réduit considérablement les coûts d'installation. Le luminaire se caractérise par l'efficacité disponible la plus élevée (165 lm/W). Grâce au micro-interrupteur intégré, vous pouvez régler la puissance dans la plage de 50, 45, 40 et 35 W.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/10/tlhe_90St-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/10/tlhe_asym-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>20</PRODUKT_ID>
+    <RODZINA>SUN-L</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-slash"></i><i class="fa-solid fa-building"></i><i class="fa-solid fa-hotel"></i><i class="fa-solid fa-landmark-dome"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/SUN-L-char_simple.png</FOTO>
+    <H3_OPISU>SUN-L</H3_OPISU>
+    <OPIS_TRESC_PL>Oprawa diodowa SUN-L to propozycja dla klientów, którzy poszukują
+zamienników opraw metalohalogenkowych 70W montowanych na
+szynoprzewodach 3-fazowych. Rozwiązanie jest funkcjonalnym
+zamiennikiem, który dostarcza ekwiwalentną ilość światła przy znacznie zmniejszonym zapotrzebowaniu na energię elektryczną. Oprawa dostępna jest w wielu wariantach – wynikających z kombinacji parametrów.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>The SUN-L LED luminaire is a proposal for customers who are looking for
+replacements for 70W metal halide luminaires mounted on
+3-phase busducts. The solution is functional a replacement that provides an equivalent amount of light with a significantly reduced demand for electricity. The luminaire is available in many variants - resulting from the combination of parameters.</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Le luminaire LED SUN-L est une proposition pour les clients qui recherchent
+remplace les luminaires aux halogénures métalliques de 70 W montés sur
+conduites triphasées. La solution est fonctionnelle
+un remplacement qui fournit une quantité équivalente de lumière avec une demande d'électricité considérablement réduite. Le luminaire est disponible dans de nombreuses variantes - résultant de la combinaison de paramètres.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/10/sun-l-60deg-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/10/sun-l-35deg-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/10/sun-l-25deg-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/10/sun-l-15deg-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>21</PRODUKT_ID>
+    <RODZINA>SUN-S</RODZINA>
+    <ICONY_RODZINY><i class="fa-solid fa-slash"></i><i class="fa-solid fa-building"></i><i class="fa-solid fa-hotel"></i><i class="fa-solid fa-landmark-dome"></i></ICONY_RODZINY>
+    <OPISY_ICON_PL></OPISY_ICON_PL>
+    <OPISY_ICON_ANG></OPISY_ICON_ANG>
+    <OPISY_ICON_FR></OPISY_ICON_FR>
+    <FOTO>produkty_karty_charakter/SUN-S-char_simple.png</FOTO>
+    <H3_OPISU>SUN-S</H3_OPISU>
+    <OPIS_TRESC_PL>Oprawa diodowa SUN-S to propozycja dla klientów, którzy poszukują
+zamienników opraw metalohalogenkowych 70W montowanych na szynoprzewodach 3-fazowych. Rozwiązanie jest funkcjonalnym zamiennikiem, który dostarcza ekwiwalentną ilość światła przy znacznie zmniejszonym zapotrzebowaniu na energię elektryczną.
+Oprawa dostępna jest w wielu wariantach – wynikających z kombinacji parametrów.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>The SUN-S LED luminaire is a proposal for customers who are looking for 
+replacements for 70W metal halide luminaires mounted on
+3-phase lighting tracks. The solution is functional
+replacement that provides an equivalent amount of light 
+with a significantly reduced demand for electricity. 
+The luminaire is available in many variants - resulting from the combination of parameters. 
+</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Le luminaire LED SUN-S est une proposition pour les clients qui recherchent
+remplace les luminaires aux halogénures métalliques de 70 W montés sur
+Rails d'éclairage triphasés. La solution est fonctionnelle
+remplacement qui fournit une quantité équivalente de lumière
+avec une demande d'électricité considérablement réduite.
+Le luminaire est disponible dans de nombreuses variantes - résultant de la combinaison de paramètres.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/10/sum_s_24deg-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI> XXX </PLIK_TABELI>
+  </PRODUKT>
+</OPISY_PRODUKTOW>
