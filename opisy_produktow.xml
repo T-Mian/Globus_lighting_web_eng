@@ -7,12 +7,15 @@
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT>https://www.globuslighting.pl/gl-belus-01-2019/</ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/BELUS-char_simple.png</FOTO>
     <H3_OPISU>Belus</H3_OPISU>
     <OPIS_TRESC_PL>Belka szczelna LED przeznaczona do oświetlania hal produkcyjnych, magazynów i miejsc pracy w pomieszczeniach o wysokości do 8 metrów. Obudowa oprawy BELUS jest wykonana z wysokogatunkowego stopu aluminium, która jednocześnie pełni funkcję radiatora. Zapewnia to optymalną temperaturę pracy LED, co przyczynia się do wydłużenia czasu życia oprawy. Element świetlny oparty jest o liniowy moduł LED o długości 28cm dzięki czemu długość oprawy i emitowany strumień świetlny mogą być precyzyjnie dostosowane do konkretnego zadania.</OPIS_TRESC_PL>
     <OPIS_TRESC_ANG>Tight LED beam designed to illuminate production halls, warehouses and workplaces in rooms with a height of up to 8 meters. The housing of the BELUS luminaire is made of high-quality aluminum alloy, which also acts as a heat sink. This ensures the LED optimum operating temperature, which contributes to extending the lifetime of the luminaire. The light element is based on a linear LED module with a length of 28 cm,  thanks to which the length of the luminaire and the emitted flux can be precisely adjusted to a specific task. </OPIS_TRESC_ANG>
     <OPIS_TRESC_FR>Faisceau LED étroit conçu pour éclairer les halls de production, les entrepôts et les lieux de travail dans des pièces d'une hauteur maximale de 8 mètres. Le boîtier du luminaire BELUS est en alliage d'aluminium de haute qualité, qui sert également de dissipateur thermique. Cela garantit une température de fonctionnement optimale de la LED, ce qui contribue à prolonger la durée de vie du luminaire. L'élément lumineux est basé sur un module LED linéaire d'une longueur de 28 cm, grâce auquel la longueur du luminaire et le flux lumineux émis peuvent être ajustés avec précision à une tâche spécifique.</OPIS_TRESC_FR>
-    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/0-150x150.png,https://www.globuslighting.pl/wp-content/uploads/2023/03/belus_pro_40_st-150x150.png</PFOTOMETRIA>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/0-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/03/belus_pro_40_st-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
     <PLIK_TABELI> XXX </PLIK_TABELI>
   </PRODUKT>
@@ -23,6 +26,9 @@
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT>https://www.globuslighting.pl/gl-belus-02-03-2020/</ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/High-Bay-BELUS-char_simple.png</FOTO>
     <H3_OPISU>High Bay BELUS</H3_OPISU>
     <OPIS_TRESC_PL>Oświetlenie centrum logistycznego
@@ -43,6 +49,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY>https://www.globuslighting.pl/wp-content/uploads/2022/09/GL-SQUBUS-KartaRodziny-2022-ver1.pdf</ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT>https://www.globuslighting.pl/gl-squbus-2020/</ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/High-Bay-SQUBUS-char_simple.png</FOTO>
     <H3_OPISU>High Bay SQUBUS</H3_OPISU>
     <OPIS_TRESC_PL>SQUBUS został stworzony aby bezpośrednio zastąpić pod kątem kształtu i rozmiaru tradycyjne lampy metalohalogenkowe. Szeroki wybór sposobów montażu oraz wysoki stopień ochrony oprawy sprawiają, że oprawa znajduje szerokie zastosowanie nie tylko przy produkcji lub magazynach wysokiego składowania, ale również w obiektach sportowych.</OPIS_TRESC_PL>
@@ -59,6 +68,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY>https://www.globuslighting.pl/gl-sqr</ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/High-Bay-SQR-char_simple.png</FOTO>
     <H3_OPISU>SQR</H3_OPISU>
     <OPIS_TRESC_PL>Aluminiowa, modułowa oprawa typu high bay. SQR posiada szeroki zakres mocy, różne kąty rozsyłu, IP66 oraz IK10. Dedykowana jest to zastosowań przemysłowych takich jak oświetlenie magazynów lub hal produkcyjnych. Sprawdzi się także w halach sportowych. Może być montowana na zwieszanych linkach, dostropowo lub na regulowanym uchwycie do ściany. Opcjonalnie dostępne jest sterowanie DALI, Zigbee, mikrofalowy czujnik ruchu lub czujnik PIR.</OPIS_TRESC_PL>
@@ -75,6 +87,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY>https://www.globuslighting.pl/wp-content/uploads/2022/12/GL-HERBUS-TREND_karta_rodziny_2022-2023.pdf</ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/HERBUS-TREND-char_simple.png</FOTO>
     <H3_OPISU>Oprawa hermetyczna HERBUS TREND</H3_OPISU>
     <OPIS_TRESC_PL>Oprawa Herbus TREND to oprawa uniwersalna, szczególnie stosowana tam gdzie istnieje ryzyko zapylenia, wilgotności i uszkodzenia mechanicznego. Ze względu na szczelność na poziomie IP66, oraz odporność na uderzenia IK10 idealnie nadaje się do zastosowań technicznych. Uniwersalny kształt niska waga dają wygodę i pozwalają na szybki montaż.</OPIS_TRESC_PL>
@@ -91,6 +106,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT>https://www.globuslighting.pl/gl-herbus-2020/</ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/HERBUS-ECO-TURBO-char_simple.png</FOTO>
     <H3_OPISU>Oprawa hermetyczna HERBUS</H3_OPISU>
     <OPIS_TRESC_PL>Oprawy hermetyczne Herbus to zamienniki tradycyjnych opraw na świetlówki fluorescencyjne o mocach 2x36W, 2x58W stosowanych w przemyśle. Jest to rozwiązanie skierowane w obszary, gdzie istotna jest duża wydajność świetlna oprawy przy stosunkowo niewielkich kosztach zakupu. Obudowa o uniwersalnym designie ma wysoką szczelność IP66 i wykonana jest z trwałego tworzywa ABS z kloszem z poliwęglanu. Jest to materiał nietoksyczny, samogasnący, gwarantując podwyższoną odporność na uszkodzenia. Klosz mleczny z poliwęglanu gwarantujący równomierny i optymalny sposób dystrybucji światła. Klipsy wykonano ze stali nierdzewnej. Obszary zastosowania: hale produkcyjne, hale magazynowe, budynki gospodarcze, pomieszczenia techniczne, korytarze i przejścia, parkingi podziemne</OPIS_TRESC_PL>
@@ -107,6 +125,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/HB-U-char_simple.png</FOTO>
     <H3_OPISU>HB-U</H3_OPISU>
     <OPIS_TRESC_PL>Okrągłe oprawy typu high bay występujące w trzech wariantach mocy: 100W, 150W, 200W,   rozsył  110 stopni. Oprawy HB-U dedykowane są do zastosowań przemysłowych m.in. w halach produkcyjnych czy magazynach. HB-U są wykonane z aluminium pomalowanego proszkowo. Możliwe są dwa sposoby montażu: zwieszany lub za pomocą regulowanego uchwytu.</OPIS_TRESC_PL>
@@ -123,6 +144,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/HB-U2-char_simple.png</FOTO>
     <H3_OPISU>HB-U2</H3_OPISU>
     <OPIS_TRESC_PL>HB-U2 to ekonomiczne i kompaktowe oświetlenie z zoptymalizowaną konstrukcją  radiatora. High bay HB-U2 to wyjątkowa oprawa z  możliwością wyboru kąta rozsyłu światła, wyboru mocy oprawy oraz wyboru barwy światła( 4000K lub 5000K). Opcje  sterowania to 1-10V, DALI, Casambi (technologia bezprzewodowa Bluetooth) oraz dodatkowo czujniki ruchu w tym również czujnik PIR. Zarówno moduł Casambi jak i czujniki  występują w formie wygodnego pluginu, dając przy tym pełną paletę pożądanych przez klienta funkcjonalności. Ponadto występuje również możliwość zmiany rozsyłu światła poprzez użycie dodatkowych odbłyśników, co jest szczególnie przydatne przy bardziej wymagających projektach oświetlenia.</OPIS_TRESC_PL>
@@ -139,6 +163,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/HB-CLEAN-char_simple.png</FOTO>
     <H3_OPISU>HB-CLEAN</H3_OPISU>
     <OPIS_TRESC_PL>Oprawy typu high-bay HB-CLEAN  z gładką, ułatwiającą utrzymanie czystości powierzchnią oprawy. Dzięki estetycznemu wykonaniu sprawdzą się zarówno w obiektach przemysłu oraz przetwórstwa spożywczego jak i w wysokich pomieszczeniach obiektów użyteczności publicznej np.  w centrach handlowych lub konferencyjnych. HB-CLEAN występują w wariantach bez sterowania oraz ze sterowaniem DALI, Zigbee, na czujnik ruchu. Mogą być wyposażone w soczewki  o różnych kątach rozsyłu lub klosze ograniczające UGR. Istnieją różne warianty montażu zwieszanego.</OPIS_TRESC_PL>
@@ -155,6 +182,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/HB-MINI-char_simple.png</FOTO>
     <H3_OPISU>HB-MINI</H3_OPISU>
     <OPIS_TRESC_PL>Oprawa HB-MINI cechuje się niższymi mocami znamionowymi (30W, 50W i 75W). Obudowa oprawy jest wykonana z malowanego proszkowo na kolor biały stopu aluminium, a klosz z transparentnego poliwęglanu (PC).  HB-MINI może być stosowana zarówno w obiektach przemysłowych, magazynach jak i w wysokich holach galerii handlowych, szkół czy sal konferencyjnych. Oprawy z tej serii mogą zostać wyposażone w sterowane 1-10V lub DALI. W celu maksymalnego ograniczenia efektu olśnienia do oprawy można dodać pokrywę klosza wykonaną z poliwęglanu.</OPIS_TRESC_PL>
@@ -171,6 +201,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/SOLID-char_simple.png</FOTO>
     <H3_OPISU>SOLID</H3_OPISU>
     <OPIS_TRESC_PL>Odporna na uderzenia i chemikalia oprawa przemysłowa LED. Obudowa jest wykonana ze stali nierdzewnej austenitycznej AISI 304, a przesłona z bezpiecznego, satynowanego szkła hartowanego. Oprawa GL-SOLID może być stosowana m.in. w obiektach rolniczych, na fermach hodowlanych, w przemyśle chemicznym czy w miejscach występowania amoniaku      i kwasów organicznych.</OPIS_TRESC_PL>
@@ -187,6 +220,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/TUBUS-char_simple.png</FOTO>
     <H3_OPISU>TUBUS</H3_OPISU>
     <OPIS_TRESC_PL>Oprawy te są odporne na działanie amoniaku, pył i wodę. Z racji szczelności IP69K cechuje je odporność na mycie pod ciśnieniem 100 bar w temperaturze 80º, jednoczenie oprawę charakteryzują wysokie parametry odporności na uderzenia IK10. Oprawy TUBUS mogą być zwieszane na stalowych linkach lub montowane bezpośrednio do powierzchni.</OPIS_TRESC_PL>
@@ -203,6 +239,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/LINUS-char_simple.png</FOTO>
     <H3_OPISU>LED linear luminaires LINUS</H3_OPISU>
     <OPIS_TRESC_PL>LINUS jest serią lekkich i wytrzymałych (IP65, IK08) opraw liniowych, które mogą być zwieszane na regulowanych, stalowych linkach lub montowane dostropowo. Oprawa LINUS może być zastosowana do oświetlenia obiektów handlowych, garaży, magazynów lub warsztatów. Dzięki licznym możliwościom konfiguracji oprawę tą można dopasować do swoich potrzeb. Może być ona zasilana jednostronnie lub przelotowo. Dostępne są opcje sterowania DALI, Zigbee, 1-10V, czujnik ruchu, czujnik natężenia oświetlenia. Barwa światła  może zostać dobrana w zakresie od 3000K do 6500K.</OPIS_TRESC_PL>
@@ -219,6 +258,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/CLEANLINE-char_simple.png</FOTO>
     <H3_OPISU>CleanLINE</H3_OPISU>
     <OPIS_TRESC_PL>Oprawy CleanLINE należą do grupy lamp do zastosowań w miejscach pracy, gdzie ważna jest niezawodność w zakresie oświetlenia. Poprzez wykorzystanie wysokojakościowych materiałów i komponentów mamy gwarancję jakości i żywotności oprawy.                      Obudowa z wysokogatunkowego aluminium wykonana jest Polsce, jak i cały produkcji oprawy. Gładkie, opływowe kształty pozwalają na zachowanie czystości, optyka daje szeroki zakres możliwości, a jednoczenie bardzo dobre parametry UGR.                                                             Oprawa może działać wraz z systemami sterowania 1-10, oraz DALI, DALI2.</OPIS_TRESC_PL>
@@ -235,6 +277,9 @@ Les luminaires High Bay BELUS composés de deux faisceaux LED serrés ont été 
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/BSL-char_simple.png</FOTO>
     <H3_OPISU>Safe LED lighting BSL</H3_OPISU>
     <OPIS_TRESC_PL><h4> Oświetlenie niskonapięciowe 12V – 24V LED</h4><br/>
@@ -255,6 +300,9 @@ Les luminaires de poste de travail BSL ont été préparés de manière à assur
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/GLARE-char_simple.png</FOTO>
     <H3_OPISU>GLARE</H3_OPISU>
     <OPIS_TRESC_PL>Liniowy High Bay GLARE jest serią lekkich i wytrzymałych (IP66, IK08) opraw liniowych, które mogą być zwieszane na  stalowych linkach lub montowane dostropowo, w tym z   regulowanym  kontem przechyłu. Oprawa GLARE może być zastosowana do oświetlenia obiektów handlowych, garaży i parkingów , magazynów lub obiektów sportowych. Dzięki licznym możliwościom konfiguracji oprawę tą można dopasować do swoich potrzeb. Dostępne są opcje sterowania DALI, 1-10V, czujnik ruchu,PIR,  i to wszystko za pomocą systemu inteligentnej kontroli. Barwa światła  to 4000K  lub 5000K.</OPIS_TRESC_PL>
@@ -271,6 +319,9 @@ Les luminaires de poste de travail BSL ont été préparés de manière à assur
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/FLYBUS-char_simple.png</FOTO>
     <H3_OPISU>FLYBUS</H3_OPISU>
     <OPIS_TRESC_PL>FLYBUS to prosta w formie, ale jednocześnie elegancka oprawa do szeroko pojętych przestrzeni użytkowych takich jak biura, hotele, restauracje, sklepy, korytarze czy klatki schodowe. Oprawa wykonana jest z anodowanego profilu aluminiowego, który można zamówić w dowolnym kolorze z palety RAL. Szeroka gama mocy pozwala na dokładne dopasowanie do potrzeb Klienta – FLYBUS może pełnić rolę zarówno głównej oprawy oświetleniowej jak i oświetlenia akcentowego.</OPIS_TRESC_PL>
@@ -287,6 +338,9 @@ Les luminaires de poste de travail BSL ont été préparés de manière à assur
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/Szynoprzewod-char_simple.png</FOTO>
     <H3_OPISU>3-PHASE TRACK</H3_OPISU>
     <OPIS_TRESC_PL>Instalacje z użyciem szynoprzewodów pozwalają na wygodne i niemalże dowolne aranżacje z użyciem opraw oświetleniowych montowanych na szyny 3-fazowe. Dzięki użyciu szynoprzewodów, można w łatwy sposób przearanżować oświetlenie lokalu. Zaletą jest szybkość pierwszej instalacji, oraz szybkość późniejszych ewentualnych zmian. Poza samymi szynoprzewodami, dostępne są akcesoria, łączniki, systemy montażu natynkowego, jak i zwieszanego. Szynoprzewody są głównie stosowane w muzeach, biurach, galeriach handlowych, sklepach, oraz coraz częściej w mieszkaniach prywatnych.</OPIS_TRESC_PL>
@@ -303,6 +357,9 @@ Les luminaires de poste de travail BSL ont été préparés de manière à assur
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/TL-HE-char_simple.png</FOTO>
     <H3_OPISU>TL-HE</H3_OPISU>
     <OPIS_TRESC_PL>TL-HE to liniowa oprawa LED montowana bezpośrednio do szynoprzewodu 3-fazowego. Produkt łączy w sobie cechy klasycznej linii świetlnej szybkiego montażu oraz reflektorów zasilanych poprzez adapter. Takie rozwiązanie pozwala na szybką konfigurację systemu oświetlenia oraz znacznie obniża koszty instalacji. Oprawa charakteryzuje się najwyższą dostępną wydajnością (165 lm/W). Poprzez wbudowany mikroswitch można ustawić moc w zakresie 50,45,40 oraz 35 W.</OPIS_TRESC_PL>
@@ -319,6 +376,9 @@ Les luminaires de poste de travail BSL ont été préparés de manière à assur
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/SUN-L-char_simple.png</FOTO>
     <H3_OPISU>SUN-L</H3_OPISU>
     <OPIS_TRESC_PL>Oprawa diodowa SUN-L to propozycja dla klientów, którzy poszukują
@@ -343,6 +403,9 @@ un remplacement qui fournit une quantité équivalente de lumière avec une dema
     <OPISY_ICON_PL></OPISY_ICON_PL>
     <OPISY_ICON_ANG></OPISY_ICON_ANG>
     <OPISY_ICON_FR></OPISY_ICON_FR>
+    <ADRES_KARTY_RODZINY></ADRES_KARTY_RODZINY>
+    <ADRES_ZIP_LDT></ADRES_ZIP_LDT>
+    <DODATKOWE_DANE_DLA_INFO></DODATKOWE_DANE_DLA_INFO>
     <FOTO>produkty_karty_charakter/SUN-S-char_simple.png</FOTO>
     <H3_OPISU>SUN-S</H3_OPISU>
     <OPIS_TRESC_PL>Oprawa diodowa SUN-S to propozycja dla klientów, którzy poszukują
