@@ -159,3 +159,93 @@ function schowajHint(){
   document.getElementById("hint").innerHTML="";
 }
 
+function closeMenu(){
+  let nav=document.getElementById("navElement")
+  nav.style.visibility = "hidden"
+  document.getElementById("burgerMenu").style.visibility="visible"
+}
+
+function showMenu(){
+  let nav=document.getElementById("navElement")
+  let buger=document.getElementById("ikona_bars_staget")
+  buger.style.visibility = "visible"
+  nav.style.visibility = "visible"
+  document.getElementById("burgerMenu").style.visibility="hidden"
+}
+var flaga_menu = false;
+
+function togleMenu(){
+  console.log("start "+flaga_menu)
+  if (flaga_menu == false){
+    let nav=document.getElementById("navElement")
+    let burger=document.getElementById("burgerMenu")
+    let burger_stak=document.getElementById("ikona_bars_staget")
+    burger.style.visibility = "visible"
+    nav.style.visibility = "hidden"
+    burger_stak.style.visibility = "hidden"
+    
+  }
+  if(flaga_menu){
+    let burger_stak=document.getElementById("ikona_bars_staget")
+    let nav=document.getElementById("navElement")
+    let burger=document.getElementById("burgerMenu")
+    nav.style.visibility = "visible"
+    burger_stak.style.visibility = "visible"
+    burger.style.visibility = "hidden"
+  }
+  
+  flaga_menu=!flaga_menu;
+  console.log("zmiana "+flaga_menu)
+}
+togleMenu()
+var flaga_speedProdukt=false;
+
+function speedProdukt() {
+  
+  let speedProdukt=document.getElementById("speedProdukt");
+  let speedProdukt_led=document.getElementById("speedProdukt_led");
+  let speedProdukt_voltaik=document.getElementById("speedProdukt_voltaik");
+  let speedProdukt_station=document.getElementById("speedProdukt_station");
+  let standart_icon='<i class="fa-solid fa-tags"></i>'
+  let close_icon = '<i class="fa-regular fa-circle-xmark"></i>'
+  
+  if (flaga_speedProdukt==false){
+    speedProdukt_led.style.visibility = "hidden"
+    speedProdukt_led.style.transition="left 1s,opacity 1s,visibility 500ms"
+    speedProdukt_led.style.opacity ="0"
+    speedProdukt_led.style.left ="10px"
+    speedProdukt_led.style.zIndex="60"
+    speedProdukt_voltaik.style.visibility = "hidden"
+    speedProdukt_voltaik.style.opacity ="0"
+    speedProdukt_voltaik.style.left ="10px"
+    speedProdukt_voltaik.style.top="190px"
+    speedProdukt_voltaik.style.zIndex="60"
+    speedProdukt_voltaik.style.transition="left 1s,top 1s,opacity 1s,visibility 1s"
+    speedProdukt_station.style.visibility = "hidden"
+    speedProdukt_station.style.opacity ="0"
+    speedProdukt_station.style.top="190px"
+    speedProdukt_station.style.zIndex="60"
+    speedProdukt_station.style.transition="top 1s,opacity 1s,visibility 1s"
+    speedProdukt.innerHTML=standart_icon
+  }else {
+    speedProdukt.innerHTML=close_icon
+    speedProdukt_led.style.visibility = "visible"
+    speedProdukt_led.style.opacity ="1"
+    speedProdukt_led.style.left ="150px"
+    speedProdukt_led.style.zIndex="100"
+    speedProdukt_led.style.transition="left top 1s,opacity 1s"
+    speedProdukt_voltaik.style.visibility = "visible"
+    speedProdukt_voltaik.style.opacity ="1"
+    speedProdukt_voltaik.style.left ="100px"
+    speedProdukt_voltaik.style.top="290px"
+    speedProdukt_voltaik.style.zIndex="100"
+    speedProdukt_voltaik.style.transition="left 1s,top 1s,opacity 1s"
+    speedProdukt_station.style.visibility = "visible"
+    speedProdukt_station.style.opacity ="1"
+    speedProdukt_station.style.top="350px"
+    speedProdukt_station.style.zIndex="100"
+    speedProdukt_station.style.transition="top 1s,opacity 1s"
+  }
+  flaga_speedProdukt=!flaga_speedProdukt
+}
+speedProdukt()

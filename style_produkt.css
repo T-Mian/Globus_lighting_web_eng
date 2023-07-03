@@ -230,7 +230,7 @@ box-sizing: border-box;
   opacity: 1;
   transform: translate3d(0%, -30%, 100px);
 }
-
+/*
 .scrool_produkt {
   list-style: none;
   width: min(90vw, 51rem);
@@ -407,7 +407,7 @@ box-sizing: border-box;
     left: 30.8rem;
   }
 }
-
+*/
 .zastosowania_zgrupowanie_kart{
   display: flex;
   flex-wrap: wrap;

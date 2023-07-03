@@ -52,15 +52,29 @@
             onmouseout="this.src='svg/logo_Globus_lighting_FECB00.svg'">
         </a>
       </div>
+      <div id="burgerMenu" onclick="togleMenu()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+        <i class="fa-solid fa-bars-staggered"></i>
+      </div>
+      <div id="speedProdukt" onclick="speedProdukt()"><i class="fa-solid fa-tags"></i></div>
+      <a href="products_led.html">
+        <div id="speedProdukt_led"> <i class="fa-regular fa-lightbulb"></i> </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_voltaik"><i class="fa-solid fa-solar-panel"></i> </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_station"><i class="fa-solid fa-charging-station fa-flip-horizontal"></i> </div>
+      </a>
       <!-- sekcja z nav -->
-
-       <nav>
-        <!--Navigation-->
-        <ul class="menu" style="margin-left:10%;">
+      <nav id="navElement" style="visibility: hidden;" >
+        <ul class="menu">
           <li>
-            <a href="home.html">
+            <a href="index.html">
               <i class="fa-solid fa-house"></i>
-              <span>Home</span>
+              Home
             </a>
           </li>
           <li class="dropdown_menu">
@@ -72,13 +86,21 @@
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="products_led.html">LED products</a>
-              <a href="page_constr.html">Industrial photovoltaics</a>
-              <a href="page_constr.html">Car chargers</a>
-              <a href="page_constr.html">LED products catalogue</a>
+              <a href="products_led.html">
+                LED products
+              </a>
+              <a href="page_constr.html">
+                Industrial photovoltaics
+              </a>
+              <a href="page_constr.html">
+                Car chargers
+              </a>
+              <a href="page_constr.html">
+                LED products catalogue
+              </a>
             </div>
           </li>
-          <li class="dropdown_menu" style="left:-5px;">
+          <li class="dropdown_menu">
             <a href="page_constr.html">
               <i class="fa-solid fa-pen-ruler"></i>
               <span>
@@ -87,33 +109,43 @@
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="page_constr.html">Industrial lighting</a>
-              <a href="page_constr.html">Street lighting</a>
-              <a href="page_constr.html">Hotel lighting</a>
-              <a href="page_constr.html"> Office lighting </a>
-              <a href="page_constr.html"> Commercial facilities lighting </a>
-              <a href="page_constr.html"> Sports facilities lighting </a>
-              <span class="side_menu">
-                <a href="page_constr.html">
-                  Architectural lighting
-                  <i class="fa-solid fa-caret-right"></i>
-                  <div class="side-content">
-                    <a href="page_constr.html">Monuments lighting</a>
-                    <a href="page_constr.html">Facade lighting</a>
-                    <a href="page_constr.html">Park ang garden lighting</a>
-                    <a href="page_constr.html"> Parking lighting</a>
-                  </div>
-                </a>
-              </span>
-              <a href="page_constr.html"> Workshop lighting </a>
-              <a href="page_constr.html"> Explosion proof lighting </a>
-              <a href="page_constr.html"> Lighting audit </a>
+              <a href="page_constr.html">
+                Industrial lighting</a>
+              <a href="page_constr.html">
+                Street lighting</a>
+              <a href="page_constr.html">
+                Hotel lighting</a>
+              <a href="page_constr.html">
+                Office lighting </a>
+              <a href="page_constr.html">
+                Commercial facilities lighting </a>
+              <a href="page_constr.html">
+                Sports facilities lighting </a>
+              <a href="page_constr.html">
+                Architectural lighting</a>
+              <a href="page_constr.html">
+                Monuments lighting</a>
+              <a href="page_constr.html">
+                Facade lighting</a>
+              <a href="page_constr.html">
+                Park ang garden lighting</a>
+              <a href="page_constr.html">
+                Parking lighting</a>
+              <a href="page_constr.html">
+                Workshop lighting </a>
+              <a href="page_constr.html">
+                Explosion proof lighting </a>
+              <a href="page_constr.html">
+                Lighting audit </a>
             </div>
           </li>
-
-          <li style="left:5px;"><a href="financing.html"><i class="fa-solid fa-dollar-sign"></i> <span>Financing </span> </a></li>
-
-          <li class="dropdown_menu" style="left:5px;">
+          <li>
+            <a href="financing.html">
+              <i class="fa-solid fa-dollar-sign"></i>
+              Financing
+            </a>
+          </li>
+          <li class="dropdown_menu">
             <a href="page_constr.html">
               <i class="fa-solid fa-landmark-dome"></i>
               <span>
@@ -122,31 +154,45 @@
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="page_constr.html">Main Railway Station in Wroclaw</a>
-              <a href="page_constr.html">Mondelez</a>
-              <a href="page_constr.html"> Siegienia Aubi </a>
-              <a href="page_constr.html"> Stradom </a>
-              <a href="page_constr.html"> Orlik football field </a>
-              <a href="page_constr.html"> Glassworks lighting </a>
-              <a href="page_constr.html"> Production halls lighting </a>
-              <a href="page_constr.html"> Opakofarb </a>
-              <a href="page_constr.html">City Forum Archicom</a>
-              <a href="page_constr.html">LG Chem Magazine</a>
-              <a href="page_constr.html">Lorenz Bahlsen Magazine</a>
+              <a href="page_constr.html">
+                Main Railway Station in Wroclaw
+              </a>
+              <a href="page_constr.html">
+                Mondelez</a>
+              <a href="page_constr.html">
+                Siegienia Aubi </a>
+              <a href="page_constr.html">
+                Stradom </a>
+              <a href="page_constr.html">
+                Orlik football field </a>
+              <a href="page_constr.html">
+                Glassworks lighting </a>
+              <a href="page_constr.html">
+                Production halls lighting </a>
+              <a href="page_constr.html">
+                Opakofarb </a>
+              <a href="page_constr.html">
+                City Forum Archicom</a>
+              <a href="page_constr.html">
+                LG Chem Magazine</a>
+              <a href="page_constr.html">
+                Lorenz Bahlsen Magazine</a>
             </div>
           </li>
+          <li>
+            <a href="page_constr.html">
+              <i class="fa-solid fa-blog"></i>
+              Blog
+            </a>
           </li>
-          <li><a href="page_constr.html"><i class="fa-solid fa-blog"></i> <span>Blog </span></a></li>
-          <li class="dropdown_menu" style="left:-15px;">
+          <li class="dropdown_menu">
             <a href="page_constr.html">
               <i class="fa-solid fa-passport"></i>
               About us
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="page_constr.html">
-                Career
-              </a>
+              <a href="page_constr.html">Career</a>
             </div>
           </li>
           <li>
@@ -155,13 +201,15 @@
               Contact
             </a>
           </li>
+          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-xmark"></i></li>
         </ul>
       </nav>
     </div>
+
   </section>
 
   <!--sektor Zastosowań  -->
-  <section>
+  <section style="margin-top:3%;">
     <div id="zastosowanie_produkt">
 
       <a id="produkt_industr" href="#zastosowanie_produkt" title="Industrial halls and warehouses"
