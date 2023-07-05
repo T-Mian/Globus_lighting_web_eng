@@ -12,6 +12,7 @@
 @media screen and (max-width: 600px) {
   .column_produkt_led {
   width: 100%;
+
   }
 }
 
@@ -53,12 +54,10 @@
   flex-wrap: wrap;
   align-items: flex-end;
 }
-
 #photometry img {
   margin:2%;
   border-radius: 15px;
   max-width: 15%;
-
 }
 
 .produkt_pod_tematy{

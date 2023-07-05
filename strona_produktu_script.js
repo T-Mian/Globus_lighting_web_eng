@@ -17,7 +17,7 @@ xhttp.onreadystatechange = function() {
     console.log(this.status)
   }
 };
-xhttp.open("GET", "opisy_produktow.xml",true);
+xhttp.open("GET", "xml/opisy_produktow.xml",true);
 xhttp.send();
 
 var id_pr = 0

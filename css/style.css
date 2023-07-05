@@ -1050,7 +1050,7 @@ footer{
 .back_baner {
 	width: 100%;
 	height: 100%;
-	background-image: url("foto/pexels-amar-saleem-294560.jpg");
+	background-image: url("../foto/pexels-amar-saleem-294560.jpg");
   /*background: linear-gradient( #fecb00, #ff0058);*/
   background-size: cover;
 	background-position: left top;

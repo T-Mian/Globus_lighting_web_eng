@@ -7,9 +7,6 @@
     <CATEGORIA>_industr_carts</CATEGORIA>
     <FLAGA>1</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
-    <OPIS_PL>Belka szczelna LED przeznaczona do oświetlania hal produkcyjnych, magazynów i miejsc pracy w pomieszczeniach o wysokości do 8 metrów. Obudowa oprawy BELUS jest wykonana z wysokogatunkowego stopu aluminium, która jednocześnie pełni funkcję radiatora. Zapewnia to optymalną temperaturę pracy LED, co przyczynia się do wydłużenia czasu życia oprawy. Element świetlny oparty jest o liniowy moduł LED o długości 28cm dzięki czemu długość oprawy i emitowany strumień świetlny mogą być precyzyjnie dostosowane do konkretnego zadania.</OPIS_PL>
-    <OPIS_ANG>Tight LED beam designed to illuminate production halls, warehouses and workplaces in rooms with a height of up to 8 meters. The housing of the BELUS luminaire is made of high-quality aluminum alloy, which also acts as a heat sink. This ensures the optimum operating temperature of the LED, which contributes to extending the lifetime of the luminaire. The light element is based on a linear LED module with a length of 28 cm, thanks to which the length of the luminaire and the emitted luminous flux can be precisely adjusted to a specific task.</OPIS_ANG>
-    <OPIS_FR>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</OPIS_FR>
     <PLIK_DODATKOWY>X</PLIK_DODATKOWY>
   </CARTS>
   <CARTS>
@@ -473,7 +470,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>54</NUMER_ID>
-    <RODZINA>FL-Max</RODZINA>
+    <RODZINA>FL-MAX</RODZINA>
     <ALT>Naświetlacze dużej mocy FL-Max</ALT>
     <CATEGORIA>_sport_zew_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
@@ -536,7 +533,7 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>61</NUMER_ID>
-    <RODZINA>Dlos</RODZINA>
+    <RODZINA>DLOS</RODZINA>
     <ALT>Downlight Dlos</ALT>
     <CATEGORIA>_ofice_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
@@ -644,8 +641,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>73</NUMER_ID>
-    <RODZINA>Hori-CAN</RODZINA>
-    <ALT>Uprawa marihuany leczniczej Hori</ALT>
+    <RODZINA>HORI-CAN</RODZINA>
+    <ALT>Cultivation of medicinal marijuana Hori</ALT>
     <CATEGORIA>_agro_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
@@ -653,8 +650,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>74</NUMER_ID>
-    <RODZINA>Hori-VEG</RODZINA>
-    <ALT>Uprawa warzyw i owoców Hori</ALT>
+    <RODZINA>HORI-VEG</RODZINA>
+    <ALT>Cultivation of vegetables and fruits Hori</ALT>
     <CATEGORIA>_agro_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>
@@ -662,8 +659,8 @@
   </CARTS>
   <CARTS>
     <NUMER_ID>75</NUMER_ID>
-    <RODZINA>Hori-FLO</RODZINA>
-    <ALT>Uprawa kwiatów Hori</ALT>
+    <RODZINA>HORI-FLO</RODZINA>
+    <ALT>Growing flowers Hori</ALT>
     <CATEGORIA>_agro_carts</CATEGORIA>
     <FLAGA>3</FLAGA>
     <STRONA_WEB>strona_produktu_led</STRONA_WEB>

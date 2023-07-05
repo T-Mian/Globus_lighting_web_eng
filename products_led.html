@@ -8,8 +8,8 @@
   <meta name="description" content="LED lamps, industrial lamps, office lamps, lamps for cold rooms and boiler rooms, LED luminaires for sports facilities, roads and parks">
   <meta name="keywords" content="LED,industry,LED ceiling,office led,architectural led">
   <title>Products - LED luminaires and lighting systems</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
-  <link href="style_produkt.css" rel="stylesheet" type="text/css" />
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/style_produkt.css" rel="stylesheet" type="text/css" />
   <link rel="shortcut icon" href="foto/Favikon_globus_tru.png">
   <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
@@ -40,6 +40,7 @@
       <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
     </div>
   </section>
+  
 
   <!--sekcjia dla menu  -->
   <section>
@@ -212,7 +213,7 @@
   <section style="margin-top:3%;">
     <div id="zastosowanie_produkt">
 
-      <a id="produkt_industr" href="#zastosowanie_produkt" title="Industrial halls and warehouses"
+      <a id="produkt_industr" href="#_industr" title="Industrial halls and warehouses"
         onclick="zminaKategorii('Industrial halls and warehouses','produkt_industr')"
         onmouseenter="pokazHint('Industrial halls and warehouses')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 576 512">
@@ -222,7 +223,7 @@
         </svg>
       </a>
 
-      <a id="produkt_line" href="#zastosowanie_produkt" title="Linear and rail luminaires"
+      <a id="produkt_line" href="#_line" title="Linear and rail luminaires"
         onclick="zminaKategorii('Linear and rail luminaires','produkt_line')"
         onmouseenter="pokazHint('Linear and rail luminaires')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
@@ -232,7 +233,7 @@
         </svg>
       </a>
 
-      <a id="produkt_tepmer" href="#zastosowanie_produkt" title="Luminaires for high and low temperatures"
+      <a id="produkt_tepmer" href="#_tepmer" title="Luminaires for high and low temperatures"
         onclick="zminaKategorii('Luminaires for high and low temperatures','produkt_tepmer')"
         onmouseenter="pokazHint('Luminaires for high and low temperatures')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 512 512">
@@ -242,7 +243,7 @@
         </svg>
       </a>
 
-      <a id="produkt_specjal" href="#zastosowanie_produkt" title="Specialist lighting"
+      <a id="produkt_specjal" href="#_specjal" title="Specialist lighting"
         onclick="zminaKategorii('Specialist lighting','produkt_specjal')"
         onmouseenter="pokazHint('Specialist lighting')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 576 512">
@@ -252,7 +253,7 @@
         </svg>
       </a>
 
-      <a id="produkt_ex" href="#zastosowanie_produkt" title="Explosion-proof fixtures"
+      <a id="produkt_ex" href="#_ex" title="Explosion-proof fixtures"
         onclick="zminaKategorii('Explosion-proof fixtures','produkt_ex')"
         onmouseenter="pokazHint('Explosion-proof fixtures')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 576 512">
@@ -262,7 +263,7 @@
         </svg>
       </a>
 
-      <a id="produkt_zewenetrz" href="#zastosowanie_produkt" title="External lighting"
+      <a id="produkt_zewenetrz" href="#_zewenetrz" title="External lighting"
         onclick="zminaKategorii('External lighting','produkt_zewenetrz')" onmouseenter="pokazHint('External lighting')"
         onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
@@ -273,7 +274,7 @@
 
       </a>
 
-      <a id="produkt_sport_zew" href="#zastosowanie_produkt" title="Sports facilities and outdoor areas"
+      <a id="produkt_sport_zew" href="#_sport_zew" title="Sports facilities and outdoor areas"
         onclick="zminaKategorii('Sports facilities and outdoor areas','produkt_sport_zew')"
         onmouseenter="pokazHint('Sports facilities and outdoor areas')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
@@ -284,7 +285,7 @@
 
       </a>
 
-      <a id="produkt_ofice" href="#zastosowanie_produkt" title="Offices and social rooms"
+      <a id="produkt_ofice" href="#_ofice" title="Offices and social rooms"
         onclick="zminaKategorii('Offices and social rooms','produkt_ofice')"
         onmouseenter="pokazHint('Offices and social rooms')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
@@ -294,7 +295,7 @@
         </svg>
       </a>
 
-      <a id="produkt_agro" href="#zastosowanie_produkt" title="Fixtures for growing plants"
+      <a id="produkt_agro" href="#_agro" title="Fixtures for growing plants"
         onclick="zminaKategorii('Fixtures for growing plants','produkt_agro')"
         onmouseenter="pokazHint('Fixtures for growing plants')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 512 512">
@@ -304,7 +305,7 @@
         </svg>
       </a>
 
-      <a id="produkt_archit" href="#zastosowanie_produkt" title="Architectural lighting"
+      <a id="produkt_archit" href="#_archit" title="Architectural lighting"
         onclick="zminaKategorii('Architectural lighting','produkt_archit')"
         onmouseenter="pokazHint('Architectural lighting')" onmouseleave="schowajHint()">
         <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 512 512">
@@ -340,14 +341,16 @@
     </span>
     <em id="hint"></em>
   </h2>
+  
   <section class="content_wraper" style="text-align: center;z-index:8;">
 
     <!-- sektor dla produktów -->
     <section class="body_produkt" id="alfa">
+      
       <!-- przepysl_magazyn  -->
       <div id="_industr" class="zastosowania_zgrupowanie_kart">
 
-        <h2 class="category_produkt" style="margin-top: -50px;">
+        <h2 class="category_produkt"  style="margin-top: -50px;" >
           <i class="fa-solid fa-industry"></i>
         </h2>
         <!--carts -->
@@ -478,10 +481,12 @@
       </div>
     </div>
   </section>
+  
   </section>
 
   <script src="script_tworzenie_kart_produktu.js"></script>
   <script src="script.js"></script>
+
 </body>
 
 </html>
