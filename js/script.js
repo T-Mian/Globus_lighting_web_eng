@@ -1,9 +1,5 @@
 
 
-//import url("https://unpkg.co/gsap@3/dist/gsap.min.js")
-// guzik Go to top "Top"
-// Get the button:
-
 let mybutton = document.getElementById("myBtn");
 
 window.addEventListener("scroll", function() {
@@ -280,19 +276,22 @@ function updateSize() {
     burger.style.visibility="hidden"
     burger.style.zIndex="0"
   }
-  if (ekran < 460) {
+  if (ekran < 400) {
     servi.style.marginBottom = "110vh"
+    console.log("110vh")
   }
-  if (ekran < 830) {
-    servi.style.marginBottom = "66vh"
+  if ( ekran < 830 && 400 < ekran ) {
+    servi.style.marginBottom = "81vh"
+    console.log("81vh")
   }
-  if (830 < ekran) {
-    servi.style.marginBottom = "30vh"
+  if ( ekran < 1180 && 830 < ekran ) {
+    servi.style.marginBottom = "45vh"
+    console.log("45vh")
   }
   if( ekran < 1180){
     root.style.setProperty("--grid-template-columns", "100%")
     root.style.setProperty("--SB_max-width", "100%")
-    root.style.setProperty("--SB_top", "0")
+    root.style.setProperty("--SB_top", "3%")
     root.style.setProperty("--SB_left", "0")
     root.style.setProperty("--SB_margin", "0")
   }
@@ -305,6 +304,7 @@ function updateSize() {
     root.style.setProperty("--SB_left", "50%")
     root.style.setProperty("--SB_margin", "20px 0 0 -150px")
   }
+  console.log(ekran)
 }
 
 window.addEventListener("resize", updateSize);
