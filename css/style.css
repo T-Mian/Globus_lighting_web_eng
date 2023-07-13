@@ -19,6 +19,14 @@ select:-webkit-autofill:focus {
   transition: background-color 5000s ease-in-out 0s;
 }
 
+:root{
+  --grid-template-columns: 50% 50%;
+  --SB_max-width:50% ;
+  --SB_top:10%;
+  --SB_left:50% ;
+  --SB_margin: 20px 0 0 -150px;
+}
+
 h1 h2 h3 h4 h5 h6 {
   color: #e5e5e5;
 }
@@ -40,7 +48,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 /*  stop */
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other 
 @media screen and (max-width: 600px) {
   .column_foot {
     width: 100%;
@@ -113,9 +121,22 @@ html::-webkit-scrollbar-thumb {
   .super_pauza{
   margin-bottom:5vh;
   padding-top: 20vh;
+
   }
 
 }
+
+*/
+
+
+
+@media screen and (max-width: 1050px) {
+  .menu{
+    margin-left: 10%;
+  }
+
+}
+
 *{
   box-sizing: border-box;
   scroll-behavior: smooth;
@@ -193,16 +214,19 @@ a:hover{
   }
 }
 nav{
+  visibility: visible;
   backdrop-filter: blur(5px);
+  left:5%;
+  top: 5px;
+  height: auto;
+  width: 100%;
+  /*parametry dla burgerMenu
   left: 15%;
   top: 120px;
-  /*top: 5px;*/
-  /*align-items: center;*/
-  height: auto;
-  /*width: 100%;*/
   width: 300px;
+  z-index: 102;*/
+  z-index: 5;
   position: fixed;
-  z-index: 102;
   background: #22222079;
   box-shadow: 0px 1px 2px rgba(254,203,0,0.5), 
               0px 2px 4px rgba(254,203,0,0.5), 
@@ -213,7 +237,7 @@ nav{
 .menu{
   display:flex;
   flex-wrap: wrap;
-  margin-left:10%
+  margin-left: 5%;
 }
 .menu i {
   line-height: 60px;
@@ -274,6 +298,7 @@ nav{
   align-items: center;
   flex-direction: column;
   padding: 25px;
+  margin-bottom:2vh;
 }
 .title{
   width: 100%;
@@ -380,7 +405,7 @@ nav{
   width: 100%;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-gap: 20px;
+  gap: 20px;
   margin-top: 20px;
 }
 
@@ -839,7 +864,7 @@ nav{
   left: 25%;
   display: grid;
   column-gap: 20px;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: var(--grid-template-columns);
   padding: 10px;
   width: 100%;
   height: 100%;
@@ -878,11 +903,11 @@ span{
   text-align:center;
   position:static;
   border:5px solid #fecb00;
-  max-width:50%;
-  top:10%;
+  max-width:var(--SB_max-width);
+  top: var(--SB_top);
+  left: var(--SB_left);
+  margin: var(--SB_margin);
   border-radius:20px;
-  /*left:25%;*/
-  margin: 20px 0 0 -150px;
   animation: border-flicker 2s linear infinite;
 }
 .sqwBorder_flic h2{
@@ -1122,10 +1147,10 @@ footer{
   z-index: 1;
   margin: auto;
   font-size: 50px;
-  color: transparent;
   background: linear-gradient(45deg, #fecb00, #ff0058);
   background-clip: text;
   -webkit-background-clip: text;
+  color: transparent;
 }
 
 .hexagon:before,
@@ -1365,3 +1390,6 @@ i zmodyfikowany przez Tomasz Mianecki
   100%{transform:scale(1)}
 }
 
+.data_hover{
+  content: attr(data-hover);
+}

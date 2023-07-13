@@ -91,7 +91,7 @@ function doInnerHtmll(cel, cartt){
 function kreacjia_karty(a,b,c,d,e){
  // return('<!--'+a+'--><div><a href="'+b+'.html" alt=" ' +c+'" target="_blank"><div class="card_produkt"><div class="wrapper_produkt">'+d+'<img src="/produkty_karty_covery/Produkt_cover_bg_hex_'+e+'.jpg" class="cover-image_produkt" /></div><img src="/produkty_karty_title/'+e+'-title.png" class="title_produkt" /> <img src="/produkty_karty_charakter/'+e+'-char_simple.png" class="character_produkt" /></div></a></div>')
 
-skladak='<!--'+a+'--><div><a href="'+b+'.html" alt=" ' +c+'" target="_blank"><div class="card_produkt"><div class="wrapper_produkt">'+d+'<img src="/produkty_karty_covery/Produkt_cover_bg_hex_'+e+'.jpg" class="cover-image_produkt" loading="lazy"/></div><img src="/produkty_karty_title/'+e+'-title.png" class="title_produkt" loading="lazy"/> <img src="/produkty_karty_charakter/'+e+'-char_simple.png" class="character_produkt" loading="lazy"/></div></a></div>'
+skladak='<!--'+a+'--><div><a href="'+b+'.html" alt=" ' +c+'" target="_blank"><div class="card_produkt"><div class="wrapper_produkt">'+d+'<img src="/produkty_karty_covery/Produkt_cover_bg_hex_'+e+'.jpg" class="cover-image_produkt" loading="lazy"/></div><img src="/produkty_karty_title/'+e+'-title.png" class="title_produkt"/> <img src="/produkty_karty_charakter/'+e+'-char_simple.png" class="character_produkt"/></div></a></div>'
   return skladak
 }
 
@@ -111,7 +111,7 @@ let lista_operacyjna=['str_industr_carts','str_line_carts','str_tepmer_carts','s
 function funkcjiaOdczytuXML(xml){
   const xmlDoc = xml.responseXML;
   const x = xmlDoc.getElementsByTagName("CARTS");
-  var karty_out=[];
+  //var karty_out=[];
   for (let i = 0; i <x.length; i++){
      let numerId = x[i].getElementsByTagName("NUMER_ID")[0].childNodes[0].nodeValue;
      let rodzina = x[i].getElementsByTagName("RODZINA")[0].childNodes[0].nodeValue;
@@ -131,6 +131,7 @@ function funkcjiaOdczytuXML(xml){
     switch(x) {
       case lista_docelowa_id[0]:
         document.getElementById(lista_docelowa_id[0]).innerHTML=str_industr_carts
+        
         break;
       case lista_docelowa_id[1]:
         document.getElementById(lista_docelowa_id[1]).innerHTML=str_line_carts

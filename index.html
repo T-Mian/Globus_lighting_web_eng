@@ -40,27 +40,32 @@
       <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
         <i class="fa-solid fa-bars-staggered"></i>
       </div>
-      <div id="speedProdukt" onclick="speedProdukt()">
+
+      <div id="speedProdukt" onclick="speedProdukt()" class="data_hover">
         <i class="fa-solid fa-tags"></i>
+        <span data-hover="Produkts">Produkts</span>
       </div>
       <a href="products_led.html">
-        <div id="speedProdukt_led"> 
-          <i class="fa-regular fa-lightbulb"></i> 
+        <div id="speedProdukt_led">
+          <i class="fa-regular fa-lightbulb"></i>
+          <span data-hover="Led light"></span>
         </div>
       </a>
       <a href="page_constr.html">
         <div id="speedProdukt_voltaik">
-          <i class="fa-solid fa-solar-panel"></i> 
+          <i class="fa-solid fa-solar-panel"></i>
+          <span data-hover="Solar power"></span>
         </div>
       </a>
       <a href="page_constr.html">
         <div id="speedProdukt_station">
-          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i> 
+          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+          <span data-hover="Car power"></span>
         </div>
       </a>
 
       <!--Navigation-->
-      <nav id="navElement" style="visibility: hidden;">
+      <nav id="navElement">
         <ul class="menu">
           <li>
             <a href="index.html">
@@ -69,11 +74,9 @@
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="products_led.html">
+            <a href="#">
               <i class="fa-solid fa-tags"></i>
-              <span>
-                Products
-              </span>
+              Products
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
@@ -92,14 +95,14 @@
             </div>
           </li>
           <li class="dropdown_menu">
-            <a href="page_constr.html">
+            <a href="#">
               <i class="fa-solid fa-pen-ruler"></i>
-              <span>
-                Solutions
-              </span>
+              Solutions
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
+              <a href="page_constr.html">
+                Solutions</a>
               <a href="page_constr.html">
                 Industrial lighting</a>
               <a href="page_constr.html">
@@ -137,17 +140,16 @@
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="page_constr.html">
+            <a href="#">
               <i class="fa-solid fa-landmark-dome"></i>
-              <span>
-                Realisations
-              </span>
+              Realisations
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
               <a href="page_constr.html">
-                Main Railway Station in Wroclaw
-              </a>
+                Realisations</a>
+              <a href="page_constr.html">
+                Main Railway Station in Wroclaw</a>
               <a href="page_constr.html">
                 Mondelez</a>
               <a href="page_constr.html">
@@ -177,12 +179,13 @@
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="page_constr.html">
+            <a href="#">
               <i class="fa-solid fa-passport"></i>
               About us
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
+              <a href="page_constr.html">About</a>
               <a href="page_constr.html">Career</a>
             </div>
           </li>
@@ -250,7 +253,6 @@
           <br>
         </p>
       </div>
-      >
       <div class="service-box-ver_beta">
         <h2>Lighting solutions &nbsp<i class="fa-solid fa-list-check"></i></h2>
         <p>
@@ -261,11 +263,10 @@
         </p>
       </div>
     </div>
-  </section>
-  <!-- Services  end -->
 
-  <!-- sektor z kartuszami -->
-  <section class="super_pauza">
+  </section>
+
+  <div>
     <h2 class="tekst_przerywnik">
       What make us stand out
     </h2>
@@ -297,7 +298,8 @@
         </div>
       </div>
     </div>
-  </section>
+  </div>
+
   <!-- sektor z kartuszami end -->
   <br class="pauza">
   <!-- Opisy start -->
@@ -346,7 +348,7 @@
         so as to the are most adapted to the requirements
         customer.</p>
 
-      <div class="sqwBorder_flic" style="left: 50%;position: relative;">
+      <div class="sqwBorder_flic" style="position: relative;">
         <h2><a href="#" style="font-size: 3vh;"> Look at our<br> realisations!</a></h2>
       </div>
   </section>
@@ -385,7 +387,7 @@
     </div>
     <div class="blores_element_grid">
       <img src="foto/foto_fragment_2.png" style="border-radius:25px;">
-      <div class="sqwBorder_flic" style="left: 50%;position: relative;margin-bottom: 10vh;">
+      <div class="sqwBorder_flic" style="position: relative;margin-bottom: 10vh;">
         <h2>
           <a href="#" style="font-size: 3vh;">Get more information<br> about LED lighting<br> on our blog! </a>
         </h2>
@@ -432,7 +434,7 @@
       <p style="font-size:20px;">
         <span class="span_color_a"><a href="#">LED panels, </a> </span>and <a href="#">flood lights</a>.
       </p>
-      <div class="sqwBorder_flic" style="left: 50%;position: relative;margin-bottom: 10vh;">
+      <div class="sqwBorder_flic" style="position: relative;margin-bottom: 10vh;">
         <h2>
           <a href="#" style="font-size: 3vh;">Check our products!</a>
         </h2>
@@ -568,7 +570,7 @@
       lighting and modern lighting solutions. LED lighting is 100% made in Poland.</h6>
 
   </section>
-  <script src="script.js"></script>
+  <script src="js/script.js"></script>
 
 </body>
 
