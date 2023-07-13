@@ -280,14 +280,14 @@ function updateSize() {
     burger.style.visibility="hidden"
     burger.style.zIndex="0"
   }
-  if (ekran < 480) {
-    servi.style.marginBottom = "100vh"
+  if (ekran < 460) {
+    servi.style.marginBottom = "110vh"
   }
-  if (ekran < 810) {
+  if (ekran < 830) {
     servi.style.marginBottom = "66vh"
   }
-  if (810 < ekran) {
-    servi.style.marginBottom = "27vh"
+  if (830 < ekran) {
+    servi.style.marginBottom = "30vh"
   }
   if( ekran < 1180){
     root.style.setProperty("--grid-template-columns", "100%")
@@ -297,7 +297,7 @@ function updateSize() {
     root.style.setProperty("--SB_margin", "0")
   }
 
-  if (ekran > 1180) {
+  if (ekran > 1209) {
     servi.style.marginBottom = "2vh"
     root.style.setProperty("--grid-template-columns", "50% 50%")
     root.style.setProperty("--SB_max-width", "50%")

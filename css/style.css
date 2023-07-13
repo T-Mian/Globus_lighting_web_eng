@@ -157,6 +157,22 @@ html::-webkit-scrollbar-thumb {
   margin-top: 10px;
 }
 
+.belka_fec{
+  color: #333;
+  border-radius: 0 50px 50px 0;
+  background-color: #fecb00;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.belka_333{
+  color: #fecb00;
+  border-radius: 0 50px 50px 0;
+  background-color: #333;
+  border-color: #333;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
 body{
   margin:0px ;
   padding: 0px;
@@ -323,6 +339,7 @@ nav{
 }
 .content h2{
   color: #e5e5e5;
+  padding-top:10px;
 }
 .service-box {
   width: 400px;
@@ -382,7 +399,7 @@ nav{
 .service-box-ver_beta p {
   text-align: center;
   max-width: 350px;
-  margin: 0px 0px 20px 0px;
+  margin: 0px 10px 20px 10%;
   color: #e5e5e5;
 }
 
@@ -877,6 +894,10 @@ nav{
   padding: 20px;
   text-align: center;
 }
+blores_element_grid p {
+  padding-left:10%;
+  padding-right:10% ;
+}
 
 .blores_element_grid img{
   max-width: 100%;
@@ -892,10 +913,6 @@ nav{
 
 span{
   color: #fff;
-}
-
-.blores_element_grid h2{
-  color: #fecb00;
 }
 
 .sqwBorder_flic {
