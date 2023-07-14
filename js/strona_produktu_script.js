@@ -8,6 +8,17 @@ let info_dodatkowe = document.getElementById("dodatki")
 let jezyk_opisu = ["OPIS_TRESC_ANG", "OPIS_TRESC_FR", "OPIS_TRESC_PL"]
 let flaga_języka = jezyk_opisu[0];
 let res = "";
+var id_pr = 0
+parametry = encodeURI(window.location.href).split("?");
+if (parametry.length>1) {
+  zmienne=parametry[1].split("&"); 
+}
+for (i=0;i<zmienne.length;i++) {
+  zm=zmienne[i].split("=");
+  console.log(zm[1])
+  id_pr=zm[1]
+}
+id_pr-=1
 
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
@@ -20,7 +31,7 @@ xhttp.onreadystatechange = function() {
 xhttp.open("GET", "xml/opisy_produktow.xml",true);
 xhttp.send();
 
-var id_pr = 4
+
 function funcPoprzedni() {
   if (id_pr == 0) {
     id_pr = 0
