@@ -271,7 +271,7 @@ function updateSize() {
     nav.style.top = "5px";
     nav.style.width = "100%";
     nav.style.left = "5%";
-    nav.style.zIndex = "5";
+    nav.style.zIndex = "98";
     nav.style.visibility="visible";
     burger.style.visibility="hidden"
     burger.style.zIndex="0"

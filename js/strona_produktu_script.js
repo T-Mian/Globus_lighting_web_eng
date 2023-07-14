@@ -20,7 +20,7 @@ xhttp.onreadystatechange = function() {
 xhttp.open("GET", "xml/opisy_produktow.xml",true);
 xhttp.send();
 
-var id_pr = 0
+var id_pr = 4
 function funcPoprzedni() {
   if (id_pr == 0) {
     id_pr = 0
@@ -58,18 +58,6 @@ function Odczyt(xml) {
   foto_produktu.setAttribute("src", set);
   let dataPfotometria = g[id_pr].childNodes[0].nodeValue;
   przydzielPfotometria(dataPfotometria);
-  //info_dodatkowe.innerHTML=pA[id_pr].childNodes[0].nodeValue;
-  //switch (flaga_języka) {
-  //  case "OPIS_TRESC_ANG":
-  //    info_dodatkowe.innerHTML=pA[id_pr].childNodes[0].nodeValue;
-  //    break;
-  //  case "OPIS_TRESC_FR":
-  //    info_dodatkowe.innerHTML=pF[id_pr].childNodes[0].nodeValue;
-  //    break;
-  //  case "OPIS_TRESC_PL":
-  //    info_dodatkowe.innerHTML=pP[id_pr].childNodes[0].nodeValue;
-  //    break;
-  //}
 
 }
 
@@ -86,18 +74,12 @@ function przydzielPfotometria(element) {
 function dodatkowe_Info() {
   switch (flaga_języka) {
     case "OPIS_TRESC_ANG":
-      //let p = xmlDoc.getElementsByTagName("DADATKOWE_INFO_ANG");
-      //info_dodatkowe.innerHTML=p[id_pr].childNodes[0].nodeValue;
       console.log(p)
       break;
     case "OPIS_TRESC_FR":
-      //let p = xmlDoc.getElementsByTagName("DODATKOWE_INFO_FRA");
-      //info_dodatkowe.innerHTML=p[id_pr].childNodes[0].nodeValue;
       console.log(flaga_języka)
       break;
     case "OPIS_TRESC_PL":
-      //let p = xmlDoc.getElementsByTagName("DODATKOWE_INFO_PLN");
-      //info_dodatkowe.innerHTML=p[id_pr].childNodes[0].nodeValue;
       console.log(flaga_języka)
       break;
   }
