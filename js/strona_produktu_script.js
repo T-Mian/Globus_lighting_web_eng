@@ -10,25 +10,25 @@ let flaga_języka = jezyk_opisu[0];
 let res = "";
 var id_pr = 0
 parametry = encodeURI(window.location.href).split("?");
-if (parametry.length>1) {
-  zmienne=parametry[1].split("&"); 
+if (parametry.length > 1) {
+  zmienne = parametry[1].split("&");
 }
-for (i=0;i<zmienne.length;i++) {
-  zm=zmienne[i].split("=");
+for (i = 0; i < zmienne.length; i++) {
+  zm = zmienne[i].split("=");
   console.log(zm[1])
-  id_pr=zm[1]
+  id_pr = zm[1]
 }
-id_pr-=1
+//id_pr -= 1
 
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200) {
     Odczyt(this);
-  }else{
+  } else {
     console.log(this.status)
   }
 };
-xhttp.open("GET", "xml/opisy_produktow.xml",true);
+xhttp.open("GET", "xml/opisy_produktow.xml", true);
 xhttp.send();
 
 
@@ -39,18 +39,21 @@ function funcPoprzedni() {
     id_pr--
   }
   Odczyt(xhttp)
+  console.log("funcPoprzedni")
 }
 
 function funcNastepny() {
-  if (id_pr == 21) {
-    id_pr = 21
+  if (id_pr == 25) {
+    id_pr = 0
   } else {
     id_pr++
   }
   Odczyt(xhttp)
+  console.log("funcNastepny")
 }
 
 function Odczyt(xml) {
+  console.log("func Odczyt id_pr :" , id_pr);
   var xmlDoc = xml.responseXML;
   var x = xmlDoc.getElementsByTagName("RODZINA");
   var y = xmlDoc.getElementsByTagName("H3_OPISU");
@@ -64,7 +67,7 @@ function Odczyt(xml) {
   tytul_produktu.innerHTML = x[id_pr].childNodes[0].nodeValue;
   tytul_opisu.innerHTML = y[id_pr].childNodes[0].nodeValue;
   opis_produktu.innerHTML = z[id_pr].childNodes[0].nodeValue;
-  ickonografia_produktu.innerHTML = q[id_pr].childNodes[0].nodeValue;
+  ickonografia_produktu.innerHTML = ("<!--"+x[id_pr].childNodes[0].nodeValue+"-->"+q[id_pr].childNodes[0].nodeValue);
   let set = f[id_pr].childNodes[0].nodeValue;
   foto_produktu.setAttribute("src", set);
   let dataPfotometria = g[id_pr].childNodes[0].nodeValue;
