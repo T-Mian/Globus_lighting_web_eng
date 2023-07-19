@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 
 <head>
   <!--Strona Główna  -->
@@ -14,11 +14,90 @@
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <style>
+    .form-error-text {
+      color: tomato;
+      font-size: 0.8rem;
+      margin-top: 5px;
+    }
 
+    .loading {
+      position: relative;
+      pointer-events: none;
+      opacity: 0.5;
+    }
+
+    .loading::after {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-right-color: rgba(0, 0, 0, 0.7);
+      transform: translate(-50%, -50%) rotate(0deg);
+      content: "";
+      animation: rotateSingleLoading 0.3s infinite linear;
+      z-index: 10;
+    }
+
+    @keyframes rotateSingleLoading {
+      0% {
+        transform: translate(-50%, -50%) rotate(0deg);
+      }
+
+      100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+      }
+    }
+
+    .form .send-error {
+      display: inline-block;
+      font-family: sans-serif;
+      padding: 1rem 2rem;
+      color: red;
+    }
+
+    @media screen and (max-width:500px) {
+      .form .send-error {
+        text-align: center;
+        display: block;
+      }
+    }
+
+    .form-send-success {
+      font-family: sans-serif;
+      text-align: center;
+      font-size: 2rem;
+      font-weight: bold;
+      border: 1px solid #e5e5e5;
+      color: #fecb00;
+      padding: 10rem 0;
+      margin: 3rem auto;
+      max-width: 40rem;
+    }
+
+    .form-send-success strong {
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+
+    .form-send-success span {
+      font-size: 1rem;
+      color: #fecb00;
+      font-weight: normal;
+      display: block;
+    }
+
+    .form .honey-row {
+      display: none;
+    }
+  </style>
 </head>
 
 <body>
-
+  <script></script>
   <div>
     <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
   </div>
@@ -334,7 +413,7 @@
       <img src="foto/fotoFragment1.png" style="border-radius:10px;">
     </div>
     <div class="blores_element_grid">
-      <h2  class="belka_fec" >
+      <h2 class="belka_fec">
         <b>Producer of industry<br> and specialist lighting</b>
       </h2>
       <p style="font-size:20px;">As a <span> producer of industry and specialist lighting</span> we offer you
@@ -450,23 +529,32 @@
         specialists
       </p>
     </div>
-    <div class="form">
+    <form class="form" id="contactForm" method="post" action="send-script.php" <div class="form">
+      <span class="form-row honey-row">
+        <label for="honey">Boot trap</label>
+        <input type="text" name="honey">
+      </span>
       <div class="row">
-        <input type="text" name="" placeholder="Name (Required)" />
-        <input type="text" name="" placeholder="Surname (Required)" />
+        <input type="text" name="name" placeholder="Name (Required)" required pattern=.{3,} id="name"
+          data-error-text="Incorrect input for name " />
+        <input type="text" name="surname" placeholder="Surname (Required)" required pattern=.{3,} id="name"
+          data-error-text="Incorrect input for surname" />
       </div>
       <div class="row">
 
-        <input type="email" name="" placeholder="E-mail Address (Required)" />
-        <input type="tel" name="" placeholder="Topic" />
+        <input type="email" name="email" required id="email" data-error-text="Incorrect input email"
+          placeholder="E-mail Address (Required)" />
+        <input type="tel" name="topic" placeholder="Topic" />
       </div>
       <div class="row2">
-        <textarea placeholder="Message content"></textarea>
+        <textarea name="message" required data-error-text="No input" id="message"
+          placeholder="Message content"></textarea>
       </div>
+      <div class="form-message"></div>
       <div class="row2">
         <input type="submit" value="Send" />
       </div>
-      <div class="title">
+      <div class="title ">
         <p style="font-size:20px;">Contact in commercial and technical matters</p>
       </div>
       <button class="glowing-btn" style="width: 45%;">
@@ -483,7 +571,7 @@
           </span>
         </a>
       </button>
-
+    </form>
     </div>
   </section>
   <!--Contact End-->
@@ -569,6 +657,7 @@
 
   </section>
   <script src="js/script.js"></script>
+  <script src="js/contakt.js"></script>
 
 </body>
 

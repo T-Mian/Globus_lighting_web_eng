@@ -1,5 +1,5 @@
 // Tomasz Mianecki
-// versja 1
+// versja 1.5
 
 let czas_new = 4;
 let lista_rodzin_produktu = ["Belus" , "SQR" , "HB-U" , "HB-U2"];

@@ -1,3 +1,7 @@
+//Mianecki 
+// versja 1.5
+
+
 let tytul_produktu = document.getElementById("title_produkts")
 let ickonografia_produktu = document.getElementById("produkt_ikons")
 let foto_produktu = document.getElementById("foto_produkt")
