@@ -55,7 +55,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 </body>
             </html>";
 
-        if (mail($mailToSend, "Wiadomość ze strony - https://www.globuslighting.com/" . date("d-m-Y"), $message, $headers)) {
+        if (mail($mailToSend, "Wiadomość ze strony - globuslighting(dot)com" . date("d-m-Y"), $message, $headers)) {
             $return["status"] = "ok";
         } else {
             $return["status"] = "error";
