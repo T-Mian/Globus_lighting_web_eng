@@ -167,6 +167,7 @@ box-sizing: border-box;
   box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
+  opacity:0.4;
 }
 
 .wrapper_produkt::before,
