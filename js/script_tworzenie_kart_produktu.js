@@ -89,7 +89,6 @@ function doInnerHtmll(cel, cartt){
 
 
 function kreacjia_karty(a,b,c,d,e){
- // return('<!--'+a+'--><div><a href="'+b+'.html" alt=" ' +c+'" target="_blank"><div class="card_produkt"><div class="wrapper_produkt">'+d+'<img src="/produkty_karty_covery/Produkt_cover_bg_hex_'+e+'.jpg" class="cover-image_produkt" /></div><img src="/produkty_karty_title/'+e+'-title.png" class="title_produkt" /> <img src="/produkty_karty_charakter/'+e+'-char_simple.png" class="character_produkt" /></div></a></div>')
 let aa=parseInt(a)
   aa-=1
  let  spec = b+".html?nrId="+aa+'"'

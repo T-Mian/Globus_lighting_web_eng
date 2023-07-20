@@ -1,5 +1,4 @@
 
-
 let mybutton = document.getElementById("myBtn");
 
 window.addEventListener("scroll", function() {
@@ -174,7 +173,7 @@ function togleMenu() {
 
   if (flaga_menu == false) {
     let nav = document.getElementById("navElement")
-    let burger = document.getElementById("burgerMenu")
+   let burger = document.getElementById("burgerMenu")
     let burger_stak = document.getElementById("ikona_bars_staget")
     burger.style.visibility = "visible"
     nav.style.visibility = "hidden"
@@ -183,9 +182,9 @@ function togleMenu() {
   }
   if (flaga_menu) {
     let burger_stak = document.getElementById("ikona_bars_staget")
-    let nav = document.getElementById("navElement")
-    let burger = document.getElementById("burgerMenu")
-    nav.style.visibility = "visible"
+   let nav = document.getElementById("navElement")
+   let burger = document.getElementById("burgerMenu")
+   nav.style.visibility = "visible"
     burger_stak.style.visibility = "visible"
     burger.style.visibility = "hidden"
   }

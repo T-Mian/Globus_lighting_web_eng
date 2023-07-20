@@ -1,8 +1,15 @@
 //Tomasz Mianecki 
 //versja 2
 
-
 let menu_eng =`
+ <div id="burgerMenu" onclick="togleMenu()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+        <i class="fa-solid fa-bars-staggered"></i>
+      </div>
+
+<nav>
         <ul class="menu">
           <li>
             <a href="index.html">
@@ -133,7 +140,8 @@ let menu_eng =`
             </a>
           </li>
           <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-xmark"></i></li>
-        </ul>`
+        </ul>
+        </nav>`
 
 let menu_eng_web = document.getElementById("navElement");
 menu_eng_web.innerHTML=menu_eng

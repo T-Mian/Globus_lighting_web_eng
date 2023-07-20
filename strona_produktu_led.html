@@ -17,7 +17,6 @@
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <meta http-equiv="last-modified" content="Fri Jul 14 2023 14:33:22 GMT">
-  <meta http-equiv="refresh" content="900">
   <style>
     table,
     th,
@@ -73,7 +72,13 @@
           <i class="fa-solid fa-charging-station fa-flip-horizontal"></i> 
         </div>
       </a>
-
+      <button id="btnLangeShow" onclick="langeShow()" ><i class="fa-solid fa-language" style="color:#fecb00;transform: scale(1.5);" ></i></button>  
+    
+    <button id="btnLangeShowPl" onclick="langeSet(2,'btnLangeShowPl')" ><i class="fa-solid fa-xmark" style="color:#fecb00;transform: scale(1.5);" ></i> &nbsp<span>Polski</span></button>
+    
+    <button id="btnLangeShowFR" onclick="langeSet(1,'btnLangeShowFR')" ><i class="fa-solid fa-xmark" style="color:#fecb00;transform: scale(1.5);" ></i> &nbsp<span>Français</span></button>
+    
+    <button id="btnLangeShowANG" onclick="langeSet(0,'btnLangeShowANG')" ><i class="fa-solid fa-check" style="color:#fecb00;transform: scale(1.5);" ></i> &nbsp<span>English</span></button>
       <!--Navigation-->
       <nav id="navElement" style="visibility: hidden;">
         <ul class="menu">
@@ -220,12 +225,6 @@
       <span id="produkt_ikons">
         <i class="fa-solid fa-question"></i><i class="fa-solid fa-question"></i><i class="fa-solid fa-question"></i>
       </span>
-      <!--<sup>
-        <i class="fa-solid fa-circle-info" onmouseenter="showInfoIcins(this)" onmouseleave="hidenIkons(this)"></i>
-        <sup id="opis_ikons" style="display:flexbox;width: 100px;height:auto;color: darkred;z-index: 99;">
-          "Zastosowania"
-        </sup>
-      </sup> -->
     </h1>
   </div>
 
@@ -245,7 +244,7 @@
           Sorry, no data yet
         </h2>
         <h3>
-          <span>
+          <span style="padding-left: 1%;" id="product_description_span" >
             Product description :
           </span>
         </h3>
@@ -269,7 +268,7 @@ They are available in the Polish version at <a href="https://www.globuslighting.
   <!-- Pliki z krzywymi rozsyłu  -->
   <section style="margin-top: 5%;">
     <h3>
-      <span class="produkt_pod_tematy">
+      <span class="produkt_pod_tematy" id="photometry_span">
         Photometry
       </span>
       <span style="margin-left: 5%;">
@@ -285,7 +284,7 @@ They are available in the Polish version at <a href="https://www.globuslighting.
   <!-- Dodatkowe elementy -->
   <section>
     <h3>
-      <span class="produkt_pod_tematy">
+      <span class="produkt_pod_tematy" id="info_span">
         Info
       </span>
       <span style="margin-left: 5%;">
@@ -300,8 +299,8 @@ They are available in the Polish version at <a href="https://www.globuslighting.
   <!-- tabela z produktami -->
   <section>
     <h3>
-      <span class="produkt_pod_tematy">
-        Configurations available
+      <span class="produkt_pod_tematy" id="configurations_span">
+        Configurations available :
       </span>
       <span style="margin-left: 5%;">
         <i class="fa-solid fa-table"></i>

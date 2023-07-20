@@ -91,3 +91,43 @@
   visibility: hidden;
   font-style: italic;
 }
+
+#btnLangeShow{
+  padding: 1em;
+  border-radius: 25% 10%;
+  position: fixed;
+  top:40%;
+  background-color: #333;
+  left:1%;
+  z-index:10;
+}
+#btnLangeShowPl{
+  opacity:0;
+  padding: 1em;
+  border-radius: 25% 10%;
+  position: fixed;
+  top:40%;
+  background-color: #333;
+  left:1%;
+  z-index:1;
+}
+#btnLangeShowFR{
+  opacity:0;
+  padding: 1em;
+  border-radius: 25% 10%;
+  position: fixed;
+  top:40%;
+  background-color: #333;
+  left:1%;
+  z-index:1;
+}
+#btnLangeShowANG{
+  opacity:0;
+  padding: 1em;
+  border-radius: 25% 10%;
+  position: fixed;
+  top:40%;
+  background-color: #333;
+  left:1%;
+  z-index:1;
+}
