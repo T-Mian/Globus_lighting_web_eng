@@ -157,7 +157,7 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR>Ces luminaires sont résistants à l'ammoniac, à la poussière et à l'eau. En raison de leur étanchéité IP69K, ils sont résistants au nettoyage à haute pression de 100 bar à une température de 80 °C, tout en ayant des paramètres de résistance aux chocs élevés IK10. Les luminaires TUBUS peuvent être suspendus à des câbles en acier ou montés directement sur une surface. </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/TUBUS_K60-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/TUBUS_K90-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/TUBUS_K120-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>tubus_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>13</PRODUKT_ID>
@@ -1062,7 +1062,7 @@ It comes in three versions:&lt;br&gt;
   <PRODUKT>
     <PRODUKT_ID>68</PRODUKT_ID>
     <RODZINA>PANEL</RODZINA>
-    <ICONY_RODZINY>&lt;i class="fa-solid fa-business-time"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-square"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-store"&gt;&lt;/i&gt;/ICONY_RODZINY>
+    <ICONY_RODZINY>&lt;i class="fa-solid fa-business-time"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-square"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-store"&gt;&lt;/i&gt;</ICONY_RODZINY>
     <FOTO>produkty_karty_charakter/PANEL-char_simple.png</FOTO>
     <H3_OPISU>Panel LED</H3_OPISU>
     <OPIS_TRESC_PL>Lekka, płaska oprawa składająca się z malowanej proszkowo aluminiowej ramki oraz przesłony z tworzywa sztucznego. Może być instalowana w sufitach podwieszanych, montowana nastropowo za pomocą dodatkowej ramki lub zwieszana przy użyciu regulowanych linek. Panel LED dedykowany jest m.in. do pomieszczeń biurowych,                            sal konferencyjnych i wykładowych, korytarzy.</OPIS_TRESC_PL>

@@ -38,6 +38,46 @@ xhttp.open("GET", "xml/opisy_produktow.xml", true);
 xhttp.send();
 
 
+function loadTabele(params) {
+  try {
+  const xhttp = new XMLHttpRequest();
+  xhttp.onload = function() {
+    zaladowacTabele(this);
+  }
+    let adres="xml/bdxml/"+params
+  xhttp.open("GET", adres);
+  xhttp.send();
+}
+catch(err) {
+  document.getElementById("table_led").innerHTML = err.message;
+}
+}
+function zaladowacTabele(xml) {
+  const xmlDoc = xml.responseXML;
+  const x = xmlDoc.getElementsByTagName("MODEL");
+  let table="<tr><th>KOD</th><th>RACCT</th><th>MOC</th><th>FLUX</th><th>Sterowanie</th><th>IP & IK</th><th>ROZ</th></tr>";
+  for (let i = 0; i <x.length; i++) { 
+    table += "<tr><td>" +
+    x[i].getElementsByTagName("KOD")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("RACCT")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("MOC")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("FLUX")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("elem_sterowanie")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("IP")[0].childNodes[0].nodeValue +
+    " & " +
+    x[i].getElementsByTagName("IK")[0].childNodes[0].nodeValue +
+    "</td><td>"+
+    x[i].getElementsByTagName("ROZ")[0].childNodes[0].nodeValue +
+    "</td></tr>";
+  }
+  document.getElementById("table_led").innerHTML = table;
+}
+
 function funcPoprzedni() {
   if (id_pr == 0) {
     id_pr = 0
@@ -49,7 +89,7 @@ function funcPoprzedni() {
 }
 
 function funcNastepny() {
-  if (id_pr == 25) {
+  if (id_pr == 79) {
     id_pr = 0
   } else {
     id_pr++
@@ -67,6 +107,7 @@ function Odczyt(xml) {
   var q = xmlDoc.getElementsByTagName("ICONY_RODZINY");
   var f = xmlDoc.getElementsByTagName("FOTO");
   var g = xmlDoc.getElementsByTagName("PFOTOMETRIA");
+  var tabela=xmlDoc.getElementsByTagName("PLIK_TABELI");
   tytul_produktu.innerHTML = x[id_pr].childNodes[0].nodeValue;
   tytul_opisu.innerHTML = y[id_pr].childNodes[0].nodeValue;
   opis_produktu.innerHTML = z[id_pr].childNodes[0].nodeValue;
@@ -75,6 +116,8 @@ function Odczyt(xml) {
   foto_produktu.setAttribute("src", set);
   let dataPfotometria = g[id_pr].childNodes[0].nodeValue;
   przydzielPfotometria(dataPfotometria);
+  var tabela_sc=tabela[id_pr].childNodes[0].nodeValue;
+  loadTabele(tabela_sc)
 
 }
 
@@ -177,4 +220,9 @@ function langeSet(nr,id) {
       span_configurations.innerHTML= "Configurations available :";
       console.log("langeSet switch default")
 }
+}
+//do opracowania 
+function adresatorTabel(int_pomiedzy,str_widoczny,plik_danych) {
+  let alfa = '<a href="pdf_zbior/pl/'+plik_danych+'.pdf#page='+int_pomiedzy+'"'+'target="_blanc" rel="noreferrer" rel="noopener">'+ str_widoczny+'</a>'
+  
 }

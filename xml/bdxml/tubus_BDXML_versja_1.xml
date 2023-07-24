@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TUBUS>
+  <MODEL id="1">
+    <KOD>GL-TUBUS-T2006061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-TUBUS-T2009061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+</TUBUS>
