@@ -39,10 +39,12 @@ xhttp.send();
 
 
 function loadTabele(params) {
+  let nazwa_a=params.split("_")
+  let nazwa_b=nazwa_a[0]
   try {
   const xhttp = new XMLHttpRequest();
   xhttp.onload = function() {
-    zaladowacTabele(this);
+    zaladowacTabele(this,nazwa_b);
   }
     let adres="xml/bdxml/"+params
   xhttp.open("GET", adres);
@@ -52,14 +54,15 @@ catch(err) {
   document.getElementById("table_led").innerHTML = err.message;
 }
 }
-function zaladowacTabele(xml) {
+function zaladowacTabele(xml,plik_nazwa) {
+  let nazwa=plik_nazwa+"_1"
   const xmlDoc = xml.responseXML;
   const x = xmlDoc.getElementsByTagName("MODEL");
-  let table="<tr><th>KOD</th><th>RACCT</th><th>MOC</th><th>FLUX</th><th>Sterowanie</th><th>IP & IK</th><th>ROZ</th></tr>";
+  let table="<table><tr><th>Model</th><th>Ra & CCT [K]</th><th>Power [W]</th><th>Flux [lm]</th><th>Control</th><th>IP & IK</th><th>Photometry</th></tr>";
   for (let i = 0; i <x.length; i++) { 
-    table += "<tr><td>" +
-    x[i].getElementsByTagName("KOD")[0].childNodes[0].nodeValue +
-    "</td><td>" +
+    let a = x[i].getElementsByTagName("KOD")[0].childNodes[0].nodeValue
+    let b = adresatorTabel(a,nazwa)
+    table += "<tr><td>" +b + "</td><td>" +
     x[i].getElementsByTagName("RACCT")[0].childNodes[0].nodeValue +
     "</td><td>" +
     x[i].getElementsByTagName("MOC")[0].childNodes[0].nodeValue +
@@ -75,6 +78,7 @@ function zaladowacTabele(xml) {
     x[i].getElementsByTagName("ROZ")[0].childNodes[0].nodeValue +
     "</td></tr>";
   }
+  table+="</table>"
   document.getElementById("table_led").innerHTML = table;
 }
 
@@ -117,7 +121,10 @@ function Odczyt(xml) {
   let dataPfotometria = g[id_pr].childNodes[0].nodeValue;
   przydzielPfotometria(dataPfotometria);
   var tabela_sc=tabela[id_pr].childNodes[0].nodeValue;
+  var tabela_hed_a=tabela_sc.split("_")
+  var tabela_hed_b=tabela_hed_a[0]
   loadTabele(tabela_sc)
+  
 
 }
 
@@ -222,7 +229,12 @@ function langeSet(nr,id) {
 }
 }
 //do opracowania 
-function adresatorTabel(int_pomiedzy,str_widoczny,plik_danych) {
-  let alfa = '<a href="pdf_zbior/pl/'+plik_danych+'.pdf#page='+int_pomiedzy+'"'+'target="_blanc" rel="noreferrer" rel="noopener">'+ str_widoczny+'</a>'
-  
+function adresatorTabel(zakladka,plik_danych) {
+  let lang_alfa = flaga_języka.split('_')
+  let alfa=""
+  let lan= lang_alfa[2].toLowerCase()
+  alfa += '<a href="pdf_zbior/'+lan+'/'+plik_danych+'.pdf#'+zakladka+'"'+'target="_blanc" rel="noopener" rel="noreferrer" >'+zakladka+'</a>'
+
+  return alfa
 }
+console.log(adresatorTabel("GL-TUBUS-A4012061-840","tubus_1"))

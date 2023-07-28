@@ -20,4 +20,254 @@
     <IK>IK10</IK>
     <ROZ>90°</ROZ>
   </MODEL>
+  <MODEL id="3">
+    <KOD>GL-TUBUS-T2012061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-TUBUS-T4006061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-TUBUS-T4009061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-TUBUS-T4012061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-TUBUS-T5006061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-TUBUS-T5009061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-TUBUS-T5012061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-TUBUS-A2006061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-TUBUS-A2009061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-TUBUS-A2012061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-TUBUS-A4006061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-TUBUS-A4009061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-TUBUS-A4012061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-TUBUS-A5006061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-TUBUS-A5009061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-TUBUS-A5012061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-TUBUS-D2006061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-TUBUS-D2009061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-TUBUS-D2012061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-TUBUS-D4006061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-TUBUS-D4009061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-TUBUS-D4012061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-TUBUS-D5006061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-TUBUS-D5009061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-TUBUS-D5012061-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66/IP69K</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
 </TUBUS>
