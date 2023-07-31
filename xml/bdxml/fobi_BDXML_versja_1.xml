@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FOBI>
+  <MODEL id="1">
+    <KOD>GLF-FOBI-0003010-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>12W</MOC>
+    <FLUX>1470lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK08</IK>
+    <ROZ>100°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GLF-FOBI-0003110-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>15W</MOC>
+    <FLUX>1950lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK08</IK>
+    <ROZ>100°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GLF-FOBI-0003210-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>3010lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK08</IK>
+    <ROZ>100°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GLF-FOBI-0004010-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>12W</MOC>
+    <FLUX>1510lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK08</IK>
+    <ROZ>100°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GLF-FOBI-0004110-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>15W</MOC>
+    <FLUX>1850lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK08</IK>
+    <ROZ>100°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GLF-FOBI-0004210-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2950lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK08</IK>
+    <ROZ>100°</ROZ>
+  </MODEL>
+</FOBI>

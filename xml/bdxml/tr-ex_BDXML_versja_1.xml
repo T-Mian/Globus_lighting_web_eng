@@ -1,0 +1,1443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TR-EX>
+  <MODEL id="1">
+    <KOD>GL-TR-EX-019W-A100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-TR-EX-027W-A100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-TR-EX-035W-A200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-TR-EX-050W-A200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-TR-EX-040W-A300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-TR-EX-059W-A300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-TR-EX-035W-A100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-TR-EX-050W-A100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-TR-EX-067W-A200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-TR-EX-100W-A200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-TR-EX-080W-A300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-TR-EX-121W-A300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-TR-EX-019W-B100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-TR-EX-027W-B100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-TR-EX-035W-B200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-TR-EX-050W-B200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-TR-EX-040W-B300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-TR-EX-059W-B300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-TR-EX-035W-B100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-TR-EX-050W-B100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-TR-EX-067W-B200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-TR-EX-100W-B200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-TR-EX-080W-B300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-TR-EX-121W-B300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-TR-EX-019W-C100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-TR-EX-027W-C100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-TR-EX-035W-C200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-TR-EX-050W-C200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-TR-EX-040W-C300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-TR-EX-059W-C300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-TR-EX-035W-C100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-TR-EX-050W-C100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-TR-EX-067W-C200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-TR-EX-100W-C200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-TR-EX-080W-C300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-TR-EX-121W-C300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-TR-EX-019W-D100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-TR-EX-027W-D100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-TR-EX-035W-D200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-TR-EX-050W-D200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-TR-EX-040W-D300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-TR-EX-059W-D300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-TR-EX-035W-D100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-TR-EX-050W-D100A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-TR-EX-067W-D200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-TR-EX-100W-D200A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-TR-EX-080W-D300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-TR-EX-121W-D300A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-TR-EX-019W-A110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-TR-EX-027W-A110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-TR-EX-035W-A210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-TR-EX-050W-A210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-TR-EX-040W-A310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-TR-EX-059W-A310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-TR-EX-035W-A110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-TR-EX-050W-A110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-TR-EX-067W-A210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-TR-EX-100W-A210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-TR-EX-080W-A310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-TR-EX-121W-A310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-TR-EX-019W-A130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-TR-EX-027W-A130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-TR-EX-035W-A230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-TR-EX-050W-A230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-TR-EX-040W-A330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-TR-EX-059W-A330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-TR-EX-035W-A130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-TR-EX-050W-A130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-TR-EX-067W-A230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-TR-EX-100W-A230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-TR-EX-080W-A330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-TR-EX-121W-A330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="73">
+    <KOD>GL-TR-EX-019W-B110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="74">
+    <KOD>GL-TR-EX-027W-B110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="75">
+    <KOD>GL-TR-EX-035W-B210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="76">
+    <KOD>GL-TR-EX-050W-B210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="77">
+    <KOD>GL-TR-EX-040W-B310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="78">
+    <KOD>GL-TR-EX-059W-B310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="79">
+    <KOD>GL-TR-EX-035W-B110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="80">
+    <KOD>GL-TR-EX-050W-B110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="81">
+    <KOD>GL-TR-EX-067W-B210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="82">
+    <KOD>GL-TR-EX-100W-B210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="83">
+    <KOD>GL-TR-EX-080W-B310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="84">
+    <KOD>GL-TR-EX-121W-B310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="85">
+    <KOD>GL-TR-EX-019W-B130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="86">
+    <KOD>GL-TR-EX-027W-B130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="87">
+    <KOD>GL-TR-EX-035W-B230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="88">
+    <KOD>GL-TR-EX-050W-B230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="89">
+    <KOD>GL-TR-EX-040W-B330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="90">
+    <KOD>GL-TR-EX-059W-B330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="91">
+    <KOD>GL-TR-EX-035W-B130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="92">
+    <KOD>GL-TR-EX-050W-B130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="93">
+    <KOD>GL-TR-EX-067W-B230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="94">
+    <KOD>GL-TR-EX-100W-B230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="95">
+    <KOD>GL-TR-EX-080W-B330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="96">
+    <KOD>GL-TR-EX-121W-B330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="97">
+    <KOD>GL-TR-EX-019W-C110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="98">
+    <KOD>GL-TR-EX-027W-C110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="99">
+    <KOD>GL-TR-EX-035W-C210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="100">
+    <KOD>GL-TR-EX-050W-C210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="101">
+    <KOD>GL-TR-EX-040W-C310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="102">
+    <KOD>GL-TR-EX-059W-C310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="103">
+    <KOD>GL-TR-EX-035W-C110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="104">
+    <KOD>GL-TR-EX-050W-C110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="105">
+    <KOD>GL-TR-EX-067W-C210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="106">
+    <KOD>GL-TR-EX-100W-C210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="107">
+    <KOD>GL-TR-EX-080W-C310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="108">
+    <KOD>GL-TR-EX-121W-C310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="109">
+    <KOD>GL-TR-EX-019W-C130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="110">
+    <KOD>GL-TR-EX-027W-C130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="111">
+    <KOD>GL-TR-EX-035W-C230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="112">
+    <KOD>GL-TR-EX-050W-C230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="113">
+    <KOD>GL-TR-EX-040W-C330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="114">
+    <KOD>GL-TR-EX-059W-C330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="115">
+    <KOD>GL-TR-EX-035W-C130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="116">
+    <KOD>GL-TR-EX-050W-C130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="117">
+    <KOD>GL-TR-EX-067W-C230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="118">
+    <KOD>GL-TR-EX-100W-C230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="119">
+    <KOD>GL-TR-EX-080W-C330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="120">
+    <KOD>GL-TR-EX-121W-C330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="121">
+    <KOD>GL-TR-EX-019W-D110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="122">
+    <KOD>GL-TR-EX-027W-D110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="123">
+    <KOD>GL-TR-EX-035W-D210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="124">
+    <KOD>GL-TR-EX-050W-D210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="125">
+    <KOD>GL-TR-EX-040W-D310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="126">
+    <KOD>GL-TR-EX-059W-D310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="127">
+    <KOD>GL-TR-EX-035W-D110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="128">
+    <KOD>GL-TR-EX-050W-D110A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="129">
+    <KOD>GL-TR-EX-067W-D210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="130">
+    <KOD>GL-TR-EX-100W-D210A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="131">
+    <KOD>GL-TR-EX-080W-D310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="132">
+    <KOD>GL-TR-EX-121W-D310A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="133">
+    <KOD>GL-TR-EX-019W-D130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>19W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="134">
+    <KOD>GL-TR-EX-027W-D130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3360lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="135">
+    <KOD>GL-TR-EX-035W-D230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="136">
+    <KOD>GL-TR-EX-050W-D230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="137">
+    <KOD>GL-TR-EX-040W-D330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>5880lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="138">
+    <KOD>GL-TR-EX-059W-D330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>59W</MOC>
+    <FLUX>8400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="139">
+    <KOD>GL-TR-EX-035W-D130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>4700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="140">
+    <KOD>GL-TR-EX-050W-D130A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="141">
+    <KOD>GL-TR-EX-067W-D230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>9400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="142">
+    <KOD>GL-TR-EX-100W-D230A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13440lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="143">
+    <KOD>GL-TR-EX-080W-D330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>11760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="144">
+    <KOD>GL-TR-EX-121W-D330A-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>121W</MOC>
+    <FLUX>16800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</TR-EX>

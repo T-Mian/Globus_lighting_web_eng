@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<HERBUS-TREND>
+  <MODEL id="1">
+    <KOD>GL-HERBUS-TREND-SC00-840-22W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>23W</MOC>
+    <FLUX>3400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-HERBUS-TREND-SC00-840-30W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4770lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-HERBUS-TREND-SC00-840-43W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>44W</MOC>
+    <FLUX>6860lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-HERBUS-TREND-PC00-840-22W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>23W</MOC>
+    <FLUX>3400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-HERBUS-TREND-PC00-840-30W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4770lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-HERBUS-TREND-PC00-840-43W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>44W</MOC>
+    <FLUX>6860lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-HERBUS-TREND-SC00-840-15W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>16W</MOC>
+    <FLUX>2410lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-HERBUS-TREND-PC00-840-15W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>16W</MOC>
+    <FLUX>2410lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-HERBUS-TREND-SC00-840-37W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5940lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-HERBUS-TREND-PC00-840-37W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5940lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-HERBUS-TREND-SC00-840-54W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>53W</MOC>
+    <FLUX>8490lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-HERBUS-TREND-PC00-840-54W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>53W</MOC>
+    <FLUX>8490lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-HERBUS-TREND-SC1F-840-30W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4770lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-HERBUS-TREND-SC3F-840-30W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4770lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-HERBUS-TREND-SC1F-840-43W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>44W</MOC>
+    <FLUX>6860lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-HERBUS-TREND-SC3F-840-43W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>44W</MOC>
+    <FLUX>6860lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-HERBUS-TREND-PC1F-840-30W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4770lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-HERBUS-TREND-PC3F-840-30W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4770lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-HERBUS-TREND-PC1F-840-43W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>44W</MOC>
+    <FLUX>6860lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-HERBUS-TREND-PC3F-840-43W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>44W</MOC>
+    <FLUX>6860lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-HERBUS-TREND-SC1F-840-37W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5940lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-HERBUS-TREND-SC2F-840-37W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5940lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-HERBUS-TREND-PC1F-840-37W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5940lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-HERBUS-TREND-PC3F-840-37W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5940lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-HERBUS-TREND-SC1F-840-54W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>53W</MOC>
+    <FLUX>8490lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-HERBUS-TREND-SC2F-840-54W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>53W</MOC>
+    <FLUX>8490lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-HERBUS-TREND-PC1F-840-54W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>53W</MOC>
+    <FLUX>8490lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-HERBUS-TREND-PC3F-840-54W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>53W</MOC>
+    <FLUX>8490lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-HERBUS-TREND-SCD0-840-30W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4770lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-HERBUS-TREND-SCD0-840-43W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>44W</MOC>
+    <FLUX>6860lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-HERBUS-TREND-PCD0-840-30W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4770lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-HERBUS-TREND-PCD0-840-43W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>44W</MOC>
+    <FLUX>6860lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-HERBUS-TREND-SCD0-840-37W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5940lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-HERBUS-TREND-PCD0-840-37W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5940lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-HERBUS-TREND-SCD0-840-54W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>53W</MOC>
+    <FLUX>8490lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-HERBUS-TREND-PCD0-840-54W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>53W</MOC>
+    <FLUX>8490lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-HERBUS-TREND-SCD0-840-22W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>23W</MOC>
+    <FLUX>3400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-HERBUS-TREND-PCD0-840-22W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>23W</MOC>
+    <FLUX>3400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</HERBUS-TREND>

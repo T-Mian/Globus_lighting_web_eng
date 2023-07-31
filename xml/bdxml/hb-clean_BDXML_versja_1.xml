@@ -1,0 +1,975 @@
+<?xml version='1.0' encoding='utf-8'?>
+<HB-CLEAN>
+  <MODEL id="1">
+    <KOD>GL-HB-CLEAN-100W-129-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-HB-CLEAN-100W-125-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-HB-CLEAN-100W-128-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-HB-CLEAN-100W-129-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-HB-CLEAN-100W-125-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-HB-CLEAN-100W-128-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-HB-CLEAN-100W-129-830-Z</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-HB-CLEAN-100W-125-830-Z</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-HB-CLEAN-100W-128-830-Z</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-HB-CLEAN-100W-129-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-HB-CLEAN-100W-125-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-HB-CLEAN-100W-128-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-HB-CLEAN-100W-129-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-HB-CLEAN-100W-125-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-HB-CLEAN-100W-128-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-HB-CLEAN-100W-129-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-HB-CLEAN-100W-125-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-HB-CLEAN-100W-128-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-HB-CLEAN-100W-129-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-HB-CLEAN-100W-125-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-HB-CLEAN-100W-128-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-HB-CLEAN-100W-129-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-HB-CLEAN-100W-125-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-HB-CLEAN-100W-128-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-HB-CLEAN-100W-129-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-HB-CLEAN-100W-125-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-HB-CLEAN-100W-128-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-HB-CLEAN-100W-129-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-HB-CLEAN-100W-125-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-HB-CLEAN-100W-128-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-HB-CLEAN-100W-129-850-Z</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-HB-CLEAN-100W-125-850-Z</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-HB-CLEAN-100W-128-850-Z</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-HB-CLEAN-100W-129-850-C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-HB-CLEAN-100W-125-850-C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-HB-CLEAN-100W-128-850-C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-HB-CLEAN-120W-129-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-HB-CLEAN-120W-125-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-HB-CLEAN-120W-128-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-HB-CLEAN-120W-129-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-HB-CLEAN-120W-125-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-HB-CLEAN-120W-128-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-HB-CLEAN-120W-129-830-Z</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-HB-CLEAN-120W-125-830-Z</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-HB-CLEAN-120W-128-830-Z</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-HB-CLEAN-120W-129-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-HB-CLEAN-120W-125-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-HB-CLEAN-120W-128-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-HB-CLEAN-120W-129-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-HB-CLEAN-120W-125-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-HB-CLEAN-120W-128-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-HB-CLEAN-120W-129-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-HB-CLEAN-120W-125-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-HB-CLEAN-120W-128-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-HB-CLEAN-120W-129-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-HB-CLEAN-120W-125-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-HB-CLEAN-120W-128-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-HB-CLEAN-120W-129-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-HB-CLEAN-120W-125-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-HB-CLEAN-120W-128-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-HB-CLEAN-120W-129-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-HB-CLEAN-120W-125-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-HB-CLEAN-120W-128-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-HB-CLEAN-120W-129-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-HB-CLEAN-120W-125-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-HB-CLEAN-120W-128-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-HB-CLEAN-120W-129-850-Z</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-HB-CLEAN-120W-125-850-Z</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-HB-CLEAN-120W-128-850-Z</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-HB-CLEAN-120W-129-850-C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-HB-CLEAN-120W-125-850-C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-HB-CLEAN-120W-128-850-C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16800 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="73">
+    <KOD>GL-HB-CLEAN-150W-129-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="74">
+    <KOD>GL-HB-CLEAN-150W-125-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="75">
+    <KOD>GL-HB-CLEAN-150W-128-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="76">
+    <KOD>GL-HB-CLEAN-150W-129-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="77">
+    <KOD>GL-HB-CLEAN-150W-125-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="78">
+    <KOD>GL-HB-CLEAN-150W-128-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="79">
+    <KOD>GL-HB-CLEAN-150W-129-830-Z</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="80">
+    <KOD>GL-HB-CLEAN-150W-125-830-Z</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="81">
+    <KOD>GL-HB-CLEAN-150W-128-830-Z</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="82">
+    <KOD>GL-HB-CLEAN-150W-129-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="83">
+    <KOD>GL-HB-CLEAN-150W-125-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="84">
+    <KOD>GL-HB-CLEAN-150W-128-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="85">
+    <KOD>GL-HB-CLEAN-150W-129-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="86">
+    <KOD>GL-HB-CLEAN-150W-125-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="87">
+    <KOD>GL-HB-CLEAN-150W-128-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="88">
+    <KOD>GL-HB-CLEAN-150W-129-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="89">
+    <KOD>GL-HB-CLEAN-150W-125-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="90">
+    <KOD>GL-HB-CLEAN-150W-128-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="91">
+    <KOD>GL-HB-CLEAN-150W-129-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="92">
+    <KOD>GL-HB-CLEAN-150W-125-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="93">
+    <KOD>GL-HB-CLEAN-150W-128-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="94">
+    <KOD>GL-HB-CLEAN-150W-129-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="95">
+    <KOD>GL-HB-CLEAN-150W-125-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="96">
+    <KOD>GL-HB-CLEAN-150W-128-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="97">
+    <KOD>GL-HB-CLEAN-150W-129-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="98">
+    <KOD>GL-HB-CLEAN-150W-125-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="99">
+    <KOD>GL-HB-CLEAN-150W-128-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="100">
+    <KOD>GL-HB-CLEAN-150W-129-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="101">
+    <KOD>GL-HB-CLEAN-150W-125-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="102">
+    <KOD>GL-HB-CLEAN-150W-128-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="103">
+    <KOD>GL-HB-CLEAN-150W-129-850-Z</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="104">
+    <KOD>GL-HB-CLEAN-150W-125-850-Z</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="105">
+    <KOD>GL-HB-CLEAN-150W-128-850-Z</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="106">
+    <KOD>GL-HB-CLEAN-150W-129-850-C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="107">
+    <KOD>GL-HB-CLEAN-150W-125-850-C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="108">
+    <KOD>GL-HB-CLEAN-150W-128-850-C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</HB-CLEAN>

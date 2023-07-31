@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PANEL>
+  <MODEL id="1">
+    <KOD>GL-PANEL-840-6060-4400-UGR19</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>4400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>NULLIK</elem_IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-PANEL-840-30120-4400-UGR19</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>4400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>NULLIK</elem_IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-PANEL-840-6060-3400</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>3400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>NULLIK</elem_IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-PANEL-840-6060-4400</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>4400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>NULLIK</elem_IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-PANEL-840-30120-3400</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>3400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>NULLIK</elem_IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-PANEL-840-3060-2240-SLIM</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>28W</MOC>
+    <FLUX>2240lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>NULLIK</elem_IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-PANEL-840-6060-3400-SLIM</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>3400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>NULLIK</elem_IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-PANEL-840-6060-4400-SLIM</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>4400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>NULLIK</elem_IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-PANEL-840-6060-5100-SLIM</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>48W</MOC>
+    <FLUX>5100lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>NULLIK</elem_IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-PANEL-840-30120-3400-SLIM</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>3400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>NULLIK</elem_IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-PANEL-840-30120-4400-SLIM</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40W</MOC>
+    <FLUX>4400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>NULLIK</elem_IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</PANEL>

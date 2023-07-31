@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FL_MAX>
+  <MODEL id="1">
+    <KOD>GL-FL-Max-200W-01-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-FL-Max-200W-02-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-FL-Max-200W-03-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>27000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-FL-Max-200W-04-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15 °x 40°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-FL-Max-200W-05-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>27000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-FL-Max-200W-06-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>27000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-FL-Max-200W-01-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>23200lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-FL-Max-200W-02-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>23200lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-FL-Max-200W-03-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25200lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-FL-Max-200W-04-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>23200lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15 °x 40°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-FL-Max-200W-05-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25200lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-FL-Max-200W-06-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25200lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-FL-Max-400W-01-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>50000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-FL-Max-400W-02-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>50000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-FL-Max-400W-03-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>54000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-FL-Max-400W-04-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>50000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15 °x 40°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-FL-Max-400W-05-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>54000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-FL-Max-400W-06-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>54000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-FL-Max-400W-01-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>46400lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-FL-Max-400W-02-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>46400lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-FL-Max-400W-03-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>50400lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-FL-Max-400W-04-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>46400lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15 °x 40°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-FL-Max-400W-05-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>50400lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-FL-Max-400W-06-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>50400lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-FL-Max-600W-01-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>75000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-FL-Max-600W-02-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>75000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-FL-Max-600W-03-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>81000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-FL-Max-600W-04-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>75000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15 °x 40°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-FL-Max-600W-05-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>81000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-FL-Max-600W-06-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>81000lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-FL-Max-600W-01-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>69600lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-FL-Max-600W-02-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>69600lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-FL-Max-600W-03-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>75600lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-FL-Max-600W-04-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>69600lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>15 °x 40°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-FL-Max-600W-05-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>75600lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-FL-Max-600W-06-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>75600lm</FLUX>
+    <elem_sterowanie>DALI / 1-10V / DMX *opcja</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+</FL_MAX>

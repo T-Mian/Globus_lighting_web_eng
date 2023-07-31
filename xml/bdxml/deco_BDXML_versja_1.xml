@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DECO>
+  <MODEL id="1">
+    <KOD>GL-DECO-ST-T3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 52W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-DECO-ST-D3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 52W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-DECO-ST-A3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 52W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-DECO-ST-T3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 55W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-DECO-ST-D3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 55W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-DECO-ST-A3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 55W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-DECO-SQ-T3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 52W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-DECO-SQ-D3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 52W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-DECO-SQ-A3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 52W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-DECO-SQ-T3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 55W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-DECO-SQ-D3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 55W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-DECO-SQ-A3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 55W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-DECO-SL-T3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 52W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-DECO-SL-D3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 52W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-DECO-SL-A3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 52W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-DECO-SL-T3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 55W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-DECO-SL-D3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 55W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-DECO-SL-A3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 55W</MOC>
+    <FLUX>Total 7500lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-DECO-X3-T3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 104W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-DECO-X3-D3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 104W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-DECO-X3-A3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 104W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-DECO-X3-T3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 110W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-DECO-X3-D3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 110W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-DECO-X3-A3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 110W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-DECO-KW-T3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 104W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-DECO-KW-D3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 104W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-DECO-KW-A3080061-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>Total 104W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-DECO-KW-T3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 110W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-DECO-KW-D3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 110W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-DECO-KW-A3080061-940-3C</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>Total 110W</MOC>
+    <FLUX>Total 15000lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP40</IP>
+    <IK>IK03</IK>
+    <ROZ>↓120°|↑60</ROZ>
+  </MODEL>
+</DECO>

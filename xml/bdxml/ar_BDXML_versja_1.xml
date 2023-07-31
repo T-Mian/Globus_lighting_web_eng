@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<AR>
+  <MODEL id="1">
+    <KOD>GL-AR-35W-R01-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>2450lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>3,8°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-AR-35W-R02-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>2450lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>8°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-AR-35W-R03-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>12°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-AR-35W-R04-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-AR-35W-R05-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-AR-35W-R06-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>20°x60°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-AR-35W-R07-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>15°x30°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-AR-35W-R08-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>75°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-AR-100W-R01-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>3,8°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-AR-100W-R02-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>8°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-AR-100W-R03-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>10000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>12°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-AR-100W-R04-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>10000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-AR-100W-R05-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>10000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-AR-100W-R06-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>10000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>20°x60°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-AR-100W-R07-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>10000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>15°x30°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-AR-100W-R08-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>10000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>75°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-AR-150W-R01-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>10500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>3,8°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-AR-150W-R02-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>10500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>8°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-AR-150W-R03-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>15000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>12°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-AR-150W-R04-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>15000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-AR-150W-R05-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>15000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-AR-150W-R06-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>15000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>20°x60°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-AR-150W-R07-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>15000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>15°x30°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-AR-150W-R08-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>15000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>75°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-AR-35WDC-R01-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3150lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>3,8°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-AR-35WDC-R02-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3150lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>8°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-AR-35WDC-R03-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3150lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>12°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-AR-35WDC-R04-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3150lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-AR-35WDC-R05-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3150lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-AR-35WDC-R06-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3150lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>20°x60°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-AR-35WDC-R07-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3150lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>15°x30°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-AR-35WDC-R08-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3150lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>75°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-AR-100WDC-R01-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>3,8°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-AR-100WDC-R02-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>8°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-AR-100WDC-R03-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>12°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-AR-100WDC-R04-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-AR-100WDC-R05-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-AR-100WDC-R06-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>20°x60°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-AR-100WDC-R07-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>15°x30°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-AR-100WDC-R08-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>75°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-AR-150WDC-R01-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>3,8°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-AR-150WDC-R02-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>8°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-AR-150WDC-R03-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>12°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-AR-150WDC-R04-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-AR-150WDC-R05-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-AR-150WDC-R06-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>20°x60°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-AR-150WDC-R07-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>15°x30°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-AR-150WDC-R08-RGB</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>75°</ROZ>
+  </MODEL>
+</AR>

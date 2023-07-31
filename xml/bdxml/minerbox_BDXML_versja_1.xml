@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MINERBOX>
+  <MODEL id="1">
+    <KOD>GL-MINERBOX-01-TK040967GMN-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>45W</MOC>
+    <FLUX>6750lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-MINERBOX-01-TK040967GMN-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-MINERBOX-02-TK040967GMN-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-MINERBOX-02-TK040967GMN-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18050lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-MINERBOX-01-TK040967HMN-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>4500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-MINERBOX-01-TK040967HMN-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>45W</MOC>
+    <FLUX>6750lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-MINERBOX-01-TK040967HMN-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-MINERBOX-02-TK040967HMN-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-MINERBOX-02-TK040967HMN-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18050lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-MINERBOX-01-TK040967JMN-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>4500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-MINERBOX-01-TK040967JMN-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>45W</MOC>
+    <FLUX>6750lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-MINERBOX-01-TK040967JMN-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-MINERBOX-02-TK040967JMN-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-MINERBOX-02-TK040967JMN-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18050lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-MINERBOX-01-TK040967KMN-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>4500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-MINERBOX-01-TK040967KMN-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>45W</MOC>
+    <FLUX>6750lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-MINERBOX-01-TK040967KMN-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-MINERBOX-02-TK040967KMN-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-MINERBOX-02-TK040967KMN-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18050lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</MINERBOX>

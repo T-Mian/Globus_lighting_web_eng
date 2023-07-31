@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<HARDBOX>
+  <MODEL id="1">
+    <KOD>GL-HARDBOX-WA-DC10020161-840-3A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>18W</MOC>
+    <FLUX>2178lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-HARDBOX-WA-A10020161-840-3A +N</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>18W</MOC>
+    <FLUX>2178lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-HARDBOX-WA-T10020161-840-3B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3267lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-HARDBOX-WA-DC10020161-840-3B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3267lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-HARDBOX-WA-A10020161-840-3B +N</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3267lm</FLUX>
+    <elem_sterowanie>tak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-HARDBOX-WA-T20020161-840-3B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>34W</MOC>
+    <FLUX>4114lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-HARDBOX-WA-A20020161-840-3B+N</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>34W</MOC>
+    <FLUX>4114lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-HARDBOX-WA-T30020161-840-3C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>53W</MOC>
+    <FLUX>6413lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-HARDBOX-WA-T40020161-840-3D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>72W</MOC>
+    <FLUX>8712lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</HARDBOX>

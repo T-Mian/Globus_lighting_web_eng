@@ -1,0 +1,3363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SQR>
+  <MODEL id="1">
+    <KOD>GL-SQR-100W-4501-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14700lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-SQR-100W-4502-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14701lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-SQR-100W-0401-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14702lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-SQR-100W-0402-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14703lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-SQR-150W-4501-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-SQR-150W-4502-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-SQR-150W-0401-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-SQR-150W-0402-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-SQR-200W-4501-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-SQR-200W-4502-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-SQR-200W-0401-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-SQR-200W-0402-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-SQR-240W-4501-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-SQR-240W-4502-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-SQR-240W-0401-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-SQR-240W-0402-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-SQR-300W-4501-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-SQR-300W-4502-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-SQR-300W-0401-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-SQR-300W-0402-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-SQR-400W-4501-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-SQR-400W-4502-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-SQR-400W-0401-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-SQR-400W-0402-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-SQR-480W-4501-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-SQR-480W-4502-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-SQR-480W-0401-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-SQR-480W-0402-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-SQR-100W-4501-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14700lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-SQR-100W-4502-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14701lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-SQR-100W-0401-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14702lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-SQR-100W-0402-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14703lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-SQR-150W-4501-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-SQR-150W-4502-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-SQR-150W-0401-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-SQR-150W-0402-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-SQR-200W-4501-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-SQR-200W-4502-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-SQR-200W-0401-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-SQR-200W-0402-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-SQR-240W-4501-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-SQR-240W-4502-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-SQR-240W-0401-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-SQR-240W-0402-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-SQR-300W-4501-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-SQR-300W-4502-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-SQR-300W-0401-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-SQR-300W-0402-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-SQR-400W-4501-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-SQR-400W-4502-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-SQR-400W-0401-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-SQR-400W-0402-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-SQR-480W-4501-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-SQR-480W-4502-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-SQR-480W-0401-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-SQR-480W-0402-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-SQR-100W-4501-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14700lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-SQR-100W-4502-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14701lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-SQR-100W-0401-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14702lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-SQR-100W-0402-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14703lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-SQR-150W-4501-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-SQR-150W-4502-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-SQR-150W-0401-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-SQR-150W-0402-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-SQR-200W-4501-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-SQR-200W-4502-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-SQR-200W-0401-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-SQR-200W-0402-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-SQR-240W-4501-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-SQR-240W-4502-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-SQR-240W-0401-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-SQR-240W-0402-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="73">
+    <KOD>GL-SQR-300W-4501-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="74">
+    <KOD>GL-SQR-300W-4502-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="75">
+    <KOD>GL-SQR-300W-0401-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="76">
+    <KOD>GL-SQR-300W-0402-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="77">
+    <KOD>GL-SQR-400W-4501-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="78">
+    <KOD>GL-SQR-400W-4502-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="79">
+    <KOD>GL-SQR-400W-0401-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="80">
+    <KOD>GL-SQR-400W-0402-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="81">
+    <KOD>GL-SQR-480W-4501-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="82">
+    <KOD>GL-SQR-480W-4502-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="83">
+    <KOD>GL-SQR-480W-0401-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="84">
+    <KOD>GL-SQR-480W-0402-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="85">
+    <KOD>GL-SQR-100W-4501-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14700lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="86">
+    <KOD>GL-SQR-100W-4502-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14701lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="87">
+    <KOD>GL-SQR-100W-0401-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14702lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="88">
+    <KOD>GL-SQR-100W-0402-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14703lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="89">
+    <KOD>GL-SQR-150W-4501-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="90">
+    <KOD>GL-SQR-150W-4502-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="91">
+    <KOD>GL-SQR-150W-0401-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="92">
+    <KOD>GL-SQR-150W-0402-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="93">
+    <KOD>GL-SQR-200W-4501-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="94">
+    <KOD>GL-SQR-200W-4502-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="95">
+    <KOD>GL-SQR-200W-0401-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="96">
+    <KOD>GL-SQR-200W-0402-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="97">
+    <KOD>GL-SQR-240W-4501-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="98">
+    <KOD>GL-SQR-240W-4502-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="99">
+    <KOD>GL-SQR-240W-0401-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="100">
+    <KOD>GL-SQR-240W-0402-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="101">
+    <KOD>GL-SQR-300W-4501-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="102">
+    <KOD>GL-SQR-300W-4502-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="103">
+    <KOD>GL-SQR-300W-0401-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="104">
+    <KOD>GL-SQR-300W-0402-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="105">
+    <KOD>GL-SQR-400W-4501-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="106">
+    <KOD>GL-SQR-400W-4502-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="107">
+    <KOD>GL-SQR-400W-0401-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="108">
+    <KOD>GL-SQR-400W-0402-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="109">
+    <KOD>GL-SQR-480W-4501-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="110">
+    <KOD>GL-SQR-480W-4502-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="111">
+    <KOD>GL-SQR-480W-0401-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="112">
+    <KOD>GL-SQR-480W-0402-840-Z</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="113">
+    <KOD>GL-SQR-100W-4501-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14700lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="114">
+    <KOD>GL-SQR-100W-4502-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14701lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="115">
+    <KOD>GL-SQR-100W-0401-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14702lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="116">
+    <KOD>GL-SQR-100W-0402-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14703lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="117">
+    <KOD>GL-SQR-150W-4501-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="118">
+    <KOD>GL-SQR-150W-4502-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="119">
+    <KOD>GL-SQR-150W-0401-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="120">
+    <KOD>GL-SQR-150W-0402-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="121">
+    <KOD>GL-SQR-200W-4501-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="122">
+    <KOD>GL-SQR-200W-4502-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="123">
+    <KOD>GL-SQR-200W-0401-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="124">
+    <KOD>GL-SQR-200W-0402-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="125">
+    <KOD>GL-SQR-240W-4501-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="126">
+    <KOD>GL-SQR-240W-4502-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="127">
+    <KOD>GL-SQR-240W-0401-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="128">
+    <KOD>GL-SQR-240W-0402-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="129">
+    <KOD>GL-SQR-300W-4501-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="130">
+    <KOD>GL-SQR-300W-4502-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="131">
+    <KOD>GL-SQR-300W-0401-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="132">
+    <KOD>GL-SQR-300W-0402-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="133">
+    <KOD>GL-SQR-400W-4501-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="134">
+    <KOD>GL-SQR-400W-4502-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="135">
+    <KOD>GL-SQR-400W-0401-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="136">
+    <KOD>GL-SQR-400W-0402-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="137">
+    <KOD>GL-SQR-480W-4501-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="138">
+    <KOD>GL-SQR-480W-4502-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="139">
+    <KOD>GL-SQR-480W-0401-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="140">
+    <KOD>GL-SQR-480W-0402-840-PIR</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="141">
+    <KOD>GL-SQR-100W-4501-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14700lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="142">
+    <KOD>GL-SQR-100W-4502-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14701lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="143">
+    <KOD>GL-SQR-100W-0401-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14702lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="144">
+    <KOD>GL-SQR-100W-0402-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14703lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="145">
+    <KOD>GL-SQR-150W-4501-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="146">
+    <KOD>GL-SQR-150W-4502-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="147">
+    <KOD>GL-SQR-150W-0401-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="148">
+    <KOD>GL-SQR-150W-0402-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22050lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="149">
+    <KOD>GL-SQR-200W-4501-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="150">
+    <KOD>GL-SQR-200W-4502-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="151">
+    <KOD>GL-SQR-200W-0401-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="152">
+    <KOD>GL-SQR-200W-0402-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>29400lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="153">
+    <KOD>GL-SQR-240W-4501-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="154">
+    <KOD>GL-SQR-240W-4502-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="155">
+    <KOD>GL-SQR-240W-0401-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="156">
+    <KOD>GL-SQR-240W-0402-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>35280lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="157">
+    <KOD>GL-SQR-300W-4501-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="158">
+    <KOD>GL-SQR-300W-4502-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="159">
+    <KOD>GL-SQR-300W-0401-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="160">
+    <KOD>GL-SQR-300W-0402-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>44100lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="161">
+    <KOD>GL-SQR-400W-4501-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="162">
+    <KOD>GL-SQR-400W-4502-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="163">
+    <KOD>GL-SQR-400W-0401-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="164">
+    <KOD>GL-SQR-400W-0402-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>58800lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="165">
+    <KOD>GL-SQR-480W-4501-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="166">
+    <KOD>GL-SQR-480W-4502-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="167">
+    <KOD>GL-SQR-480W-0401-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="168">
+    <KOD>GL-SQR-480W-0402-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>70560lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="169">
+    <KOD>GL-SQR-100W-4501-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="170">
+    <KOD>GL-SQR-100W-4502-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="171">
+    <KOD>GL-SQR-100W-0401-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="172">
+    <KOD>GL-SQR-100W-0402-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="173">
+    <KOD>GL-SQR-150W-4501-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="174">
+    <KOD>GL-SQR-150W-4502-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="175">
+    <KOD>GL-SQR-150W-0401-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="176">
+    <KOD>GL-SQR-150W-0402-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="177">
+    <KOD>GL-SQR-200W-4501-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="178">
+    <KOD>GL-SQR-200W-4502-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="179">
+    <KOD>GL-SQR-200W-0401-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="180">
+    <KOD>GL-SQR-200W-0402-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="181">
+    <KOD>GL-SQR-240W-4501-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="182">
+    <KOD>GL-SQR-240W-4502-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="183">
+    <KOD>GL-SQR-240W-0401-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="184">
+    <KOD>GL-SQR-240W-0402-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="185">
+    <KOD>GL-SQR-300W-4501-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="186">
+    <KOD>GL-SQR-300W-4502-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="187">
+    <KOD>GL-SQR-300W-0401-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="188">
+    <KOD>GL-SQR-300W-0402-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="189">
+    <KOD>GL-SQR-400W-4501-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="190">
+    <KOD>GL-SQR-400W-4502-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="191">
+    <KOD>GL-SQR-400W-0401-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="192">
+    <KOD>GL-SQR-400W-0402-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="193">
+    <KOD>GL-SQR-480W-4501-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="194">
+    <KOD>GL-SQR-480W-4502-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="195">
+    <KOD>GL-SQR-480W-0401-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="196">
+    <KOD>GL-SQR-480W-0402-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="197">
+    <KOD>GL-SQR-100W-4501-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="198">
+    <KOD>GL-SQR-100W-4502-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="199">
+    <KOD>GL-SQR-100W-0401-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="200">
+    <KOD>GL-SQR-100W-0402-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="201">
+    <KOD>GL-SQR-150W-4501-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="202">
+    <KOD>GL-SQR-150W-4502-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="203">
+    <KOD>GL-SQR-150W-0401-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="204">
+    <KOD>GL-SQR-150W-0402-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="205">
+    <KOD>GL-SQR-200W-4501-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="206">
+    <KOD>GL-SQR-200W-4502-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="207">
+    <KOD>GL-SQR-200W-0401-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="208">
+    <KOD>GL-SQR-200W-0402-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="209">
+    <KOD>GL-SQR-240W-4501-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="210">
+    <KOD>GL-SQR-240W-4502-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="211">
+    <KOD>GL-SQR-240W-0401-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="212">
+    <KOD>GL-SQR-240W-0402-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="213">
+    <KOD>GL-SQR-300W-4501-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="214">
+    <KOD>GL-SQR-300W-4502-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="215">
+    <KOD>GL-SQR-300W-0401-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="216">
+    <KOD>GL-SQR-300W-0402-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="217">
+    <KOD>GL-SQR-400W-4501-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="218">
+    <KOD>GL-SQR-400W-4502-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="219">
+    <KOD>GL-SQR-400W-0401-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="220">
+    <KOD>GL-SQR-400W-0402-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="221">
+    <KOD>GL-SQR-480W-4501-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="222">
+    <KOD>GL-SQR-480W-4502-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="223">
+    <KOD>GL-SQR-480W-0401-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="224">
+    <KOD>GL-SQR-480W-0402-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="225">
+    <KOD>GL-SQR-100W-4501-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="226">
+    <KOD>GL-SQR-100W-4502-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="227">
+    <KOD>GL-SQR-100W-0401-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="228">
+    <KOD>GL-SQR-100W-0402-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="229">
+    <KOD>GL-SQR-150W-4501-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="230">
+    <KOD>GL-SQR-150W-4502-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="231">
+    <KOD>GL-SQR-150W-0401-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="232">
+    <KOD>GL-SQR-150W-0402-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="233">
+    <KOD>GL-SQR-200W-4501-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="234">
+    <KOD>GL-SQR-200W-4502-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="235">
+    <KOD>GL-SQR-200W-0401-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="236">
+    <KOD>GL-SQR-200W-0402-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="237">
+    <KOD>GL-SQR-240W-4501-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="238">
+    <KOD>GL-SQR-240W-4502-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="239">
+    <KOD>GL-SQR-240W-0401-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="240">
+    <KOD>GL-SQR-240W-0402-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="241">
+    <KOD>GL-SQR-300W-4501-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="242">
+    <KOD>GL-SQR-300W-4502-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="243">
+    <KOD>GL-SQR-300W-0401-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="244">
+    <KOD>GL-SQR-300W-0402-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="245">
+    <KOD>GL-SQR-400W-4501-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="246">
+    <KOD>GL-SQR-400W-4502-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="247">
+    <KOD>GL-SQR-400W-0401-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="248">
+    <KOD>GL-SQR-400W-0402-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="249">
+    <KOD>GL-SQR-480W-4501-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="250">
+    <KOD>GL-SQR-480W-4502-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="251">
+    <KOD>GL-SQR-480W-0401-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="252">
+    <KOD>GL-SQR-480W-0402-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="253">
+    <KOD>GL-SQR-100W-4501-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="254">
+    <KOD>GL-SQR-100W-4502-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="255">
+    <KOD>GL-SQR-100W-0401-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="256">
+    <KOD>GL-SQR-100W-0402-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="257">
+    <KOD>GL-SQR-150W-4501-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="258">
+    <KOD>GL-SQR-150W-4502-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="259">
+    <KOD>GL-SQR-150W-0401-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="260">
+    <KOD>GL-SQR-150W-0402-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="261">
+    <KOD>GL-SQR-200W-4501-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="262">
+    <KOD>GL-SQR-200W-4502-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="263">
+    <KOD>GL-SQR-200W-0401-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="264">
+    <KOD>GL-SQR-200W-0402-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="265">
+    <KOD>GL-SQR-240W-4501-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="266">
+    <KOD>GL-SQR-240W-4502-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="267">
+    <KOD>GL-SQR-240W-0401-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="268">
+    <KOD>GL-SQR-240W-0402-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="269">
+    <KOD>GL-SQR-300W-4501-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="270">
+    <KOD>GL-SQR-300W-4502-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="271">
+    <KOD>GL-SQR-300W-0401-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="272">
+    <KOD>GL-SQR-300W-0402-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="273">
+    <KOD>GL-SQR-400W-4501-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="274">
+    <KOD>GL-SQR-400W-4502-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="275">
+    <KOD>GL-SQR-400W-0401-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="276">
+    <KOD>GL-SQR-400W-0402-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="277">
+    <KOD>GL-SQR-480W-4501-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="278">
+    <KOD>GL-SQR-480W-4502-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="279">
+    <KOD>GL-SQR-480W-0401-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="280">
+    <KOD>GL-SQR-480W-0402-750-Z</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="281">
+    <KOD>GL-SQR-100W-4501-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="282">
+    <KOD>GL-SQR-100W-4502-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="283">
+    <KOD>GL-SQR-100W-0401-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="284">
+    <KOD>GL-SQR-100W-0402-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="285">
+    <KOD>GL-SQR-150W-4501-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="286">
+    <KOD>GL-SQR-150W-4502-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="287">
+    <KOD>GL-SQR-150W-0401-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="288">
+    <KOD>GL-SQR-150W-0402-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="289">
+    <KOD>GL-SQR-200W-4501-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="290">
+    <KOD>GL-SQR-200W-4502-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="291">
+    <KOD>GL-SQR-200W-0401-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="292">
+    <KOD>GL-SQR-200W-0402-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="293">
+    <KOD>GL-SQR-240W-4501-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="294">
+    <KOD>GL-SQR-240W-4502-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="295">
+    <KOD>GL-SQR-240W-0401-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="296">
+    <KOD>GL-SQR-240W-0402-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="297">
+    <KOD>GL-SQR-300W-4501-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="298">
+    <KOD>GL-SQR-300W-4502-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="299">
+    <KOD>GL-SQR-300W-0401-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="300">
+    <KOD>GL-SQR-300W-0402-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="301">
+    <KOD>GL-SQR-400W-4501-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="302">
+    <KOD>GL-SQR-400W-4502-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="303">
+    <KOD>GL-SQR-400W-0401-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="304">
+    <KOD>GL-SQR-400W-0402-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="305">
+    <KOD>GL-SQR-480W-4501-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="306">
+    <KOD>GL-SQR-480W-4502-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="307">
+    <KOD>GL-SQR-480W-0401-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="308">
+    <KOD>GL-SQR-480W-0402-750-PIR</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>74400lm</FLUX>
+    <elem_sterowanie>Czujnik PIR</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="309">
+    <KOD>GL-SQR-100W-4501-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="310">
+    <KOD>GL-SQR-100W-4502-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="311">
+    <KOD>GL-SQR-100W-0401-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="312">
+    <KOD>GL-SQR-100W-0402-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15500lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="313">
+    <KOD>GL-SQR-150W-4501-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="314">
+    <KOD>GL-SQR-150W-4502-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="315">
+    <KOD>GL-SQR-150W-0401-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="316">
+    <KOD>GL-SQR-150W-0402-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23250lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="317">
+    <KOD>GL-SQR-200W-4501-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="318">
+    <KOD>GL-SQR-200W-4502-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="319">
+    <KOD>GL-SQR-200W-0401-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="320">
+    <KOD>GL-SQR-200W-0402-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="321">
+    <KOD>GL-SQR-240W-4501-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="322">
+    <KOD>GL-SQR-240W-4502-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="323">
+    <KOD>GL-SQR-240W-0401-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="324">
+    <KOD>GL-SQR-240W-0402-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>240W</MOC>
+    <FLUX>37200lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="325">
+    <KOD>GL-SQR-300W-4501-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="326">
+    <KOD>GL-SQR-300W-4502-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="327">
+    <KOD>GL-SQR-300W-0401-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="328">
+    <KOD>GL-SQR-300W-0402-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>46500lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="329">
+    <KOD>GL-SQR-400W-4501-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="330">
+    <KOD>GL-SQR-400W-4502-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="331">
+    <KOD>GL-SQR-400W-0401-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="332">
+    <KOD>GL-SQR-400W-0402-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>400W</MOC>
+    <FLUX>62000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+  <MODEL id="333">
+    <KOD>GL-SQR-480W-4501-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>72000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="334">
+    <KOD>GL-SQR-480W-4502-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>72000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="335">
+    <KOD>GL-SQR-480W-0401-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>72000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>25°x85°</ROZ>
+  </MODEL>
+  <MODEL id="336">
+    <KOD>GL-SQR-480W-0402-750-C</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>480W</MOC>
+    <FLUX>72000lm</FLUX>
+    <elem_sterowanie>Czujnik microfalowy</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>60°x120°</ROZ>
+  </MODEL>
+</SQR>

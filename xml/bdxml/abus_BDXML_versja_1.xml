@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ABUS>
+  <MODEL id="1">
+    <KOD>GLF-ABUS-0002010-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10W</MOC>
+    <FLUX>1050lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54/20</IP>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GLF-ABUS-0022110-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>18W</MOC>
+    <FLUX>1980lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54/20</IP>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GLF-ABUS-0002210-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2950lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54/20</IP>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GLF-ABUS-0001010-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10W</MOC>
+    <FLUX>1050lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54/20</IP>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GLF-ABUS-0001110-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>18W</MOC>
+    <FLUX>1980lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54/20</IP>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GLF-ABUS-0001210-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2950lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54/20</IP>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+</ABUS>

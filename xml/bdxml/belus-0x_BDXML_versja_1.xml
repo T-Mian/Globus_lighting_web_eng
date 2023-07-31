@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<BELUS-0X>
+  <MODEL id="1">
+    <KOD>GL-BELUS-02-MP080162-830-2C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16610lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-BELUS-02-MP040162-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>17660lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-BELUS-02-MP080162-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>17660lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-BELUS-02-MP040162-850-2C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>17820lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-BELUS-02-MP080162-850-2C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>17820lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-BELUS-02-MS040162-830-2D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>22150lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-BELUS-02-MS080162-830-2D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>22150lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-BELUS-02-MS040162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23540lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-BELUS-02-MS080162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23540lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-BELUS-02-MS040162-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23760lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-BELUS-02-MS080162-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23760lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-BELUS-02-MU040162-830-2E</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>199W</MOC>
+    <FLUX>27660lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-BELUS-02-MU080162-830-2E</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>199W</MOC>
+    <FLUX>27660lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-BELUS-02-MU040162-840-2E</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>199W</MOC>
+    <FLUX>29430lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-BELUS-02-MU080162-840-2E</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>199W</MOC>
+    <FLUX>29430lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-BELUS-02-MU040162-850-2E</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>199W</MOC>
+    <FLUX>29700lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-BELUS-02-MU080162-850-2E</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>199W</MOC>
+    <FLUX>29700lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-BELUS-03-MX040162-830-2D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>239W</MOC>
+    <FLUX>33230lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-BELUS-03-MX040162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>241W</MOC>
+    <FLUX>35323lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-BELUS-03-MX080162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>241W</MOC>
+    <FLUX>34556lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-BELUS-03-MY040162-840-2E</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>295W</MOC>
+    <FLUX>44154lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-BELUS-03-MY080162-840-2E</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>295W</MOC>
+    <FLUX>43195lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-BELUS-04-MZ040162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>315W</MOC>
+    <FLUX>47098lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-BELUS-04-MZ080162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>315W</MOC>
+    <FLUX>46074lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-BELUS-04-MT040162-840-2E</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>395W</MOC>
+    <FLUX>58873lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-BELUS-04-MT080162-840-2E</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>395W</MOC>
+    <FLUX>57593lm</FLUX>
+    <elem_sterowanie>1 -10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-BELUS-PRO-02-MP040162-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>117W</MOC>
+    <FLUX>20401lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-BELUS-PRO-02-MP080162-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>117W</MOC>
+    <FLUX>19958lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-BELUS-PRO-02-MS040162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>149W</MOC>
+    <FLUX>26248lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-BELUS-PRO-02-MS080162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>149W</MOC>
+    <FLUX>25678lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-BELUS-PRO-02-MU040162-840-2E</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>185W</MOC>
+    <FLUX>32325lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-BELUS-PRO-02-MU080162-840-2E</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>185W</MOC>
+    <FLUX>31622lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-BELUS-PRO-02-DP040162-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>103W</MOC>
+    <FLUX>17951lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-BELUS-PRO-02-DP080162-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>103W</MOC>
+    <FLUX>17560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-BELUS-PRO-02-DS040162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>138W</MOC>
+    <FLUX>23934lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-BELUS-PRO-02-DS080162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>138W</MOC>
+    <FLUX>23414lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-BELUS-PRO-02-DU040162-840-2E</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>170W</MOC>
+    <FLUX>29918lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-BELUS-PRO-02-DU080162-840-2E</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>170W</MOC>
+    <FLUX>29268lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-BELUS-PRO-03-MX040162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>233W</MOC>
+    <FLUX>40803lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-BELUS-PRO-03-MX080162-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>233W</MOC>
+    <FLUX>39916lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</BELUS-0X>

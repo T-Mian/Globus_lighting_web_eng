@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<BHARD>
+  <MODEL id="1">
+    <KOD>GL-BHARD-840-5W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>5 W</MOC>
+    <FLUX>725 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-BHARD-850-5W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>5 W</MOC>
+    <FLUX>725 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-BHARD-830-10W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10 W</MOC>
+    <FLUX>1450 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-BHARD-840-10W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10 W</MOC>
+    <FLUX>1450 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-BHARD-850-10W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>10 W</MOC>
+    <FLUX>1450 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-BHARD-830-15W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>15 W</MOC>
+    <FLUX>2175 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-BHARD-840-15W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>15 W</MOC>
+    <FLUX>2175 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-BHARD-850-15W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>15 W</MOC>
+    <FLUX>2175 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-BHARD-830-20W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-BHARD-840-20W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-BHARD-850-20W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>20 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-BHARD-830-24W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>3480 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-BHARD-840-24W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>3480 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-BHARD-850-24W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>3480 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10	</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</BHARD>

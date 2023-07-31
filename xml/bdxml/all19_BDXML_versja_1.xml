@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ALL19>
+  <MODEL id="1">
+    <KOD>GL-ALL19-6060-30W-840-T</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-ALL19-6060-35W-840-T</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-ALL19-30120-30W-840-T</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-ALL19-30120-35W-840-T</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-ALL19-6262-30W-840-T</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-ALL19-6262-35W-840-T</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-ALL19-6060-30W-8RR-T</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-ALL19-6060-35W-8RR-T</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-ALL19-30120-30W-8RR-T</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-ALL19-30120-35W-8RR-T</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-ALL19-6262-30W-8RR-T</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3000lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-ALL19-6262-35W-8RR-T</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-ALL19-6060-30W-8RR-D</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-ALL19-6060-35W-8RR-D</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-ALL19-30120-30W-8RR-D</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-ALL19-30120-35W-8RR-D</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-ALL19-6262-30W-8RR-D</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-ALL19-6262-35W-8RR-D</KOD>
+    <RACCT>8RR</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>nulllIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+</ALL19>

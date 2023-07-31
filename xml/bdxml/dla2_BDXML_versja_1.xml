@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DLA2>
+  <MODEL id="1">
+    <KOD>GL-DLA2-TT-10W-100-1000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1060lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-DLA2-TT-10W-100-1000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1060lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-DLA2-TT-10W-100-1000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1110lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-DLA2-TT-10W-100-1000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1110lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-DLA2-TT-10W-150-1000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1100lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-DLA2-TT-10W-150-1000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1100lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-DLA2-TT-10W-150-1000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1120lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-DLA2-TT-10W-150-1000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1120lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-DLA2-TT-20W-150-2000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2130lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-DLA2-TT-20W-150-2000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2130lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-DLA2-TT-20W-150-2000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2210lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-DLA2-TT-20W-150-2000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2210lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-DLA2-TT-20W-200-2000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2200lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-DLA2-TT-20W-200-2000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2200lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-DLA2-TT-20W-200-2000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2250lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-DLA2-TT-20W-200-2000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2250lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-DLA2-TT-30W-200-3000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3070lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-DLA2-TT-30W-200-3000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3070lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-DLA2-TT-30W-200-3000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3180lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-DLA2-TT-30W-200-3000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3180lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-DLA2-DD-10W-100-1000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1060lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-DLA2-DD-10W-100-1000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1060lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-DLA2-DD-10W-100-1000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1110lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-DLA2-DD-10W-100-1000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1110lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-DLA2-DD-10W-150-1000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1100lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-DLA2-DD-10W-150-1000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1100lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-DLA2-DD-10W-150-1000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1120lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-DLA2-DD-10W-150-1000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1120lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-DLA2-DD-20W-150-2000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2130lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-DLA2-DD-20W-150-2000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2130lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-DLA2-DD-20W-150-2000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2210lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-DLA2-DD-20W-150-2000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2210lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-DLA2-DD-20W-200-2000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-DLA2-DD-20W-200-2000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-DLA2-DD-20W-200-2000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2250lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-DLA2-DD-20W-200-2000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2250lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-DLA2-DD-30W-200-3000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3070lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-DLA2-DD-30W-200-3000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3070lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-DLA2-DD-30W-200-3000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3180lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-DLA2-DD-30W-200-3000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3180lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-DLA2-D2-10W-100-1000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1060lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-DLA2-D2-10W-100-1000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1060lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-DLA2-D2-10W-100-1000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1110lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-DLA2-D2-10W-100-1000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,2W</MOC>
+    <FLUX>1110lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-DLA2-D2-10W-150-1000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1100lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-DLA2-D2-10W-150-1000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1100lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-DLA2-D2-10W-150-1000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1120lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-DLA2-D2-10W-150-1000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10,1W</MOC>
+    <FLUX>1120lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-DLA2-D2-20W-150-2000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2130lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-DLA2-D2-20W-150-2000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2130lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-DLA2-D2-20W-150-2000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2210lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-DLA2-D2-20W-150-2000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,2W</MOC>
+    <FLUX>2210lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-DLA2-D2-20W-200-2000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2200lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-DLA2-D2-20W-200-2000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2200lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-DLA2-D2-20W-200-2000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2250lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-DLA2-D2-20W-200-2000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20,4W</MOC>
+    <FLUX>2250lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-DLA2-D2-30W-200-3000-60-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3070lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-DLA2-D2-30W-200-3000-90-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3070lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-DLA2-D2-30W-200-3000-60-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3180lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-DLA2-D2-30W-200-3000-90-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>29,8W</MOC>
+    <FLUX>3180lm</FLUX>
+    <elem_sterowanie>DALI 2</elem_sterowanie>
+    <IK>IK03</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+</DLA2>

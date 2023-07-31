@@ -1,0 +1,2883 @@
+<?xml version='1.0' encoding='utf-8'?>
+<WALL>
+  <MODEL id="1">
+    <KOD>GL-WALL-08W-001031A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-WALL-08W-002031A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-WALL-08W-003031A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-WALL-08W-004531A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-WALL-08W-006031A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-WALL-08W-154531A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-WALL-08W-106531A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-WALL-12W-001031B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-WALL-12W-002031B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-WALL-12W-003031B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-WALL-12W-004531B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-WALL-12W-006031B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-WALL-12W-154531B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-WALL-12W-106531B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-WALL-18W-001031C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-WALL-18W-002031C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-WALL-18W-003031C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-WALL-18W-004531C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-WALL-18W-006031C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-WALL-18W-154531C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-WALL-18W-106531C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-WALL-24W-001031D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-WALL-24W-002031D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-WALL-24W-003031D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-WALL-24W-004531D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-WALL-24W-006031D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-WALL-24W-154531D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-WALL-24W-106531D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-WALL-12W-001042A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-WALL-12W-002042A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-WALL-12W-003042A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-WALL-12W-004542A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-WALL-12W-006042A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-WALL-12W-154542A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-WALL-12W-106542A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-WALL-18W-001042B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-WALL-18W-002042B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-WALL-18W-003042B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-WALL-18W-004542B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-WALL-18W-006042B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-WALL-18W-154542B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-WALL-18W-106542B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-WALL-24W-001042C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-WALL-24W-002042C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-WALL-24W-003042C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-WALL-24W-004542C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-WALL-24W-006042C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-WALL-24W-154542C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-WALL-24W-106542C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-WALL-36W-001042D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-WALL-36W-002042D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-WALL-36W-003042D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-WALL-36W-004542D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-WALL-36W-006042D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-WALL-36W-154542D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-WALL-36W-106542D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-WALL-18W-001063A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-WALL-18W-002063A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-WALL-18W-003063A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-WALL-18W-004563A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-WALL-18W-006063A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-WALL-18W-154563A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-WALL-18W-106563A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-WALL-24W-001063B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-WALL-24W-002063B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-WALL-24W-003063B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-WALL-24W-004563B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-WALL-24W-006063B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-WALL-24W-154563B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-WALL-24W-106563B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-WALL-36W-001063C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-WALL-36W-002063C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="73">
+    <KOD>GL-WALL-36W-003063C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="74">
+    <KOD>GL-WALL-36W-004563C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="75">
+    <KOD>GL-WALL-36W-006063C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="76">
+    <KOD>GL-WALL-36W-154563C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="77">
+    <KOD>GL-WALL-36W-106563C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="78">
+    <KOD>GL-WALL-48W-001063D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="79">
+    <KOD>GL-WALL-48W-002063D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="80">
+    <KOD>GL-WALL-48W-003063D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="81">
+    <KOD>GL-WALL-48W-004563D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="82">
+    <KOD>GL-WALL-48W-006063D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="83">
+    <KOD>GL-WALL-48W-154563D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="84">
+    <KOD>GL-WALL-48W-106563D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="85">
+    <KOD>GL-WALL-08W-254531A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="86">
+    <KOD>GL-WALL-12W-254531B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="87">
+    <KOD>GL-WALL-18W-254531C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="88">
+    <KOD>GL-WALL-24W-254531D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="89">
+    <KOD>GL-WALL-12W-254542A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="90">
+    <KOD>GL-WALL-18W-254542B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="91">
+    <KOD>GL-WALL-24W-254542C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="92">
+    <KOD>GL-WALL-36W-254542D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="93">
+    <KOD>GL-WALL-18W-254563A-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="94">
+    <KOD>GL-WALL-24W-254563B-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="95">
+    <KOD>GL-WALL-36W-254563C-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="96">
+    <KOD>GL-WALL-48W-254563D-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="97">
+    <KOD>GL-WALL-08W-001031A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="98">
+    <KOD>GL-WALL-08W-002031A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="99">
+    <KOD>GL-WALL-08W-003031A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="100">
+    <KOD>GL-WALL-08W-004531A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="101">
+    <KOD>GL-WALL-08W-006031A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="102">
+    <KOD>GL-WALL-08W-154531A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="103">
+    <KOD>GL-WALL-08W-106531A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="104">
+    <KOD>GL-WALL-12W-001031B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="105">
+    <KOD>GL-WALL-12W-002031B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="106">
+    <KOD>GL-WALL-12W-003031B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="107">
+    <KOD>GL-WALL-12W-004531B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="108">
+    <KOD>GL-WALL-12W-006031B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="109">
+    <KOD>GL-WALL-12W-154531B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="110">
+    <KOD>GL-WALL-12W-106531B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="111">
+    <KOD>GL-WALL-18W-001031C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="112">
+    <KOD>GL-WALL-18W-002031C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="113">
+    <KOD>GL-WALL-18W-003031C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="114">
+    <KOD>GL-WALL-18W-004531C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="115">
+    <KOD>GL-WALL-18W-006031C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="116">
+    <KOD>GL-WALL-18W-154531C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="117">
+    <KOD>GL-WALL-18W-106531C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="118">
+    <KOD>GL-WALL-24W-001031D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="119">
+    <KOD>GL-WALL-24W-002031D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="120">
+    <KOD>GL-WALL-24W-003031D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="121">
+    <KOD>GL-WALL-24W-004531D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="122">
+    <KOD>GL-WALL-24W-006031D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="123">
+    <KOD>GL-WALL-24W-154531D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="124">
+    <KOD>GL-WALL-24W-106531D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="125">
+    <KOD>GL-WALL-12W-001042A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="126">
+    <KOD>GL-WALL-12W-002042A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="127">
+    <KOD>GL-WALL-12W-003042A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="128">
+    <KOD>GL-WALL-12W-004542A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="129">
+    <KOD>GL-WALL-12W-006042A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="130">
+    <KOD>GL-WALL-12W-154542A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="131">
+    <KOD>GL-WALL-12W-106542A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="132">
+    <KOD>GL-WALL-18W-001042B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="133">
+    <KOD>GL-WALL-18W-002042B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="134">
+    <KOD>GL-WALL-18W-003042B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="135">
+    <KOD>GL-WALL-18W-004542B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="136">
+    <KOD>GL-WALL-18W-006042B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="137">
+    <KOD>GL-WALL-18W-154542B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="138">
+    <KOD>GL-WALL-18W-106542B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="139">
+    <KOD>GL-WALL-24W-001042C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="140">
+    <KOD>GL-WALL-24W-002042C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="141">
+    <KOD>GL-WALL-24W-003042C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="142">
+    <KOD>GL-WALL-24W-004542C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="143">
+    <KOD>GL-WALL-24W-006042C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="144">
+    <KOD>GL-WALL-24W-154542C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="145">
+    <KOD>GL-WALL-24W-106542C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="146">
+    <KOD>GL-WALL-36W-001042D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="147">
+    <KOD>GL-WALL-36W-002042D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="148">
+    <KOD>GL-WALL-36W-003042D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="149">
+    <KOD>GL-WALL-36W-004542D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="150">
+    <KOD>GL-WALL-36W-006042D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="151">
+    <KOD>GL-WALL-36W-154542D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="152">
+    <KOD>GL-WALL-36W-106542D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="153">
+    <KOD>GL-WALL-18W-001063A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="154">
+    <KOD>GL-WALL-18W-002063A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="155">
+    <KOD>GL-WALL-18W-003063A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="156">
+    <KOD>GL-WALL-18W-004563A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="157">
+    <KOD>GL-WALL-18W-006063A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="158">
+    <KOD>GL-WALL-18W-154563A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="159">
+    <KOD>GL-WALL-18W-106563A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="160">
+    <KOD>GL-WALL-24W-001063B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="161">
+    <KOD>GL-WALL-24W-002063B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="162">
+    <KOD>GL-WALL-24W-003063B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="163">
+    <KOD>GL-WALL-24W-004563B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="164">
+    <KOD>GL-WALL-24W-006063B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="165">
+    <KOD>GL-WALL-24W-154563B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="166">
+    <KOD>GL-WALL-24W-106563B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="167">
+    <KOD>GL-WALL-36W-001063C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="168">
+    <KOD>GL-WALL-36W-002063C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="169">
+    <KOD>GL-WALL-36W-003063C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="170">
+    <KOD>GL-WALL-36W-004563C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="171">
+    <KOD>GL-WALL-36W-006063C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="172">
+    <KOD>GL-WALL-36W-154563C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="173">
+    <KOD>GL-WALL-36W-106563C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="174">
+    <KOD>GL-WALL-48W-001063D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="175">
+    <KOD>GL-WALL-48W-002063D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="176">
+    <KOD>GL-WALL-48W-003063D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="177">
+    <KOD>GL-WALL-48W-004563D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="178">
+    <KOD>GL-WALL-48W-006063D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="179">
+    <KOD>GL-WALL-48W-154563D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="180">
+    <KOD>GL-WALL-48W-106563D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="181">
+    <KOD>GL-WALL-08W-254531A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="182">
+    <KOD>GL-WALL-12W-254531B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="183">
+    <KOD>GL-WALL-18W-254531C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="184">
+    <KOD>GL-WALL-24W-254531D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="185">
+    <KOD>GL-WALL-12W-254542A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="186">
+    <KOD>GL-WALL-18W-254542B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="187">
+    <KOD>GL-WALL-24W-254542C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="188">
+    <KOD>GL-WALL-36W-254542D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="189">
+    <KOD>GL-WALL-18W-254563A-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="190">
+    <KOD>GL-WALL-24W-254563B-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="191">
+    <KOD>GL-WALL-36W-254563C-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="192">
+    <KOD>GL-WALL-48W-254563D-730-A</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="193">
+    <KOD>GL-WALL-08W-001031A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="194">
+    <KOD>GL-WALL-08W-002031A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="195">
+    <KOD>GL-WALL-08W-003031A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="196">
+    <KOD>GL-WALL-08W-004531A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="197">
+    <KOD>GL-WALL-08W-006031A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="198">
+    <KOD>GL-WALL-08W-154531A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="199">
+    <KOD>GL-WALL-08W-106531A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="200">
+    <KOD>GL-WALL-12W-001031B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="201">
+    <KOD>GL-WALL-12W-002031B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="202">
+    <KOD>GL-WALL-12W-003031B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="203">
+    <KOD>GL-WALL-12W-004531B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="204">
+    <KOD>GL-WALL-12W-006031B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="205">
+    <KOD>GL-WALL-12W-154531B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="206">
+    <KOD>GL-WALL-12W-106531B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="207">
+    <KOD>GL-WALL-18W-001031C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="208">
+    <KOD>GL-WALL-18W-002031C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="209">
+    <KOD>GL-WALL-18W-003031C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="210">
+    <KOD>GL-WALL-18W-004531C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="211">
+    <KOD>GL-WALL-18W-006031C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="212">
+    <KOD>GL-WALL-18W-154531C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="213">
+    <KOD>GL-WALL-18W-106531C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="214">
+    <KOD>GL-WALL-24W-001031D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="215">
+    <KOD>GL-WALL-24W-002031D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="216">
+    <KOD>GL-WALL-24W-003031D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="217">
+    <KOD>GL-WALL-24W-004531D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="218">
+    <KOD>GL-WALL-24W-006031D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="219">
+    <KOD>GL-WALL-24W-154531D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="220">
+    <KOD>GL-WALL-24W-106531D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="221">
+    <KOD>GL-WALL-12W-001042A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="222">
+    <KOD>GL-WALL-12W-002042A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="223">
+    <KOD>GL-WALL-12W-003042A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="224">
+    <KOD>GL-WALL-12W-004542A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="225">
+    <KOD>GL-WALL-12W-006042A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="226">
+    <KOD>GL-WALL-12W-154542A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="227">
+    <KOD>GL-WALL-12W-106542A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="228">
+    <KOD>GL-WALL-18W-001042B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="229">
+    <KOD>GL-WALL-18W-002042B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="230">
+    <KOD>GL-WALL-18W-003042B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="231">
+    <KOD>GL-WALL-18W-004542B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="232">
+    <KOD>GL-WALL-18W-006042B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="233">
+    <KOD>GL-WALL-18W-154542B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="234">
+    <KOD>GL-WALL-18W-106542B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="235">
+    <KOD>GL-WALL-24W-001042C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="236">
+    <KOD>GL-WALL-24W-002042C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="237">
+    <KOD>GL-WALL-24W-003042C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="238">
+    <KOD>GL-WALL-24W-004542C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="239">
+    <KOD>GL-WALL-24W-006042C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="240">
+    <KOD>GL-WALL-24W-154542C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="241">
+    <KOD>GL-WALL-24W-106542C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="242">
+    <KOD>GL-WALL-36W-001042D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="243">
+    <KOD>GL-WALL-36W-002042D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="244">
+    <KOD>GL-WALL-36W-003042D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="245">
+    <KOD>GL-WALL-36W-004542D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="246">
+    <KOD>GL-WALL-36W-006042D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="247">
+    <KOD>GL-WALL-36W-154542D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="248">
+    <KOD>GL-WALL-36W-106542D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="249">
+    <KOD>GL-WALL-18W-001063A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="250">
+    <KOD>GL-WALL-18W-002063A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="251">
+    <KOD>GL-WALL-18W-003063A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="252">
+    <KOD>GL-WALL-18W-004563A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="253">
+    <KOD>GL-WALL-18W-006063A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="254">
+    <KOD>GL-WALL-18W-154563A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="255">
+    <KOD>GL-WALL-18W-106563A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="256">
+    <KOD>GL-WALL-24W-001063B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="257">
+    <KOD>GL-WALL-24W-002063B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="258">
+    <KOD>GL-WALL-24W-003063B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="259">
+    <KOD>GL-WALL-24W-004563B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="260">
+    <KOD>GL-WALL-24W-006063B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="261">
+    <KOD>GL-WALL-24W-154563B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="262">
+    <KOD>GL-WALL-24W-106563B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="263">
+    <KOD>GL-WALL-36W-001063C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="264">
+    <KOD>GL-WALL-36W-002063C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="265">
+    <KOD>GL-WALL-36W-003063C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="266">
+    <KOD>GL-WALL-36W-004563C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="267">
+    <KOD>GL-WALL-36W-006063C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="268">
+    <KOD>GL-WALL-36W-154563C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="269">
+    <KOD>GL-WALL-36W-106563C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="270">
+    <KOD>GL-WALL-48W-001063D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10°</ROZ>
+  </MODEL>
+  <MODEL id="271">
+    <KOD>GL-WALL-48W-002063D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>20°</ROZ>
+  </MODEL>
+  <MODEL id="272">
+    <KOD>GL-WALL-48W-003063D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="273">
+    <KOD>GL-WALL-48W-004563D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="274">
+    <KOD>GL-WALL-48W-006063D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="275">
+    <KOD>GL-WALL-48W-154563D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>15°x 45°</ROZ>
+  </MODEL>
+  <MODEL id="276">
+    <KOD>GL-WALL-48W-106563D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>10° °x 65°</ROZ>
+  </MODEL>
+  <MODEL id="277">
+    <KOD>GL-WALL-08W-254531A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>8 W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="278">
+    <KOD>GL-WALL-12W-254531B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="279">
+    <KOD>GL-WALL-18W-254531C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="280">
+    <KOD>GL-WALL-24W-254531D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="281">
+    <KOD>GL-WALL-12W-254542A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>12 W</MOC>
+    <FLUX>840lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="282">
+    <KOD>GL-WALL-18W-254542B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="283">
+    <KOD>GL-WALL-24W-254542C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="284">
+    <KOD>GL-WALL-36W-254542D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="285">
+    <KOD>GL-WALL-18W-254563A-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>18 W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="286">
+    <KOD>GL-WALL-24W-254563B-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1680lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="287">
+    <KOD>GL-WALL-36W-254563C-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+  <MODEL id="288">
+    <KOD>GL-WALL-48W-254563D-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>48 W</MOC>
+    <FLUX>3660lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>25° °x 45°</ROZ>
+  </MODEL>
+</WALL>

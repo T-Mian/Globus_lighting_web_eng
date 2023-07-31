@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<HB-U2>
+  <MODEL id="1">
+    <KOD>GL-HB-U2-200S-8SE</KOD>
+    <RACCT>8SE</RACCT>
+    <MOC>200/160/120W</MOC>
+    <FLUX>32000/30000lm</FLUX>
+    <elem_sterowanie>Brak/opcje</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK08</IK>
+    <ROZ>60/80/105</ROZ>
+  </MODEL>
+</HB-U2>

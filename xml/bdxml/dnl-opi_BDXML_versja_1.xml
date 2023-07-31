@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DNL-OPI>
+  <MODEL id="1">
+    <KOD>GL-DNL-OPI-15W-5WT-840-T</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>15W</MOC>
+    <FLUX>1600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20/IP44</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>110°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-DNL-OPI-15W-5WT-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>15W</MOC>
+    <FLUX>1600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP20/IP44</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>110°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-DNL-OPI-20W-5WT-840-T</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20/IP44</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>110°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-DNL-OPI-20W-5WT-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP20/IP44</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>110°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-DNL-OPI-30W-5WT-840-T</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3300lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20/IP44</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>110°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-DNL-OPI-30W-5WT-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3300lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP20/IP44</IP>
+    <elem_IK>nullIK</elem_IK>
+    <ROZ>110°</ROZ>
+  </MODEL>
+</DNL-OPI>

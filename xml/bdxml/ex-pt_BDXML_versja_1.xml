@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<EX-PT>
+  <MODEL id="1">
+    <KOD>GL-EX-PT-10628-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>11W</MOC>
+    <FLUX>1690lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-EX-PT-10629-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>16W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-EX-PT-14810-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>23W</MOC>
+    <FLUX>3330lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-EX-PT-14820-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4660lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-EX-PT-63850-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>44W</MOC>
+    <FLUX>6710lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-EX-PT-14830-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>4150lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-EX-PT-14840-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5810lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-EX-PT-63860-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>53W</MOC>
+    <FLUX>8300lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-EX-PT-10633-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>22W</MOC>
+    <FLUX>3330lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-EX-PT-10637-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4710lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-EX-PT-14850-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>43W</MOC>
+    <FLUX>6710lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-EX-PT-14860-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9340lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-EX-PT-63865-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>85W</MOC>
+    <FLUX>13330lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-EX-PT-14870-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>54W</MOC>
+    <FLUX>8310lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-EX-PT-14880-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>71W</MOC>
+    <FLUX>11080lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-EX-PT-63851-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>106W</MOC>
+    <FLUX>16520lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-EX-PT-63880-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>118W</MOC>
+    <FLUX>17660lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-EX-PT-10658-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>11W</MOC>
+    <FLUX>1690lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-EX-PT-10659-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>16W</MOC>
+    <FLUX>2350lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-EX-PT-14910-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>23W</MOC>
+    <FLUX>3330lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-EX-PT-14920-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4660lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-EX-PT-63891-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>44W</MOC>
+    <FLUX>6710lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-EX-PT-14930-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>4150lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-EX-PT-14940-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5810lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-EX-PT-63895-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>53W</MOC>
+    <FLUX>8300lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-EX-PT-10668-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>22W</MOC>
+    <FLUX>3330lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-EX-PT-10669-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>31W</MOC>
+    <FLUX>4710lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-EX-PT-14950-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>43W</MOC>
+    <FLUX>6710lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-EX-PT-14960-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9340lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-EX-PT-63864-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>85W</MOC>
+    <FLUX>13330lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-EX-PT-14970-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>54W</MOC>
+    <FLUX>8310lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-EX-PT-14980-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>71W</MOC>
+    <FLUX>11080lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-EX-PT-63869-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>106W</MOC>
+    <FLUX>16520lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-EX-PT-63855-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>118W</MOC>
+    <FLUX>17660lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</EX-PT>

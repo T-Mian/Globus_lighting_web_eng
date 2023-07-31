@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CSL>
+  <MODEL id="1">
+    <KOD>GL-CSL-01-IT040063-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>52W</MOC>
+    <FLUX>7436lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-CSL-01-IT040063-850-2B</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>52W</MOC>
+    <FLUX>7504lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-CSL-01-IT040063-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>78W</MOC>
+    <FLUX>11154lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-CSL-01-IT040063-850-2C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>78W</MOC>
+    <FLUX>11257lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-CSL-01-IT040063-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>103W</MOC>
+    <FLUX>14872lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-CSL-01-IT040063-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>103W</MOC>
+    <FLUX>15009lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-CSL-01-IT080063-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>52W</MOC>
+    <FLUX>7436lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-CSL-01-IT080063-850-2B</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>52W</MOC>
+    <FLUX>7504lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-CSL-01-IT080063-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>78W</MOC>
+    <FLUX>11154lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-CSL-01-IT080063-850-2C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>78W</MOC>
+    <FLUX>11257lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-CSL-01-IT080063-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>103W</MOC>
+    <FLUX>14872lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-CSL-01-IT080063-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>103W</MOC>
+    <FLUX>15009lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-CSL-02-MS040061-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23238lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-CSL-02-MS040061-850-2C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23451lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-CSL-02-MS080061-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23238lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-CSL-02-MS080061-850-2C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23451lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-CSL-02-MU040061-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>197W</MOC>
+    <FLUX>29745lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-CSL-02-MU080061-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>197W</MOC>
+    <FLUX>29745lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-CSL-02-MU040061-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>197W</MOC>
+    <FLUX>30017lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-CSL-02-MU080061-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>197W</MOC>
+    <FLUX>30017lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-CSL-03-MX040061-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>346W</MOC>
+    <FLUX>48335lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-CSL-03-MX080061-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>346W</MOC>
+    <FLUX>48335lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-CSL-03-MX040061-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>346W</MOC>
+    <FLUX>48778lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-CSL-03-MX080061-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>346W</MOC>
+    <FLUX>48778lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-CSL-01-IT040N63-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>52W</MOC>
+    <FLUX>7436lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-CSL-01-IT040N63-850-2B</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>52W</MOC>
+    <FLUX>7504lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-CSL-01-IT040N63-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>78W</MOC>
+    <FLUX>11154lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-CSL-01-IT040N63-850-2C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>78W</MOC>
+    <FLUX>11257lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-CSL-01-IT040N63-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>103W</MOC>
+    <FLUX>14872lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-CSL-01-IT040N63-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>103W</MOC>
+    <FLUX>15009lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-CSL-01-IT080N63-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>52W</MOC>
+    <FLUX>7436lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-CSL-01-IT080N63-850-2B</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>52W</MOC>
+    <FLUX>7504lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-CSL-01-IT080N63-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>78W</MOC>
+    <FLUX>11154lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-CSL-01-IT080N63-850-2C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>78W</MOC>
+    <FLUX>11257lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-CSL-01-IT080N63-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>103W</MOC>
+    <FLUX>14872lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-CSL-01-IT080N63-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>103W</MOC>
+    <FLUX>15009lm</FLUX>
+    <elem_sterowanie>Brak/*opcja DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-CSL-02-MS040N61-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23238lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-CSL-02-MS040N61-850-2C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23451lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-CSL-02-MS080N61-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23238lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-CSL-02-MS080N61-850-2C</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>23451lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-CSL-02-MU040N61-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>197W</MOC>
+    <FLUX>29745lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-CSL-02-MU080N61-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>197W</MOC>
+    <FLUX>29745lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-CSL-02-MU040N61-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>197W</MOC>
+    <FLUX>30017lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-CSL-02-MU080N61-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>197W</MOC>
+    <FLUX>30017lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-CSL-03-MX040N61-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>346W</MOC>
+    <FLUX>48335lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-CSL-03-MX080N61-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>346W</MOC>
+    <FLUX>48335lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-CSL-03-MX040N61-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>346W</MOC>
+    <FLUX>48778lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK09</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-CSL-03-MX080N61-850-2D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>346W</MOC>
+    <FLUX>48778lm</FLUX>
+    <elem_sterowanie>Brak/*opcja 1-10V</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK03</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</CSL>

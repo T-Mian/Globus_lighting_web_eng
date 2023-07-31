@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UHT>
+  <MODEL id="1">
+    <KOD>GL-UHT-100W-120-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-UHT-120W-120-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>19800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-UHT-150W-120-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-UHT-200W-120-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>33000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-UHT-100W-120-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-UHT-120W-120-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>19800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-UHT-150W-120-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24750lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-UHT-200W-120-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>33000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-UHT-100W-120-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-UHT-120W-120-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-UHT-150W-120-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-UHT-200W-120-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-UHT-100W-120-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-UHT-120W-120-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18720lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-UHT-150W-120-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-UHT-200W-120-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-UHT-100W-120-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-UHT-120W-120-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>19800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-UHT-150W-120-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-UHT-200W-120-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>33000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-UHT-100W-120-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-UHT-120W-120-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>19800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-UHT-150W-120-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24750lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-UHT-200W-120-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>33000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-UHT-100W-120-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-UHT-120W-120-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-UHT-150W-120-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-UHT-200W-120-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-UHT-100W-120-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-UHT-120W-120-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18720lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-UHT-150W-120-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-UHT-200W-120-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-UHT-100W-120-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-UHT-120W-120-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>19800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-UHT-150W-120-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-UHT-200W-120-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>33000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-UHT-100W-120-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-UHT-120W-120-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>19800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-UHT-150W-120-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24750lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-UHT-200W-120-730-D</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>33000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-UHT-100W-120-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-UHT-120W-120-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18720lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-UHT-150W-120-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23400lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-UHT-200W-120-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-UHT-100W-120-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-UHT-120W-120-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18720lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-UHT-150W-120-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>23400lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-UHT-200W-120-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>31200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK07</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</UHT>

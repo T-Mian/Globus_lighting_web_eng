@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MOBI>
+  <MODEL id="1">
+    <KOD>GLF-MOBI-0022610-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>16W</MOC>
+    <FLUX>1450lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP44</IP>
+    <IK>IK 08</IK>
+    <ROZ>110°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GLF-MOBI-0008110-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>16W</MOC>
+    <FLUX>1450lm</FLUX>
+    <elem_sterowanie>Czujnik ruchu</elem_sterowanie>
+    <IP>IP44</IP>
+    <IK>IK 08</IK>
+    <ROZ>110°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GLF-MOBI-0008210-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>21W</MOC>
+    <FLUX>1950lm</FLUX>
+    <elem_sterowanie>Czujnik ruchu</elem_sterowanie>
+    <IP>IP44</IP>
+    <IK>IK 08</IK>
+    <ROZ>110°</ROZ>
+  </MODEL>
+</MOBI>

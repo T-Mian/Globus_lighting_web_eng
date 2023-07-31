@@ -1,0 +1,963 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TUNEL_S>
+  <MODEL id="1">
+    <KOD>GL-TUNEL-S-060W090F03AT-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>8460lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-TUNEL-S-060W090F03AT-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-TUNEL-S-060W090F03AT-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-TUNEL-S-060W090F03AD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>8460lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-TUNEL-S-060W090F03AD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-TUNEL-S-060W090F03AD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-TUNEL-S-090W135F03AT-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>12690lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-TUNEL-S-090W135F03AT-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-TUNEL-S-090W135F03AT-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-TUNEL-S-090W135F03AD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>12690lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-TUNEL-S-090W135F03AD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-TUNEL-S-090W135F03AD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-TUNEL-S-120W180F03AT-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16920lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-TUNEL-S-120W180F03AT-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-TUNEL-S-120W180F03AT-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-TUNEL-S-120W180F03AD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16920lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-TUNEL-S-120W180F03AD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-TUNEL-S-120W180F03AD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-TUNEL-S-150W225F03AT-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21150lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-TUNEL-S-150W225F03AT-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-TUNEL-S-150W225F03AT-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-TUNEL-S-150W225F03AD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21150lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-TUNEL-S-150W225F03AD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-TUNEL-S-150W225F03AD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 03</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-TUNEL-S-060W090F05ST-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>8460lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-TUNEL-S-060W090F05ST-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-TUNEL-S-060W090F05ST-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-TUNEL-S-060W090F05SD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>8460lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-TUNEL-S-060W090F05SD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-TUNEL-S-060W090F05SD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-TUNEL-S-090W135F05ST-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>12690lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-TUNEL-S-090W135F05ST-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-TUNEL-S-090W135F05ST-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-TUNEL-S-090W135F05SD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>12690lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-TUNEL-S-090W135F05SD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-TUNEL-S-090W135F05SD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-TUNEL-S-120W180F05ST-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16920lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-TUNEL-S-120W180F05ST-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-TUNEL-S-120W180F05ST-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-TUNEL-S-120W180F05SD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16920lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-TUNEL-S-120W180F05SD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-TUNEL-S-120W180F05SD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-TUNEL-S-150W225F05ST-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21150lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-TUNEL-S-150W225F05ST-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-TUNEL-S-150W225F05ST-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-TUNEL-S-150W225F05SD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21150lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-TUNEL-S-150W225F05SD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-TUNEL-S-150W225F05SD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 05</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-TUNEL-S-060W090F07AT-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>8460lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-TUNEL-S-060W090F07AT-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-TUNEL-S-060W090F07AT-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-TUNEL-S-060W090F07AD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>8460lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-TUNEL-S-060W090F07AD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-TUNEL-S-060W090F07AD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-TUNEL-S-090W135F07AT-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>12690lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-TUNEL-S-090W135F07AT-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-TUNEL-S-090W135F07AT-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-TUNEL-S-090W135F07AD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>12690lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-TUNEL-S-090W135F07AD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-TUNEL-S-090W135F07AD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-TUNEL-S-120W180F07AT-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16920lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-TUNEL-S-120W180F07AT-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-TUNEL-S-120W180F07AT-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-TUNEL-S-120W180F07AD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16920lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-TUNEL-S-120W180F07AD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-TUNEL-S-120W180F07AD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-TUNEL-S-150W225F07AT-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21150lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-TUNEL-S-150W225F07AT-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-TUNEL-S-150W225F07AT-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-TUNEL-S-150W225F07AD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21150lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-TUNEL-S-150W225F07AD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-TUNEL-S-150W225F07AD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Asymetryczny 07</ROZ>
+  </MODEL>
+  <MODEL id="73">
+    <KOD>GL-TUNEL-S-060W090F08ST-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>8460lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="74">
+    <KOD>GL-TUNEL-S-060W090F08ST-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="75">
+    <KOD>GL-TUNEL-S-060W090F08ST-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="76">
+    <KOD>GL-TUNEL-S-060W090F08SD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>8460lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="77">
+    <KOD>GL-TUNEL-S-060W090F08SD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="78">
+    <KOD>GL-TUNEL-S-060W090F08SD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>9000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="79">
+    <KOD>GL-TUNEL-S-090W135F08ST-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>12690lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="80">
+    <KOD>GL-TUNEL-S-090W135F08ST-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="81">
+    <KOD>GL-TUNEL-S-090W135F08ST-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="82">
+    <KOD>GL-TUNEL-S-090W135F08SD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>12690lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="83">
+    <KOD>GL-TUNEL-S-090W135F08SD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="84">
+    <KOD>GL-TUNEL-S-090W135F08SD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="85">
+    <KOD>GL-TUNEL-S-120W180F08ST-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16920lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="86">
+    <KOD>GL-TUNEL-S-120W180F08ST-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="87">
+    <KOD>GL-TUNEL-S-120W180F08ST-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="88">
+    <KOD>GL-TUNEL-S-120W180F08SD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16920lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="89">
+    <KOD>GL-TUNEL-S-120W180F08SD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="90">
+    <KOD>GL-TUNEL-S-120W180F08SD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>18000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="91">
+    <KOD>GL-TUNEL-S-150W225F08ST-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21150lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="92">
+    <KOD>GL-TUNEL-S-150W225F08ST-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="93">
+    <KOD>GL-TUNEL-S-150W225F08ST-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="94">
+    <KOD>GL-TUNEL-S-150W225F08SD-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21150lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="95">
+    <KOD>GL-TUNEL-S-150W225F08SD-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+  <MODEL id="96">
+    <KOD>GL-TUNEL-S-150W225F08SD-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22500lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK09</IK>
+    <ROZ>Symetryczny 08</ROZ>
+  </MODEL>
+</TUNEL_S>

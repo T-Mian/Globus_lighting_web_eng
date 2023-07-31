@@ -1,0 +1,2563 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FL-STRONG>
+  <MODEL id="1">
+    <KOD>GL-FL-STRONG-600W-02-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-FL-STRONG-600W-04-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-FL-STRONG-600W-05-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-FL-STRONG-600W-06-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-FL-STRONG-600W-02-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-FL-STRONG-600W-04-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-FL-STRONG-600W-05-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-FL-STRONG-600W-06-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-FL-STRONG-600W-02-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-FL-STRONG-600W-04-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-FL-STRONG-600W-05-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-FL-STRONG-600W-06-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-FL-STRONG-600W-02-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-FL-STRONG-600W-04-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-FL-STRONG-600W-05-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-FL-STRONG-600W-06-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-FL-STRONG-800W-02-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-FL-STRONG-800W-04-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-FL-STRONG-800W-05-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-FL-STRONG-800W-06-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-FL-STRONG-800W-02-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-FL-STRONG-800W-04-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-FL-STRONG-800W-05-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-FL-STRONG-800W-06-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-FL-STRONG-800W-02-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-FL-STRONG-800W-04-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-FL-STRONG-800W-05-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-FL-STRONG-800W-06-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-FL-STRONG-800W-02-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-FL-STRONG-800W-04-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-FL-STRONG-800W-05-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-FL-STRONG-800W-06-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-FL-STRONG-1000W-02-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-FL-STRONG-1000W-04-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-FL-STRONG-1000W-05-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-FL-STRONG-1000W-06-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-FL-STRONG-1000W-02-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-FL-STRONG-1000W-04-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-FL-STRONG-1000W-05-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-FL-STRONG-1000W-06-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-FL-STRONG-1000W-02-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-FL-STRONG-1000W-04-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-FL-STRONG-1000W-05-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-FL-STRONG-1000W-06-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-FL-STRONG-1000W-02-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-FL-STRONG-1000W-04-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-FL-STRONG-1000W-05-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-FL-STRONG-1000W-06-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-FL-STRONG-1200W-02-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-FL-STRONG-1200W-04-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-FL-STRONG-1200W-05-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-FL-STRONG-1200W-06-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-FL-STRONG-1200W-02-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-FL-STRONG-1200W-04-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-FL-STRONG-1200W-05-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-FL-STRONG-1200W-06-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-FL-STRONG-1200W-02-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-FL-STRONG-1200W-04-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-FL-STRONG-1200W-05-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-FL-STRONG-1200W-06-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-FL-STRONG-1200W-02-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-FL-STRONG-1200W-04-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-FL-STRONG-1200W-05-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-FL-STRONG-1200W-06-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-FL-STRONG-600W-02-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-FL-STRONG-600W-04-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-FL-STRONG-600W-05-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-FL-STRONG-600W-06-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-FL-STRONG-600W-02-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-FL-STRONG-600W-04-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-FL-STRONG-600W-05-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-FL-STRONG-600W-06-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="73">
+    <KOD>GL-FL-STRONG-600W-02-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="74">
+    <KOD>GL-FL-STRONG-600W-04-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="75">
+    <KOD>GL-FL-STRONG-600W-05-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="76">
+    <KOD>GL-FL-STRONG-600W-06-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="77">
+    <KOD>GL-FL-STRONG-600W-02-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="78">
+    <KOD>GL-FL-STRONG-600W-04-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="79">
+    <KOD>GL-FL-STRONG-600W-05-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="80">
+    <KOD>GL-FL-STRONG-600W-06-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="81">
+    <KOD>GL-FL-STRONG-800W-02-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="82">
+    <KOD>GL-FL-STRONG-800W-04-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="83">
+    <KOD>GL-FL-STRONG-800W-05-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="84">
+    <KOD>GL-FL-STRONG-800W-06-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="85">
+    <KOD>GL-FL-STRONG-800W-02-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="86">
+    <KOD>GL-FL-STRONG-800W-04-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="87">
+    <KOD>GL-FL-STRONG-800W-05-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="88">
+    <KOD>GL-FL-STRONG-800W-06-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="89">
+    <KOD>GL-FL-STRONG-800W-02-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="90">
+    <KOD>GL-FL-STRONG-800W-04-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="91">
+    <KOD>GL-FL-STRONG-800W-05-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="92">
+    <KOD>GL-FL-STRONG-800W-06-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="93">
+    <KOD>GL-FL-STRONG-800W-02-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="94">
+    <KOD>GL-FL-STRONG-800W-04-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="95">
+    <KOD>GL-FL-STRONG-800W-05-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="96">
+    <KOD>GL-FL-STRONG-800W-06-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="97">
+    <KOD>GL-FL-STRONG-1000W-02-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="98">
+    <KOD>GL-FL-STRONG-1000W-04-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="99">
+    <KOD>GL-FL-STRONG-1000W-05-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="100">
+    <KOD>GL-FL-STRONG-1000W-06-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="101">
+    <KOD>GL-FL-STRONG-1000W-02-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="102">
+    <KOD>GL-FL-STRONG-1000W-04-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="103">
+    <KOD>GL-FL-STRONG-1000W-05-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="104">
+    <KOD>GL-FL-STRONG-1000W-06-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="105">
+    <KOD>GL-FL-STRONG-1000W-02-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="106">
+    <KOD>GL-FL-STRONG-1000W-04-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="107">
+    <KOD>GL-FL-STRONG-1000W-05-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="108">
+    <KOD>GL-FL-STRONG-1000W-06-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="109">
+    <KOD>GL-FL-STRONG-1000W-02-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="110">
+    <KOD>GL-FL-STRONG-1000W-04-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="111">
+    <KOD>GL-FL-STRONG-1000W-05-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="112">
+    <KOD>GL-FL-STRONG-1000W-06-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="113">
+    <KOD>GL-FL-STRONG-1200W-02-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="114">
+    <KOD>GL-FL-STRONG-1200W-04-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="115">
+    <KOD>GL-FL-STRONG-1200W-05-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="116">
+    <KOD>GL-FL-STRONG-1200W-06-740-A</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="117">
+    <KOD>GL-FL-STRONG-1200W-02-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="118">
+    <KOD>GL-FL-STRONG-1200W-04-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="119">
+    <KOD>GL-FL-STRONG-1200W-05-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="120">
+    <KOD>GL-FL-STRONG-1200W-06-750-A</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="121">
+    <KOD>GL-FL-STRONG-1200W-02-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="122">
+    <KOD>GL-FL-STRONG-1200W-04-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="123">
+    <KOD>GL-FL-STRONG-1200W-05-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="124">
+    <KOD>GL-FL-STRONG-1200W-06-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="125">
+    <KOD>GL-FL-STRONG-1200W-02-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="126">
+    <KOD>GL-FL-STRONG-1200W-04-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="127">
+    <KOD>GL-FL-STRONG-1200W-05-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="128">
+    <KOD>GL-FL-STRONG-1200W-06-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="129">
+    <KOD>GL-FL-STRONG-600W-02-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="130">
+    <KOD>GL-FL-STRONG-600W-04-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="131">
+    <KOD>GL-FL-STRONG-600W-05-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="132">
+    <KOD>GL-FL-STRONG-600W-06-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="133">
+    <KOD>GL-FL-STRONG-600W-02-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="134">
+    <KOD>GL-FL-STRONG-600W-04-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="135">
+    <KOD>GL-FL-STRONG-600W-05-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="136">
+    <KOD>GL-FL-STRONG-600W-06-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="137">
+    <KOD>GL-FL-STRONG-600W-02-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="138">
+    <KOD>GL-FL-STRONG-600W-04-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="139">
+    <KOD>GL-FL-STRONG-600W-05-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="140">
+    <KOD>GL-FL-STRONG-600W-06-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="141">
+    <KOD>GL-FL-STRONG-600W-02-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="142">
+    <KOD>GL-FL-STRONG-600W-04-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="143">
+    <KOD>GL-FL-STRONG-600W-05-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="144">
+    <KOD>GL-FL-STRONG-600W-06-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="145">
+    <KOD>GL-FL-STRONG-800W-02-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="146">
+    <KOD>GL-FL-STRONG-800W-04-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="147">
+    <KOD>GL-FL-STRONG-800W-05-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="148">
+    <KOD>GL-FL-STRONG-800W-06-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="149">
+    <KOD>GL-FL-STRONG-800W-02-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="150">
+    <KOD>GL-FL-STRONG-800W-04-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="151">
+    <KOD>GL-FL-STRONG-800W-05-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="152">
+    <KOD>GL-FL-STRONG-800W-06-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="153">
+    <KOD>GL-FL-STRONG-800W-02-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="154">
+    <KOD>GL-FL-STRONG-800W-04-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="155">
+    <KOD>GL-FL-STRONG-800W-05-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="156">
+    <KOD>GL-FL-STRONG-800W-06-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="157">
+    <KOD>GL-FL-STRONG-800W-02-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="158">
+    <KOD>GL-FL-STRONG-800W-04-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="159">
+    <KOD>GL-FL-STRONG-800W-05-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="160">
+    <KOD>GL-FL-STRONG-800W-06-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="161">
+    <KOD>GL-FL-STRONG-1000W-02-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="162">
+    <KOD>GL-FL-STRONG-1000W-04-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="163">
+    <KOD>GL-FL-STRONG-1000W-05-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="164">
+    <KOD>GL-FL-STRONG-1000W-06-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="165">
+    <KOD>GL-FL-STRONG-1000W-02-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="166">
+    <KOD>GL-FL-STRONG-1000W-04-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="167">
+    <KOD>GL-FL-STRONG-1000W-05-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="168">
+    <KOD>GL-FL-STRONG-1000W-06-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="169">
+    <KOD>GL-FL-STRONG-1000W-02-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="170">
+    <KOD>GL-FL-STRONG-1000W-04-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="171">
+    <KOD>GL-FL-STRONG-1000W-05-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="172">
+    <KOD>GL-FL-STRONG-1000W-06-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="173">
+    <KOD>GL-FL-STRONG-1000W-02-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="174">
+    <KOD>GL-FL-STRONG-1000W-04-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="175">
+    <KOD>GL-FL-STRONG-1000W-05-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="176">
+    <KOD>GL-FL-STRONG-1000W-06-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="177">
+    <KOD>GL-FL-STRONG-1200W-02-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="178">
+    <KOD>GL-FL-STRONG-1200W-04-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="179">
+    <KOD>GL-FL-STRONG-1200W-05-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="180">
+    <KOD>GL-FL-STRONG-1200W-06-740-D</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="181">
+    <KOD>GL-FL-STRONG-1200W-02-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="182">
+    <KOD>GL-FL-STRONG-1200W-04-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="183">
+    <KOD>GL-FL-STRONG-1200W-05-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="184">
+    <KOD>GL-FL-STRONG-1200W-06-750-D</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="185">
+    <KOD>GL-FL-STRONG-1200W-02-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="186">
+    <KOD>GL-FL-STRONG-1200W-04-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="187">
+    <KOD>GL-FL-STRONG-1200W-05-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="188">
+    <KOD>GL-FL-STRONG-1200W-06-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="189">
+    <KOD>GL-FL-STRONG-1200W-02-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="190">
+    <KOD>GL-FL-STRONG-1200W-04-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="191">
+    <KOD>GL-FL-STRONG-1200W-05-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="192">
+    <KOD>GL-FL-STRONG-1200W-06-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="193">
+    <KOD>GL-FL-STRONG-600W-02-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="194">
+    <KOD>GL-FL-STRONG-600W-04-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="195">
+    <KOD>GL-FL-STRONG-600W-05-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="196">
+    <KOD>GL-FL-STRONG-600W-06-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="197">
+    <KOD>GL-FL-STRONG-600W-02-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="198">
+    <KOD>GL-FL-STRONG-600W-04-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="199">
+    <KOD>GL-FL-STRONG-600W-05-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="200">
+    <KOD>GL-FL-STRONG-600W-06-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>96000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="201">
+    <KOD>GL-FL-STRONG-600W-02-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="202">
+    <KOD>GL-FL-STRONG-600W-04-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="203">
+    <KOD>GL-FL-STRONG-600W-05-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="204">
+    <KOD>GL-FL-STRONG-600W-06-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="205">
+    <KOD>GL-FL-STRONG-600W-02-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="206">
+    <KOD>GL-FL-STRONG-600W-04-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="207">
+    <KOD>GL-FL-STRONG-600W-05-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="208">
+    <KOD>GL-FL-STRONG-600W-06-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>600W</MOC>
+    <FLUX>90600lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="209">
+    <KOD>GL-FL-STRONG-800W-02-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="210">
+    <KOD>GL-FL-STRONG-800W-04-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="211">
+    <KOD>GL-FL-STRONG-800W-05-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="212">
+    <KOD>GL-FL-STRONG-800W-06-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="213">
+    <KOD>GL-FL-STRONG-800W-02-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="214">
+    <KOD>GL-FL-STRONG-800W-04-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="215">
+    <KOD>GL-FL-STRONG-800W-05-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="216">
+    <KOD>GL-FL-STRONG-800W-06-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>128000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="217">
+    <KOD>GL-FL-STRONG-800W-02-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="218">
+    <KOD>GL-FL-STRONG-800W-04-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="219">
+    <KOD>GL-FL-STRONG-800W-05-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="220">
+    <KOD>GL-FL-STRONG-800W-06-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="221">
+    <KOD>GL-FL-STRONG-800W-02-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="222">
+    <KOD>GL-FL-STRONG-800W-04-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="223">
+    <KOD>GL-FL-STRONG-800W-05-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="224">
+    <KOD>GL-FL-STRONG-800W-06-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>120800lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="225">
+    <KOD>GL-FL-STRONG-1000W-02-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="226">
+    <KOD>GL-FL-STRONG-1000W-04-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="227">
+    <KOD>GL-FL-STRONG-1000W-05-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="228">
+    <KOD>GL-FL-STRONG-1000W-06-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="229">
+    <KOD>GL-FL-STRONG-1000W-02-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="230">
+    <KOD>GL-FL-STRONG-1000W-04-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="231">
+    <KOD>GL-FL-STRONG-1000W-05-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="232">
+    <KOD>GL-FL-STRONG-1000W-06-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>160000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="233">
+    <KOD>GL-FL-STRONG-1000W-02-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="234">
+    <KOD>GL-FL-STRONG-1000W-04-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="235">
+    <KOD>GL-FL-STRONG-1000W-05-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="236">
+    <KOD>GL-FL-STRONG-1000W-06-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="237">
+    <KOD>GL-FL-STRONG-1000W-02-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="238">
+    <KOD>GL-FL-STRONG-1000W-04-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="239">
+    <KOD>GL-FL-STRONG-1000W-05-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="240">
+    <KOD>GL-FL-STRONG-1000W-06-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1000W</MOC>
+    <FLUX>151000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="241">
+    <KOD>GL-FL-STRONG-1200W-02-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="242">
+    <KOD>GL-FL-STRONG-1200W-04-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="243">
+    <KOD>GL-FL-STRONG-1200W-05-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="244">
+    <KOD>GL-FL-STRONG-1200W-06-740-DMX</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="245">
+    <KOD>GL-FL-STRONG-1200W-02-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="246">
+    <KOD>GL-FL-STRONG-1200W-04-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="247">
+    <KOD>GL-FL-STRONG-1200W-05-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="248">
+    <KOD>GL-FL-STRONG-1200W-06-750-DMX</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>192000lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="249">
+    <KOD>GL-FL-STRONG-1200W-02-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="250">
+    <KOD>GL-FL-STRONG-1200W-04-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="251">
+    <KOD>GL-FL-STRONG-1200W-05-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="252">
+    <KOD>GL-FL-STRONG-1200W-06-840-DMX</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="253">
+    <KOD>GL-FL-STRONG-1200W-02-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>38°x100°</ROZ>
+  </MODEL>
+  <MODEL id="254">
+    <KOD>GL-FL-STRONG-1200W-04-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="255">
+    <KOD>GL-FL-STRONG-1200W-05-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="256">
+    <KOD>GL-FL-STRONG-1200W-06-850-DMX</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>181200lm</FLUX>
+    <elem_sterowanie>DMX</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+</FL-STRONG>

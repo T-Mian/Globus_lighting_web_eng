@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DNL>
+  <MODEL id="1">
+    <KOD>GL-DNL-25-07W-830-W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>7W</MOC>
+    <FLUX>530lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-DNL-30-10W-830-W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10W</MOC>
+    <FLUX>890lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-DNL-40-15W-830-W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>15W</MOC>
+    <FLUX>1450lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-DNL-60-18W-830-W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>18W</MOC>
+    <FLUX>1740lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-DNL-80-25W-830-W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2420lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-DNL-80-35W-830-W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3350lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-DNL-25-07W-840-W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>7W</MOC>
+    <FLUX>510lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-DNL-30-10W-840-W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10W</MOC>
+    <FLUX>920lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-DNL-40-15W-840-W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>15W</MOC>
+    <FLUX>1500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-DNL-60-18W-840-W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>18W</MOC>
+    <FLUX>1850lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-DNL-80-25W-840-W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-DNL-80-35W-840-W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3500lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-DNL-25-07W-850-W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>7W</MOC>
+    <FLUX>560lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-DNL-30-10W-850-W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>10W</MOC>
+    <FLUX>940lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-DNL-40-15W-850-W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>15W</MOC>
+    <FLUX>1530lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-DNL-60-18W-850-W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>18W</MOC>
+    <FLUX>1730lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-DNL-80-25W-850-W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2550lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-DNL-80-35W-850-W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3570lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-DNL-25-07W-857-W</KOD>
+    <RACCT>857</RACCT>
+    <MOC>7W</MOC>
+    <FLUX>570lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-DNL-30-10W-857-W</KOD>
+    <RACCT>857</RACCT>
+    <MOC>10W</MOC>
+    <FLUX>960lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-DNL-40-15W-857-W</KOD>
+    <RACCT>857</RACCT>
+    <MOC>15W</MOC>
+    <FLUX>1560lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-DNL-60-18W-857-W</KOD>
+    <RACCT>857</RACCT>
+    <MOC>18W</MOC>
+    <FLUX>1410lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-DNL-80-25W-857-W</KOD>
+    <RACCT>857</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2600lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-DNL-80-35W-857-W</KOD>
+    <RACCT>857</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3640lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IP>IP54</IP>
+    <IK>IK05</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</DNL>

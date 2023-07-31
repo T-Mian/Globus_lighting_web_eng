@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SOLID>
+  <MODEL id="1">
+    <KOD>GL-SOLID-86710-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>8W</MOC>
+    <FLUX>1060lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-SOLID-86720-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-SOLID-86730-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1760lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-SOLID-86740-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>16W</MOC>
+    <FLUX>2060lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-SOLID-86750-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2490lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-SOLID-86760-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3480lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-SOLID-86770-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5010lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-SOLID-86780-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2590lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-SOLID-86790-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>3100lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-SOLID-86800-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>33W</MOC>
+    <FLUX>4340lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-SOLID-86810-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>45W</MOC>
+    <FLUX>6190lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-SOLID-86710-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>8W</MOC>
+    <FLUX>1060lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-SOLID-86720-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10W</MOC>
+    <FLUX>1260lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-SOLID-86730-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1760lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-SOLID-86740-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>16W</MOC>
+    <FLUX>2060lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-SOLID-86750-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2490lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-SOLID-86760-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>27W</MOC>
+    <FLUX>3480lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-SOLID-86770-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>38W</MOC>
+    <FLUX>5010lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-SOLID-86780-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2590lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-SOLID-86790-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>3100lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-SOLID-86800-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>33W</MOC>
+    <FLUX>4340lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-SOLID-86810-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>45W</MOC>
+    <FLUX>6190lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP65</IP>
+    <IK>IK10</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</SOLID>

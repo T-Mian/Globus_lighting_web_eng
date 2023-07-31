@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FL-HELIOS>
+  <MODEL id="1">
+    <KOD>GL-FL-HELIOS-800W-02-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>92 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 02</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-FL-HELIOS-800W-03-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>92 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 03</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-FL-HELIOS-1200W-02-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>138 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 02</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-FL-HELIOS-1200W-03-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>138 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 03</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-FL-HELIOS-1600W-02-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1600W</MOC>
+    <FLUX>184 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 02</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-FL-HELIOS-1600W-03-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1600W</MOC>
+    <FLUX>184 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 03</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-FL-HELIOS-2000W-02-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>2000W</MOC>
+    <FLUX>230 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 02</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-FL-HELIOS-2000W-03-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>2000W</MOC>
+    <FLUX>230 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 03</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-FL-HELIOS-800W-01-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>92 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 01</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-FL-HELIOS-800W-05-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>92 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 05</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-FL-HELIOS-800W-06-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>92 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 06</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-FL-HELIOS-800W-07-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>800W</MOC>
+    <FLUX>92 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 07</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-FL-HELIOS-1200W-01-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>138 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 01</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-FL-HELIOS-1200W-05-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>138 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 05</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-FL-HELIOS-1200W-06-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>138 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 06</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-FL-HELIOS-1200W-07-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1200W</MOC>
+    <FLUX>138 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 07</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-FL-HELIOS-1600W-01-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1600W</MOC>
+    <FLUX>184 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 01</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-FL-HELIOS-1600W-05-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1600W</MOC>
+    <FLUX>184 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 05</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-FL-HELIOS-1600W-06-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1600W</MOC>
+    <FLUX>184 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 06</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-FL-HELIOS-1600W-07-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>1600W</MOC>
+    <FLUX>184 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 07</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-FL-HELIOS-2000W-01-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>2000W</MOC>
+    <FLUX>230 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 01</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-FL-HELIOS-2000W-05-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>2000W</MOC>
+    <FLUX>230 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 05</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-FL-HELIOS-2000W-06-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>2000W</MOC>
+    <FLUX>230 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 06</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-FL-HELIOS-2000W-07-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>2000W</MOC>
+    <FLUX>230 000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asym. 07</ROZ>
+  </MODEL>
+</FL-HELIOS>

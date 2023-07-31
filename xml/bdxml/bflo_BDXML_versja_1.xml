@@ -1,0 +1,843 @@
+<?xml version='1.0' encoding='utf-8'?>
+<BFLO>
+  <MODEL id="1">
+    <KOD>GL-Bflo-30W-601-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 601</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-Bflo-30W-602-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 602</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-Bflo-30W-603-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 603</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-Bflo-30W-604-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 604</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-Bflo-30W-605-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 605</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-Bflo-30W-606-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 606</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-Bflo-30W-A11-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ A11</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-BFlo-50W-601-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 601</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-BFlo-50W-602-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 602</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-BFlo-50W-603-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 603</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-BFlo-50W-604-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 604</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-BFlo-50W-605-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 605</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-BFlo-50W-606-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 606</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-BFlo-50W-A11-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ A11</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-BFlo-100W-601-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 601</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-BFlo-100W-602-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 602</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-BFlo-100W-603-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 603</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-BFlo-100W-604-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 604</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-BFlo-100W-605-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 605</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-BFlo-100W-606-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 606</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-BFlo-100W-A11-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ A11</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-BFlo-150W-601-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 601</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-BFlo-150W-602-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 602</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-BFlo-150W-603-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 603</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-BFlo-150W-604-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 604</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-BFlo-150W-605-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 605</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-BFlo-150W-606-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 606</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-BFlo-150W-A11-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ A11</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-BFlo-200W-601-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 601</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-BFlo-200W-602-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 602</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-BFlo-200W-603-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 603</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-BFlo-200W-604-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 604</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-BFlo-200W-605-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 605</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-BFlo-200W-606-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 606</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-BFlo-200W-A11-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ A11</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-BFlo-300W-601-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 601</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-BFlo-300W-602-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 602</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-BFlo-300W-603-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 603</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-BFlo-300W-604-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 604</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-BFlo-300W-605-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 605</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-BFlo-300W-606-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 606</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-BFlo-300W-A11-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ A11</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-Bflo-30W-608-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 608</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-BFlo-50W-608-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 608</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-BFlo-100W-608-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 608</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-BFlo-150W-608-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 608</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-BFlo-200W-608-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 608</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-BFlo-300W-608-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 608</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-Bflo-30W-609-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 609</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-BFlo-50W-609-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 609</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-BFlo-100W-609-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 609</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-BFlo-150W-609-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 609</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-BFlo-200W-609-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 609</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-BFlo-300W-609-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 609</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-Bflo-30W-610-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 610</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-BFlo-50W-610-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 610</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-BFlo-100W-610-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 610</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-BFlo-150W-610-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 610</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-BFlo-200W-610-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 610</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-BFlo-300W-610-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 610</ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-Bflo-30W-611-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 611</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-BFlo-50W-611-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 611</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-BFlo-100W-611-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 611</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-BFlo-150W-611-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 611</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-BFlo-200W-611-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 611</ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-BFlo-300W-611-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 611</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-Bflo-30W-612-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 612</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-BFlo-50W-612-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 612</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-BFlo-100W-612-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 612</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-BFlo-150W-612-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 612</ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-BFlo-200W-612-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 612</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-BFlo-300W-612-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 612</ROZ>
+  </MODEL>
+  <MODEL id="73">
+    <KOD>GL-Bflo-30W-613-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 613</ROZ>
+  </MODEL>
+  <MODEL id="74">
+    <KOD>GL-BFlo-50W-613-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 613</ROZ>
+  </MODEL>
+  <MODEL id="75">
+    <KOD>GL-BFlo-100W-613-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 613</ROZ>
+  </MODEL>
+  <MODEL id="76">
+    <KOD>GL-BFlo-150W-613-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 613</ROZ>
+  </MODEL>
+  <MODEL id="77">
+    <KOD>GL-BFlo-200W-613-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 613</ROZ>
+  </MODEL>
+  <MODEL id="78">
+    <KOD>GL-BFlo-300W-613-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 613</ROZ>
+  </MODEL>
+  <MODEL id="79">
+    <KOD>GL-Bflo-30W-801-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 801</ROZ>
+  </MODEL>
+  <MODEL id="80">
+    <KOD>GL-BFlo-50W-801-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 801</ROZ>
+  </MODEL>
+  <MODEL id="81">
+    <KOD>GL-BFlo-100W-801-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>12500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 801</ROZ>
+  </MODEL>
+  <MODEL id="82">
+    <KOD>GL-BFlo-150W-801-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>18750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 801</ROZ>
+  </MODEL>
+  <MODEL id="83">
+    <KOD>GL-BFlo-200W-801-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>25000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 801</ROZ>
+  </MODEL>
+  <MODEL id="84">
+    <KOD>GL-BFlo-300W-801-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>37500lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Typ 801</ROZ>
+  </MODEL>
+</BFLO>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ULE>
+  <MODEL id="1">
+    <KOD>GL-ULE-50W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6750lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Batwing</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-ULE-60W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60W</MOC>
+    <FLUX>8100lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Batwing</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-ULE-80W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>10800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Batwing</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-ULE-100W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>13500lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Batwing</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-ULE-120W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16200lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Batwing</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-ULE-140W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>140W</MOC>
+    <FLUX>18900lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Batwing</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-ULE-150W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>20250lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Batwing</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-ULE-160W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>160W</MOC>
+    <FLUX>21600lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Batwing</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-ULE-180W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>180W</MOC>
+    <FLUX>24300lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Batwing</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-ULE-200W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>27000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Batwing</ROZ>
+  </MODEL>
+</ULE>

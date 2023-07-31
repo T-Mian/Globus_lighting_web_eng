@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SUN_L>
+  <MODEL id="1">
+    <KOD>GL-SUN-L-30WHT1-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-SUN-L-30BLT1-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-SUN-L-30WHD1-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-SUN-L-30BLD1-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-SUN-L-30WHT2-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-SUN-L-30BLT2-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-SUN-L-30WHD2-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-SUN-L-30BLD2-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-SUN-L-30WHT3-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-SUN-L-30BLT3-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-SUN-L-30WHD3-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-SUN-L-30BLD3-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-SUN-L-30WHT6-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-SUN-L-30BLT6-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-SUN-L-30WHD6-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-SUN-L-30BLD6-940</KOD>
+    <RACCT>Ra90 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3055lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-SUN-L-30WHT1-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-SUN-L-30BLT1-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-SUN-L-30WHD1-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-SUN-L-30BLD1-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-SUN-L-30WHT2-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-SUN-L-30BLT2-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-SUN-L-30WHD2-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-SUN-L-30BLD2-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-SUN-L-30WHT3-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-SUN-L-30BLT3-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-SUN-L-30WHD3-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-SUN-L-30BLD3-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-SUN-L-30WHT6-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-SUN-L-30BLT6-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-SUN-L-30WHD6-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-SUN-L-30BLD6-935</KOD>
+    <RACCT>935</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2995lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-SUN-L-30WHT1-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-SUN-L-30BLT1-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-SUN-L-30WHD1-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-SUN-L-30BLD1-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-SUN-L-30WHT2-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-SUN-L-30BLT2-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-SUN-L-30WHD2-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-SUN-L-30BLD2-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>25°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-SUN-L-30WHT3-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-SUN-L-30BLT3-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-SUN-L-30WHD3-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-SUN-L-30BLD3-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>35°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-SUN-L-30WHT6-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-SUN-L-30BLT6-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-SUN-L-30WHD6-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-SUN-L-30BLD6-930</KOD>
+    <RACCT>Ra90 &amp; 3000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>2910lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <IP>IP20</IP>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+</SUN_L>

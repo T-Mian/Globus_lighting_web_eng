@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DGS>
+  <MODEL id="1">
+    <KOD>GL-DGS-25-10W-24-830-W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>10W</MOC>
+    <FLUX>750lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>24°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-DGS-25-10W-24-840-W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>10W</MOC>
+    <FLUX>800lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>24°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-DGS-25-10W-24-850-W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>10W</MOC>
+    <FLUX>780lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>24°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-DGS-40-15W-40-830-W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>15W</MOC>
+    <FLUX>1150lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>40°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-DGS-40-15W-40-840-W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>15W</MOC>
+    <FLUX>1230lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>40°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-DGS-40-15W-40-850-W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>15W</MOC>
+    <FLUX>1290lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>40°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-DGS-40-20W-40-830-W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>1950lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>40°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-DGS-40-20W-40-840-W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2040lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>40°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-DGS-40-20W-40-850-W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2100lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>40°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-DGS-60-35W-60-830-W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3570lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-DGS-60-35W-60-840-W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3800lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-DGS-60-35W-60-850-W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>35W</MOC>
+    <FLUX>3800lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-DGS-60-45W-60-830-W</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>45W</MOC>
+    <FLUX>4815lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-DGS-60-45W-60-840-W</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>45W</MOC>
+    <FLUX>5020lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-DGS-60-45W-60-850-W</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>45W</MOC>
+    <FLUX>5080lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+</DGS>

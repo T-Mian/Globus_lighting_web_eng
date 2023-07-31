@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MIBUS>
+  <MODEL id="1">
+    <KOD>GL-MIBUS-020-R06302-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>20W</MOC>
+    <FLUX>2600lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>R06302</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-MIBUS-030-R06302-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>30W</MOC>
+    <FLUX>3750lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>R06302</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-MIBUS-050-R06302-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>6250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>R06302</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-MIBUS-070-R11201-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>70W</MOC>
+    <FLUX>9450lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>R11201</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-MIBUS-090-R11201-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>90W</MOC>
+    <FLUX>12150lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>R11201</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-MIBUS-120-R18401-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>120W</MOC>
+    <FLUX>16200lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>R18401</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-MIBUS-150-R18401-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>20250lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>R18401</ROZ>
+  </MODEL>
+</MIBUS>

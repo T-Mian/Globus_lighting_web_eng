@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TL-HE>
+  <MODEL id="1">
+    <KOD>GL-TLHE-S4-TWH9-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-TLHE-S4-TWH0-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>Asymertyczna</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-TLHE-S4-TBL9-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-TLHE-S4-TBL0-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>Asymertyczna</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-TLHE-S4-TWH9-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-TLHE-S4-TWH0-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>Asymertyczna</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-TLHE-S4-TBL9-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-TLHE-S4-TBL0-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>Asymertyczna</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-TLHE-S4-DWH9-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-TLHE-S4-DWH0-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>Asymertyczna</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-TLHE-S4-DBL9-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-TLHE-S4-DBL0-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>Asymertyczna</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-TLHE-S4-DWH9-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-TLHE-S4-DWH0-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>Asymertyczna</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-TLHE-S4-DBL9-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-TLHE-S4-DBL0-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>35|40|45|50W</MOC>
+    <FLUX>5390|6160|6930|7700 lm</FLUX>
+    <elem_sterowanie>Dali</elem_sterowanie>
+    <elem_IK>xxxIK</elem_IK>
+    <ROZ>Asymertyczna</ROZ>
+  </MODEL>
+</TL-HE>

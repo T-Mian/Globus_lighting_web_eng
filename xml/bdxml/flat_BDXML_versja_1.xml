@@ -1,0 +1,723 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FLAT>
+  <MODEL id="1">
+    <KOD>GL-FLAT-T050MHL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>8000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-FLAT-T050MHL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>8000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-FLAT-T050MHL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>8000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-FLAT-T050MHL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7550lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-FLAT-T050MHL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7550lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-FLAT-T050MHL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7550lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-FLAT-D050MHL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>8000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-FLAT-D050MHL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>8000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-FLAT-D050MHL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>8000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-FLAT-D050MHL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7550lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-FLAT-D050MHL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7550lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-FLAT-D050MHL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7550lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-FLAT-T080MHL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-FLAT-T080MHL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-FLAT-T080MHL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12800lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-FLAT-T080MHL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12080lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-FLAT-T080MHL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12080lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-FLAT-T080MHL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12080lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-FLAT-D080MHL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-FLAT-D080MHL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-FLAT-D080MHL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12800lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-FLAT-D080MHL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12080lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-FLAT-D080MHL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12080lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-FLAT-D080MHL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12080lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-FLAT-T100MHL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-FLAT-T100MHL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-FLAT-T100MHL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-FLAT-T100MHL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15100lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-FLAT-T100MHL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15100lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-FLAT-T100MHL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15100lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-FLAT-D100MHL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-FLAT-D100MHL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-FLAT-D100MHL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-FLAT-D100MHL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15100lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-FLAT-D100MHL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15100lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-FLAT-D100MHL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15100lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-FLAT-T150MLL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-FLAT-T150MLL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-FLAT-T150MLL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24000lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-FLAT-T150MLL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22650lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-FLAT-T150MLL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22650lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-FLAT-T150MLL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22650lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-FLAT-D150MLL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-FLAT-D150MLL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-FLAT-D150MLL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24000lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-FLAT-D150MLL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22650lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-FLAT-D150MLL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22650lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-FLAT-D150MLL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22650lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-FLAT-A050MHL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>8000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-FLAT-A050MHL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>8000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-FLAT-A050MHL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>8000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-FLAT-A050MHL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7550lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-FLAT-A050MHL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7550lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-FLAT-A050MHL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7550lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-FLAT-A080MHL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-FLAT-A080MHL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-FLAT-A080MHL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12800lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-FLAT-A080MHL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12080lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-FLAT-A080MHL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12080lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-FLAT-A080MHL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80W</MOC>
+    <FLUX>12080lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-FLAT-A100MHL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-FLAT-A100MHL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-FLAT-A100MHL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>16000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-FLAT-A100MHL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15100lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-FLAT-A100MHL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15100lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-FLAT-A100MHL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15100lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-FLAT-A150MLL80-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-FLAT-A150MLL80-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-FLAT-A150MLL80-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>24000lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-FLAT-A150MLL80-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22650lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-FLAT-A150MLL80-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22650lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-FLAT-A150MLL80-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>22650lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>140°</ROZ>
+  </MODEL>
+</FLAT>

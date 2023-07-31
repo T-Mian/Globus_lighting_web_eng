@@ -11,7 +11,7 @@
     <OPIS_TRESC_FR>Le faisceau étanche LED Belus est conçu pour éclairer les halls de production, les entrepôts et les postes de travail dans des pièces d'une hauteur allant jusqu'à 8 mètres. Le boîtier de l'appareil BELUS est fabriqué en alliage d'aluminium de haute qualité et sert également de dissipateur de chaleur. Cela permet une température de fonctionnement optimale pour les LED, ce qui prolonge la durée de vie de l'appareil. L'élément lumineux est basé sur un module LED linéaire d'une longueur de 28 cm, ce qui permet une adaptation précise de la longueur de l'appareil et du flux lumineux émis à la tâche spécifique.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/0-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/03/belus_pro_40_st-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>belus_01_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>2</PRODUKT_ID>
@@ -26,7 +26,7 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR>Ils sont constitués de deux ou trois faisceaux LED étanches et ont été conçus comme une alternative économe en énergie aux luminaires métal halogènes de 250W ou 400W. Les lampes HighBay LED sont utilisées dans la production et dans les entrepôts à haute capacité de stockage. Grâce à leur indice de protection élevé (IP65), ces luminaires conviennent également aux environnements poussiéreux dans les pièces d'une hauteur supérieure à 4 mètres.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2015/11/4-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>belus-0x_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>3</PRODUKT_ID>
@@ -40,7 +40,7 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR> Le High Bay SQUBUS a été conçu pour remplacer directement les lampes métal-halogénures traditionnelles en termes de forme et de taille. Le large choix de méthodes de montage et le haut niveau de protection du luminaire lui permettent d'être largement utilisé non seulement dans la production ou dans les entrepôts de grande hauteur, mais dans les installations sportives également.   </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2015/11/4-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>squbus_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>4</PRODUKT_ID>
@@ -53,7 +53,7 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR>SQR est un luminaire modulaire en aluminium de type high bay. Il a une large plage de puissance, différents angles de diffusion, IP66 et IK10. Il est dédié aux applications industrielles telles que l'éclairage des entrepôts ou des halls de production et aux salles de sport. Il peut être monté sur des câbles suspendus, au plafond ou sur un support mural réglable. En option, il est possible de commander DALI, Zigbee, un détecteur de mouvement à micro-ondes ou un détecteur PIR.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/SQR_K60100-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/SQR_K2585-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/SQR_K90-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/SQR_K60-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>sqr_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>5</PRODUKT_ID>
@@ -66,20 +66,20 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR>Le luminaire HERBUS TREND est un luminaire universel, utilisé particulièrement dans les zones où il y a un risque de poussière, d'humidité et de dommages mécaniques. En raison de son étanchéité IP66 et de sa résistance aux chocs IK10, il est parfait pour les applications techniques. Sa forme universelle et son faible poids offrent un confort et permettent une installation rapide.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/06/Herbus_trend_rozs-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>herbus-trend_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>6</PRODUKT_ID>
     <RODZINA>HERBUS</RODZINA>
     <ICONY_RODZINY>&lt;i class="fa-solid fa-industry"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-warehouse"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-square-parking"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-person-shelter"&gt;&lt;/i&gt;</ICONY_RODZINY>
     <FOTO>produkty_karty_charakter/HERBUS-ECO-TURBO-char_simple.png</FOTO>
-    <H3_OPISU> HERBUS</H3_OPISU>
+    <H3_OPISU>HERBUS ECO / TURBO</H3_OPISU>
     <OPIS_TRESC_PL>Oprawy hermetyczne Herbus to zamienniki tradycyjnych opraw na świetlówki fluorescencyjne o mocach 2x36W, 2x58W stosowanych w przemyśle. Jest to rozwiązanie skierowane w obszary, gdzie istotna jest duża wydajność świetlna oprawy przy stosunkowo niewielkich kosztach zakupu. Obudowa o uniwersalnym designie ma wysoką szczelność IP66 i wykonana jest z trwałego tworzywa ABS z kloszem z poliwęglanu. Jest to materiał nietoksyczny, samogasnący, gwarantując podwyższoną odporność na uszkodzenia. Klosz mleczny z poliwęglanu gwarantujący równomierny i optymalny sposób dystrybucji światła. Klipsy wykonano ze stali nierdzewnej. Obszary zastosowania: hale produkcyjne, hale magazynowe, budynki gospodarcze, pomieszczenia techniczne, korytarze i przejścia, parkingi podziemne</OPIS_TRESC_PL>
     <OPIS_TRESC_ANG>Hermetic luminaires Herbus are replacements for traditional fluorescent lamps with a power of 2x36W, 2x58W used in industry. This solution is dedicated to areas where high luminous efficiency of the luminaire is important at relatively low purchase costs. The housing with a universal design has IP66 index and is made of durable ABS plastic with a polycarbonate shade. It is a non-toxic, self-extinguishing material, guaranteeing increased resistance to damage. Milky shade made of polycarbonate guarantees an even and optimal way of light distribution. The clips are made of stainless steel. Areas of application: production halls, warehouses, outbuildings, technical rooms, corridors and passages, underground car parks</OPIS_TRESC_ANG>
     <OPIS_TRESC_FR>Les luminaires étanches Herbus sont des remplacements des luminaires traditionnels pour tubes fluorescents de 2x36W et 2x58W utilisés dans l'industrie. Il s'agit d'une solution destinée aux zones où la performance lumineuse du luminaire est importante, tout en offrant des coûts d'achat relativement faibles. Le boîtier au design universel a une étanchéité élevée IP66 et est fabriqué en ABS durable avec un abat-jour en polycarbonate. Il s'agit d'un matériau non toxique, autoextinguible, garantissant une résistance accrue aux dommages. L'abat-jour laiteux en polycarbonate assure une distribution uniforme et optimale de la lumière. Les clips sont en acier inoxydable. Zones d'application : halls de production, entrepôts, bâtiments agricoles, locaux techniques, couloirs et passages, parkings souterrains.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2018/08/optyka_hermetyk-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>herbus_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>7</PRODUKT_ID>
@@ -92,7 +92,7 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR>Les luminaires à haute baie de type HB-U sont disponibles en trois puissances différentes : 100W, 150W, 200W, avec un angle de diffusion de 110 degrés. Les luminaires HB-U sont construits pour les applications industrielles telles que les halls de production ou les entrepôts. Les HB-U sont fabriqués en aluminium laqué par poudrage. Deux méthodes de montage sont possibles : suspendu ou avec un support réglable</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-u-roz-10-110-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>hb_u_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>8</PRODUKT_ID>
@@ -105,7 +105,7 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR>HB-U2 est un éclairage économique et compact avec une conception de dissipateur de chaleur optimisée. High bay HB-U2 est un luminaire unique avec un choix d'angle de distribution de lumière, un choix de puissance de luminaire et un choix de couleur de lumière (4000K ou 5000K). Les options de contrôle sont 1-10V, DALI, Casambi (technologie sans fil Bluetooth) et en plus des capteurs de mouvement, y compris un capteur PIR. Le module Casambi et les capteurs sont disponibles sous la forme d'un plug-in pratique, offrant une gamme complète de fonctionnalités souhaitées par le client. De plus, il est également possible de modifier la répartition de la lumière en utilisant des réflecteurs supplémentaires, ce qui est particulièrement utile pour les projets d'éclairage plus exigeants.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2023/04/HB-U2-200_N-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/04/HB-U2-200_M-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/04/HB-U2-200_W-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>hb-u2_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>9</PRODUKT_ID>
@@ -118,7 +118,7 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR>HB-CLEAN est un luminaire high-bay avec une surface lisse facile à nettoyer. Grâce à leur design esthétique, ils conviennent aux installations industrielles et de transformation alimentaire ainsi qu'aux espaces publics tels que les centres commerciaux ou les salles de conférence. Les HB-CLEAN sont disponibles en version non régulée et régulée DALI, Zigbee, avec détecteur de mouvement. Ils peuvent être équipés de lentilles avec différents angles de diffusion ou de caches réduisant l'UGR. Différentes options de montage suspendu sont disponibles. </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/HB-CLEAN-ROZSYL-60st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/HB-CLEAN-ROZSYL-90st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/HB-CLEAN-ROZSYL-120st-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>hb-clean_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>10</PRODUKT_ID>
@@ -131,7 +131,7 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR>HB-MINI est un luminaire avec des puissances nominales plus faibles (30W, 50W et 75W). Le boîtier du luminaire est en alliage d'aluminium peint en blanc et le diffuseur en polycarbonate (PC). HB-MINI peut être utilisé dans des installations industrielles, des entrepôts et des halls de grands magasins, des écoles ou des salles de conférence. Les luminaires de cette série peuvent être équipés de commandes 1-10V ou DALI. Pour réduire au maximum l'effet d'éblouissement, un couvercle de diffuseur en polycarbonate peut être ajouté.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-60st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-120stklosz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-120st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-90stklosz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-90st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/hb-mini-krzywa-60stklosz-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>hb-mini_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>11</PRODUKT_ID>
@@ -144,7 +144,7 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR> La lampe industrielle LED SOLID résistante aux chocs et aux produits chimiques. Le boîtier est en acier inoxydable austénitique AISI 304 et l'abat-jour est en verre trempé satiné et sécurisé. La lampe GL-SOLID peut être utilisée, entre autres, dans les installations agricoles, les fermes d'élevage, l'industrie chimique ou dans les endroits où l'ammoniac et les acides organiques sont présents.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/GL-SOLID-86710-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>solid_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>12</PRODUKT_ID>
@@ -170,7 +170,7 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR>LINUS - lampes linéaires LED LINUS est une série de luminaires linéaires légers et résistants (IP65, IK08), qui peuvent être suspendus sur des câbles en acier réglables ou montés en surface. Le luminaire LINUS peut être utilisé pour l'éclairage de magasins, de parkings, d'entrepôts ou d'ateliers. Grâce aux nombreuses possibilités de configuration, ce luminaire peut être adapté à vos besoins. Il peut être alimenté unilatéralement ou en transit. Les options de commande DALI, Zigbee, 1-10V, capteur de mouvement, capteur de lumière sont disponibles. La température de couleur peut être sélectionnée dans la plage de 3000K à 6500K.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/Linus_k120st-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>linus_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>14</PRODUKT_ID>
@@ -183,7 +183,7 @@ High Bay BELUS luminaires made of two tight LED beams are created as an  an ener
     <OPIS_TRESC_FR>Les luminaires CleanLINE font partie du groupe de lampes destinées aux lieux de travail où la fiabilité de l'éclairage est importante. Grâce à l'utilisation de matériaux et de composants de haute qualité, nous garantissons une très bonne qualité et la durée de vie des luminaires. Le boîtier en aluminium de haute qualité est fabriqué en Pologne, tout comme toute la production de luminaires. Les formes lisses et aérodynamiques permettent de maintenir la propreté, l'optique offre une large gamme de possibilités et de très bonnes caractéristiques UGR en même temps. Le luminaire peut fonctionner avec des systèmes de commande 1-10 et DALI, DALI2.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/06/GL-SMT-01-AD20-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/06/GL-SMT-01-30-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/06/GL-SMT-01-60-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/06/GL-SMT-01-90-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/06/GL-SMT-01-AS20-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>cleanline_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>15</PRODUKT_ID>
@@ -212,7 +212,7 @@ BSL workstation luminaires have been designed to ensure comfort and safety in th
     <OPIS_TRESC_FR>GLARE est une série de luminaires linéaires High Bay légers et résistants (IP66, IK08) qui peuvent être suspendus à des câbles en acier ou montés en surface, y compris avec un angle d'inclinaison réglable. Le luminaire GLARE peut être utilisé pour l'éclairage des commerces, des garages et des parkings, des entrepôts ou des installations sportives. Grâce aux nombreuses options de configuration, ce luminaire peut être adapté à vos besoins. Les options de commande DALI, 1-10V, détecteur de mouvement, PIR, sont toutes disponibles via un système de contrôle intelligent. La température de couleur est de 4000K ou 5000K.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/12/glare_f0_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/glare_f3_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/glare_f4_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/glare_f5_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/glare_f6_roz-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>glare_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>17</PRODUKT_ID>
@@ -238,7 +238,7 @@ BSL workstation luminaires have been designed to ensure comfort and safety in th
     <OPIS_TRESC_FR>LINUS - lampes linéaires LED LINUS est une série de luminaires linéaires légers et résistants (IP65, IK08), qui peuvent être suspendus sur des câbles en acier réglables ou montés en surface. Le luminaire LINUS peut être utilisé pour l'éclairage de magasins, de parkings, d'entrepôts ou d'ateliers. Grâce aux nombreuses possibilités de configuration, ce luminaire peut être adapté à vos besoins. Il peut être alimenté unilatéralement ou en transit. Les options de commande DALI, Zigbee, 1-10V, capteur de mouvement, capteur de lumière sont disponibles. La température de couleur peut être sélectionnée dans la plage de 3000K à 6500K.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/Linus_k120st-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>linus_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>19</PRODUKT_ID>
@@ -266,7 +266,7 @@ Un luminaire linéaire LED monté directement sur un rail conducteur triphasé. 
 </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/10/tlhe_90St-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/10/tlhe_asym-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>tl-he_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>21</PRODUKT_ID>
@@ -284,7 +284,7 @@ replacements for 70W metal halide luminaires mounted on
     <OPIS_TRESC_FR>SUN-L est une proposition pour les clients qui cherchent des alternatives aux projecteurs métal halogène de 70W montés sur des rails conducteurs triphasés. Cette solution est un remplacement fonctionnel qui fournit une quantité équivalente de lumière avec une consommation d'énergie électrique nettement réduite. Le luminaire est disponible en plusieurs variantes - résultant de la combinaison de paramètres.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/10/sun-l-60deg-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/10/sun-l-35deg-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/10/sun-l-25deg-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/10/sun-l-15deg-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>sun_l_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>22</PRODUKT_ID>
@@ -305,7 +305,7 @@ The luminaire is available in many variants - resulting from the combination of 
     <OPIS_TRESC_FR>SUN-S est une proposition pour les clients qui cherchent des alternatives aux projecteurs métal halogène de 70W montés sur des rails électriques triphasés. Cette solution est un remplacement fonctionnel qui fournit une quantité équivalente de lumière avec une consommation d'énergie électrique nettement réduite. Le luminaire est disponible en plusieurs variantes - résultant de la combinaison de paramètres. </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/10/sum_s_24deg-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>sun_s_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>23</PRODUKT_ID>
@@ -318,7 +318,7 @@ The luminaire is available in many variants - resulting from the combination of 
     <OPIS_TRESC_FR>UHT Les luminaires de type high-bay sont conçus pour fonctionner à des températures allant jusqu'à 70 degrés. Ils sont disponibles en quatre puissances : 100W, 120W, 150W, 200W en versions avec ou sans commande DALI. Les luminaires UHT sont dédiés à des applications industrielles partout où les conditions de travail sont difficiles, notamment en présence de poussière et de températures élevées. Les UHT sont fabriqués en alliage d'aluminium peint en poudre de couleur noire. Le mode de montage est suspendu ou en surface à l'aide d'un support supplémentaire.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/UHT_roz_120st-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>uht_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>24</PRODUKT_ID>
@@ -349,7 +349,7 @@ The luminaire is available in many variants - resulting from the combination of 
       Lampe CSL est un produit parfaitement adapté à l'éclairage des chambres froides et des congélateurs, car il est spécialement conçu pour fonctionner dans des environnements à température réduite. Grâce à l'utilisation de composants de haute qualité, le luminaire fonctionne dans une plage de température ambiante de -40 à +6 °C. La possibilité de choisir les paramètres permet d'adapter le luminaire aux conditions et aux caractéristiques de chaque pièce. Chez Globus Lighting, nous nous efforçons de personnaliser le produit en fonction des besoins de chaque client, et notre éclairage pour les chambres froides et les congélateurs est de la plus haute qualité, offrant une grande efficacité énergétique.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/cslRozNaStr-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>csl_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>26</PRODUKT_ID>
@@ -365,7 +365,7 @@ Vandal-proof lighting Hardbox is dedicated to public places where lighting fixtu
     Hardbox est destiné aux lieux publics tels que les gares, les tunnels, les passages souterrains et les arrêts de bus, où les luminaires peuvent être exposés à la destruction. Il offre plusieurs options telles que la commande DALI, la sélection personnalisée de couleurs à partir de la palette RAL, des couches protectrices supplémentaires, la possibilité d'une alimentation en courant continu et une construction mécanique durable offrant une résistance IK10. La gamme de puissance s'étend de 18W à 75W, ce qui en fait un produit solide et adapté aux besoins des clients.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/HardBoxRozNaStr-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>hardbox_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>27</PRODUKT_ID>
@@ -380,11 +380,11 @@ MINERBOX is a series of luminaires designed for the mining industry. The durable
     <OPIS_TRESC_FR>&lt;h4&gt; Éclairage minier&lt;h4&gt; L'éclairage pour les mines MINERBOX est une série de luminaires produit pour l'industrie minière. Le boîtier durable est en acier inoxydable et conçu pour être alimenté par des câbles miniers. Selon les besoins, les luminaires MINERBOX peuvent être recouverts d'une couche de protection supplémentaire et équipés d'un ballast approprié. La plage de puissance élevée et les différentes tailles permettent aux luminaires de cette série d'être précisément adaptés aux besoins du client.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/cslRozNaStr-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>minerbox_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>28</PRODUKT_ID>
-    <RODZINA></RODZINA>
+    <RODZINA>BHARD</RODZINA>
     <ICONY_RODZINY>&lt;i class="fa-solid fa-hammer"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-handcuffs"&gt;&lt;/i&gt;</ICONY_RODZINY>
     <FOTO>produkty_karty_charakter/BHARD-char_simple.png</FOTO>
     <H3_OPISU>BHARD</H3_OPISU>
@@ -393,7 +393,7 @@ MINERBOX is a series of luminaires designed for the mining industry. The durable
     <OPIS_TRESC_FR>&lt;h4&gt; Appareils pénitentiaires&lt;/h4&gt;  BHARD est une série de luminaires construit pour les établissements pénitentiaires et autres lieux qui nécessitent une résistance accrue des luminaires</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/cslRozNaStr-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>bhard_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>29</PRODUKT_ID>
@@ -406,7 +406,7 @@ MINERBOX is a series of luminaires designed for the mining industry. The durable
     <OPIS_TRESC_FR>&lt;h4&gt;Luminaires résistants à l'ammoniac &lt;/h4&gt;Ces luminaires sont résistants à l'ammoniac, à la poussière et à l'eau. En raison de leur étanchéité IP69K, ils sont résistants au nettoyage à haute pression de 100 bar à une température de 80 °C, tout en ayant des paramètres de résistance aux chocs élevés IK10. Les luminaires TUBUS peuvent être suspendus à des câbles en acier ou montés directement sur une surface. </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/TUBUS_K60-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/TUBUS_K90-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/TUBUS_K120-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>tubus_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>30</PRODUKT_ID>
@@ -419,7 +419,7 @@ MINERBOX is a series of luminaires designed for the mining industry. The durable
     <OPIS_TRESC_FR>Ce sont des luminaires tunnel typiques, avec une option de connexion linéaire, ayant des paramètres IK 08 et IP66 appropriés pour l'application, ainsi que des options d'optique qui améliorent le confort visuel. Le luminaire est fortement résistant à la corrosion. La puissance d'un seul luminaire est de 150 W, il est également disponible en option DALI. Possibilité de connecter plusieurs luminaires en une seule ligne lumineuse jusqu'à quatre luminaires. Le courant maximal d'entrée pour une ligne complète est de 8 A.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/11/tunel_L_Asym_02-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/11/tunel_L_Asym_03-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/11/tunel_L_batw_05-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/11/tunel_L_Asym_07-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/11/tunel_L_batw_08-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>tunel-l_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>31</PRODUKT_ID>
@@ -432,7 +432,7 @@ MINERBOX is a series of luminaires designed for the mining industry. The durable
     <OPIS_TRESC_FR>Les luminaires de la série Tunnel - S se caractérisent par une très grande résistance aux conditions atmosphériques et routières difficiles typiques des endroits fermés et de passage. Le boîtier n'est pas seulement conçu pour évacuer rapidement la chaleur, mais il dispose également de paramètres anticorrosion, d'un IK élevé et d'un IP élevé. Le luminaire dispose de différentes optiques, y compris asymétriques, ce qui a un impact positif sur la qualité de l'éclairage et le confort du conducteur. Plage de puissance de 60 W, 90 W, 120 W, 150 W</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/11/tunel_s_K_roz_1203-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/11/tunel_s_K_roz_1205-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/11/tunel_s_K_roz_1207-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/11/tunel_s_K_roz_1208-150x150.png </PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>tunel_s_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>32</PRODUKT_ID>
@@ -445,7 +445,7 @@ MINERBOX is a series of luminaires designed for the mining industry. The durable
     <OPIS_TRESC_FR>FLAT Description du produit FLAT est une solution innovante pour les endroits qui nécessitent des luminaires à haute étanchéité (IP66) et haute résistance aux chocs (IK98). Grace a sa bonne conception, le luminaire est facile à entretenir, avec plusieurs options de montage, et qui se caractérise avec un large spectre de puissance et de flux lumineux au choix. De plus la durée de vie approximative du module LED est de L90=77 000h, L80=170 000, L70=275 000h, ce qui indique clairement une haute qualité des modules LED de la société Nichia. Les luminaires FLAT sont parfaits pour les stations-service, les aéroports, les entrepôts, les centres commerciaux ou d’autres endroits similaires.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/12/flat_deg-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>flat_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>33</PRODUKT_ID>
@@ -622,7 +622,7 @@ Espaces industriels extérieurs et intérieurs à risque d'explosion en raison d
 &lt;h4&gt;II 3D Ex tc IIIC T85°C Dc IP66&lt;/h4&gt;</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/gl-ex-ptNaStrone-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>ex-pt_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>42</PRODUKT_ID>
@@ -655,7 +655,7 @@ and fixed to hanging windows, tubular structures and grid ceilings. The LED modu
 "INOX" = Acier inoxydable&lt;/p&gt;</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2022/03/trex_rozs_a-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>tr-ex_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>43</PRODUKT_ID>
@@ -671,7 +671,7 @@ The MIBUS series are light, low-power street luminaires (from 20W to 150W), desi
       La série MIBUS est composée de luminaires de rue légers de faible puissance (de 20W à 150W), destinés à éclairer des endroits tels que des parcs, des jardins, des quartiers résidentiels, des parkings et des routes. Les luminaires peuvent être équipés d'une commande DALI, 1-10V ou d'une cellule photoélectrique. Une large gamme d'accessoires permet de choisir un ensemble adapté aux besoins du client.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/mibusNAStroneZZZ-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/mibusNAStroneXXX-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/mibusNAStroneCCC-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>mibus_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>44</PRODUKT_ID>
@@ -687,7 +687,7 @@ The line of street luminaires, due to the large number of options in the field o
     En raison de la grande variété d'options de diodes LED et d'optiques utilisées, la gamme de lampadaires est adaptée à la modernisation de l'éclairage et à de nouveaux projets, tels que l'éclairage des parkings, des rues et des allées de parc</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2018/08/uliczna_batwing-1024x1024.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>ule_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>45</PRODUKT_ID>
@@ -703,7 +703,7 @@ The line of ULE2 ECO street luminaires is characterized by high reliability, hig
     La gamme de lampadaires ULE2 ECO se caractérise par une grande fiabilité, une efficacité lumineuse élevée de 140 lm/W et une large gamme d'optiques. Les lampadaires sont disponibles en classe de protection I et II. Les lampadaires peuvent fonctionner avec un système DALI et ont la possibilité d'utiliser un connecteur NEMA. Les lampadaires ont un indice de protection élevé IP66 et un indice de résistance aux chocs IK09. En outre, ils sont disponibles avec un capteur de mouvement et de temps.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2022/09/ule2_eco_1601_rozs-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/09/ule2_eco_1611_rozs-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/09/ule2_eco_1609_rozs-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/09/ule2_eco_1605_rozs-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/09/ule2_eco_1603_rozs-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/09/ule2_eco_1613_rozs-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/09/ule2_eco_1610_rozs-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/09/ule2_eco_1606_rozs-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/09/ule2_eco_1604_rozs-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/09/ule2_eco_1602_rozs-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>ule_2_eco_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>46</PRODUKT_ID>
@@ -719,7 +719,7 @@ The line of ULE2 street luminaires is characterized by high reliability, high lu
       La gamme de lampadaires ULE2 se caractérise par une grande fiabilité, une efficacité lumineuse élevée de 160 lm/W et une large gamme d'optiques. Les lampadaires sont disponibles en classe de protection I et II. Les lampadaires peuvent fonctionner avec un système DALI et ont la possibilité d'utiliser un connecteur NEMA. Les lampadaires ont un indice de protection élevé IP66 et un indice de résistance aux chocs IK08. En outre, ils sont disponibles avec un capteur de mouvement et de temps. </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/Ule2_1611_840-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/Ule2_1609_840-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/Ule2_1606_840-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/Ule2_1605_840-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/Ule2_1604_840-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/Ule2_1610_840-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/Ule2_1613_840-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/Ule2_1603_840-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/Ule2_1602_840-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/Ule2_1601_840-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>ule2_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>47</PRODUKT_ID>
@@ -751,7 +751,7 @@ De plus, les luminaires Nimbo ont un choix très large d'accessoires de montage 
 En option, ils disposent d'un capteur de lumière CNO, permettant au luminaire de s'assombrir et de s'éclaircir automatiquement en fonction des conditions météorologiques - soleil / nuages.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/Bflo2_A23_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Bflo2_6401_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Bflo2_6403_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Bflo2_6402_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Bflo2_6404_roz-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>nimbo_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>49</PRODUKT_ID>
@@ -770,7 +770,7 @@ Noteworthy is also the wide range of optics, including asymmetrical ones, all op
 Il convient également de mentionner la large gamme d'optiques, y compris asymétriques, toutes les optiques étant protégées par un verre.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/Bflo2_A23_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Bflo2_6401_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Bflo2_6403_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Bflo2_6402_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Bflo2_6404_roz-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>nimbo_marina_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>50</PRODUKT_ID>
@@ -786,7 +786,7 @@ BFlo floodlights are luminaires for indoor and outdoor use due to the tightness 
       Les luminaires pour l'éclairage extérieur de BFlo sont des appareils d'éclairage pour une utilisation à la fois à l'intérieur et à l'extérieur des bâtiments en raison de l'étanchéité des composants. Ils sont souvent utilisés comme lampes pour éclairer ldes places. Grâce à la diversité des puissances de 30W à 300W, ils peuvent répondre à toutes les tâches. La possibilité de montage permet l'éclairage, par exemple, des entreprises, des halls industriels, des salles de sport, des terrains de sport ou des piscines. L'utilisation de lentilles à différentes répartitions permet de créer un projet professionnel répondant à toutes les exigences de l'objet éclairé.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/bfloMMMNaStrone-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/bfloBBBNaStrone-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/bfloZZZNaStrone-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/bfloCCCNaStrone-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/bfloVVVNaStrone-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/bfloNNNNaStrone-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>bflo_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>51</PRODUKT_ID>
@@ -805,7 +805,7 @@ Grâce à la possibilité d'utiliser des optiques spécialisées, on peut éclai
 Le luminaire Park a également été conçu avec une apparence élégante ainsi que la fonctionnalité et l'efficacité à l'esprit.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/Park_roz_1_asym-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Park_roz_2_asumetr-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Park_roz_Batwing-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>park_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>52</PRODUKT_ID>
@@ -818,7 +818,7 @@ Le luminaire Park a également été conçu avec une apparence élégante ainsi 
     <OPIS_TRESC_FR>Arbido sont des luminaires modernes au look presque classique, semblables à des colonnes antiques au design intemporel, tout droit sortis du début de notre civilisation, et pourtant grâce à la technologie moderne du 21e siècle, cette élégance éternelle, dans une nouvelle version et avec un nouveau but, fonctionnera facilement aujourd'hui. Grâce aux capteurs Arbido modernes, non seulement il a l'air bien, mais il prend également soin de nos finances et élimine la lumière inutile des endroits où elle n'est pas actuellement nécessaire. Pour les lampes de la sous-famille C et D, nous avons également ajouté la possibilité de personnaliser la puissance et la couleur de la lumière.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2023/04/arbido_6401_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/04/arbido_0C06_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/04/24w_3203_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/04/24w_3201_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/04/14w-24w_3202_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/04/14w_3203_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/04/14w_3201_roz-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>arbido_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>53</PRODUKT_ID>
@@ -836,7 +836,7 @@ Thanks to their modular construction, FL-Max floodlights can be configured from 
       Grâce à leur construction modulaire, les projecteurs FL-Max peuvent être configurés de 200W à 1200W. IP65, IK08 et des lentilles avec différentes distributions font des projecteurs FL-Max capables de relever de nombreux défis. Ils peuvent être utilisés, entre autres, dans les halls industriels et sportifs, sur les terrains de sport, dans les piscines ou sur de grandes places. De plus en raison de leur utilisation fréquente en extérieur, les projecteurs FL-Max ont été soumis à des tests de résistance aux vents.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2019/07/GL-FL-Max-01-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2019/07/GL-FL-Max-02-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2019/07/GL-FL-Max-03-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2019/07/GL-FL-Max-04-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2019/07/GL-FL-Max-05-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2019/07/GL-FL-Max-06-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>fl_max_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>54</PRODUKT_ID>
@@ -855,7 +855,7 @@ GL-FL-STRONG is a series of very high power LED floodlights (from 800W to 1200W)
       GL-FL-STRONG est une série de projecteur LED ayant une très haute puissance (de 800W a 1200W). La construction modulaire donne la possibilité de selectionner la puissance optimale de l’appreil d’éclairage pour une application donnée et augmente les possibilités de réglage de l’appareil. Ces projecteurs sont destinés à être utilisés pour l’éclairage de grandes salles sportives, de parkings ou d’autre grands espaces extérieures. Les luminaires ont une large gamme d'optiques et des tests de comportement au vent. Ils peuvent éventuellement être commandés avec un dispositif facilitant leur réglage précis.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/Fl-strong_roz_06-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Fl-strong_roz_05-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Fl-strong_roz_04-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Fl-strong_roz_02-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>fl-strong_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>55</PRODUKT_ID>
@@ -874,7 +874,7 @@ Fl-Helios is a series of LED floodlights with very high power (from 800W to 2000
 Fl-Helios est une série de projecteurs LED à très haute puissance (de 800W à 2000W). La conception modulaire assure une sélection optimale de la puissance du luminaire en fonction de l'application. Ces projecteurs seront utilisés dans des installations sportives, des parkings ou d'autres espaces extérieurs plus grands. Les luminaires ont été testés pour leur comportement au vent, de plus, lors de leur conception, l'un des principaux objectifs était d'éliminer le phénomène de pollution lumineuse.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2023/01/helios_01-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/01/helios_07-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/01/helios_06-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/01/helios_05-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>fl-helios_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>56</PRODUKT_ID>
@@ -888,7 +888,7 @@ Fl-Helios est une série de projecteurs LED à très haute puissance (de 800W à
     <OPIS_TRESC_FR> Le High Bay SQUBUS a été conçu pour remplacer directement les lampes métal-halogénures traditionnelles en termes de forme et de taille. Le large choix de méthodes de montage et le haut niveau de protection du luminaire lui permettent d'être largement utilisé non seulement dans la production ou dans les entrepôts de grande hauteur, mais dans les installations sportives également.   </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2015/11/4-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>squbus_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>57</PRODUKT_ID>
@@ -903,7 +903,7 @@ Small dimensions, high color rendering index and the possibility of using DALI o
     <OPIS_TRESC_FR>Les Downlights LED sont des lampes LED de petite taille avec un facteur de rendu des couleurs élevé et une compatibilité avec les systèmes de contrôle DALI et 0-10V. Elles sont largement utilisées dans les bureaux, les hôtels et les espaces sociaux. Les lampes LED 12V sont également idéales pour les remorques. Nos lampes LED sont populaires auprès des clients en Allemagne et dans toute l'Europe. </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/dla_rozA-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/dla_rozB-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/dla_rozC-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/dla_rozD-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/dla_rozE-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>dla2_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>58</PRODUKT_ID>
@@ -916,7 +916,7 @@ Small dimensions, high color rendering index and the possibility of using DALI o
     <OPIS_TRESC_FR> Le downlight LED a été conçu pour éclairer l’intérieur des bâtiments. La construction légère et durable du luminaire permet d’être utilisée dans les hôtels, ainsi que dans les bureaux. La langue durée de vie (jusqu’à 50 000h) permet une réduction des couts importante. De plus, la lampe a un indice de rendu des couleurs élevé, ce qui donne aux objets éclairés un aspect presque identique à la lumière du jour. Downlight LED est donc indispensable dans les installations commerciales. </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2018/09/90-dl.jpg</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>dnl_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>59</PRODUKT_ID>
@@ -929,7 +929,7 @@ Small dimensions, high color rendering index and the possibility of using DALI o
     <OPIS_TRESC_FR>Le Downlight DGS est une lampe LED de petite taille avec un facteur de rendu des couleurs élevé et une compatibilité avec les systèmes de contrôle DALI ou triac. Elle est largement utilisée dans les bureaux, les hôtels et les espaces sociaux.  </OPIS_TRESC_FR>
     <PFOTOMETRIA></PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>dgs_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>60</PRODUKT_ID>
@@ -955,7 +955,7 @@ Small dimensions, high color rendering index and the possibility of using DALI o
     <OPIS_TRESC_FR>Le plafonnier de la série ZOBI se caractérise avant tout par sa haute résistance mécanique IK10 et son étanchéité IP66 - ce qui lui permet d'être utilisé dans des pièces présentant une humidité ou une poussière élevée ainsi qu'à l'extérieur. ZOBI conviendra également comme éclairage pour les couloirs, les cages d'escalier, les entrées de bâtiments, les pièces techniques et économiques. Le luminaire peut être équipé d'un capteur de mouvement avec réglage de l'intensité lumineuse, de la sensibilité de détection et de la durée d'éclairage.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/Zobi_roz_A-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>zobi_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>62</PRODUKT_ID>
@@ -968,7 +968,7 @@ Small dimensions, high color rendering index and the possibility of using DALI o
     <OPIS_TRESC_FR>MOBI est un plafonnier de base proposé par Globus Lighting. Il peut être utilisé comme éclairage intérieur dans des endroits comme les couloirs, les passages, les cages d'escalier et les pièces de stockage. MOBI avec un capteur de mouvement a des fonctions de réglage de la portée du capteur (50% ou 100%) jusqu'à 16 m, de réglage de la sensibilité de l'éclairage extérieur (5lx, 15lx, 50lx, 2000lx), de réglage de la durée de maintien de la pleine luminosité (10s, 90s, 3min, 10min) et de mode d'économie d'énergie - atténuation à 10% / 20% de la valeur du flux nominale avec un réglage de temps (0s, 30s, 10min, sans limite). </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/Mobi_roz_A-150x150.png </PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>mobi_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>63</PRODUKT_ID>
@@ -981,7 +981,7 @@ Small dimensions, high color rendering index and the possibility of using DALI o
     <OPIS_TRESC_FR>Le Plafon PLUS est un luminaire conçu pour être monté en surface sur un plafond ou un mur. Il peut être utilisé dans les cages d'escalier, les couloirs ou les pièces de stockage. Grâce à l'indice de protection IP54, il peut également être utilisé dans les pièces à humidité élevée. Le plafonnier peut être équipé d'un détecteur de mouvement ou d'un détecteur de mouvement de couloir. La base de la lampe peut être configurée en blanc, noir, argent, or ou graphite. La couleur de la base est déterminée par le dernier symbole du code produit (plus d'informations sont disponibles sur la fiche technique). Le Plafon PLUS est facile à installer.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/Plus_roz_A-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>plus_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>64</PRODUKT_ID>
@@ -994,7 +994,7 @@ Small dimensions, high color rendering index and the possibility of using DALI o
     <OPIS_TRESC_FR>LOBI - plafonnier simple et rond Le plafonnier LOBI peut être utilisé dans les couloirs ou les escaliers, par exemple. La base du luminaire est en matériau ABS résistant et est disponible en plusieurs couleurs. LOBI peut également être équipé d'un capteur de mouvement ou d'un capteur de mouvement de couloir. Ce luminaire peut être monté au plafond ou sur le mur.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/LOBI_roz_A-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>lobi_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>65</PRODUKT_ID>
@@ -1019,7 +1019,7 @@ It comes in three versions:&lt;br&gt;
     &lt;i class="fa-solid fa-circle"&gt;&lt;/i&gt;  et avec contrôle DALI avec réglage de la température de couleur de la lumière &lt;/p&gt;</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/all_16_rozs_C-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/all_16_rozs_B-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/all_16_rozs_A-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/all_16_rozs_D-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>all16_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>66</PRODUKT_ID>
@@ -1044,7 +1044,7 @@ It comes in three versions:&lt;br&gt;
     &lt;i class="fa-solid fa-circle"&gt;&lt;/i&gt;  et avec contrôle DALI avec réglage de la température de couleur de la lumière &lt;/p&gt;</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/all_19_roz_A-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/all_19_roz_D-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/all_19_roz_C-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/all_19_roz_B-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>all19_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>67</PRODUKT_ID>
@@ -1057,7 +1057,7 @@ It comes in three versions:&lt;br&gt;
     <OPIS_TRESC_FR>L'ABUS est un luminaire encastré de forme ronde ou rectangulaire. Fabriqué en aluminium peint en blanc, il est équipé de modules LED intégrés qui réduisent l'effet d'éblouissement. Les luminaires de la série ABUS peuvent être sous tension en traversé</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/Abus_rozs_A-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Abus_rozs_F-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Abus_rozs_E-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Abus_rozs_D-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Abus_rozs_C-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/Abus_rozs_B-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>abus_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>68</PRODUKT_ID>
@@ -1070,7 +1070,7 @@ It comes in three versions:&lt;br&gt;
     <OPIS_TRESC_FR>PANEL est un luminaire LED plat et léger qui se compose d'un cadre en aluminium peint en poudre et d'un couvercle en plastique. Il peut être installé dans des plafonds suspendus, monté en surface à l'aide d'un cadre supplémentaire ou suspendu à l'aide de câbles réglables. Le panneau LED est conçu pour les espaces tels que les bureaux, les salles de conférence et de cours, les couloirs</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/Panel_rozs-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>panel_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>69</PRODUKT_ID>
@@ -1083,7 +1083,7 @@ It comes in three versions:&lt;br&gt;
     <OPIS_TRESC_FR>DECO est un mélange de tradition et de modernité. Grâce à un design unique combinant le bois et l'aluminium, les luminaires de la série DECO conviennent notamment aux bureaux, aux hôtels et aux bâtiments publics. Les luminaires sont disponibles dans différentes configurations de couleurs et en option d'éclairage haut-bas. </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/Deco_rozs-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>deco_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>70</PRODUKT_ID>
@@ -1099,7 +1099,7 @@ FOBI is ideally suited to office spaces where, in addition to electrical and lig
   Le FOBI convient parfaitement aux espaces de bureau dans lesquels le design du luminaire est important en plus des paramètres électriques et d'éclairage, et grâce à l'utilisation de lentilles, le coefficient d'éblouissement UGR a été limité. </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/05/fobi_12w_1470lm-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/fobi_15w_1950lm-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/fobi_25w_3010lm-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/fobi_12w_1510lm-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/fobi_15w_1850lm-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/05/fobi_25w_2950lm-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>fobi_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>71</PRODUKT_ID>
@@ -1112,7 +1112,7 @@ FOBI is ideally suited to office spaces where, in addition to electrical and lig
     <OPIS_TRESC_FR>DNL-OPI est une lumière LED légère et résistante utilisée pour l'éclairage intérieur des bâtiments. Elle est largement utilisée dans les hôtels et les bureaux. Sa haute durabilité (jusqu'à 50 000h) permet de réduire considérablement les coûts d'éclairage. De plus, la lampe a un indice de rendu des couleurs élevé, ce qui fait que les objets éclairés par elle ont presque la même apparence que dans la lumière du jour. Elle est donc indispensable dans les établissements commerciaux</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2022/09/GL-DNL-OPI-15W-5WT-840-T_rozs.png , https://www.globuslighting.pl/wp-content/uploads/2022/09/GL-DNL-OPI-30W-5WT-840-D_rozs.png , https://www.globuslighting.pl/wp-content/uploads/2022/09/GL-DNL-OPI-20W-5WT-840-D_rozs.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>dnl-opi_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>72</PRODUKT_ID>
@@ -1164,7 +1164,7 @@ FOBI is ideally suited to office spaces where, in addition to electrical and lig
     <OPIS_TRESC_FR>Le luminaire architectural WALL est destiné à l'éclairage des façades de bâtiments et d'autres urbains. Le luminaire est fabriqué en aluminium et dispose d'un écran en verre trempé. Disponible en version avec une lumière blanche à différentes températures de couleur ou en version RGB avec une large gamme d'angles de diffusion. </OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2022/03/wall_2022_9w-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/03/wall_2022_9w_130s-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/03/wall_2022_15x55-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/03/wall_2022_18w-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/03/wall_2022_20w-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/03/wall_2022_24w-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/03/wall_2022_60d-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/03/wall_2022_38w-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2022/03/wall_2022_36w-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>wall_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>76</PRODUKT_ID>
@@ -1181,7 +1181,7 @@ Luminaires are available in options from 30 W up to 240 W, optic range 3.8°/8°
     <OPIS_TRESC_FR>Groupe AR est des luminaires pour l'éclairage architectural, soulignant et mettant en valeur les éléments de la construction ou de l'architecture du paysage. En ce qui concerne les configurations disponibles, nous avons des optiques spécialisées, principalement 3,8 degrés et 8, ainsi que 12 degrés et autres. Les effets lumineux peuvent être obtenus grâce aux options de lumière blanche et RGB, en mélangeant la lumière colorée, qui en combinaison avec le contrôle DMX peut jouer un rôle important dans l'exposition des façades ou de la construction. Les luminaires sont disponibles en option de 30 W à 240 W, plage d'optiques 3,8°/8°/12°/30°/15*30°/60°/20*60°, accessoires nécessaires pour diriger la lumière et monter le luminaire</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/12/ar_3.8_st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/ar_8_st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/ar_12_st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/ar_30_st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/ar_60_st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/ar_15x30_st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/ar_20x60_st-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/12/ar_75_st-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>ar_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>77</PRODUKT_ID>
@@ -1194,7 +1194,7 @@ Luminaires are available in options from 30 W up to 240 W, optic range 3.8°/8°
     <OPIS_TRESC_FR>Les petits projecteurs Spoti, pratiques et élégants, sont idéaux pour mettre en valeur des éléments architecturaux intéressants, éclairer les jardins ou les parcs, ou illuminer les façades des bâtiments de bureau contemporains. Spoti dispose d'une large gamme de faisceaux lumineux (5°, 10°, 20°, 30°, 45°, 60°, 25×45°, 15×45°, 10*65°) et de couleurs de lumière (2200K, 2700K, 3000K, 4000K), y compris des versions RVB avec DMX512. Le luminaire est non seulement très résistant à l'humidité (IP66), mais il est également recouvert d'une couche résistante aux UV, ce qui en fait un produit parfait pour les projets les plus ambitieux d'éclairage extérieur.</OPIS_TRESC_FR>
     <PFOTOMETRIA></PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>spoti_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>78</PRODUKT_ID>
@@ -1207,7 +1207,7 @@ Luminaires are available in options from 30 W up to 240 W, optic range 3.8°/8°
     <OPIS_TRESC_FR>Les mini-projecteurs Roti, avec leur boîtier élégant et intéressant, se distinguent par leur grande étanchéité (IP66), leur revêtement résistant aux UV et leur boîtier en acier avec verre trempé. Ils offrent une large gamme d'options de distribution de faisceau lumineux (5° / 10° / 20° / 30° / 45° / 60° / 25×45° / 15×45° / 10×65°) ainsi qu'une variété d'options de couleur de lumière (2200K / 2700K / 3000K / 4000K / RGB). C'est l'éclairage idéal pour les projets d'éclairage extérieur les plus exigeants, qu'il s'agisse d'un éclairage de jardin privé, de la mise en valeur d'éléments architecturaux ou de monuments créés par l'homme ou la nature. Roti remplira sa fonction de manière élégante et pendant de nombreuses années.</OPIS_TRESC_FR>
     <PFOTOMETRIA></PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>roti_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>79</PRODUKT_ID>

@@ -1,0 +1,1043 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ARBIDO>
+  <MODEL id="1">
+    <KOD>GL-ARBIDO-A14W31-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-ARBIDO-A14W32-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-ARBIDO-A14W33-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-ARBIDO-B14W31-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-ARBIDO-B14W32-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-ARBIDO-B14W33-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-ARBIDO-A24W31-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-ARBIDO-A24W32-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-ARBIDO-A24W33-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-ARBIDO-B24W31-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-ARBIDO-B24W32-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-ARBIDO-B24W33-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-ARBIDO-A14W31-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-ARBIDO-A14W32-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-ARBIDO-A14W33-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-ARBIDO-B14W31-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-ARBIDO-B14W32-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-ARBIDO-B14W33-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-ARBIDO-A24W31-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-ARBIDO-A24W32-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-ARBIDO-A24W33-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-ARBIDO-B24W31-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-ARBIDO-B24W32-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-ARBIDO-B24W33-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-ARBIDO-A14W31-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-ARBIDO-A14W32-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-ARBIDO-A14W33-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-ARBIDO-B14W31-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-ARBIDO-B14W32-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-ARBIDO-B14W33-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-ARBIDO-A24W31-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-ARBIDO-A24W32-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-ARBIDO-A24W33-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-ARBIDO-B24W31-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-ARBIDO-B24W32-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-ARBIDO-B24W33-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-ARBIDO-A14W31-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-ARBIDO-A14W32-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-ARBIDO-A14W33-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-ARBIDO-B14W31-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-ARBIDO-B14W32-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-ARBIDO-B14W33-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-ARBIDO-A24W31-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-ARBIDO-A24W32-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-ARBIDO-A24W33-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-ARBIDO-B24W31-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-ARBIDO-B24W32-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-ARBIDO-B24W33-830-D</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-ARBIDO-A14W31-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-ARBIDO-A14W32-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-ARBIDO-A14W33-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-ARBIDO-B14W31-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-ARBIDO-B14W32-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-ARBIDO-B14W33-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-ARBIDO-A24W31-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-ARBIDO-A24W32-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-ARBIDO-A24W33-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-ARBIDO-B24W31-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-ARBIDO-B24W32-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-ARBIDO-B24W33-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-ARBIDO-A14W31-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-ARBIDO-A14W32-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-ARBIDO-A14W33-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-ARBIDO-B14W31-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-ARBIDO-B14W32-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-ARBIDO-B14W33-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1190 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-ARBIDO-A24W31-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-ARBIDO-A24W32-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-ARBIDO-A24W33-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-ARBIDO-B24W31-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3201</ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-ARBIDO-B24W32-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3202</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-ARBIDO-B24W33-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>24W</MOC>
+    <FLUX>1920 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 3203</ROZ>
+  </MODEL>
+  <MODEL id="73">
+    <KOD>GL-ARBIDO-C14WPC-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1820 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="74">
+    <KOD>GL-ARBIDO-C25WPC-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>3250 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="75">
+    <KOD>GL-ARBIDO-D14WPC-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1820 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="76">
+    <KOD>GL-ARBIDO-D25WPC-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>3250 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="77">
+    <KOD>GL-ARBIDO-C14WPC-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1820 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="78">
+    <KOD>GL-ARBIDO-C25WPC-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>3250 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="79">
+    <KOD>GL-ARBIDO-D14WPC-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1820 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="80">
+    <KOD>GL-ARBIDO-D25WPC-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>3250 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="81">
+    <KOD>GL-ARBIDO-C14WPC-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1820 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="82">
+    <KOD>GL-ARBIDO-C25WPC-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>3250 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="83">
+    <KOD>GL-ARBIDO-D14WPC-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1820 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="84">
+    <KOD>GL-ARBIDO-D25WPC-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>3250 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="85">
+    <KOD>GL-ARBIDO-C14WPC-7SE</KOD>
+    <RACCT>7SE</RACCT>
+    <MOC>Max. 14W</MOC>
+    <FLUX>Max. 1820 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="86">
+    <KOD>GL-ARBIDO-C25WPC-7SE</KOD>
+    <RACCT>7SE</RACCT>
+    <MOC>Max. 25W</MOC>
+    <FLUX>Max. 3250 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="87">
+    <KOD>GL-ARBIDO-D14WPC-7SE</KOD>
+    <RACCT>7SE</RACCT>
+    <MOC>Max. 14W</MOC>
+    <FLUX>Max. 1820 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="88">
+    <KOD>GL-ARBIDO-D25WPC-7SE</KOD>
+    <RACCT>7SE</RACCT>
+    <MOC>Max. 25W</MOC>
+    <FLUX>Max. 3250 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 6401</ROZ>
+  </MODEL>
+  <MODEL id="89">
+    <KOD>GL-ARBIDO-C14WML-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1400 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="90">
+    <KOD>GL-ARBIDO-C25WML-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2500 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="91">
+    <KOD>GL-ARBIDO-D14WML-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1400 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="92">
+    <KOD>GL-ARBIDO-D25WML-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2500 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="93">
+    <KOD>GL-ARBIDO-C14WML-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1400 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="94">
+    <KOD>GL-ARBIDO-C25WML-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2500 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="95">
+    <KOD>GL-ARBIDO-D14WML-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1400 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="96">
+    <KOD>GL-ARBIDO-D25WML-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2500 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="97">
+    <KOD>GL-ARBIDO-C14WML-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1400 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="98">
+    <KOD>GL-ARBIDO-C25WML-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2500 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="99">
+    <KOD>GL-ARBIDO-D14WML-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>14W</MOC>
+    <FLUX>1400 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="100">
+    <KOD>GL-ARBIDO-D25WML-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>25W</MOC>
+    <FLUX>2500 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="101">
+    <KOD>GL-ARBIDO-C14WML-7SE</KOD>
+    <RACCT>7SE</RACCT>
+    <MOC>Max. 14W</MOC>
+    <FLUX>Max. 1400 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="102">
+    <KOD>GL-ARBIDO-C25WML-7SE</KOD>
+    <RACCT>7SE</RACCT>
+    <MOC>Max. 25W</MOC>
+    <FLUX>Max. 2500 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="103">
+    <KOD>GL-ARBIDO-D14WML-7SE</KOD>
+    <RACCT>7SE</RACCT>
+    <MOC>Max. 14W</MOC>
+    <FLUX>Max. 1400 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+  <MODEL id="104">
+    <KOD>GL-ARBIDO-D25WML-7SE</KOD>
+    <RACCT>7SE</RACCT>
+    <MOC>Max. 25W</MOC>
+    <FLUX>Max. 2500 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK10</IK>
+    <ROZ>Typ 0C06</ROZ>
+  </MODEL>
+</ARBIDO>

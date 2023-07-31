@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CLEANLINE>
+  <MODEL id="1">
+    <KOD>GL-CLEANLINE-01-T1000061-840-2A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>34W</MOC>
+    <FLUX>5115lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>27°x100°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-CLEANLINE-01-T1100061-840-2A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>34W</MOC>
+    <FLUX>5230lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>54°x100°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-CLEANLINE-01-T1200061-840-2A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>34W</MOC>
+    <FLUX>5009lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>84°x100°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-CLEANLINE-01-T1300061-840-2A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>34W</MOC>
+    <FLUX>5113lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 1</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-CLEANLINE-01-T1400061-840-2A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>34W</MOC>
+    <FLUX>5309lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 2</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-CLEANLINE-01-T2000061-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>10229lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>27°x100°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-CLEANLINE-01-T2100061-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>10460lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>54°x100°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-CLEANLINE-01-T2200061-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>10019lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>84°x100°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-CLEANLINE-01-T2300061-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>10226lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 1</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-CLEANLINE-01-T2400061-840-2B</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>67W</MOC>
+    <FLUX>10617lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 2</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-CLEANLINE-01-T3000061-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15344lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>27°x100°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-CLEANLINE-01-T3100061-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15690lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>54°x100°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-CLEANLINE-01-T3200061-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15028lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>84°x100°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-CLEANLINE-01-T3300061-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15339lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 1</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-CLEANLINE-01-T3400061-840-2C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>15926lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 2</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-CLEANLINE-01-T4000061-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>133W</MOC>
+    <FLUX>20458lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>27°x100°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-CLEANLINE-01-T4100061-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>133W</MOC>
+    <FLUX>20920lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>54°x100°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-CLEANLINE-01-T4200061-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>133W</MOC>
+    <FLUX>20038lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>84°x100°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-CLEANLINE-01-T4300061-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>133W</MOC>
+    <FLUX>20452lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 1</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-CLEANLINE-01-T4400061-840-2D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>133W</MOC>
+    <FLUX>21234lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 2</ROZ>
+  </MODEL>
+</CLEANLINE>

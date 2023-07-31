@@ -1,0 +1,1083 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GLARE>
+  <MODEL id="1">
+    <KOD>GL-GLARE-50W-603M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-GLARE-50W-604M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-GLARE-50W-605M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-GLARE-50W-606M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-GLARE-50W-610M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-GLARE-50W-603M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-GLARE-50W-604M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-GLARE-50W-605M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-GLARE-50W-606M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-GLARE-50W-610M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-GLARE-50W-603M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-GLARE-50W-604M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-GLARE-50W-605M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-GLARE-50W-606M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-GLARE-50W-610M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-GLARE-50W-603M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-GLARE-50W-604M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-GLARE-50W-605M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-GLARE-50W-606M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-GLARE-50W-610M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-GLARE-50W-603M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-GLARE-50W-604M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-GLARE-50W-605M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-GLARE-50W-606M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-GLARE-50W-610M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-GLARE-50W-603M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-GLARE-50W-604M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-GLARE-50W-605M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-GLARE-50W-606M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-GLARE-50W-610M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>50 W</MOC>
+    <FLUX>7 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-GLARE-100W-603M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-GLARE-100W-604M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-GLARE-100W-605M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-GLARE-100W-606M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-GLARE-100W-610M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-GLARE-100W-603M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-GLARE-100W-604M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-GLARE-100W-605M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-GLARE-100W-606M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-GLARE-100W-610M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-GLARE-100W-603M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-GLARE-100W-604M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-GLARE-100W-605M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-GLARE-100W-606M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-GLARE-100W-610M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-GLARE-100W-603M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-GLARE-100W-604M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-GLARE-100W-605M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-GLARE-100W-606M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-GLARE-100W-610M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-GLARE-100W-603M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-GLARE-100W-604M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-GLARE-100W-605M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-GLARE-100W-606M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-GLARE-100W-610M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-GLARE-100W-603M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-GLARE-100W-604M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-GLARE-100W-605M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-GLARE-100W-606M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-GLARE-100W-610M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>100 W</MOC>
+    <FLUX>14 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-GLARE-150W-603M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-GLARE-150W-604M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-GLARE-150W-605M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-GLARE-150W-606M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-GLARE-150W-610M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-GLARE-150W-603M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-GLARE-150W-604M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-GLARE-150W-605M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-GLARE-150W-606M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-GLARE-150W-610M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-GLARE-150W-603M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-GLARE-150W-604M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="73">
+    <KOD>GL-GLARE-150W-605M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="74">
+    <KOD>GL-GLARE-150W-606M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="75">
+    <KOD>GL-GLARE-150W-610M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="76">
+    <KOD>GL-GLARE-150W-603M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="77">
+    <KOD>GL-GLARE-150W-604M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="78">
+    <KOD>GL-GLARE-150W-605M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="79">
+    <KOD>GL-GLARE-150W-606M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="80">
+    <KOD>GL-GLARE-150W-610M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="81">
+    <KOD>GL-GLARE-150W-603M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="82">
+    <KOD>GL-GLARE-150W-604M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="83">
+    <KOD>GL-GLARE-150W-605M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="84">
+    <KOD>GL-GLARE-150W-606M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="85">
+    <KOD>GL-GLARE-150W-610M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="86">
+    <KOD>GL-GLARE-150W-603M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="87">
+    <KOD>GL-GLARE-150W-604M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="88">
+    <KOD>GL-GLARE-150W-605M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="89">
+    <KOD>GL-GLARE-150W-606M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="90">
+    <KOD>GL-GLARE-150W-610M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>150 W</MOC>
+    <FLUX>21 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="91">
+    <KOD>GL-GLARE-200W-603M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="92">
+    <KOD>GL-GLARE-200W-604M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="93">
+    <KOD>GL-GLARE-200W-605M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="94">
+    <KOD>GL-GLARE-200W-606M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="95">
+    <KOD>GL-GLARE-200W-610M-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="96">
+    <KOD>GL-GLARE-200W-603M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="97">
+    <KOD>GL-GLARE-200W-604M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="98">
+    <KOD>GL-GLARE-200W-605M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="99">
+    <KOD>GL-GLARE-200W-606M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="100">
+    <KOD>GL-GLARE-200W-610M-840-A</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="101">
+    <KOD>GL-GLARE-200W-603M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="102">
+    <KOD>GL-GLARE-200W-604M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="103">
+    <KOD>GL-GLARE-200W-605M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="104">
+    <KOD>GL-GLARE-200W-606M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="105">
+    <KOD>GL-GLARE-200W-610M-840-D</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="106">
+    <KOD>GL-GLARE-200W-603M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="107">
+    <KOD>GL-GLARE-200W-604M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="108">
+    <KOD>GL-GLARE-200W-605M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="109">
+    <KOD>GL-GLARE-200W-606M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="110">
+    <KOD>GL-GLARE-200W-610M-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="111">
+    <KOD>GL-GLARE-200W-603M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="112">
+    <KOD>GL-GLARE-200W-604M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="113">
+    <KOD>GL-GLARE-200W-605M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="114">
+    <KOD>GL-GLARE-200W-606M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="115">
+    <KOD>GL-GLARE-200W-610M-850-A</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+  <MODEL id="116">
+    <KOD>GL-GLARE-200W-603M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="117">
+    <KOD>GL-GLARE-200W-604M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="118">
+    <KOD>GL-GLARE-200W-605M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="119">
+    <KOD>GL-GLARE-200W-606M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>90°</ROZ>
+  </MODEL>
+  <MODEL id="120">
+    <KOD>GL-GLARE-200W-610M-850-D</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>200 W</MOC>
+    <FLUX>28 000 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny </ROZ>
+  </MODEL>
+</GLARE>

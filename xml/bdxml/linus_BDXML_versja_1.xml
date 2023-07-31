@@ -1,0 +1,2586 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LINUS>
+  <MODEL id="1">
+    <KOD>GL-LINUS-T040P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-LINUS-T060J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-LINUS-T060P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-LINUS-T080J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-LINUS-T080P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-LINUS-T040J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-LINUS-T040P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-LINUS-T060J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-LINUS-T060P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-LINUS-T080J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-LINUS-T080P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-LINUS-T040J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-LINUS-T040P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-LINUS-T060J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-LINUS-T060P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-LINUS-T080J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-LINUS-T080P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-LINUS-T040J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-LINUS-T040P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-LINUS-T060J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-LINUS-T060P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-LINUS-T080J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-LINUS-T080P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-LINUS-T040J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-LINUS-T040P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-LINUS-T060J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-LINUS-T060P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-LINUS-T080J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-LINUS-T080P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-LINUS-T040J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-LINUS-T040P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-LINUS-T060J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-LINUS-T060P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-LINUS-T080J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-LINUS-T080P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-LINUS-T040J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-LINUS-T040P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-LINUS-T060J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-LINUS-T060P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-LINUS-T080J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-LINUS-T080P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-LINUS-T040J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-LINUS-T040P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-LINUS-T060J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-LINUS-T060P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-LINUS-T080J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-LINUS-T080P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>brak</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-LINUS-A040J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-LINUS-A040P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-LINUS-A060J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-LINUS-A060P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-LINUS-A080J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-LINUS-A080P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-LINUS-A040J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-LINUS-A040P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-LINUS-A060J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-LINUS-A060P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-LINUS-A080J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-LINUS-A080P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-LINUS-A040J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-LINUS-A040P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-LINUS-A060J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-LINUS-A060P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-LINUS-A080J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-LINUS-A080P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-LINUS-A040J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-LINUS-A040P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-LINUS-A060J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-LINUS-A060P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-LINUS-A080J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-LINUS-A080P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-LINUS-A040J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="73">
+    <KOD>GL-LINUS-A040P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="74">
+    <KOD>GL-LINUS-A060J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="75">
+    <KOD>GL-LINUS-A060P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="76">
+    <KOD>GL-LINUS-A080J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="77">
+    <KOD>GL-LINUS-A080P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="78">
+    <KOD>GL-LINUS-A040J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="79">
+    <KOD>GL-LINUS-A040P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="80">
+    <KOD>GL-LINUS-A060J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="81">
+    <KOD>GL-LINUS-A060P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="82">
+    <KOD>GL-LINUS-A080J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="83">
+    <KOD>GL-LINUS-A080P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="84">
+    <KOD>GL-LINUS-A040J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="85">
+    <KOD>GL-LINUS-A040P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="86">
+    <KOD>GL-LINUS-A060J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="87">
+    <KOD>GL-LINUS-A060P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="88">
+    <KOD>GL-LINUS-A080J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="89">
+    <KOD>GL-LINUS-A080P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="90">
+    <KOD>GL-LINUS-A040J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="91">
+    <KOD>GL-LINUS-A040P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="92">
+    <KOD>GL-LINUS-A060J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="93">
+    <KOD>GL-LINUS-A060P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="94">
+    <KOD>GL-LINUS-A080J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="95">
+    <KOD>GL-LINUS-A080P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>1-10V</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="96">
+    <KOD>GL-LINUS-D040J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="97">
+    <KOD>GL-LINUS-D040P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="98">
+    <KOD>GL-LINUS-D060J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="99">
+    <KOD>GL-LINUS-D060P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="100">
+    <KOD>GL-LINUS-D080J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="101">
+    <KOD>GL-LINUS-D080P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="102">
+    <KOD>GL-LINUS-D040J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="103">
+    <KOD>GL-LINUS-D040P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="104">
+    <KOD>GL-LINUS-D060J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="105">
+    <KOD>GL-LINUS-D060P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="106">
+    <KOD>GL-LINUS-D080J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="107">
+    <KOD>GL-LINUS-D080P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="108">
+    <KOD>GL-LINUS-D040J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="109">
+    <KOD>GL-LINUS-D040P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="110">
+    <KOD>GL-LINUS-D060J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="111">
+    <KOD>GL-LINUS-D060P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="112">
+    <KOD>GL-LINUS-D080J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="113">
+    <KOD>GL-LINUS-D080P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="114">
+    <KOD>GL-LINUS-D040J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="115">
+    <KOD>GL-LINUS-D040P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="116">
+    <KOD>GL-LINUS-D060J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="117">
+    <KOD>GL-LINUS-D060P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="118">
+    <KOD>GL-LINUS-D080J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="119">
+    <KOD>GL-LINUS-D080P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="120">
+    <KOD>GL-LINUS-D040J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="121">
+    <KOD>GL-LINUS-D040P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="122">
+    <KOD>GL-LINUS-D060J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="123">
+    <KOD>GL-LINUS-D060P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="124">
+    <KOD>GL-LINUS-D080J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="125">
+    <KOD>GL-LINUS-D080P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="126">
+    <KOD>GL-LINUS-D040J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="127">
+    <KOD>GL-LINUS-D040P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="128">
+    <KOD>GL-LINUS-D060J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="129">
+    <KOD>GL-LINUS-D060P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="130">
+    <KOD>GL-LINUS-D080J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="131">
+    <KOD>GL-LINUS-D080P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="132">
+    <KOD>GL-LINUS-D040J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="133">
+    <KOD>GL-LINUS-D040P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="134">
+    <KOD>GL-LINUS-D060J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="135">
+    <KOD>GL-LINUS-D060P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="136">
+    <KOD>GL-LINUS-D080J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="137">
+    <KOD>GL-LINUS-D080P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="138">
+    <KOD>GL-LINUS-D040J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="139">
+    <KOD>GL-LINUS-D040P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="140">
+    <KOD>GL-LINUS-D060J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="141">
+    <KOD>GL-LINUS-D060P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="142">
+    <KOD>GL-LINUS-D080J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="143">
+    <KOD>GL-LINUS-D080P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>DALI</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="144">
+    <KOD>GL-LINUS-Z040J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="145">
+    <KOD>GL-LINUS-Z040P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="146">
+    <KOD>GL-LINUS-Z060J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="147">
+    <KOD>GL-LINUS-Z060P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="148">
+    <KOD>GL-LINUS-Z080J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="149">
+    <KOD>GL-LINUS-Z080P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="150">
+    <KOD>GL-LINUS-Z040J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="151">
+    <KOD>GL-LINUS-Z040P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="152">
+    <KOD>GL-LINUS-Z060J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="153">
+    <KOD>GL-LINUS-Z060P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="154">
+    <KOD>GL-LINUS-Z080J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="155">
+    <KOD>GL-LINUS-Z080P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="156">
+    <KOD>GL-LINUS-Z040J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="157">
+    <KOD>GL-LINUS-Z040P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="158">
+    <KOD>GL-LINUS-Z060J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="159">
+    <KOD>GL-LINUS-Z060P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="160">
+    <KOD>GL-LINUS-Z080J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="161">
+    <KOD>GL-LINUS-Z080P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="162">
+    <KOD>GL-LINUS-Z040J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="163">
+    <KOD>GL-LINUS-Z040P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="164">
+    <KOD>GL-LINUS-Z060J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="165">
+    <KOD>GL-LINUS-Z060P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="166">
+    <KOD>GL-LINUS-Z080J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="167">
+    <KOD>GL-LINUS-Z080P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="168">
+    <KOD>GL-LINUS-Z040J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="169">
+    <KOD>GL-LINUS-Z040P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="170">
+    <KOD>GL-LINUS-Z060J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="171">
+    <KOD>GL-LINUS-Z060P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="172">
+    <KOD>GL-LINUS-Z080J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="173">
+    <KOD>GL-LINUS-Z080P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="174">
+    <KOD>GL-LINUS-Z040J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="175">
+    <KOD>GL-LINUS-Z040P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="176">
+    <KOD>GL-LINUS-Z060J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="177">
+    <KOD>GL-LINUS-Z060P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="178">
+    <KOD>GL-LINUS-Z080J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="179">
+    <KOD>GL-LINUS-Z080P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="180">
+    <KOD>GL-LINUS-Z040J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="181">
+    <KOD>GL-LINUS-Z040P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="182">
+    <KOD>GL-LINUS-Z060J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="183">
+    <KOD>GL-LINUS-Z060P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="184">
+    <KOD>GL-LINUS-Z080J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="185">
+    <KOD>GL-LINUS-Z080P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="186">
+    <KOD>GL-LINUS-Z040J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="187">
+    <KOD>GL-LINUS-Z040P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="188">
+    <KOD>GL-LINUS-Z060J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="189">
+    <KOD>GL-LINUS-Z060P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="190">
+    <KOD>GL-LINUS-Z080J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="191">
+    <KOD>GL-LINUS-Z080P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>Zigbee</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="192">
+    <KOD>GL-LINUS-C040J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="193">
+    <KOD>GL-LINUS-C040P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="194">
+    <KOD>GL-LINUS-C060J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="195">
+    <KOD>GL-LINUS-C060P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="196">
+    <KOD>GL-LINUS-C080J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="197">
+    <KOD>GL-LINUS-C080P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="198">
+    <KOD>GL-LINUS-C040J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="199">
+    <KOD>GL-LINUS-C040P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="200">
+    <KOD>GL-LINUS-C060J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="201">
+    <KOD>GL-LINUS-C060P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="202">
+    <KOD>GL-LINUS-C080J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="203">
+    <KOD>GL-LINUS-C080P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="204">
+    <KOD>GL-LINUS-C040J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="205">
+    <KOD>GL-LINUS-C040P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="206">
+    <KOD>GL-LINUS-C060J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="207">
+    <KOD>GL-LINUS-C060P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="208">
+    <KOD>GL-LINUS-C080J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="209">
+    <KOD>GL-LINUS-C080P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="210">
+    <KOD>GL-LINUS-C040J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="211">
+    <KOD>GL-LINUS-C040P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="212">
+    <KOD>GL-LINUS-C060J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="213">
+    <KOD>GL-LINUS-C060P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="214">
+    <KOD>GL-LINUS-C080J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="215">
+    <KOD>GL-LINUS-C080P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="216">
+    <KOD>GL-LINUS-C040J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="217">
+    <KOD>GL-LINUS-C040P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="218">
+    <KOD>GL-LINUS-C060J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="219">
+    <KOD>GL-LINUS-C060P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="220">
+    <KOD>GL-LINUS-C080J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="221">
+    <KOD>GL-LINUS-C080P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="222">
+    <KOD>GL-LINUS-C040J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="223">
+    <KOD>GL-LINUS-C040P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="224">
+    <KOD>GL-LINUS-C060J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="225">
+    <KOD>GL-LINUS-C060P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="226">
+    <KOD>GL-LINUS-C080J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="227">
+    <KOD>GL-LINUS-C080P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="228">
+    <KOD>GL-LINUS-C040J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="229">
+    <KOD>GL-LINUS-C040P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="230">
+    <KOD>GL-LINUS-C060J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="231">
+    <KOD>GL-LINUS-C060P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="232">
+    <KOD>GL-LINUS-C080J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="233">
+    <KOD>GL-LINUS-C080P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="234">
+    <KOD>GL-LINUS-C040J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="235">
+    <KOD>GL-LINUS-C040P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="236">
+    <KOD>GL-LINUS-C060J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="237">
+    <KOD>GL-LINUS-C060P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="238">
+    <KOD>GL-LINUS-C080J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="239">
+    <KOD>GL-LINUS-C080P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>CNO</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="240">
+    <KOD>GL-LINUS-CR40J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="241">
+    <KOD>GL-LINUS-CR40P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="242">
+    <KOD>GL-LINUS-CR60J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="243">
+    <KOD>GL-LINUS-CR60P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="244">
+    <KOD>GL-LINUS-CR80J-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="245">
+    <KOD>GL-LINUS-CR80P-730</KOD>
+    <RACCT>Ra70 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="246">
+    <KOD>GL-LINUS-CR40J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="247">
+    <KOD>GL-LINUS-CR40P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="248">
+    <KOD>GL-LINUS-CR60J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="249">
+    <KOD>GL-LINUS-CR60P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="250">
+    <KOD>GL-LINUS-CR80J-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="251">
+    <KOD>GL-LINUS-CR80P-740</KOD>
+    <RACCT>Ra70 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="252">
+    <KOD>GL-LINUS-CR40J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="253">
+    <KOD>GL-LINUS-CR40P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="254">
+    <KOD>GL-LINUS-CR60J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="255">
+    <KOD>GL-LINUS-CR60P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="256">
+    <KOD>GL-LINUS-CR80J-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="257">
+    <KOD>GL-LINUS-CR80P-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="258">
+    <KOD>GL-LINUS-CR40J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="259">
+    <KOD>GL-LINUS-CR40P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="260">
+    <KOD>GL-LINUS-CR60J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="261">
+    <KOD>GL-LINUS-CR60P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="262">
+    <KOD>GL-LINUS-CR80J-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="263">
+    <KOD>GL-LINUS-CR80P-765</KOD>
+    <RACCT>765</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="264">
+    <KOD>GL-LINUS-CR40J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="265">
+    <KOD>GL-LINUS-CR40P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="266">
+    <KOD>GL-LINUS-CR60J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="267">
+    <KOD>GL-LINUS-CR60P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="268">
+    <KOD>GL-LINUS-CR80J-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="269">
+    <KOD>GL-LINUS-CR80P-830</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="270">
+    <KOD>GL-LINUS-CR40J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="271">
+    <KOD>GL-LINUS-CR40P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="272">
+    <KOD>GL-LINUS-CR60J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="273">
+    <KOD>GL-LINUS-CR60P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="274">
+    <KOD>GL-LINUS-CR80J-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="275">
+    <KOD>GL-LINUS-CR80P-840</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="276">
+    <KOD>GL-LINUS-CR40J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="277">
+    <KOD>GL-LINUS-CR40P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="278">
+    <KOD>GL-LINUS-CR60J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="279">
+    <KOD>GL-LINUS-CR60P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="280">
+    <KOD>GL-LINUS-CR80J-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="281">
+    <KOD>GL-LINUS-CR80P-850</KOD>
+    <RACCT>Ra80 &amp; 5000K</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="282">
+    <KOD>GL-LINUS-CR40J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="283">
+    <KOD>GL-LINUS-CR40P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>40 W</MOC>
+    <FLUX>5685 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="284">
+    <KOD>GL-LINUS-CR60J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="285">
+    <KOD>GL-LINUS-CR60P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>60 W</MOC>
+    <FLUX>9275 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="286">
+    <KOD>GL-LINUS-CR80J-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="287">
+    <KOD>GL-LINUS-CR80P-865</KOD>
+    <RACCT>865</RACCT>
+    <MOC>80 W</MOC>
+    <FLUX>12332 lm</FLUX>
+    <elem_sterowanie>czujnik ruchu</elem_sterowanie>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</LINUS>

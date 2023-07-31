@@ -39,46 +39,66 @@ xhttp.send();
 
 
 function loadTabele(params) {
-  let nazwa_a=params.split("_")
-  let nazwa_b=nazwa_a[0]
+  let nazwa_a = params.split("_")
+  let nazwa_b = nazwa_a[0]
   try {
-  const xhttp = new XMLHttpRequest();
-  xhttp.onload = function() {
-    zaladowacTabele(this,nazwa_b);
+    const xhttp = new XMLHttpRequest();
+    xhttp.onload = function() {
+      zaladowacTabele(this, nazwa_b);
+    }
+    let adres = "xml/bdxml/" + params
+    xhttp.open("GET", adres);
+    xhttp.send();
   }
-    let adres="xml/bdxml/"+params
-  xhttp.open("GET", adres);
-  xhttp.send();
+  catch (err) {
+    document.getElementById("table_led").innerHTML = err.message;
+  }
 }
-catch(err) {
-  document.getElementById("table_led").innerHTML = err.message;
+
+let oko_icon='<i class="fa-regular fa-eye"></i>'
+function downLoad_icon(strona,plik,kod) {
+  let str_plik=""
+  str_plik += "'"+plik+"'"
+  let _kod ="'"+kod+"'"
+  let alfa_downLoad_icon=`<button onclick="copyPages(${strona},${str_plik},${_kod})"><i class="fa-solid fa-download"></i></button>`
+  return alfa_downLoad_icon
 }
-}
-function zaladowacTabele(xml,plik_nazwa) {
-  let nazwa=plik_nazwa+"_1"
+
+function zaladowacTabele(xml, plik_nazwa) {
+  let nazwa = plik_nazwa + "_1"
   const xmlDoc = xml.responseXML;
   const x = xmlDoc.getElementsByTagName("MODEL");
-  let table="<table><tr><th>Model</th><th>Ra & CCT [K]</th><th>Power [W]</th><th>Flux [lm]</th><th>Control</th><th>IP & IK</th><th>Photometry</th></tr>";
-  for (let i = 0; i <x.length; i++) { 
+  let table = "<table><tr><th>Model</th><th>Ra & CCT [K]</th><th>Power [W]</th><th>Flux [lm]</th><th>Control</th><th>IP & IK</th><th>Photometry</th><th>Download</th></tr>";
+  //console.log("ilość modeli",x.length)
+  let strona=3
+  for (let i = 0; i < x.length; i++) {
+    
     let a = x[i].getElementsByTagName("KOD")[0].childNodes[0].nodeValue
-    let b = adresatorTabel(a,nazwa)
-    table += "<tr><td>" +b + "</td><td>" +
-    x[i].getElementsByTagName("RACCT")[0].childNodes[0].nodeValue +
-    "</td><td>" +
-    x[i].getElementsByTagName("MOC")[0].childNodes[0].nodeValue +
-    "</td><td>" +
-    x[i].getElementsByTagName("FLUX")[0].childNodes[0].nodeValue +
-    "</td><td>" +
-    x[i].getElementsByTagName("elem_sterowanie")[0].childNodes[0].nodeValue +
-    "</td><td>" +
-    x[i].getElementsByTagName("IP")[0].childNodes[0].nodeValue +
-    " & " +
-    x[i].getElementsByTagName("IK")[0].childNodes[0].nodeValue +
-    "</td><td>"+
-    x[i].getElementsByTagName("ROZ")[0].childNodes[0].nodeValue +
-    "</td></tr>";
+    
+    let b = adresatorTabel(a, nazwa)
+
+    let res_ip = (x[i].getElementsByTagName("IP").length > 0 ) ? x[i].getElementsByTagName("IP")[0].childNodes[0].nodeValue :"&nbsp"
+    
+    let res_ik = (x[i].getElementsByTagName("IK").length > 0 ) ? x[i].getElementsByTagName("IK")[0].childNodes[0].nodeValue :"&nbsp"
+    //"<elem_IK>"
+    let res_ik_ver2 = (x[i].getElementsByTagName("elem_IK").length > 0 ) ? x[i].getElementsByTagName("IK")[0].childNodes[0].nodeValue :""
+    
+    table += "<tr><td>"+oko_icon+"&nbsp"+ b + "</td><td>" +
+      x[i].getElementsByTagName("RACCT")[0].childNodes[0].nodeValue +
+      "</td><td>" +
+      x[i].getElementsByTagName("MOC")[0].childNodes[0].nodeValue +
+      "</td><td>" +
+      x[i].getElementsByTagName("FLUX")[0].childNodes[0].nodeValue +
+      "</td><td>" +
+      x[i].getElementsByTagName("elem_sterowanie")[0].childNodes[0].nodeValue +
+      "</td><td>" +
+       res_ip +"&nbsp &nbsp" + res_ik  + res_ik_ver2+
+      "</td><td>" +
+      x[i].getElementsByTagName("ROZ")[0].childNodes[0].nodeValue + 
+      "</td><td>" +downLoad_icon(strona,nazwa,a) +"</td></tr>"
+    strona+=2
   }
-  table+="</table>"
+  table += "</table>"
   document.getElementById("table_led").innerHTML = table;
 }
 
@@ -103,7 +123,7 @@ function funcNastepny() {
 }
 
 function Odczyt(xml) {
-  console.log("func Odczyt id_pr :" , id_pr);
+  //console.log("func Odczyt id_pr :", id_pr);
   var xmlDoc = xml.responseXML;
   var x = xmlDoc.getElementsByTagName("RODZINA");
   var y = xmlDoc.getElementsByTagName("H3_OPISU");
@@ -111,30 +131,35 @@ function Odczyt(xml) {
   var q = xmlDoc.getElementsByTagName("ICONY_RODZINY");
   var f = xmlDoc.getElementsByTagName("FOTO");
   var g = xmlDoc.getElementsByTagName("PFOTOMETRIA");
-  var tabela=xmlDoc.getElementsByTagName("PLIK_TABELI");
+  var tabela = xmlDoc.getElementsByTagName("PLIK_TABELI");
   tytul_produktu.innerHTML = x[id_pr].childNodes[0].nodeValue;
   tytul_opisu.innerHTML = y[id_pr].childNodes[0].nodeValue;
   opis_produktu.innerHTML = z[id_pr].childNodes[0].nodeValue;
-  ickonografia_produktu.innerHTML = ("<!--"+x[id_pr].childNodes[0].nodeValue+"-->"+q[id_pr].childNodes[0].nodeValue);
+  ickonografia_produktu.innerHTML = ("<!--" + x[id_pr].childNodes[0].nodeValue + "-->" + q[id_pr].childNodes[0].nodeValue);
   let set = f[id_pr].childNodes[0].nodeValue;
   foto_produktu.setAttribute("src", set);
-  let dataPfotometria = g[id_pr].childNodes[0].nodeValue;
+  let dataPfotometria=""
+  if (g[id_pr].childNodes[0].nodeValue) {
+    dataPfotometria = g[id_pr].childNodes[0].nodeValue;
+  }
   przydzielPfotometria(dataPfotometria);
-  var tabela_sc=tabela[id_pr].childNodes[0].nodeValue;
-  var tabela_hed_a=tabela_sc.split("_")
-  var tabela_hed_b=tabela_hed_a[0]
+  var tabela_sc = tabela[id_pr].childNodes[0].nodeValue;
   loadTabele(tabela_sc)
-  
 
 }
 
 function przydzielPfotometria(element) {
-  let ell = element.split(" , ")
-  let res = ""
-  for (let x in ell) {
-    res += "<img src='" + ell[x] + "'>"
+  if (element) {
+     let ell = element.split(" , ")
+      let res = ""
+      for (let x in ell) {
+        res += "<img src='" + ell[x] + "'>"
+          }
+      rozsyl_produktu.innerHTML = res
+  } else {
+    console.log("Brak fotometri")
   }
-  rozsyl_produktu.innerHTML = res
+
 }
 
 function myFunctionSize() {
@@ -159,82 +184,106 @@ function hidenIkons() {
 let btn_pl = document.getElementById("btnLangeShowPl");
 let btn_fr = document.getElementById("btnLangeShowFR");
 let btn_ang = document.getElementById("btnLangeShowANG");
-var list_btn=[btn_pl,btn_fr,btn_ang]
-var flaga_lange_show=false;
+var list_btn = [btn_pl, btn_fr, btn_ang]
+var flaga_lange_show = false;
 
 function langeShow() {
   let x = 40
   if (flaga_lange_show) {
     for (let btn of list_btn) {
-      btn.style.opacity="1"
-      btn.style.transition=" all 1s ease-out"
-      btn.style.top=x+8+"%"
-      x+=8
+      btn.style.opacity = "1"
+      btn.style.transition = " all 1s ease-out"
+      btn.style.top = x + 8 + "%"
+      x += 8
     }
   } else {
     for (let btn of list_btn) {
-      btn.style.opacity="0"
-      btn.style.transition=" all 1s ease-out"
-      btn.style.top="40%"
-      x-=8
+      btn.style.opacity = "0"
+      btn.style.transition = " all 1s ease-out"
+      btn.style.top = "40%"
+      x -= 8
     }
   }
-
-  flaga_lange_show=!flaga_lange_show
+  flaga_lange_show = !flaga_lange_show
 }
 langeShow()
 
-function langeSet(nr,id) {
+function langeSet(nr, id) {
   flaga_języka = jezyk_opisu[nr];
   Odczyt(xhttp)
   for (let btn of list_btn) {
-    let el=document.getElementById(id)
-    btn.firstChild.classList.remove("fa-xmark","fa-check");
+    let el = document.getElementById(id)
+    btn.firstChild.classList.remove("fa-xmark", "fa-check");
     btn.firstChild.classList.add("fa-xmark")
-    if (el==btn) {
+    if (el == btn) {
       el.firstChild.classList.remove("fa-xmark");
       el.firstChild.classList.add("fa-check")
     }
   }
 
-  let span_product_description=document.getElementById("product_description_span");
-  let span_photometry=document.getElementById("photometry_span");
-  let span_info=document.getElementById("info_span");
-  let span_configurations=document.getElementById("configurations_span");
-  switch(nr) {
-  case 0:
-      span_product_description.innerHTML= "Product description :";
-      span_photometry.innerHTML= "Photometry";
-      span_info.innerHTML= "Info";
-      span_configurations.innerHTML= "Configurations available :";
-    break;
-  case 1:
-    span_product_description.innerHTML= "Description du produit :";
-      span_photometry.innerHTML= "Photométrie";
-      span_info.innerHTML= "Info";
-      span_configurations.innerHTML= "Paramétrages disponibles :";
-    break;
-  case 2:
-      span_product_description.innerHTML= "Opis produktu :";
-      span_photometry.innerHTML= "Fotometria";
-      span_info.innerHTML= "Informacje";
-      span_configurations.innerHTML= "Dostępne konfiguracje:";
-    break;
-  default:
-      span_product_description.innerHTML= "Product description :";
-      span_photometry.innerHTML= "Photometry";
-      span_info.innerHTML= "Info";
-      span_configurations.innerHTML= "Configurations available :";
+  let span_product_description = document.getElementById("product_description_span");
+  let span_photometry = document.getElementById("photometry_span");
+  let span_info = document.getElementById("info_span");
+  let span_configurations = document.getElementById("configurations_span");
+  switch (nr) {
+    case 0:
+      span_product_description.innerHTML = "Product description :";
+      span_photometry.innerHTML = "Photometry";
+      span_info.innerHTML = "Info";
+      span_configurations.innerHTML = "Configurations available :";
+      break;
+    case 1:
+      span_product_description.innerHTML = "Description du produit :";
+      span_photometry.innerHTML = "Photométrie";
+      span_info.innerHTML = "Info";
+      span_configurations.innerHTML = "Paramétrages disponibles :";
+      break;
+    case 2:
+      span_product_description.innerHTML = "Opis produktu :";
+      span_photometry.innerHTML = "Fotometria";
+      span_info.innerHTML = "Informacje";
+      span_configurations.innerHTML = "Dostępne konfiguracje:";
+      break;
+    default:
+      span_product_description.innerHTML = "Product description :";
+      span_photometry.innerHTML = "Photometry";
+      span_info.innerHTML = "Info";
+      span_configurations.innerHTML = "Configurations available :";
       console.log("langeSet switch default")
-}
+  }
 }
 //do opracowania 
-function adresatorTabel(zakladka,plik_danych) {
+function adresatorTabel(zakladka, plik_danych) {
   let lang_alfa = flaga_języka.split('_')
-  let alfa=""
-  let lan= lang_alfa[2].toLowerCase()
-  alfa += '<a href="pdf_zbior/'+lan+'/'+plik_danych+'.pdf#'+zakladka+'"'+'target="_blanc" rel="noopener" rel="noreferrer" >'+zakladka+'</a>'
-
+  let alfa = ""
+  let lan = lang_alfa[2].toLowerCase()
+  alfa += '<a href="pdf_zbior/' + lan + '/' + plik_danych + '.pdf#' + zakladka + '"' + 'target="_blanc" rel="noopener" rel="noreferrer" >' + zakladka + '</a>'
   return alfa
 }
-console.log(adresatorTabel("GL-TUBUS-A4012061-840","tubus_1"))
+//console.log(adresatorTabel("GL-TUBUS-A4012061-840", "tubus_1"))
+
+async function copyPages(strona,plik,kod) {
+  let lang_alfa = flaga_języka.split('_')
+  let lan = lang_alfa[2].toLowerCase()
+  let plik_alfa =""
+  let strona_alfa=strona
+  plik_alfa =plik
+  plik_alfa+=".pdf#"
+  let beta =`pdf_zbior/${lan}/${plik_alfa}page=${strona_alfa}"`
+  //window.open(beta)
+  let gamma =plik+".pdf"
+  const { PDFDocument } = PDFLib
+  const url1 =`pdf_zbior/${lan}/${gamma}`
+  //console.log(url1)
+  strona_alfa-=1
+  const firstDonorPdfBytes = await fetch(url1).then(res => res.arrayBuffer())
+  const firstDonorPdfDoc = await PDFDocument.load(firstDonorPdfBytes)
+  const pdfDoc = await PDFDocument.create();
+  const [firstDonorPage] = await pdfDoc.copyPages(firstDonorPdfDoc, [strona_alfa])
+  const [secondDonorPage] = await pdfDoc.copyPages(firstDonorPdfDoc, [strona_alfa+1])
+   pdfDoc.addPage(firstDonorPage)
+   pdfDoc.addPage(secondDonorPage)
+  const pdfBytes = await pdfDoc.save()
+  download(pdfBytes, kod+".pdf", "application/pdf");
+    
+}

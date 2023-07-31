@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NIMBO_MARINA>
+  <MODEL id="1">
+    <KOD>GL-NIMBO-MARINA-50W-6401-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 1</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-NIMBO-MARINA-50W-6402-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-NIMBO-MARINA-50W-6403-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 2</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-NIMBO-MARINA-50W-6404-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-NIMBO-MARINA-50W-0A23-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>50W</MOC>
+    <FLUX>7000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-NIMBO-MARINA-100W-2801-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 1</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-NIMBO-MARINA-100W-2802-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-NIMBO-MARINA-100W-2803-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 2</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-NIMBO-MARINA-100W-2804-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-NIMBO-MARINA-100W-0A23-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>100W</MOC>
+    <FLUX>14000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-NIMBO-MARINA-150W-9201-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 1</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-NIMBO-MARINA-150W-9202-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-NIMBO-MARINA-150W-9203-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 2</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-NIMBO-MARINA-150W-9204-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-NIMBO-MARINA-150W-0A23-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>150W</MOC>
+    <FLUX>21000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-NIMBO-MARINA-200W-2401-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>28000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 1</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-NIMBO-MARINA-200W-2402-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>28000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-NIMBO-MARINA-200W-2403-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>28000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 2</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-NIMBO-MARINA-200W-2404-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>28000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-NIMBO-MARINA-200W-0A23-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>200W</MOC>
+    <FLUX>28000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-NIMBO-MARINA-300W-8401-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>42000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 1</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-NIMBO-MARINA-300W-8402-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>42000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-NIMBO-MARINA-300W-8403-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>42000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>Asymetryczny 2</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-NIMBO-MARINA-300W-8404-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>42000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-NIMBO-MARINA-300W-0A23-750</KOD>
+    <RACCT>Ra70 &amp; 5000K</RACCT>
+    <MOC>300W</MOC>
+    <FLUX>42000lm</FLUX>
+    <elem_sterowanie>Brak/opcja 1-10V</elem_sterowanie>
+    <IP>IP66</IP>
+    <IK>IK08</IK>
+    <ROZ>120°</ROZ>
+  </MODEL>
+</NIMBO_MARINA>

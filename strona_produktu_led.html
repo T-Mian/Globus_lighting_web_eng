@@ -16,10 +16,13 @@
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.js" integrity="sha512-qaBWRiAKQzF5H0yRU9yyAxfK2w70XUOgB4i0YL6Xg86jWbpnUHbAWfx4x08SqoqnmXmF/NjmqtErDHIwYXeulQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://unpkg.com/downloadjs@1.4.7"></script>
   <meta http-equiv="last-modified" content="Thu Jul 20 2023 13:18:40 GMT+0200">
   <style>
 table{
   margin-top:2%;
+  margin-bottom:2%;
 }
 table,th,td {
   color:#e5e5e5;
@@ -33,6 +36,12 @@ th,td {
 }
 th{
   color: #fecb00;
+}
+table button i{
+  color: #fecb00;
+}
+table button{
+  background-color: transparent;
 }
 </style>
 </head>
@@ -312,9 +321,7 @@ They are available in the Polish version at <a href="https://www.globuslighting.
       </span>
     </h3>
     <div class="tabela_led" id="table_led" style="display: flex;flex-wrap: wrap;justify-content: center;">
-      <a href="pdf_zbior/pl/tubus_2023.pdf#page=3" target="_blanc" rel="noreferrer" rel="noopener">test page=3</a><br>
-      <a href="pdf_zbior/pl/tubus_2023.pdf#page=5" target="_blanc" rel="noreferrer" rel="noopener">page=5</a><br>
-      <a href="pdf_zbior/pl/tubus_2023.pdf#page=7" target="_blanc" rel="noreferrer" rel="noopener">page=7</a>
+      <i class="fa-solid fa-screwdriver-wrench fa-2xl" style="color: #fecb00;"></i>
     </div>
     <!-- dodatek identyfikacyjny SWI plus footer -->
   </section>
