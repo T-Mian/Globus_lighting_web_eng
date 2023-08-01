@@ -17,6 +17,7 @@
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.0.8/lozad.min.js" integrity="sha512-Nt+V5JYamXCSvlHzNVleriGhTrolnfxckJ8sEXxv/BJ0tKV1HyPDXH+bIFNcUJ5hcthQ95uAeU2JClPT16mFyg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 	<!-- meta Ostatnia modyfikacja -->
 	<meta http-equiv="last-modified" content="Fri Jul 21 2023 15:17:16 GMT+0200 ">
 	<meta http-equiv="refresh" content="900">
@@ -26,6 +27,10 @@
 <!-- sektor body -->
 
 <body>
+  <script>
+    const observer = lozad();
+    observer.observe();
+  </script>
   <!-- sektor z btn. na poczatek strony -->
   <section>
     <div>
@@ -496,7 +501,7 @@
 
         <a href="tel:+48537119116">
           <button class="glowing-btn">
-            <span class='glowing-txt'>
+            <span class="glowing-txt" style="margin-right: 0;">
               <h3>+48 537 119 116 </h3>
             </span>
           </button>
@@ -507,7 +512,7 @@
 
         <a href="tel:+48713073339">
           <button class="glowing-btn">
-            <span class='glowing-txt'>
+            <span class="glowing-txt" style="margin-right: 0;">
               <h3>+48 71 307 33 39 </h3>
             </span>
           </button>
@@ -551,7 +556,7 @@
     </section>
 
   </section>
-
+<div id="services" style="z-index:-10;margin-bottom: 1px;"></div>
   <!-- sektor dla progresBar-->
   <section style="z-index:2;">
     <div class="dupp">

@@ -1,5 +1,6 @@
 // Tomasz Mianecki 
-// versja 1.9
+//Skrypt do obsługi strony z produktem 
+// versja 2
 
 
 let tytul_produktu = document.getElementById("title_produkts")
@@ -60,7 +61,7 @@ function downLoad_icon(strona,plik,kod) {
   let str_plik=""
   str_plik += "'"+plik+"'"
   let _kod ="'"+kod+"'"
-  let alfa_downLoad_icon=`<button onclick="copyPages(${strona},${str_plik},${_kod})"><i class="fa-solid fa-download"></i></button>`
+  let alfa_downLoad_icon=`<button onclick="copyPages(${strona},${str_plik},${_kod})" type="button"><i class="fa-solid fa-download"></i></button>`
   return alfa_downLoad_icon
 }
 
@@ -81,7 +82,8 @@ function zaladowacTabele(xml, plik_nazwa) {
     
     let res_ik = (x[i].getElementsByTagName("IK").length > 0 ) ? x[i].getElementsByTagName("IK")[0].childNodes[0].nodeValue :"&nbsp"
     //"<elem_IK>"
-    let res_ik_ver2 = (x[i].getElementsByTagName("elem_IK").length > 0 ) ? x[i].getElementsByTagName("IK")[0].childNodes[0].nodeValue :""
+    let res_ik_ver2 = (x[i].getElementsByTagName("elem_IK").length > 0 ) ? x[i].getElementsByTagName("elem_IK")[0].childNodes[0].nodeValue :""
+    if (res_ik_ver2=="nullIK") {res_ik_ver2=""}
     
     table += "<tr><td>"+oko_icon+"&nbsp"+ b + "</td><td>" +
       x[i].getElementsByTagName("RACCT")[0].childNodes[0].nodeValue +
@@ -265,19 +267,28 @@ function adresatorTabel(zakladka, plik_danych) {
 async function copyPages(strona,plik,kod) {
   let lang_alfa = flaga_języka.split('_')
   let lan = lang_alfa[2].toLowerCase()
-  let plik_alfa =""
+  //let plik_alfa =""
   let strona_alfa=strona
   plik_alfa =plik
   plik_alfa+=".pdf#"
-  let beta =`pdf_zbior/${lan}/${plik_alfa}page=${strona_alfa}"`
+  //let beta =`pdf_zbior/${lan}/${plik_alfa}page=${strona_alfa}"`
   //window.open(beta)
   let gamma =plik+".pdf"
   const { PDFDocument } = PDFLib
   const url1 =`pdf_zbior/${lan}/${gamma}`
   //console.log(url1)
   strona_alfa-=1
-  const firstDonorPdfBytes = await fetch(url1).then(res => res.arrayBuffer())
-  const firstDonorPdfDoc = await PDFDocument.load(firstDonorPdfBytes)
+  let flaga = new Boolean(false);
+  const firstDonorPdfBytes = await fetch(url1).then((response) => {
+      if (!response.ok) {
+        flaga = false;
+        throw new Error(`HTTP error, status = ${response.status}`);
+      }
+      flaga = true;
+      return response.arrayBuffer();
+    })
+  if(flaga){
+      const firstDonorPdfDoc = await PDFDocument.load(firstDonorPdfBytes)
   const pdfDoc = await PDFDocument.create();
   const [firstDonorPage] = await pdfDoc.copyPages(firstDonorPdfDoc, [strona_alfa])
   const [secondDonorPage] = await pdfDoc.copyPages(firstDonorPdfDoc, [strona_alfa+1])
@@ -285,5 +296,8 @@ async function copyPages(strona,plik,kod) {
    pdfDoc.addPage(secondDonorPage)
   const pdfBytes = await pdfDoc.save()
   download(pdfBytes, kod+".pdf", "application/pdf");
+  }else{
+    console.log("Flaga false")
+  }
     
 }
