@@ -1,0 +1,803 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LGROUND>
+  <MODEL id="1">
+    <KOD>GL-LGROUND-24WDC10X-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="2">
+    <KOD>GL-LGROUND-24WDC15-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="3">
+    <KOD>GL-LGROUND-24WDC30-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="4">
+    <KOD>GL-LGROUND-24WDC45-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="5">
+    <KOD>GL-LGROUND-24WDC60-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="6">
+    <KOD>GL-LGROUND-24WDC10X-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="7">
+    <KOD>GL-LGROUND-24WDC15-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="8">
+    <KOD>GL-LGROUND-24WDC30-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="9">
+    <KOD>GL-LGROUND-24WDC45-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="10">
+    <KOD>GL-LGROUND-24WDC60-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="11">
+    <KOD>GL-LGROUND-24WDC10X-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="12">
+    <KOD>GL-LGROUND-24WDC15-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="13">
+    <KOD>GL-LGROUND-24WDC30-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="14">
+    <KOD>GL-LGROUND-24WDC45-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="15">
+    <KOD>GL-LGROUND-24WDC60-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="16">
+    <KOD>GL-LGROUND-24WDC10X-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="17">
+    <KOD>GL-LGROUND-24WDC15-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="18">
+    <KOD>GL-LGROUND-24WDC30-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="19">
+    <KOD>GL-LGROUND-24WDC45-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="20">
+    <KOD>GL-LGROUND-24WDC60-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="21">
+    <KOD>GL-LGROUND-36WDC10X-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="22">
+    <KOD>GL-LGROUND-36WDC15-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="23">
+    <KOD>GL-LGROUND-36WDC30-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="24">
+    <KOD>GL-LGROUND-36WDC45-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="25">
+    <KOD>GL-LGROUND-36WDC60-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="26">
+    <KOD>GL-LGROUND-36WDC10X-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="27">
+    <KOD>GL-LGROUND-36WDC15-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="28">
+    <KOD>GL-LGROUND-36WDC30-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="29">
+    <KOD>GL-LGROUND-36WDC45-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="30">
+    <KOD>GL-LGROUND-36WDC60-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="31">
+    <KOD>GL-LGROUND-36WDC10X-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="32">
+    <KOD>GL-LGROUND-36WDC15-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="33">
+    <KOD>GL-LGROUND-36WDC30-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="34">
+    <KOD>GL-LGROUND-36WDC45-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="35">
+    <KOD>GL-LGROUND-36WDC60-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="36">
+    <KOD>GL-LGROUND-36WDC10X-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="37">
+    <KOD>GL-LGROUND-36WDC15-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="38">
+    <KOD>GL-LGROUND-36WDC30-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="39">
+    <KOD>GL-LGROUND-36WDC45-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="40">
+    <KOD>GL-LGROUND-36WDC60-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="41">
+    <KOD>GL-LGROUND-24WAC10X-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="42">
+    <KOD>GL-LGROUND-24WAC15-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="43">
+    <KOD>GL-LGROUND-24WAC30-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="44">
+    <KOD>GL-LGROUND-24WAC45-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="45">
+    <KOD>GL-LGROUND-24WAC60-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="46">
+    <KOD>GL-LGROUND-24WAC10X-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="47">
+    <KOD>GL-LGROUND-24WAC15-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="48">
+    <KOD>GL-LGROUND-24WAC30-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="49">
+    <KOD>GL-LGROUND-24WAC45-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="50">
+    <KOD>GL-LGROUND-24WAC60-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="51">
+    <KOD>GL-LGROUND-24WAC10X-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="52">
+    <KOD>GL-LGROUND-24WAC15-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="53">
+    <KOD>GL-LGROUND-24WAC30-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="54">
+    <KOD>GL-LGROUND-24WAC45-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="55">
+    <KOD>GL-LGROUND-24WAC60-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="56">
+    <KOD>GL-LGROUND-24WAC10X-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="57">
+    <KOD>GL-LGROUND-24WAC15-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="58">
+    <KOD>GL-LGROUND-24WAC30-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="59">
+    <KOD>GL-LGROUND-24WAC45-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="60">
+    <KOD>GL-LGROUND-24WAC60-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>24 W</MOC>
+    <FLUX>1950 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="61">
+    <KOD>GL-LGROUND-36WAC10X-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="62">
+    <KOD>GL-LGROUND-36WAC15-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="63">
+    <KOD>GL-LGROUND-36WAC30-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="64">
+    <KOD>GL-LGROUND-36WAC45-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="65">
+    <KOD>GL-LGROUND-36WAC60-840-C</KOD>
+    <RACCT>Ra80 &amp; 4000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="66">
+    <KOD>GL-LGROUND-36WAC10X-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="67">
+    <KOD>GL-LGROUND-36WAC15-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="68">
+    <KOD>GL-LGROUND-36WAC30-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="69">
+    <KOD>GL-LGROUND-36WAC45-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="70">
+    <KOD>GL-LGROUND-36WAC60-830-C</KOD>
+    <RACCT>Ra80 &amp; 3000K</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>Brak</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="71">
+    <KOD>GL-LGROUND-36WAC10X-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="72">
+    <KOD>GL-LGROUND-36WAC15-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="73">
+    <KOD>GL-LGROUND-36WAC30-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="74">
+    <KOD>GL-LGROUND-36WAC45-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="75">
+    <KOD>GL-LGROUND-36WAC60-RGB-C</KOD>
+    <RACCT>RGB</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+  <MODEL id="76">
+    <KOD>GL-LGROUND-36WAC10X-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>10°x30°</ROZ>
+  </MODEL>
+  <MODEL id="77">
+    <KOD>GL-LGROUND-36WAC15-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>15°</ROZ>
+  </MODEL>
+  <MODEL id="78">
+    <KOD>GL-LGROUND-36WAC30-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>30°</ROZ>
+  </MODEL>
+  <MODEL id="79">
+    <KOD>GL-LGROUND-36WAC45-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>45°</ROZ>
+  </MODEL>
+  <MODEL id="80">
+    <KOD>GL-LGROUND-36WAC60-RGBW-C</KOD>
+    <RACCT>RGBW</RACCT>
+    <MOC>36 W</MOC>
+    <FLUX>2900 lm</FLUX>
+    <elem_sterowanie>DMX512</elem_sterowanie>
+    <IP>IP67</IP>
+    <IK>IK08</IK>
+    <ROZ>60°</ROZ>
+  </MODEL>
+</LGROUND>

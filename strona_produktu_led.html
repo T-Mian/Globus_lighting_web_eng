@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <!-- Strona dla produktu -->
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,40 +11,50 @@
   <link rel="shortcut icon" href="foto/Favikon_globus_tru.png">
   <!-- testowe start-->
   <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
-   <!-- testowe end-->
+  <!-- testowe end-->
   <script src="https://kit.fontawesome.com/a10a039624.js" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.js" integrity="sha512-qaBWRiAKQzF5H0yRU9yyAxfK2w70XUOgB4i0YL6Xg86jWbpnUHbAWfx4x08SqoqnmXmF/NjmqtErDHIwYXeulQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://unpkg.com/downloadjs@1.4.7"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.js"
+    integrity="sha512-qaBWRiAKQzF5H0yRU9yyAxfK2w70XUOgB4i0YL6Xg86jWbpnUHbAWfx4x08SqoqnmXmF/NjmqtErDHIwYXeulQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://unpkg.com/downloadjs@1.4.7"></script>
   <meta http-equiv="last-modified" content="Thu Jul 20 2023 13:18:40 GMT+0200">
   <style>
-table{
-  margin-top:2%;
-  margin-bottom:2%;
-}
-table,th,td {
-  color:#e5e5e5;
-  border: 1px solid #fecb00;
-  text-align: center;
-  border-collapse: separate;
-  font-size:20px;
-}
-th,td {
-  padding: 10px;
-}
-th{
-  color: #fecb00;
-}
-table button i{
-  color: #fecb00;
-}
-table button{
-  background-color: transparent;
-}
-</style>
+    table {
+      margin-top: 2%;
+      margin-bottom: 2%;
+    }
+
+    table,
+    th,
+    td {
+      color: #e5e5e5;
+      border: 1px solid #fecb00;
+      text-align: center;
+      border-collapse: separate;
+      font-size: 20px;
+    }
+
+    th,
+    td {
+      padding: 10px;
+    }
+
+    th {
+      color: #fecb00;
+    }
+
+    table button i {
+      color: #fecb00;
+    }
+
+    table button {
+      background-color: transparent;
+    }
+  </style>
 </head>
 
 <body style="background-image:url(foto/bg_produkt.jpg);background-attachment: fixed;">
@@ -54,181 +65,185 @@ table button{
   <section>
     <div id="logo_firmy"></div>
     <div id="div_menu"></div>
-     <div id="logo_firmy">
-        <a href="index.html">
-          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="svg/logo_Globus_lighting_FECB00.svg"
-            onmouseover="this.src='svg/logo_Globus_lighting.svg'"
-            onmouseout="this.src='svg/logo_Globus_lighting_FECB00.svg'">
-        </a>
-      </div>
-    
-      <div id="burgerMenu" onclick="togleMenu()">
-        <i class="fa-solid fa-bars"></i>
-      </div>
-      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
-        <i class="fa-solid fa-bars-staggered"></i>
-      </div>
-      <div id="speedProdukt" onclick="speedProdukt()">
-        <i class="fa-solid fa-tags"></i>
-      </div>
-      <a href="products_led.html">
-        <div id="speedProdukt_led"> 
-          <i class="fa-regular fa-lightbulb"></i> 
-        </div>
+    <div id="logo_firmy">
+      <a href="index.html">
+        <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="svg/logo_Globus_lighting_FECB00.svg"
+          onmouseover="this.src='svg/logo_Globus_lighting.svg'"
+          onmouseout="this.src='svg/logo_Globus_lighting_FECB00.svg'">
       </a>
-      <a href="page_constr.html">
-        <div id="speedProdukt_voltaik">
-          <i class="fa-solid fa-solar-panel"></i> 
-        </div>
-      </a>
-      <a href="page_constr.html">
-        <div id="speedProdukt_station">
-          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i> 
-        </div>
-      </a>
-      <button id="btnLangeShow" onclick="langeShow()" ><i class="fa-solid fa-language" style="color:#fecb00;transform: scale(1.5);" ></i></button>  
-    
-    <button id="btnLangeShowPl" onclick="langeSet(2,'btnLangeShowPl')" ><i class="fa-solid fa-xmark" style="color:#fecb00;transform: scale(1.5);" ></i> &nbsp<span>Polski</span></button>
-    
-    <button id="btnLangeShowFR" onclick="langeSet(1,'btnLangeShowFR')" ><i class="fa-solid fa-xmark" style="color:#fecb00;transform: scale(1.5);" ></i> &nbsp<span>Français</span></button>
-    
-    <button id="btnLangeShowANG" onclick="langeSet(0,'btnLangeShowANG')" ><i class="fa-solid fa-check" style="color:#fecb00;transform: scale(1.5);" ></i> &nbsp<span>English</span></button>
-      <!--Navigation-->
-      <nav id="navElement" style="visibility: hidden;">
-        <ul class="menu">
-          <li>
-            <a href="index.html">
-              <i class="fa-solid fa-house"></i>
-              Home
-            </a>
-          </li>
-          <li class="dropdown_menu">
+    </div>
+
+    <div id="burgerMenu" onclick="togleMenu()">
+      <i class="fa-solid fa-bars"></i>
+    </div>
+    <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+      <i class="fa-solid fa-bars-staggered"></i>
+    </div>
+    <div id="speedProdukt" onclick="speedProdukt()">
+      <i class="fa-solid fa-tags"></i>
+    </div>
+    <a href="products_led.html">
+      <div id="speedProdukt_led">
+        <i class="fa-regular fa-lightbulb"></i>
+      </div>
+    </a>
+    <a href="page_constr.html">
+      <div id="speedProdukt_voltaik">
+        <i class="fa-solid fa-solar-panel"></i>
+      </div>
+    </a>
+    <a href="page_constr.html">
+      <div id="speedProdukt_station">
+        <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+      </div>
+    </a>
+    <button id="btnLangeShow" onclick="langeShow()"><i class="fa-solid fa-language"
+        style="color:#fecb00;transform: scale(1.5);"></i></button>
+
+    <button id="btnLangeShowPl" onclick="langeSet(2,'btnLangeShowPl')"><i class="fa-solid fa-xmark"
+        style="color:#fecb00;transform: scale(1.5);"></i> &nbsp<span>Polski</span></button>
+
+    <button id="btnLangeShowFR" onclick="langeSet(1,'btnLangeShowFR')"><i class="fa-solid fa-xmark"
+        style="color:#fecb00;transform: scale(1.5);"></i> &nbsp<span>Français</span></button>
+
+    <button id="btnLangeShowANG" onclick="langeSet(0,'btnLangeShowANG')"><i class="fa-solid fa-check"
+        style="color:#fecb00;transform: scale(1.5);"></i> &nbsp<span>English</span></button>
+    <!--Navigation-->
+    <nav id="navElement" style="visibility: hidden;">
+      <ul class="menu">
+        <li>
+          <a href="index.html">
+            <i class="fa-solid fa-house"></i>
+            Home
+          </a>
+        </li>
+        <li class="dropdown_menu">
+          <a href="products_led.html">
+            <i class="fa-solid fa-tags"></i>
+            <span>
+              Products
+            </span>
+            <i class="fa fa-caret-down"></i>
+          </a>
+          <div class="dropdown-content">
             <a href="products_led.html">
-              <i class="fa-solid fa-tags"></i>
-              <span>
-                Products
-              </span>
-              <i class="fa fa-caret-down"></i>
+              LED products
             </a>
-            <div class="dropdown-content">
-              <a href="products_led.html">
-                LED products
-              </a>
-              <a href="page_constr.html">
-                Industrial photovoltaics
-              </a>
-              <a href="page_constr.html">
-                Car chargers
-              </a>
-              <a href="page_constr.html">
-                LED products catalogue
-              </a>
-            </div>
-          </li>
-          <li class="dropdown_menu">
             <a href="page_constr.html">
-              <i class="fa-solid fa-pen-ruler"></i>
-              <span>
-                Solutions
-              </span>
-              <i class="fa fa-caret-down"></i>
+              Industrial photovoltaics
             </a>
-            <div class="dropdown-content">
-              <a href="page_constr.html">
-                Industrial lighting</a>
-              <a href="page_constr.html">
-                Street lighting</a>
-              <a href="page_constr.html">
-                Hotel lighting</a>
-              <a href="page_constr.html">
-                Office lighting </a>
-              <a href="page_constr.html">
-                Commercial facilities lighting </a>
-              <a href="page_constr.html">
-                Sports facilities lighting </a>
-              <a href="page_constr.html">
-                Architectural lighting</a>
-              <a href="page_constr.html">
-                Monuments lighting</a>
-              <a href="page_constr.html">
-                Facade lighting</a>
-              <a href="page_constr.html">
-                Park ang garden lighting</a>
-              <a href="page_constr.html">
-                Parking lighting</a>
-              <a href="page_constr.html">
-                Workshop lighting </a>
-              <a href="page_constr.html">
-                Explosion proof lighting </a>
-              <a href="page_constr.html">
-                Lighting audit </a>
-            </div>
-          </li>
-          <li>
-            <a href="financing.html">
-              <i class="fa-solid fa-dollar-sign"></i>
-              Financing
-            </a>
-          </li>
-          <li class="dropdown_menu">
             <a href="page_constr.html">
-              <i class="fa-solid fa-landmark-dome"></i>
-              <span>
-                Realisations
-              </span>
-              <i class="fa fa-caret-down"></i>
+              Car chargers
             </a>
-            <div class="dropdown-content">
-              <a href="page_constr.html">
-                Main Railway Station in Wroclaw
-              </a>
-              <a href="page_constr.html">
-                Mondelez</a>
-              <a href="page_constr.html">
-                Siegienia Aubi </a>
-              <a href="page_constr.html">
-                Stradom </a>
-              <a href="page_constr.html">
-                Orlik football field </a>
-              <a href="page_constr.html">
-                Glassworks lighting </a>
-              <a href="page_constr.html">
-                Production halls lighting </a>
-              <a href="page_constr.html">
-                Opakofarb </a>
-              <a href="page_constr.html">
-                City Forum Archicom</a>
-              <a href="page_constr.html">
-                LG Chem Magazine</a>
-              <a href="page_constr.html">
-                Lorenz Bahlsen Magazine</a>
-            </div>
-          </li>
-          <li>
             <a href="page_constr.html">
-              <i class="fa-solid fa-blog"></i>
-              Blog
+              LED products catalogue
             </a>
-          </li>
-          <li class="dropdown_menu">
+          </div>
+        </li>
+        <li class="dropdown_menu">
+          <a href="page_constr.html">
+            <i class="fa-solid fa-pen-ruler"></i>
+            <span>
+              Solutions
+            </span>
+            <i class="fa fa-caret-down"></i>
+          </a>
+          <div class="dropdown-content">
             <a href="page_constr.html">
-              <i class="fa-solid fa-passport"></i>
-              About us
-              <i class="fa fa-caret-down"></i>
-            </a>
-            <div class="dropdown-content">
-              <a href="page_constr.html">Career</a>
-            </div>
-          </li>
-          <li>
+              Industrial lighting</a>
             <a href="page_constr.html">
-              <i class="fa-solid fa-pen-nib"></i>
-              Contact
+              Street lighting</a>
+            <a href="page_constr.html">
+              Hotel lighting</a>
+            <a href="page_constr.html">
+              Office lighting </a>
+            <a href="page_constr.html">
+              Commercial facilities lighting </a>
+            <a href="page_constr.html">
+              Sports facilities lighting </a>
+            <a href="page_constr.html">
+              Architectural lighting</a>
+            <a href="page_constr.html">
+              Monuments lighting</a>
+            <a href="page_constr.html">
+              Facade lighting</a>
+            <a href="page_constr.html">
+              Park ang garden lighting</a>
+            <a href="page_constr.html">
+              Parking lighting</a>
+            <a href="page_constr.html">
+              Workshop lighting </a>
+            <a href="page_constr.html">
+              Explosion proof lighting </a>
+            <a href="page_constr.html">
+              Lighting audit </a>
+          </div>
+        </li>
+        <li>
+          <a href="financing.html">
+            <i class="fa-solid fa-dollar-sign"></i>
+            Financing
+          </a>
+        </li>
+        <li class="dropdown_menu">
+          <a href="page_constr.html">
+            <i class="fa-solid fa-landmark-dome"></i>
+            <span>
+              Realisations
+            </span>
+            <i class="fa fa-caret-down"></i>
+          </a>
+          <div class="dropdown-content">
+            <a href="page_constr.html">
+              Main Railway Station in Wroclaw
             </a>
-          </li>
-          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-xmark"></i></li>
-        </ul>
-      </nav>
+            <a href="page_constr.html">
+              Mondelez</a>
+            <a href="page_constr.html">
+              Siegienia Aubi </a>
+            <a href="page_constr.html">
+              Stradom </a>
+            <a href="page_constr.html">
+              Orlik football field </a>
+            <a href="page_constr.html">
+              Glassworks lighting </a>
+            <a href="page_constr.html">
+              Production halls lighting </a>
+            <a href="page_constr.html">
+              Opakofarb </a>
+            <a href="page_constr.html">
+              City Forum Archicom</a>
+            <a href="page_constr.html">
+              LG Chem Magazine</a>
+            <a href="page_constr.html">
+              Lorenz Bahlsen Magazine</a>
+          </div>
+        </li>
+        <li>
+          <a href="page_constr.html">
+            <i class="fa-solid fa-blog"></i>
+            Blog
+          </a>
+        </li>
+        <li class="dropdown_menu">
+          <a href="page_constr.html">
+            <i class="fa-solid fa-passport"></i>
+            About us
+            <i class="fa fa-caret-down"></i>
+          </a>
+          <div class="dropdown-content">
+            <a href="page_constr.html">Career</a>
+          </div>
+        </li>
+        <li>
+          <a href="page_constr.html">
+            <i class="fa-solid fa-pen-nib"></i>
+            Contact
+          </a>
+        </li>
+        <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-xmark"></i></li>
+      </ul>
+    </nav>
   </section>
 
   <div class="title_led">
@@ -258,12 +273,14 @@ table button{
           Sorry, no data yet
         </h2>
         <h3>
-          <span style="padding-left: 1%;" id="product_description_span" >
+          <span style="padding-left: 1%;" id="product_description_span">
             Product description :
           </span>
         </h3>
-        <p id="szczegułowy_opis" style="text-align: center;color: #333;"> The database for this product has not yet been entered for this site.
-They are available in the Polish version at <a href="https://www.globuslighting.pl/produkty/"> Globus Lighting Pl </a>
+        <p id="szczegułowy_opis" style="text-align: center;color: #333;"> The database for this product has not yet been
+          entered for this site.
+          They are available in the Polish version at <a href="https://www.globuslighting.pl/produkty/"> Globus Lighting
+            Pl </a>
         </p>
         <div style="display: block;align-content: space-around;">
           <button onclick="myFunctionSize()" id="myBtnPlus">
@@ -306,7 +323,7 @@ They are available in the Polish version at <a href="https://www.globuslighting.
       </span>
     </h3>
     <div id="dodatki" style="color: #e5e5e5;text-align: right;margin-right: 10%;">
-     
+
     </div>
   </section>
 
@@ -363,7 +380,7 @@ They are available in the Polish version at <a href="https://www.globuslighting.
 
   <script src="js/strona_produktu_script.js"></script>
   <script src="js/script.js"></script>
- <!-- <script src="element_menu.js"></script>
+  <!-- <script src="element_menu.js"></script>
   
   <!-- indykator skrolowania  -->
   <section>

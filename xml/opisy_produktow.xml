@@ -1222,4 +1222,17 @@ Luminaires are available in options from 30 W up to 240 W, optic range 3.8°/8°
     <DODATKI></DODATKI>
     <PLIK_TABELI> XXX </PLIK_TABELI>
   </PRODUKT>
+  <PRODUKT>
+    <PRODUKT_ID>80</PRODUKT_ID>
+    <RODZINA>LGROUND</RODZINA>
+    <ICONY_RODZINY>&lt;i class="fa-solid fa-landmark"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-city"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-monument"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-landmark-dome"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-torii-gate"&gt;&lt;/i&gt;</ICONY_RODZINY>
+    <FOTO>produkty_karty_charakter/LGROUND-char_simple.png</FOTO>
+    <H3_OPISU>LGROUND</H3_OPISU>
+    <OPIS_TRESC_PL>Oprawy architektoniczna LGROUND przeznaczona jest do oświetlenia elewacji budynków oraz innych przestrzeni miejskich. Oprawa wykonana jest z odlewanego ciśnieniowo aluminium ADC12 co daje doskonałą wytrzymałość mechaniczną, dodatkowo zastosowano powłokę proszkową dla zapewnienia większej trwałości w trudnych warunkach i wykończenie ze stali nierdzewnej. Szkło odporne na uderzenia (IP67).Dzięki temu lampa może być stosowana jako lampa najazdowa, czy tez można po niej swobodnie chodzić. Dostępna w wariancie z białą barwą światła o różnej temperaturze barwowej lub w wersji RGB z szeroką gamą kątów rozsyłu.</OPIS_TRESC_PL>
+    <OPIS_TRESC_ANG>The LGROUND architectural luminaire is designed to illuminate building facades and other urban spaces. The luminaire is made of ADC12 die-cast aluminum for excellent mechanical strength, powder coated for greater durability in harsh environments and a stainless steel finish. Impact-resistant glass (IP67). Thanks to this, the lamp can be used as an overrun lamp, or you can walk on it freely. Available in a variant with a white light color of different color temperature or in the RGB version with a wide range of beam angles.</OPIS_TRESC_ANG>
+    <OPIS_TRESC_FR>Le luminaire architectural LGROUND est conçu pour éclairer les façades des bâtiments et autres espaces urbains. Le luminaire est fabriqué en aluminium moulé sous pression ADC12 pour une excellente résistance mécanique, un revêtement en poudre pour une plus grande durabilité dans les environnements difficiles et une finition en acier inoxydable. Verre résistant aux chocs (IP67).Grâce à cela, la lampe peut être utilisée comme lampe à inertie ou vous pouvez marcher dessus librement. Disponible dans une variante avec une couleur de lumière blanche de température de couleur différente ou dans la version RVB avec une large gamme d'angles de faisceau.</OPIS_TRESC_FR>
+    <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2023/08/lground_60_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/08/lground_45_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/08/lground_30_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/08/lground_15_roz-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2023/08/lground_10X_roz-150x150.png</PFOTOMETRIA>
+    <DODATKI></DODATKI>
+    <PLIK_TABELI>lground_BDXML_versja_1.xml</PLIK_TABELI>
+  </PRODUKT>
 </OPISY_PRODUKTOW>
