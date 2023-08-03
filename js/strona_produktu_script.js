@@ -66,36 +66,44 @@ function downLoad_icon(strona, plik, kod) {
 }
 
 function zaladowacTabele(xml, plik_nazwa) {
-  let nazwa = plik_nazwa + "_1"
+  let lang=["Product code","Code produit","Kod produktu","Power","Pouvoir","Moc","Flux","Flux","Strumień","Control Mode","Mode de contrôle","Tryb sterowania","Photometry","Photométrie","Fotometria"];
+  let sterowanie_ANG=["No dim","1-10V dim","ZHAGA","Motion sensor","PIR sensor","Photocell","DALI","DALI2"];
+  let sterowanie_FR=["Pas de gradation","Gradation 1-10V","ZHAGA","Un capteur de mouvements","Capteur IRP","Photocellule","DALI","DALI2"];
+  let nazwa = plik_nazwa + "_1";
   const xmlDoc = xml.responseXML;
   const x = xmlDoc.getElementsByTagName("MODEL");
-  let table = "<table><tr><th>Model</th><th>Ra & CCT [K]</th><th>Power [W]</th><th>Flux [lm]</th><th>Control</th><th>IP & IK</th><th>Photometry</th><th>Download</th></tr>";
-  //console.log("ilość modeli",x.length)
-  let strona = 3
+  let indeks=jezyk_opisu.indexOf(flaga_języka)
+  let table = `<table><tr><th>${lang[indeks]}</th><th>Ra & CCT [K]</th><th>${lang[indeks+3]} [W]</th><th>${lang[indeks+6]} [lm]</th><th>${lang[indeks+9]}</th><th>IP & IK</th><th>${lang[indeks+12]}</th><th>Download</th></tr>`;
+
+  let strona = 3;
   for (let i = 0; i < x.length; i++) {
-
-    let a = x[i].getElementsByTagName("KOD")[0].childNodes[0].nodeValue
-
-    let b = adresatorTabel(a, nazwa)
-
-    let res_ip = (x[i].getElementsByTagName("IP").length > 0) ? x[i].getElementsByTagName("IP")[0].childNodes[0].nodeValue : "&nbsp"
-
-    let res_ik = (x[i].getElementsByTagName("IK").length > 0) ? x[i].getElementsByTagName("IK")[0].childNodes[0].nodeValue : "&nbsp"
-    //"<elem_IK>"
-    let res_ik_ver2 = (x[i].getElementsByTagName("elem_IK").length > 0) ? x[i].getElementsByTagName("elem_IK")[0].childNodes[0].nodeValue : ""
-    if (res_ik_ver2 == "nullIK") { res_ik_ver2 = "" }
-
+     let _ster = x[i].getElementsByTagName("elem_sterowanie")[0].childNodes[0].nodeValue;
+  _ster= _ster.toUpperCase()
+  if(flaga_języka == "OPIS_TRESC_ANG"){
+    if(_ster=="BRAK"){_ster=sterowanie_ANG[0]}
+    if(_ster=="CZUJNIK PIR"){_ster=sterowanie_ANG[4]}
+    if(_ster=="CZUJNIK MICROFALOWY" ||_ster=="CZUJNIK RUCHU"){_ster=sterowanie_ANG[3]}
+    if(_ster=="1-10V"){_ster=sterowanie_ANG[1]}
+  }
+  if(flaga_języka == "OPIS_TRESC_FR"){
+    if(_ster=="BRAK"){_ster=sterowanie_FR[0]}
+    if(_ster=="CZUJNIK PIR"){_ster=sterowanie_FR[4]}
+    if(_ster=="CZUJNIK MICROFALOWY" ||_ster=="CZUJNIK RUCHU"){_ster=sterowanie_FR[3]}
+    if(_ster=="1-10V"){_ster=sterowanie_FR[1]}
+  }
+    let a = x[i].getElementsByTagName("KOD")[0].childNodes[0].nodeValue;
+    let b = adresatorTabel(a, nazwa);
+    let res_ip = (x[i].getElementsByTagName("IP").length > 0) ? x[i].getElementsByTagName("IP")[0].childNodes[0].nodeValue : "&nbsp";
+    let res_ik = (x[i].getElementsByTagName("IK").length > 0) ? x[i].getElementsByTagName("IK")[0].childNodes[0].nodeValue : "&nbsp";
+    let res_ik_ver2 = (x[i].getElementsByTagName("elem_IK").length > 0) ? x[i].getElementsByTagName("elem_IK")[0].childNodes[0].nodeValue : "";
+    if (res_ik_ver2 == "nullIK") { res_ik_ver2 = "" };
     table += "<tr><td>" + oko_icon + "&nbsp" + b + "</td><td>" +
       x[i].getElementsByTagName("RACCT")[0].childNodes[0].nodeValue +
       "</td><td>" +
       x[i].getElementsByTagName("MOC")[0].childNodes[0].nodeValue +
       "</td><td>" +
       x[i].getElementsByTagName("FLUX")[0].childNodes[0].nodeValue +
-      "</td><td>" +
-      x[i].getElementsByTagName("elem_sterowanie")[0].childNodes[0].nodeValue +
-      "</td><td>" +
-      res_ip + "&nbsp &nbsp" + res_ik + res_ik_ver2 +
-      "</td><td>" +
+      "</td><td>" +_ster+"</td><td>" +res_ip + "&nbsp &nbsp" + res_ik + res_ik_ver2 +"</td><td>" +
       x[i].getElementsByTagName("ROZ")[0].childNodes[0].nodeValue +
       "</td><td>" + downLoad_icon(strona, nazwa, a) + "</td></tr>"
     strona += 2
@@ -166,22 +174,23 @@ function przydzielPfotometria(element) {
 
 function myFunctionSize() {
   document.getElementById("szczegułowy_opis").style.fontSize = "20px";
-  let btn = document.getElementById("myBtnPlus")
+  let btn = document.getElementById("myBtnPlus");
   btn.setAttribute("disabled", "");
-  let btn_2 = document.getElementById("myBtnMinus").removeAttribute("disabled")
+  let btn_2 = document.getElementById("myBtnMinus");
+  btn_2.removeAttribute("disabled");
 }
 function myFunctionSizeMin() {
   document.getElementById("szczegułowy_opis").style.fontSize = "1em";
-  document.getElementById("myBtnPlus").removeAttribute("disabled")
+  document.getElementById("myBtnPlus").removeAttribute("disabled");
   document.getElementById("myBtnMinus").setAttribute("disabled", "");
 }
 
 function showInfoIcins() {
-  document.getElementById("opis_ikons").style.visibility = "visible"
+  document.getElementById("opis_ikons").style.visibility = "visible";
 }
 
 function hidenIkons() {
-  document.getElementById("opis_ikons").style.visibility = "hidden"
+  document.getElementById("opis_ikons").style.visibility = "hidden";
 }
 let btn_pl = document.getElementById("btnLangeShowPl");
 let btn_fr = document.getElementById("btnLangeShowFR");
