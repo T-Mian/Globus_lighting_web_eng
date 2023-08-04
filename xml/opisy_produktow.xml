@@ -724,7 +724,7 @@ The line of ULE2 street luminaires is characterized by high reliability, high lu
   <PRODUKT>
     <PRODUKT_ID>47</PRODUKT_ID>
     <RODZINA>SFlo</RODZINA>
-    <ICONY_RODZINY></ICONY_RODZINY>
+    <ICONY_RODZINY>&lt;i class="fa-solid fa-tree-city"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-route"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-road"&gt;&lt;/i&gt;&lt;i class="fa-solid fa-square-parking"&gt;&lt;/i&gt;</ICONY_RODZINY>
     <FOTO>produkty_karty_charakter/SFlo-char_simple.png</FOTO>
     <H3_OPISU>SFlo</H3_OPISU>
     <OPIS_TRESC_PL>Nowoczesne oprawy uliczne SFlo o mocach od 30W do 300W z szeroką gamą optyk znajdą zastosowanie między innymi w parkach, na osiedlach, na parkingach oraz jako oświetlenie dróg. Oprawy z serii SFlo mogą być wyposażone w sterowanie DALI, 1-10V, fotokomórkę, timer oraz w dodatkową funkcję CLO – Constant Light Output. Uchwyty do montażu na słupie o średnicach 34, 42, 60, 76 mm pozwalają na prostą regulację kąta nachylenia oprawy. Istnieje możliwość doposażenia w kolce na ptaki lub łatwą w montażu fotokomórkę.</OPIS_TRESC_PL>
@@ -732,7 +732,7 @@ The line of ULE2 street luminaires is characterized by high reliability, high lu
     <OPIS_TRESC_FR>Les luminaires urbains modernes SFlo, d'une puissance allant de 30W à 300W et avec une large gamme d'options de lentilles, trouveront leur application dans les parcs, les lotissements, les parkings et comme éclairage routier. Les luminaires de la série SFlo peuvent être équipés de commandes DALI, 1-10V, de cellules photoélectriques, de minuteries et d'une fonction supplémentaire CLO - Constant Light Output. Les supports de montage sur poteau de 34, 42, 60, 76 mm permettent un réglage facile de l'angle d'inclinaison du luminaire. Il est possible de les équiper de pointes anti-oiseaux ou de cellules photoélectriques faciles à installer.</OPIS_TRESC_FR>
     <PFOTOMETRIA>https://www.globuslighting.pl/wp-content/uploads/2021/04/sfloNAStroneXXX-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/sfloNAStroneZZZ-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/sfloNAStroneBBB-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/sfloNAStroneCCC-150x150.png , https://www.globuslighting.pl/wp-content/uploads/2021/04/sfloNAStroneVVV-150x150.png</PFOTOMETRIA>
     <DODATKI></DODATKI>
-    <PLIK_TABELI> XXX </PLIK_TABELI>
+    <PLIK_TABELI>sflo_BDXML_versja_1.xml</PLIK_TABELI>
   </PRODUKT>
   <PRODUKT>
     <PRODUKT_ID>48</PRODUKT_ID>
