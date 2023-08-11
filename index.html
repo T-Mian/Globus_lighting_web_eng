@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-US">
-
 <head>
   <!--Strona Główna  -->
   <!--Home -->
@@ -271,12 +270,30 @@
       </nav>
     </div>
 
-    <div class="main-text" style="z-index: 3;text-align:center;padding-left: 15%;">
-      <h1>Producer of smart LED lighting</h1>
-      <p>Modern solutions</p>
-      <p>For offices and and commercial facilities</p>
+    <div class="main-text" style="z-index: 3;text-align:center;padding-left: 15%;padding-top: 29vh;padding-bottom: 5%;">
+      <h1> Globus Lighting </h1>
+      <p id="home_intro_1"></p>
+      <p id="home_intro_2"></p>
     </div>
   </section>
+  <script> 
+    const lista_pod_tytulow_1=["Manufacturer of intelligent LED lighting","Modern solutions","Economical and efficient","Integrated lighting systems"]
+    const lista_pod_tytulow_2=["Modern technologies and dedicated solutions","For offices and commercial facilities","Lighting for industry and not only","For new investments and modernized objects"]
+        let pod_tytul_1=document.getElementById("home_intro_1")
+    let pod_tytul_2=document.getElementById("home_intro_2")
+    let inter=0
+    let maxInter=3
+    function zmianaPodtytulow(){
+      if(inter<=maxInter){
+          pod_tytul_1.innerHTML=lista_pod_tytulow_1[inter]
+          pod_tytul_2.innerHTML=lista_pod_tytulow_2[inter]
+        inter+=1
+      }else {
+        inter=0
+      }
+    }
+    setInterval(zmianaPodtytulow, 4000)
+  </script>
 
   <section>
     <div class="container_baner">
@@ -521,7 +538,7 @@
         specialists
       </p>
       <p style="color:royalblue;">The administrator of personal data is <span> GL Sp. z o.o.</span>, known as
-        <span>Globus Lighting.</span>span><br>
+        <span>Globus Lighting.</span><br>
         The data entered in the contact form will be processed in order to answer <br> the sent inquiry in accordance
         with our <span>Privacy Policy</span> (link <a href="pdf_zbior/Privacy policy.pdf" target="_blank">here</a>)
       </p>
