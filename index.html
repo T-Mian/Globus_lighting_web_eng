@@ -14,9 +14,38 @@
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <!-- meta Ostatnia modyfikacja -->
-  <meta http-equiv="last-modified" content="Thu Aug 03 2023 14:30:14 GMT+0200">
-  <meta http-equiv="refresh" content="900">
+  <meta http-equiv="last-modified" content="Wed Aug 16 2023 14:58:20 GMT+0200">
   <style>
+    .p_class {
+      text-align: center;
+      background: linear-gradient(90deg, #000,#e5e5e5, #fff, #fecb00);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-repeat: no-repeat;
+      background-size: 80%;
+      animation: shine 10s cubic-bezier(0,.4,.77,.05) infinite;
+      position: relative;
+      letter-spacing: 5px;
+    }
+
+    @keyframes shine {
+      0% {
+        background-position-x: -500%;
+      }
+
+      100% {
+        background-position-x: 500%;
+      }
+    }
+
+    .neon {
+      color: #fecb00;
+      text-shadow:
+        0 0 5px #fecb00,
+        0 0 10px #fecb00;
+    }
+
     .form-error-text {
       color: tomato;
       font-size: 0.8rem;
@@ -269,30 +298,32 @@
         </ul>
       </nav>
     </div>
-
-    <div class="main-text" style="z-index: 3;text-align:center;padding-left: 15%;padding-top: 29vh;padding-bottom: 5%;">
-      <h1> Globus Lighting </h1>
-      <p id="home_intro_1"></p>
-      <p id="home_intro_2"></p>
+   <!-- <h1 class="neon" style="position: relative;text-align: center;padding-top: 37vh;padding-left: 6%;z-index: 60;font-size: 7vh;"> Globus Lighting </h1>-->
+    <div class="main-text" style="z-index: 3;text-align:center;padding-left: 10%;padding-top: 29vh;padding-bottom: 5%;">
+      <h1 class="neon" style="text-align: center;"> Globus Lighting </h1>
+      <p class="p_class" id="home_intro_1"></p>
+      <p class="p_class" id="home_intro_2"></p>
     </div>
   </section>
-  <script> 
-    const lista_pod_tytulow_1=["Manufacturer of intelligent LED lighting","Modern solutions","Economical and efficient","Integrated lighting systems"]
-    const lista_pod_tytulow_2=["Modern technologies and dedicated solutions","For offices and commercial facilities","Lighting for industry and not only","For new investments and modernized objects"]
-        let pod_tytul_1=document.getElementById("home_intro_1")
-    let pod_tytul_2=document.getElementById("home_intro_2")
-    let inter=0
-    let maxInter=3
-    function zmianaPodtytulow(){
-      if(inter<=maxInter){
-          pod_tytul_1.innerHTML=lista_pod_tytulow_1[inter]
-          pod_tytul_2.innerHTML=lista_pod_tytulow_2[inter]
-        inter+=1
-      }else {
-        inter=0
+  <script>
+    const lista_pod_tytulow_1 = ["Manufacturer of intelligent LED lighting", "Modern solutions", "Economical and efficient", "Integrated lighting systems"]
+    const lista_pod_tytulow_2 = ["Modern technologies and dedicated solutions", "For offices and commercial facilities", "Lighting for industry and not only", "For new investments and modernized objects"]
+    let pod_tytul_1 = document.getElementById("home_intro_1")
+    let pod_tytul_2 = document.getElementById("home_intro_2")
+    let inter = 0
+    let maxInter = 3
+    let alfa = 1
+    function zmianaPodtytulow() {
+      if (inter <= maxInter) {
+        pod_tytul_1.innerHTML = lista_pod_tytulow_1[inter]
+        pod_tytul_2.innerHTML = lista_pod_tytulow_2[inter]
+        inter += alfa
+      } else {
+        inter = 0
       }
+
     }
-    setInterval(zmianaPodtytulow, 4000)
+    setInterval(zmianaPodtytulow, 10000)
   </script>
 
   <section>
@@ -319,35 +350,40 @@
   <!-- Services -->
   <section id="services">
     <div class="title">
-      <h2>Producer of LED lighting </h2>
+      <h2>Producer of <span class='neon'>LED</span> lighting </h2>
     </div>
     <div class="content">
       <div class="service-box-ver_beta">
-        <h2>Lighting audit &nbsp<i class="fa-solid fa-magnifying-glass fa-flip-horizontal"></i></h2>
+        <h2 class='neon'>Lighting audit &nbsp<i class="fa-solid fa-magnifying-glass fa-flip-horizontal"></i></h2>
         <p>
           During lighting audit we check current Energy consumption, current technical condition of the luminaires and
-          light intensity and quality of LED lighting. We pay attention to characteristics of rooms and kind of works
+          light intensity and quality of <span class='neon'>LED </span>lighting. We pay attention to characteristics of
+          rooms and kind of works
           which will realized in these rooms, we find capabilities how improve workers’ comfort. In the same time we
-          try to reduce costs of LED lighting.
+          try to <span class='neon'>reduce costs</span> of <span class='neon'>LED</span> lighting.
         </p>
       </div>
 
       <div class="service-box-ver_beta serw_img">
-        <h2>Designing &nbsp<i class="fa-solid fa-pen-ruler"></i></h2>
+        <h2 class='neon'>Designing &nbsp<i class="fa-solid fa-pen-ruler"></i></h2>
         <p>
           As a producer of LED lighting who creates light fittings in plants in Poland we offer the ability to change
-          parameters of LED luminaires to adjust to investor’s requirements. We do not design only LED luminaires but
-          primarily we design completely integrated light systems for modernization and new investments.<br>
+          parameters of <span class='neon'>LED</span> luminaires to adjust to investor’s requirements. We do not design
+          only LED luminaires but
+          primarily we <span class='neon'>design</span> completely integrated light systems for <span
+            class='neon'>modernization and new investments</span>.<br>
           <br>
         </p>
       </div>
       <div class="service-box-ver_beta">
-        <h2>Lighting solutions &nbsp<i class="fa-solid fa-list-check"></i></h2>
+        <h2 class='neon'>Lighting solutions &nbsp<i class="fa-solid fa-list-check "></i></h2>
         <p>
-          Using LED luminaires is not the only one modern lighting solution. Modern light systems which are efficient
+          Using <span class='neon'>LED</span> luminaires is not the only one modern lighting solution. Modern light
+          systems which are efficient
           and economical are developed thanks to technological development. Lighting solutions which are created by
-          Globus Lighting dynamically adjust to environmental conditions. It could be thanks to motion detectors,
-          light intensity sensors and lighting control.
+          Globus Lighting dynamically adjust to environmental conditions. It could be thanks to <span
+            class='neon'>motion detectors,
+            light intensity sensors and lighting control</span>.
         </p>
       </div>
     </div>
@@ -400,10 +436,10 @@
       </h2>
       <p style="font-size:20px;">Globus has been creating tools for the industry for nearly hundred years. Gained
         experience was the basis for
-        the project. Current <span class="span_color_a">Globus Lighting</span> is fully independent company which
+        the project. Current <span class='neon'>Globus Lighting</span> is fully independent company which
         creates smart and modern
         lighting solutions based on LED technology. The heart of the company is <span>Research and Development
-          Department </span> which projects, tests and improves every product <span class="span_color_a"> Lighting
+          Department </span> which projects, tests and improves every product <span class="neon"> Lighting
           solutions </span>which we
         deliver are fully adapted to the customer’s needs. Each realisations begins with a detailed design of the
         arrangement of lighting together with all the information necessary to calculate return on investment. We
@@ -427,7 +463,7 @@
       </h2>
       <p style="font-size:20px;">As a <span> producer of industry and specialist lighting</span> we offer you
         an individual approach when it
-        comes<span> LED lighting </span> and <span class="span_color_a">modern lighting solutions</span>
+        comes<span> LED lighting </span> and <span class="neon">modern lighting solutions</span>
         We can modify our lighting products
         to be most suited to your needs. Creating LED lighting for a given company,
         we first create a detailed design
@@ -454,15 +490,15 @@
           producer</span> we know it well, employers also know it and more and more often pay attention to the use of
         LED lighting and modern lighting solutions in the industry. Why? </p>
       <p style="font-size:20px;">LED lighting is primarily more durable, what is more LED luminaires characterize <span
-          class="span_color_a">
+          class="neon">
           longer life</span>, thanks to it they work more efficiently. Looking at this fact from a broader perspective
         – they are cheaper option. The average lifetime of LED lighting is <span> 50 000 hours</span>, traditional
         bulbs only work<span> up to 20 000 hours</span>.</p>
       <p style="font-size:20px;">Another reason why employers choose LED lighting is the fact that it is<span
-          class="span_color_a"> healthier
+          class="neon"> healthier
           for the human
           body</span>. LED lighting produce less IR radiation, what iis positive for human skin. </p>
-      <p style="font-size:20px;">LED lighting is primarily<span class="span_color_a"> saving</span>, not only does it
+      <p style="font-size:20px;">LED lighting is primarily<span class="neon"> saving</span>, not only does it
         last longer, it also
         consumes less electricity.</p>
       <p style="font-size:20px;">Led lighting companies in Poland are also able to choose the right one light intensity
@@ -540,7 +576,8 @@
       <p style="color:royalblue;">The administrator of personal data is <span> GL Sp. z o.o.</span>, known as
         <span>Globus Lighting.</span><br>
         The data entered in the contact form will be processed in order to answer <br> the sent inquiry in accordance
-        with our <span>Privacy Policy</span> (link <a href="pdf_zbior/Privacy policy.pdf" target="_blank">here</a>)
+        with our <span class='neon'>Privacy Policy</span> (link <a href="pdf_zbior/Privacy policy.pdf"
+          target="_blank">here</a>)
       </p>
     </div>
     <form class="form" id="contactForm" method="post" action="send-script.php" <div class="form">
@@ -566,7 +603,7 @@
       </div>
       <div class="form-message"></div>
       <div class="row2">
-        <input type="submit" value="Send" />
+        <input type="submit" value="Send" class="neon" />
       </div>
       <div class="title ">
         <p style="font-size:20px;">Contact in commercial and technical matters</p>
