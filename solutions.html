@@ -1,0 +1,504 @@
+<html>
+
+<head>
+  <!--Finansowanie -->
+  <!--financing -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Globus Lighting –Lighting solutions </title>
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <!--<link href="style_produkt.css" rel="stylesheet" type="text/css" /> -->
+  <link rel="shortcut icon" href="foto/Favikon_globus_tru.png">
+  <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
+    integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <style>
+    .span_fecb {
+      color: #fecb00;
+    }
+
+    p {
+      margin-left: 15%;
+    }
+
+    /*Dla galeri z animacją  */
+    .container_galeria {
+      position: relative;
+      width: 1160px;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      transform-style: preserve-3d;
+      perspective: 500px;
+      margin-left: 20%;
+    }
+
+    .container_galeria .box {
+      position: relative;
+      width: 275px;
+      height: 275px;
+      background: #333;
+      transition: 0.5s;
+      transform-style: preserve-3d;
+      overflow: hidden;
+      margin-right: 15px;
+      margin-top: 45px;
+    }
+
+    .container_galeria:hover .box {
+      transform: rotateY(25deg);
+    }
+
+    .container_galeria .box:hover~.box {
+      transform: rotateY(-25deg);
+    }
+
+    .container_galeria .box:hover {
+      transform: rotateY(0deg) scale(1.25);
+      z-index: 1;
+      box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
+    }
+
+    .container_galeria .box .imgBx {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    .container_galeria .box .imgBx:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(180deg, #fecb00, #e5e5e5);
+      z-index: 1;
+      opacity: 0;
+      transition: 0.5s;
+      mix-blend-mode: multiply;
+    }
+
+    .container_galeria .box:hover .imgBx:before {
+      opacity: 1;
+    }
+
+    .container_galeria .box .imgBx img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .container_galeria .box .content {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 1;
+      display: flex;
+      padding: 20px;
+      align-items: flex-end;
+      box-sizing: border-box;
+    }
+
+    .container_galeria .box .content h2 {
+      color: #760DC6;
+      transition: 0.5s;
+      text-transform: uppercase;
+      margin-bottom: 5px;
+      font-size: 20px;
+      transform: translateY(200px);
+      transition-delay: 0.1s;
+    }
+
+    .container_galeria .box:hover .content h2 {
+      transform: translateY(0px);
+    }
+
+    .container_galeria .box .content p {
+      margin-left: -5%;
+      color: #FF00FF;
+      transition: 0.5s;
+      font-size: 14px;
+      transform: translateY(200px);
+      transition-delay: 0.4s;
+    }
+
+    .container_galeria .box:hover .content p {
+      transform: translateY(0px);
+    }
+  </style>
+</head>
+
+<body>
+  <section id="main">
+    <div id="div_menu">
+      <div>
+        <a href="index.html">
+          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="svg/logo_Globus_lighting_FECB00.svg"
+            onmouseover="this.src='svg/logo_Globus_lighting.svg'"
+            onmouseout="this.src='svg/logo_Globus_lighting_FECB00.svg'">
+        </a>
+      </div>
+
+      <div id="burgerMenu" onclick="togleMenu()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+        <i class="fa-solid fa-bars-staggered"></i>
+      </div>
+      <div id="speedProdukt" onclick="speedProdukt()">
+        <i class="fa-solid fa-tags"></i>
+      </div>
+      <a href="products_led.html">
+        <div id="speedProdukt_led">
+          <i class="fa-regular fa-lightbulb"></i>
+        </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_voltaik">
+          <i class="fa-solid fa-solar-panel"></i>
+        </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_station">
+          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+        </div>
+      </a>
+
+      <!--Navigation-->
+      <nav id="navElement" style="visibility: hidden;">
+        <ul class="menu">
+          <li>
+            <a href="index.html">
+              <i class="fa-solid fa-house"></i>
+              Home
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="products_led.html">
+              <i class="fa-solid fa-tags"></i>
+              <span>
+                Products
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="products_led.html">
+                LED products
+              </a>
+              <a href="page_constr.html">
+                Industrial photovoltaics
+              </a>
+              <a href="page_constr.html">
+                Car chargers
+              </a>
+              <a href="page_constr.html">
+                LED products catalogue
+              </a>
+            </div>
+          </li>
+          <li class="dropdown_menu">
+            <a href="solutions.html">
+              <i class="fa-solid fa-pen-ruler"></i>
+              <span>
+                Solutions
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="page_constr.html">
+                Industrial lighting</a>
+              <a href="page_constr.html">
+                Street lighting</a>
+              <a href="page_constr.html">
+                Hotel lighting</a>
+              <a href="page_constr.html">
+                Office lighting </a>
+              <a href="page_constr.html">
+                Commercial facilities lighting </a>
+              <a href="page_constr.html">
+                Sports facilities lighting </a>
+              <a href="page_constr.html">
+                Architectural lighting</a>
+              <a href="page_constr.html">
+                Monuments lighting</a>
+              <a href="page_constr.html">
+                Facade lighting</a>
+              <a href="page_constr.html">
+                Park ang garden lighting</a>
+              <a href="page_constr.html">
+                Parking lighting</a>
+              <a href="page_constr.html">
+                Workshop lighting </a>
+              <a href="page_constr.html">
+                Explosion proof lighting </a>
+              <a href="page_constr.html">
+                Lighting audit </a>
+            </div>
+          </li>
+          <li>
+            <a href="financing.html">
+              <i class="fa-solid fa-dollar-sign"></i>
+              Financing
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="page_constr.html">
+              <i class="fa-solid fa-landmark-dome"></i>
+              <span>
+                Realisations
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="page_constr.html">
+                Main Railway Station in Wroclaw
+              </a>
+              <a href="page_constr.html">
+                Mondelez</a>
+              <a href="page_constr.html">
+                Siegienia Aubi </a>
+              <a href="page_constr.html">
+                Stradom </a>
+              <a href="page_constr.html">
+                Orlik football field </a>
+              <a href="page_constr.html">
+                Glassworks lighting </a>
+              <a href="page_constr.html">
+                Production halls lighting </a>
+              <a href="page_constr.html">
+                Opakofarb </a>
+              <a href="page_constr.html">
+                City Forum Archicom</a>
+              <a href="page_constr.html">
+                LG Chem Magazine</a>
+              <a href="page_constr.html">
+                Lorenz Bahlsen Magazine</a>
+            </div>
+          </li>
+          <li>
+            <a href="page_constr.html">
+              <i class="fa-solid fa-blog"></i>
+              Blog
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="page_constr.html">
+              <i class="fa-solid fa-passport"></i>
+              About us
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="page_constr.html">Career</a>
+            </div>
+          </li>
+          <li>
+            <a href="page_constr.html">
+              <i class="fa-solid fa-pen-nib"></i>
+              Contact
+            </a>
+          </li>
+          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-xmark"></i></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div style="z-index: 3;text-align:center;margin-top: 5%;color:#e5e5e5;width:80%;margin-left:5%;">
+      <h1 style="margin-left: 15%;">Lighting solutions</h1>
+      <h1 style="margin-left: 15%;">Smart lighting</h1>
+      <div class="image_auto">
+        <img src="https://www.globuslighting.pl/wp-content/uploads/2018/10/o%C5%9Bwietlenie-led.jpg"
+          style="border-radius:10px;">
+      </div>
+      <h2 style="margin-left: 15%;">Modern lighting solutions - intelligent lighting</h2>
+      <p>Globus Lighting is a company offering <span class="span_fecb">LED lighting solutions</span>. The company
+        offers, among others: industrial LED lighting, LED lighting for commercial facilities, LED street lighting, LED
+        hotel lighting, lighting for sports facilities, office lighting and architectural lighting. </p>
+      <h2 style="margin-left: 15%;"></h2>
+      <p>Globus Lighting is not ordinary lighting, but<span class="span_fecb"> modern lighting solutions</span> that
+        operate with the help of
+        intelligent systems. As a result, the lighting created by Globus Lighting is efficient and effective LED
+        lighting. We create our modern lighting solutions in such a way that the lighting dynamically adapts to the
+        environmental conditions, all thanks to <span class="span_fecb">motion sensors, intensity sensors and automatic
+          lighting control</span>.</p>
+      <div class="image_auto">
+
+      </div>
+      <div class="container_galeria">
+        <div class="box">
+          <div class="imgBx">
+            <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/Rozwiazania_przemysl1.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Industry</h2>
+              <p>Solutions dedicated to all kinds of industries
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box">
+          <div class="imgBx">
+            <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/Warsztat.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Workshop</h2>
+              <p>
+                Lighting that will be perfect for both small and large workshop
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box">
+          <div class="imgBx">
+            <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/Sklep.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Store</h2>
+              <p>
+                Luminaires characterized by a rich palette of light colors as well as an elegant housing
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box">
+          <div class="imgBx">
+            <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/Biuro.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Office</h2>
+              <p>
+                Discreet luminaires, easy to assemble and with light that is comfortable for the eyes
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container_galeria">
+        <div class="box">
+          <div class="imgBx">
+            <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/Hala_sportowa.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Sports facilities</h2>
+              <p>Luminaires that, even from a great height, guarantee perfect lighting for any sports activity
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box">
+          <div class="imgBx">
+            <img src="foto/Rozwiazania_arcit.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Architecture</h2>
+              <p>Lighting that fits perfectly with the urban space
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box">
+          <div class="imgBx">
+            <img src="foto/hotel.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Hotel</h2>
+              <p>Luminaires ideal for creating a cozy atmosphere
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box">
+          <div class="imgBx">
+            <img src="foto/miasto.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>City</h2>
+              <p>Lamps that work well in any weather, and take care of the budget
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h3 style="margin-top: 5%;margin-left:20%;">Contact our sales representatives <br> <a href="mailto:gl@globuslighting.pl">Mail:
+            gl@globuslighting.pl </a> </h3>
+        <h3 style="margin-bottom:17px;margin-left:20%;"><a href="tel:+48537119116"> <i class="fa-solid fa-phone"></i>
+            &nbsp +48 537 119
+            116 </a></h3>
+      </div>
+
+      <section>
+        <footer style="background-color: #333;margin-top:2%;position:bottom;border-radius: 25px;margin-left: 17%;">
+          <div class="row_foot">
+            <div class="column_foot">
+              <h2 style="text-transform: uppercase;letter-spacing: 2.4px;"> <i
+                  class="fa-regular fa-address-book"></i>&nbsp
+                Contact details </h2>
+              <!-- <hr style="background-color: #fecb00;content: '';width: 50%;left:3%;size:5px;"/> -->
+              <p> <i class="fa-regular fa-envelope"></i>&nbsp GL Sp. z o.o.<br>
+                st. Fabryczna 14<br>
+                53-609 Wroclaw <br>
+                <br>
+                <span> <i class="fa-solid fa-phone"></i>&nbsp Phone:</span>
+                <a href="#">+48 71 307 33 39</a><br>
+                <span> <i class="fa-solid fa-globe"></i>&nbsp e-mail:</span>
+                <a href="mailto:gl@globuslighting.pl">gl@globuslighting.pl</a>
+              </p>
+            </div>
+            <div class="column_foot">
+              <h2 style="content: ''; margin-bottom: 1em;"></h2>
+              <p> <span> Globus Lighting</span> comes from the Globus company with nearly 100 years of tradition.We
+                started
+                with tools for the industry, now we are a separate
+                company who is Polish, <span>producer of industry </span> and specialist
+                lighting. LED lighting is amazing saving and durable so we would like
+                to invite all interested to contact with us. As a producer of LED lighting
+                we create not only for industry but also street <span><a href="#"> commercial,</a>
+                  <a href="#">hotel,</a><a href="#"> office lighting,</a>
+                  or for<a href="#"> workshops lighting.</a></span></p>
+            </div>
+          </div>
+        </footer>
+      </section>
+    </div>
+    <div style="margin-top:10px;"></div>
+
+  </section>
+
+  <div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  </div>
+
+  <!-- indykator skrolowania  -->
+  <section>
+    <div class="dupp">
+      <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+  <script src="js/script.js"></script>
+</body>
+
+</html>
