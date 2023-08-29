@@ -15,9 +15,10 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <meta http-equiv="last-modified" content="Tue Aug 29 2023 13:56:54 GMT+0200">
   <style>
-    .honey-row{
-      visibility:hidden ;
+    .honey-row {
+      visibility: hidden;
     }
+
     .span_fecb {
       color: #fecb00;
     }
@@ -30,7 +31,7 @@
       color: #fecb00;
     }
 
-    
+
     @media screen and (max-width: 600px) {
       .column_abus {
         width: 100%;
@@ -246,11 +247,13 @@
       <div class="row_abus" style="margin-left: 15%;">
         <div class="column_abus" style="background-color:#222;">
           <h2><span class="span_fecb"> Info</span></h2>
-          <p style="color:#e5e5e5;margin-left:0%;">The administrator of personal data is <span class='span_fecb'> GL Sp. z o.o.</span>,<br> known as <span class='span_fecb'>Globus Lighting.</span><br>
-        The data entered in the contact form will<br> be processed in order to answer <br> the sent inquiry in accordance<br>
-        with our <span class='span_fecb'>Privacy Policy</span> (link <a href="pdf_zbior/Privacy policy.pdf"
-          target="_blank">here</a>)
-      </p>
+          <p style="color:#e5e5e5;margin-left:0%;">The administrator of personal data is <span class='span_fecb'> GL Sp.
+              z o.o.</span>,<br> known as <span class='span_fecb'>Globus Lighting.</span><br>
+            The data entered in the contact form will<br> be processed in order to answer <br> the sent inquiry in
+            accordance<br>
+            with our <span class='span_fecb'>Privacy Policy</span> (link <a href="pdf_zbior/Privacy policy.pdf"
+              target="_blank">here</a>)
+          </p>
           <h3>Contact <br> <a href="mailto:gl@globuslighting.pl"><i class="fa-solid fa-envelope"></i>&nbsp
               gl@globuslighting.pl </a> </h3>
           <h3 style="margin-bottom:17px;"><a href="tel:+48537119116"> <i class="fa-solid fa-phone"></i>
@@ -263,36 +266,37 @@
             NIP: 8952030142<br>
             REGON 022395553<br>
             KRS 0000506906<br>
-            Share capital: 71 000,00 ZŁ<br></p><br><br>
+            Share capital: 71 000,00 ZŁ<br>
+          </p><br><br>
         </div>
         <div class="column_abus" style="background-color:#222;">
           <h2><span class="span_fecb">Contact form</span></h2>
-              <form class="form" id="contactForm" method="post" action="send-script.php" <div class="form">
-      <span class="form-row honey-row">
-        <label for="honey">Boot trap</label>
-        <input type="text" name="honey">
-      </span>
-      <div class="row">
-        <input type="text" name="name" placeholder="Name (Required)" required pattern=.{3,} id="name"
-          data-error-text="Incorrect input for name " />
-        <input type="text" name="surname" placeholder="Surname (Required)" required pattern=.{3,} id="name"
-          data-error-text="Incorrect input for surname" />
-      </div>
-      <div class="row">
+          <form class="form" id="contactForm" method="post" action="send-script.php" <div class="form">
+            <span class="form-row honey-row">
+              <label for="honey">Boot trap</label>
+              <input type="text" name="honey">
+            </span>
+            <div class="row">
+              <input type="text" name="name" placeholder="Name (Required)" required pattern=.{3,} id="name"
+                data-error-text="Incorrect input for name " />
+              <input type="text" name="surname" placeholder="Surname (Required)" required pattern=.{3,} id="name"
+                data-error-text="Incorrect input for surname" />
+            </div>
+            <div class="row">
 
-        <input type="email" name="email" required id="email" data-error-text="Incorrect input email"
-          placeholder="E-mail Address (Required)" />
-        <input type="tel" name="topic" placeholder="Topic" />
-      </div>
-      <div class="row2">
-        <textarea name="message" required data-error-text="No input" id="message"
-          placeholder="Message content"></textarea>
-      </div>
-      <div class="form-message"></div>
-      <div class="row2">
-        <input type="submit" value="Send" class="neon" />
-      </div><br>
-    </form>
+              <input type="email" name="email" required id="email" data-error-text="Incorrect input email"
+                placeholder="E-mail Address (Required)" />
+              <input type="tel" name="topic" placeholder="Topic" />
+            </div>
+            <div class="row2">
+              <textarea name="message" required data-error-text="No input" id="message"
+                placeholder="Message content"></textarea>
+            </div>
+            <div class="form-message"></div>
+            <div class="row2">
+              <input type="submit" value="Send" class="neon" />
+            </div><br>
+          </form>
         </div>
       </div>
       <br>
