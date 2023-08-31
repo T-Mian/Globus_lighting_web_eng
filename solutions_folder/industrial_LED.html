@@ -4,16 +4,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Globus Lighting –Career </title>
-  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <title>🏭 Globus Lighting –Industrial LED lighting and lighting of production halls </title>
+  <link href="../css/style.css" rel="stylesheet" type="text/css" />
   <!--<link href="style_produkt.css" rel="stylesheet" type="text/css" /> -->
-  <link rel="shortcut icon" href="foto/Favikon_globus_tru.png">
+  <link rel="shortcut icon" href="../foto/Favikon_globus_tru.png">
   <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <meta http-equiv="last-modified" content="Tue Aug 29 2023 13:56:54 GMT+0200">
+  <meta http-equiv="last-modified" content="Thu Aug 31 2023 12:33:58 GMT+0200">
   <style>
     .neon {
       color: #fecb00;
@@ -29,6 +29,7 @@
 
     p {
       margin-left: 15%;
+      font-size: 1.2em;
     }
 
     .column_abus {
@@ -84,6 +85,124 @@
       padding-left: 3px;
     }
 
+    .box {
+      position: relative;
+      width: 400px;
+      height: 400px;
+      background-color: #444;
+      border-radius: 50%;
+      overflow: hidden;
+    }
+
+    .box::before {
+      content: "";
+      position: absolute;
+      inset: -10px 100px;
+      background: linear-gradient(#F68989, #874356);
+      transition: 0.5s;
+      -webkit-animation: animate 4s linear infinite;
+      animation: animate 4s linear infinite;
+    }
+
+    .box::after {
+      content: "";
+      position: absolute;
+      background-color: #ff9933;
+      inset: 10px;
+      border-radius: 50%;
+      z-index: 1;
+    }
+
+    .box .content {
+      position: absolute;
+      inset: 30px;
+      /*border: 6px solid #F6E7D8;*/
+      z-index: 3;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+      flex-direction: column;
+    }
+
+    .box .content img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      transition: 0.5s;
+      text-align: center;
+      pointer-events: none;
+      z-index: 3;
+    }
+
+    .box .content h2 {
+      position: relative;
+      text-align: center;
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #fff;
+      padding: 10px 0;
+    }
+
+    .box .content h2 span {
+      display: block;
+      font-weight: 300;
+      font-size: 13px;
+      padding: 5px 0;
+    }
+
+    .box .content a {
+      position: relative;
+      background-color: #fff;
+      color: #C65D7B;
+      padding: 10px 20px;
+      border-radius: 20px;
+      font-size: 14px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      text-decoration: none;
+      transition: 0.5s;
+    }
+
+    .box .content a:hover {
+      letter-spacing: 3px;
+    }
+
+    .box:hover::before {
+      inset: -20px 0px;
+    }
+
+    .box:hover img {
+      opacity: 0;
+    }
+
+    @-webkit-keyframes animate {
+      0% {
+        transform: rotate(0);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    @keyframes animate {
+      0% {
+        transform: rotate(0);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+
     @media screen and (max-width: 850px) {
       .column_abus {
         width: 100%;
@@ -96,10 +215,10 @@
   <section id="main">
     <div id="div_menu">
       <div>
-        <a href="index.html">
-          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="svg/logo_Globus_lighting_FECB00.svg"
-            onmouseover="this.src='svg/logo_Globus_lighting.svg'"
-            onmouseout="this.src='svg/logo_Globus_lighting_FECB00.svg'">
+        <a href="../index.html">
+          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="../svg/logo_Globus_lighting_FECB00.svg"
+            onmouseover="this.src='../svg/logo_Globus_lighting.svg'"
+            onmouseout="this.src='../svg/logo_Globus_lighting_FECB00.svg'">
         </a>
       </div>
 
@@ -112,17 +231,17 @@
       <div id="speedProdukt" onclick="speedProdukt()">
         <i class="fa-solid fa-tags"></i>
       </div>
-      <a href="products_led.html">
+      <a href="../products_led.html">
         <div id="speedProdukt_led">
           <i class="fa-regular fa-lightbulb"></i>
         </div>
       </a>
-      <a href="page_constr.html">
+      <a href="../page_constr.html">
         <div id="speedProdukt_voltaik">
           <i class="fa-solid fa-solar-panel"></i>
         </div>
       </a>
-      <a href="page_constr.html">
+      <a href="../page_constr.html">
         <div id="speedProdukt_station">
           <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
         </div>
@@ -132,13 +251,13 @@
       <nav id="navElement" style="visibility: hidden;">
         <ul class="menu">
           <li>
-            <a href="index.html">
+            <a href="../index.html">
               <i class="fa-solid fa-house"></i>
               Home
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="products_led.html">
+            <a href="../products_led.html">
               <i class="fa-solid fa-tags"></i>
               <span>
                 Products
@@ -146,26 +265,26 @@
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="products_led.html">
+              <a href="../products_led.html">
                 <i class="fa-regular fa-lightbulb"></i>
                 LED products
               </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-solar-panel"></i>
                 Industrial photovoltaics
               </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
                 Car chargers
               </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-regular fa-folder-open"></i>
                 LED products catalogue
               </a>
             </div>
           </li>
           <li class="dropdown_menu">
-            <a href="solutions.html">
+            <a href="../solutions.html">
               <i class="fa-solid fa-pen-ruler"></i>
               <span>
                 Solutions
@@ -173,62 +292,62 @@
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="financing.html">
+              <a href="../financing.html">
                 <i class="fa-solid fa-dollar-sign"></i>
                 Financing
               </a>
               <a href="solutions_folder/industrial_LED.html">
                 <i class="fa-solid fa-industry"></i>
                 Industrial lighting</a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-road"></i>
                 Street lighting</a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-hotel"></i>
                 Hotel lighting</a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-briefcase"></i>
                 Office lighting </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-basket-shopping"></i>
                 Commercial facilities lighting </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-volleyball"></i>
                 Sports facilities lighting </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-city"></i>
                 Architectural lighting</a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-monument"></i>
                 Monuments lighting</a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-archway"></i>
                 Facade lighting</a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-clover"></i>
                 Park and garden lighting</a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-square-parking"></i>
                 Parking lighting</a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-pen-ruler"></i>
                 Workshop lighting </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-explosion"></i>
                 Explosion proof lighting </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 <i class="fa-solid fa-microscope"></i>
                 Lighting audit </a>
             </div>
           </li>
           <li>
-            <a href="lighting_design.html">
+            <a href="../lighting_design.html">
               <i class="fa-solid fa-compass-drafting"></i>
               Projects
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="realisations.html">
+            <a href="../realisations.html">
               <i class="fa-solid fa-landmark-dome"></i>
               <span>
                 Realisations
@@ -236,48 +355,48 @@
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 Main Railway Station in Wroclaw
               </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 Mondelez</a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 Siegienia Aubi </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 Stradom </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 Orlik football field </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 Glassworks lighting </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 Production halls lighting </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 Opakofarb </a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 City Forum Archicom</a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 LG Chem Magazine</a>
-              <a href="page_constr.html">
+              <a href="../page_constr.html">
                 Lorenz Bahlsen Magazine</a>
             </div>
           </li>
           <li>
-            <a href="page_constr.html">
+            <a href="../page_constr.html">
               <i class="fa-solid fa-blog"></i>
               Blog
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="about_us.html">
+            <a href="../about_us.html">
               <i class="fa-solid fa-passport"></i>
               About us
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="career.html">
+              <a href="../career.html">
                 <i class="fa-regular fa-id-badge"></i>
                 Career</a>
-              <a href="contact.html">
+              <a href="../contact.html">
                 <i class="fa-solid fa-pen-nib"></i>
                 Contact
               </a>
@@ -290,89 +409,116 @@
 
 
     <div style="z-index: 3;text-align:center;margin-top: 25vh;color:#e5e5e5;width:80%;margin-left:5%;">
-      <h1 style="margin-left: 15%;"> <span class="neon">C</span>areer </h1>
-      <h2 style="margin-left: 15%;margin-top:3%; font-family: Copperplate, Papyrus, fantasy;">Join our team</h2>
+      <h1 style="margin-left: 15%;"> Industrial LED lighting and lighting of production halls </h1>
+      <h2 style="margin-left: 15%;margin-top:3%;"> Industrial LED lamps</h2>
 
       <div class="image_auto" style="margin-top:6%;">
-        <img src="https://www.globuslighting.pl/wp-content/uploads/2018/11/projekty-o%C5%9Bwietlenia.jpg"
+        <img src="https://www.globuslighting.pl/wp-content/uploads/2018/08/o%C5%9Bwietlenie-przemys%C5%82owe.jpg"
           style="border-radius:10px;">
       </div>
 
-      <p> <span class="firstcharacter neon">W</span> <span style="color: #fecb00;">e</span> are an innovative company
-        created thanks to the production experience of the Globus company, which has been producing tools for the
-        industry for nearly 100 years. Our LED luminaires are manufactured in Poland, thanks to which we can be proud of
-        the high quality of our products and the high speed of response to the needs of our customers. We focus on using
-        technological innovations for the benefit of our customers. We are looking for people with whom we will take
-        care of the further development of the company</p>
+      <p> <span class="firstcharacter neon">N</span> <span style="color: #fecb00;">owadays</span> <span> industrial LED
+          lighting</span> constantly replaces traditional lighting in factories, production halls, warehouses and other
+        places. Industrial LED lighting has many advantages which are not present in older and traditional lighting.
+        Therefore, industrial LED lighting is used in more and more places. Hanging industrial LED lamps and those with
+        motion sensor and dimming are also becoming popular. What are the advantages of industrial LED lighting and why
+        is it worth using our <span>industrial LED lamps?</span></p>
       <br>
       <br>
-      <h2 style="margin-left: 15%;margin-top:3%;font-family: Copperplate, Papyrus, fantasy;">Wanted</h2>
-      <br>
-      <br>
-      <div class="row_abus" style="margin-left: 15%;">
-        <div class="column_abus" style="background-color:#222;">
-          <h2>Sales Technical Advisor</h2>
-          <p>Western Poland</p>
-          <p>Place of work: Dolnośląskie, Opolskie, Lubuskie, Wielkopolskie, Zachodniopomorskie </p>
-          <p>Please send your CV and cover letter</p>
-          <p style="text-decoration: underline;"><a
-              href="https://www.globuslighting.pl/wp-content/uploads/2016/02/RKS-PZ-GL.pdf">See more</a></p>
+      <div style="display: flex;justify-content: space-evenly;flex-wrap: wrap;margin-left: 15%;">
 
+        <div class="box">
+          <div class="content"><img src="https://www.globuslighting.pl/wp-content/uploads/2018/08/bsl_120.jpg" />
+            <h2>LINEAR INDUSTRIAL <br><span> LUMINAIRE BELUS</h2><a
+              href="https://www.globuslighting.com/strona_produktu_led.html?nrId=0" target="_blank"> See further </a>
+          </div>
         </div>
-        <div class="column_abus" style="background-color:#222;opacity: 0.3;">
-          <h2>Sales Technical Advisor</h2>
-          <p>Central Poland</p>
-          <p>Place of work: The rest of the provinces </p>
-          <p>Please send your CV and cover letter</p>
-          <p>See more </p>
+        <div class="box">
+          <div class="content"><img src="https://www.globuslighting.pl/wp-content/uploads/2018/08/bsl_020.jpg" />
+            <h2>LINEAR INDUSTRIAL <br><span> HIGH BAY BELUS</h2><a
+              href="https://www.globuslighting.com/strona_produktu_led.html?nrId=1" target="_blank"> See further </a>
+          </div>
         </div>
-        <div class="column_abus" style="background-color:#222;">
-          <h2>Sales Technical Advisor</h2>
-          <p>Northern Poland</p>
-          <p>Place of work: Wielkopolskie, Zachodniopomorskie, Kuyavian-Pomeranian, Warmian-Masurian, Pomeranian</p>
-          <p>Please send your CV and cover letter</p>
-          <p style="text-decoration: underline;"><a
-              href="https://www.globuslighting.pl/wp-content/uploads/2016/02/RKS-PN-GL.pdf">See more</a></p>
+        <div class="box">
+          <div class="content"><img src="https://www.globuslighting.pl/wp-content/uploads/2018/08/hbl_060-1.jpg" />
+            <h2>LINEAR INDUSTRIAL <br><span> HIGH BAY SQUBUS</h2><a
+              href="https://www.globuslighting.com/strona_produktu_led.html?nrId=2" target="_blank"> See further </a>
+          </div>
         </div>
       </div>
+      <h2 style="margin-left: 15%;margin-top:3%;">Lighting of industrial machines and production halls with LED
+        luminaires</h2>
+      <p> <span class="firstcharacter neon">I</span> <span style="color: #fecb00;">ndustrial</span> LED lighting
+        constantly has been replacing traditional linear lights since many years. Using <span>industrial LED lighting
+        </span>is primarily achieving savings <span>up to 70%</span>. Furthermore, industrial LED lighting is also
+        <span>eco-friendly and consume less power</span> what is encouraging for many companies and corporations which
+        can be our customers.
+        Implementation of LED lighting in production halls allows us to use modern lighting solutions with inteligent
+        control systems. Thanks to them, light is constantly adapted to the requirements and standards for specific
+        rooms, spaces and working conditions. </p>
 
       <div class="image_auto" style="margin-top:6%;">
-        <img
-          src="https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/oswietlona-elewacja-hotelu-3h9s58qo0f2jhi6ii9y58q.jpeg"
+        <img src="https://www.globuslighting.pl/wp-content/uploads/2018/08/o%C5%9Bwietlenie-hali-produkcyjnej.jpg"
           style="border-radius:10px;">
       </div>
       <br>
-      <br>
-      <br>
-      <h2 style="margin-left: 15%;">RECRUITMENT PROCESS</h2>
-      <br>
-      <h3 style="margin-left: 15%;"> <span class="span_fecb"> Stage 1</span> - Submission of application documents</h3>
-      <br>
-      <p> Application documents, i.e. CV and cover letter (we will gladly accept it, although it is not usually
-        required) should be sent to <a href="mailto:praca@globuslighting.pl">praca@globuslighting.pl</a><br> with the
-        name of the position in the subject line</p>
-      <br>
-      <h3 style="margin-left: 15%;"><span class="span_fecb">Stage 2</span> - Analysis and selection of application
-        documents</h3>
-      <br>
-      <p>At the beginning, we familiarize ourselves with the documents sent and analyze them in terms of the
-        professional profile and compliance with the requirements included in the advertisement. Based on this analysis,
-        we select people who are invited for an interview. This is the so-called pre-selection stage.</p>
-      <br>
-      <h3 style="margin-left: 15%;"><span class="span_fecb">Stage 3</span> - Qualification meetings</h3>
-      <br>
-      <p>Meetings allow you to obtain additional information about the candidate's knowledge, skills and experience.</p>
-      <br>
-      <h3 style="margin-left: 15%;"><span class="span_fecb">Stage 4 </span> - Submission of an offer of cooperation<br>
-        and completion of the
-        recruitment process</h3>
-      <br>
-      <p>The offer includes the name of the position, the period for which the contract is concluded, the amount of
-        remuneration and other conditions related to individual positions. Each candidate who participated in a given
-        recruitment process will receive feedback about its result. We will send this message by e-mail or telephone.
-      </p>
 
-      <h3 style="margin-top: 5%;margin-left:17%;">Contact us<br> <a href="mailto:gl@globuslighting.pl"><i
+      <h2 style="margin-left: 15%;">Industrial LED lighting – advantages of LED luminaires</h2>
+
+      <p><span class="firstcharacter neon">T</span> <span style="color: #fecb00;">he</span> investment in lighting of
+        the production hall is certainly expensive, but with industrial LED luminaires costs quickly pays off.
+        Industrial LED luminaires have many advantages. They are efficient, because they can achieve <span>energy
+          efficiency up to 90% while traditional lamps can achieve up to 10%.</span>
+        Another significant advantage of industrial LED lighting is their lifetime - they work <span>up to 25 times
+          longer than traditional light bulbs and up to 10 times longer than halogen lamps</span>. Lifetime od
+        industrial LED luminaires is about 50 000 hours.</p>
+      <br>
+      <button class="btn_abus">
+        <h3>Learn more about industrial LED lighting on our blog! <i class="fa-solid fa-angles-right"></i></h3>
+      </button>
+      <br>
+      <br>
+      <br>
+      <p><span class="firstcharacter neon">A</span><span style="color: #fecb00;">nother</span> advantage od LED lamps
+        used to illuminate production halls is the fact that they can achieve<span> any visible color</span> and
+        <span>generate less heat.</span>
+        The last advantage of industrial LED lamps, which we have already mentioned before, is <span>ecology</span>. It
+        is not only about the savings, but also about the materials from which the lighting is made. Industrial LED
+        lamps do not require using mercury or other toxic substances.<br>
+        As you can see <span>lighting of the production hall</span> in LED technology has many advantages. LED
+        luminaires will suit to lighting of high-storage warehouses, industrial machines, storage yards, shipyards,
+        halls, warehouses or warehouse alleys. </p>
+      <div class="image_auto" style="margin-top:6%;">
+        <img src="https://www.globuslighting.pl/wp-content/uploads/2018/08/audyt-o%C5%9Bwietlenia.jpg"
+          style="border-radius:10px;">
+      </div>
+      <br>
+      <h3 style="margin-left: 15%;">LED lighting for warehouses - LED lighting of halls</h3>
+      <br>
+      <p><span class="firstcharacter neon">I</span><span style="color: #fecb00;">ndustrial</span> LED lighting should <span>relieve the electricity network</span> and <span>reduce the costs of
+          maintaining the company</span>. Very important is also comfort of employees. <span> LED lighting for
+          warehouses and production halls</span> should be the highest quality. Use of modern lighting systems with
+        inteligent control systems allows to regulate the intensity of light and reduce electricity consumption.</p>
+      <div class="image_auto" style="margin-top:6%;">
+        <img src="https://www.globuslighting.pl/wp-content/uploads/2018/08/o%C5%9Bwietlenie-led-do-magazyn%C3%B3w.jpg"
+          style="border-radius:10px;">
+      </div>
+      <h3 style="margin-left: 15%;">Lighting production hall - Industrial LED lamps and the Labour Code</h3>
+      <br>
+      <p><span class="firstcharacter neon">T</span><span style="color: #fecb00;">he</span> lighting of production halls
+        and warehouses must be<span> safe, economical and failure-free for a long time</span>. Production halls and warehouses are
+        places where people work, so the lighting there, is subjected to<span> The Labour Code</span>. Industrial LED lamps in
+        production halls and warehouses are regulated by<span> The Regulation of the Ministry od Labor and Social Policy</span> on
+        general occupational health and safety regulations and <span>Polish standards for electric lighting in work</span>.
+        Some records among others are: <span>PN-EN 12665:2008</span> Light and lighting – Basic terms and criteria for determining
+        lighting requirements; and <span>PN-EN 12464-1:2004</span> Light and lighting – Lighting of work places. Part 1: Indoor work
+        places.
+        Professional <span>hall lamps</span> should not strain the employees eyes, should not have a negative impact on their health
+        and should increase their efficiency. The lighting of warehouses should emit a minimal amount of heat so as not
+        to affect the stored goods. The lighting project of the production hall usually assumes even distribution of
+        lamps - which is why rows of lamps are used. </p>
+
+      <h3 style="margin-top: 5%;margin-left:17%;">Contact our sales representatives! <br> <a href="mailto:gl@globuslighting.pl"><i
             class="fa-solid fa-envelope"></i>&nbsp
           gl@globuslighting.pl </a> </h3>
       <h3 style="margin-bottom:17px;margin-left:17%;"><a href="tel:+48537119116"> <i class="fa-solid fa-phone"></i>
@@ -433,7 +579,8 @@
   <p id="services"></p>
 
 
-  <script src="js/script.js"></script>
+  <script src="../js/script.js"></script>
+    
 </body>
 
 </html>
