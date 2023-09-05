@@ -1,0 +1,1046 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Globus Lighting –Blog </title>
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <!--<link href="style_produkt.css" rel="stylesheet" type="text/css" /> -->
+  <link rel="shortcut icon" href="foto/Favikon_globus_tru.png">
+  <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
+    integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <meta http-equiv="last-modified" content="Tue Aug 29 2023 13:56:54 GMT+0200">
+  <style>
+    :root {
+      --color: #3c3163;
+      --transition-time: 0.5s;
+    }
+
+    .honey-row {
+      visibility: hidden;
+    }
+
+    .span_fecb {
+      color: #fecb00;
+    }
+
+    p {
+      margin-left: 15%;
+    }
+
+    h2 i {
+      color: #fecb00;
+    }
+
+    .column_abus {
+      float: left;
+      width: 50%;
+      padding: 10px;
+      height: auto;
+      border-style: hidden;
+    }
+
+    .row_abus:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    @media screen and (max-width: 800px) {
+      .column_abus {
+        width: 100%;
+      }
+    }
+
+    .container_foto {
+      position: relative;
+      font-family: Arial;
+    }
+
+    .text-block_foto {
+      text-align: left;
+      position: absolute;
+      top: 120px;
+      left: 120px;
+      background-color: #fecb00;
+      color: #333;
+      padding-left: 1%;
+      padding-right: 1%;
+    }
+
+    .cards-wrapper {
+      display: grid;
+      justify-content: center;
+      align-items: center;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap: 4rem;
+      padding: 4rem;
+      margin: 0 auto;
+      width: max-content;
+    }
+
+    .card {
+      font-family: 'Heebo';
+      --bg-filter-opacity: 0.5;
+      background-image: linear-gradient(rgba(254, 203, 0, var(--bg-filter-opacity)), rgba(0, 0, 0, var(--bg-filter-opacity))), var(--bg-img);
+      height: 20em;
+      width: 15em;
+      font-size: 1.5em;
+      color: #fff;
+      border-radius: 1em;
+      padding: 1em;
+      display: flex;
+      align-items: flex-end;
+      background-size: cover;
+      background-position: center;
+      box-shadow: 0px 1px 2px rgba(254, 203, 0, 0.5),
+        0px 2px 4px rgba(254, 203, 0, 0.6),
+        0px 4px 8px rgba(254, 203, 0, 0.9),
+        0px 8px 16px rgba(254, 203, 0, 0.5);
+      transition: all, var(--transition-time);
+      position: relative;
+      overflow: hidden;
+      border: 10px solid #ccc;
+      text-decoration: none;
+    }
+
+    .card:hover {
+      transform: rotate(0);
+    }
+
+    .card h1 {
+      margin: 0;
+      font-size: 1.5em;
+      line-height: 1.2em;
+    }
+
+    .card p {
+      font-size: 0.75em;
+      font-family: 'Open Sans';
+      margin-top: 5em;
+      line-height: 2em;
+    }
+
+    .card .tags {
+      display: flex;
+    }
+
+    .card .tags .tag {
+      font-size: 0.75em;
+      background: rgba(254, 203, 0, 0.5);
+      border-radius: 0.3rem;
+      padding: 0 0.5em;
+      margin-right: 0.5em;
+      line-height: 1.5em;
+      transition: all, var(--transition-time);
+    }
+
+    .card:hover .tags .tag {
+      background: var(--color);
+      color: white;
+    }
+
+    .card .date {
+      position: absolute;
+      top: 0;
+      right: 0;
+      font-size: 0.75em;
+      padding: 1em;
+      line-height: 1em;
+      opacity: .8;
+    }
+
+    .card:before,
+    .card:after {
+      content: '';
+      transform: scale(0);
+      transform-origin: top left;
+      border-radius: 50%;
+      position: absolute;
+      left: -50%;
+      top: -50%;
+      z-index: -5;
+      transition: all, var(--transition-time);
+      transition-timing-function: ease-in-out;
+    }
+
+    .card:before {
+      background: #ddd;
+      width: 250%;
+      height: 250%;
+    }
+
+    .card:after {
+      background: white;
+      width: 200%;
+      height: 200%;
+    }
+
+    .card:hover {
+      color: var(--color);
+    }
+
+    .card:hover:before,
+    .card:hover:after {
+      transform: scale(1);
+    }
+
+    .card-grid-space .num {
+      color: #fecb00;
+      font-size: 3em;
+      margin-bottom: 1.2rem;
+      margin-left: 9rem;
+    }
+
+    .info {
+      font-size: 1.2em;
+      display: flex;
+      padding: 1em 3em;
+      height: 3em;
+    }
+
+    .info img {
+      height: 3em;
+      margin-right: 0.5em;
+    }
+
+    .info h1 {
+      font-size: 1em;
+      font-weight: normal;
+    }
+
+    /* MEDIA QUERIES */
+    @media screen and (max-width: 1285px) {
+      .cards-wrapper {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    @media screen and (max-width: 900px) {
+      .cards-wrapper {
+        grid-template-columns: 1fr;
+      }
+
+      .info {
+        justify-content: center;
+      }
+
+      .card-grid-space .num {
+        /margin-left: 0;
+        /text-align: center;
+      }
+    }
+
+    @media screen and (max-width: 500px) {
+      .cards-wrapper {
+        padding: 4rem 2rem;
+      }
+
+      .card {
+        max-width: calc(100vw - 4rem);
+      }
+    }
+
+    @media screen and (max-width: 450px) {
+      .info {
+        display: block;
+        text-align: center;
+      }
+
+      .info h1 {
+        margin: 0;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <section id="main">
+    <div id="div_menu">
+      <div>
+        <a href="index.html">
+          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="svg/logo_Globus_lighting_FECB00.svg"
+            onmouseover="this.src='svg/logo_Globus_lighting.svg'"
+            onmouseout="this.src='svg/logo_Globus_lighting_FECB00.svg'">
+        </a>
+      </div>
+
+      <div id="burgerMenu" onclick="togleMenu()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+        <i class="fa-solid fa-bars-staggered"></i>
+      </div>
+      <div id="speedProdukt" onclick="speedProdukt()">
+        <i class="fa-solid fa-tags"></i>
+      </div>
+      <a href="products_led.html">
+        <div id="speedProdukt_led">
+          <i class="fa-regular fa-lightbulb"></i>
+        </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_voltaik">
+          <i class="fa-solid fa-solar-panel"></i>
+        </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_station">
+          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+        </div>
+      </a>
+
+      <!--Navigation-->
+      <nav id="navElement" style="visibility: hidden;">
+        <ul class="menu">
+          <li>
+            <a href="index.html">
+              <i class="fa-solid fa-house"></i>
+              Home
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="products_led.html">
+              <i class="fa-solid fa-tags"></i>
+              <span>
+                Products
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="products_led.html">
+                <i class="fa-regular fa-lightbulb"></i>
+                LED products
+              </a>
+              <a href="page_constr.html">
+                <i class="fa-solid fa-solar-panel"></i>
+                Industrial photovoltaics
+              </a>
+              <a href="page_constr.html">
+                <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+                Car chargers
+              </a>
+              <a href="page_constr.html">
+                <i class="fa-regular fa-folder-open"></i>
+                LED products catalogue
+              </a>
+            </div>
+          </li>
+          <li class="dropdown_menu">
+            <a href="solutions.html">
+              <i class="fa-solid fa-pen-ruler"></i>
+              <span>
+                Solutions
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="financing.html">
+                <i class="fa-solid fa-dollar-sign"></i>
+                Financing
+              </a>
+              <a href="solutions_folder/industrial_LED.html">
+                <i class="fa-solid fa-industry"></i>
+                Industrial lighting</a>
+              <a href="solutions_folder/street_lighting_ENEC.html">
+                <i class="fa-solid fa-road"></i>
+                Street lighting</a>
+              <a href="solutions_folder/hotel_lighting.html">
+                <i class="fa-solid fa-hotel"></i>
+                Hotel lighting</a>
+              <a href="solutions_folder/office_lighting.html">
+                <i class="fa-solid fa-briefcase"></i>
+                Office lighting </a>
+              <a href="solutions_folder/lighting_of_shops.html">
+                <i class="fa-solid fa-basket-shopping"></i>
+                Commercial facilities lighting </a>
+              <a href="solutions_folder/lighting_sports_facilities.html">
+                <i class="fa-solid fa-volleyball"></i>
+                Sports facilities lighting </a>
+              <a href="solutions_folder/architectural_lighting.html">
+                <i class="fa-solid fa-city"></i>
+                Architectural lighting</a>
+              <a href="solutions_folder/lighting_of_historic_buildings.html">
+                <i class="fa-solid fa-monument"></i>
+                Monuments lighting</a>
+              <a href="solutions_folder/facade_lighting.html">
+                <i class="fa-solid fa-archway"></i>
+                Facade lighting</a>
+              <a href="solutions_folder/park_and_garden.html">
+                <i class="fa-solid fa-clover"></i>
+                Park and garden lighting</a>
+              <a href="solutions_folder/parking_lighting.html">
+                <i class="fa-solid fa-square-parking"></i>
+                Parking lighting</a>
+              <a href="solutions_folder/workshop_lighting.html">
+                <i class="fa-solid fa-pen-ruler"></i>
+                Workshop lighting </a>
+              <a href="solutions_folder/explosion_proof_lighting.html">
+                <i class="fa-solid fa-explosion"></i>
+                Explosion proof lighting </a>
+              <a href="solutions_folder/lighting_audit.html">
+                <i class="fa-solid fa-microscope"></i>
+                Lighting audit </a>
+            </div>
+          </li>
+          <li>
+            <a href="lighting_design.html">
+              <i class="fa-solid fa-compass-drafting"></i>
+              Projects
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="realisations.html">
+              <i class="fa-solid fa-landmark-dome"></i>
+              <span>
+                Realisations
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="page_constr.html">
+                Main Railway Station in Wroclaw
+              </a>
+              <a href="page_constr.html">
+                Mondelez</a>
+              <a href="page_constr.html">
+                Siegienia Aubi </a>
+              <a href="page_constr.html">
+                Stradom </a>
+              <a href="page_constr.html">
+                Orlik football field </a>
+              <a href="page_constr.html">
+                Glassworks lighting </a>
+              <a href="page_constr.html">
+                Production halls lighting </a>
+              <a href="page_constr.html">
+                Opakofarb </a>
+              <a href="page_constr.html">
+                City Forum Archicom</a>
+              <a href="page_constr.html">
+                LG Chem Magazine</a>
+              <a href="page_constr.html">
+                Lorenz Bahlsen Magazine</a>
+            </div>
+          </li>
+          <li>
+            <a href="blog.html">
+              <i class="fa-solid fa-blog"></i>
+              Blog
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="about_us.html">
+              <i class="fa-solid fa-passport"></i>
+              About us
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="career.html">
+                <i class="fa-regular fa-id-badge"></i>
+                Career</a>
+              <a href="contact.html">
+                <i class="fa-solid fa-pen-nib"></i>
+                Contact
+              </a>
+            </div>
+          </li>
+          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-xmark"></i></li>
+        </ul>
+      </nav>
+    </div>
+
+
+    <div class="container_foto" style="z-index: 3;text-align:center;margin-top:5vh;color:#e5e5e5;">
+      <img
+        src="https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/bia%C5%82y-certyfikat-3e7ocju5xzo0avds7ep1xm.jpg"
+        alt="Nature" style="width:100%;">
+      <div class="text-block_foto">
+        <h1> Blog Globus Lighting</h1>
+        <p style="margin-left: 5%;">Blog and news<br>
+          On the Globus Lighting blog you can find tips and tricks<br> for indoor and outdoor lighting,tailored to
+          specific solutions.</p>
+      </div>
+    </div>
+    <section class="info">
+      <img src="svg/logo_Globus_lighting.svg">
+    </section>
+    <section class="cards-wrapper">
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">31</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/modernizacja-oswietlenia-w-biurze-czyli-jak-zaoszczedzic-dzieki-led/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/oswietlenie-led-w-biurze-3hgyodlmcxw68bvjr4n022.jpeg)">
+          <div>
+            <h1>Upgrade</h1>
+            <p>Modernization of lighting in the office, or how to save thanks to LED?</p>
+            <div class="date">24 Feb 2023</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- Koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">30</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/jak-oswietlic-hotel-5-sposobow-na-przyciagniecie-klientow/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/oswietlona-elewacja-hotelu-3h9s58qo0f2jhi6ii9y58q.jpeg)">
+          <div>
+            <h1>Idea</h1>
+            <p>How to light a hotel? 5 ways to attract customers</p>
+            <div class="date">13 Jan 2023</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">29</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/jak-oswietlic-butik-najwazniejsze-zasady/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/o%C5%9Bwietlenie-butiku-3gv33vp9zhxnvyuj2ufuve.jpeg)">
+          <div>
+            <h1>Idea</h1>
+            <p>How to illuminate the boutique? The most important rules</p>
+            <div class="date">22 Nov 2022</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">28</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/oswietlenie-przeciwwybuchowe-czym-rozni-sie-od-klasycznych-opraw/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/oswietlenie-przeciwwybuchowe-3g9wcp3v9cuws270n2fzm2.jpeg)">
+          <div>
+            <h1>Info</h1>
+            <p>Explosion-proof lighting - how is it different from classic luminaires?</p>
+            <div class="date">23 Aug 2022</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">27</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/jakie-latarnie-uliczne-wybrac-dobor-rozsylu-swiatla/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/rozsyl-swiatla-latarni-3ftnokdmt0c3tedf3kg2dm.jpeg)">
+          <div>
+            <h1>Idea</h1>
+            <p>Which street lamps to choose? Selection of light distribution</p>
+            <div class="date">24 Jun 2022</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">26</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/oswietlenie-jak-zaoszczedzic-korzysci-audytu-energetycznego/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/led-panele-3fmweqtvqr2hpo09dy5eru.jpeg)">
+          <div>
+            <h1>Upgrade</h1>
+            <p>Lighting - how to save? Energy audit benefits</p>
+            <div class="date">16 May 2022</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">25</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/oswietlenie-led-a-swietlowki-zarowe-najwazniejsze-roznice/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/nowoczesne-oswietlenie-led-3f1ogfu6rqo6ie3j4oygi2.jpeg)">
+          <div>
+            <h1>Info</h1>
+            <p>LED lighting vs. incandescent fluorescent lamps - the most important differences</p>
+            <div class="date">14 Feb 2022</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">24</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/modernizacja-oswietlenia-hali-sportowej-jakie-oprawy-wybrac/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/oswietlenie-hali-3eugmb8izvf5mecfwp1csq.jpg)">
+          <div>
+            <h1>Upgrade</h1>
+            <p>Modernization of sports hall lighting - which luminaires to choose?</p>
+            <div class="date">14 Jan 2022</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">23</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/dlaczego-warto-doswietlac-uprawy-roslin-za-pomoca-opraw-led/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/uprawa-ro%C5%9Blin-led-3ec3locby3txtechb4n6dm.jpg)">
+          <div>
+            <h1>Idea</h1>
+            <p>Why is it worth lighting plant crops with LED luminaires?</p>
+            <div class="date">5 Nov 2021</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">22</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/finansowanie-oswietlenia-czyli-jak-uzyskac-bialy-certyfikat/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/bia%C5%82y-certyfikat-3e7ocju5xzo0avds7ep1xm.jpg)">
+          <div>
+            <h1>Info</h1>
+            <p>Financing lighting, or how to obtain a White Certificate</p>
+            <div class="date">6 Oct 2021</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">21</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/jak-powstaje-projekt-oswietlenia-led/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/jak-powstaje-projekt-o%C5%9Bwietlenia-LED-3dpjucy7528bp8qruasp3e.jpg)">
+          <div>
+            <h1>Info</h1>
+            <p>How is an LED lighting project created?</p>
+            <div class="date">22 Jul 2021</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">20</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/jak-sterowac-oswietleniem-za-pomoca-systemu-dali/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/o%C5%9Bwietlenie-z-systemem-dali-3dj8ac5jkxx41q51u732tm.jpg)">
+          <div>
+            <h1>Control</h1>
+            <p>How to control lighting with the DALI system?</p>
+            <div class="date">25 Jun 2021</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">19</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/oprawy-duzych-mocy-do-zastosowan-na-terenach-boisk-sportowych-jak-je-dobierac/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/o%C5%9Bwietlenie-na-stadionie-3dc0dlkee7z8dg1ui8vimi.jpg)">
+          <div>
+            <h1>Idea</h1>
+            <p>High power luminaires for use on sports fields - how to choose them?</p>
+            <div class="date">25 May 2021</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">18</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/jakosc-swiatla-w-miejscu-pracy-a-wplyw-na-koncentracje/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/o%C5%9Bwietlenie-w-biurze-3d5sigd431u4su4tg0qryi.jpg)">
+          <div>
+            <h1>Efficiency</h1>
+            <p>The quality of light in the workplace and its impact on concentration</p>
+            <div class="date">28 Apr 2021</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">17</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/jakie-wyrozniamy-zalety-oswietlenia-niskonapieciowego/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/lampy-niskonapi%C4%99ciowe-na-hali-3cy3gw158mcrv3cb60zy8a.jpg)">
+          <div>
+            <h1>Info</h1>
+            <p>What are the advantages of low-voltage lighting?</p>
+            <div class="date">26 Mar 2021</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">16</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/jak-oswietlic-hale-warsztatowa/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/oswietlenie-warsztatu-3cg7gbdd96qztc5mr2s0lm.jpg)">
+          <div>
+            <h1>Idea</h1>
+            <p>How to illuminate a workshop hall?</p>
+            <div class="date">8 Jan 2021</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">15</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/system-1-10v-czy-system-dali-jaki-system-sterowania-oswietleniem-wybrac/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/automatyzacja-oswietlenia-1-3cacmtwuexubooc0slp98q.jpg)">
+          <div>
+            <h1>Control</h1>
+            <p>1-10V system or DALI system - which lighting control system to choose?</p>
+            <div class="date">14 Dec 2020</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">14</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/jakie-oprawy-led-warto-zastosowac-w-hali-przemyslowej/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/DSC_5580-min-381p61g3qos78ap0xe6xai.jpg)">
+          <div>
+            <h1>Idea</h1>
+            <p>Which LED luminaires are worth using in an industrial hall?</p>
+            <div class="date">12 Jun 2019</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">13</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/wymiana-oswietlenia-w-magazynie-na-przemyslowe-lampy-led-z-ktorych-lamp-skorzystac/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/2019/05/lead-ingots-in-warehouse-PTUJTXH.jpg)">
+          <div>
+            <h1>Upgrade</h1>
+            <p>Replacing lighting in a warehouse with industrial LED lamps, which lamps to use?</p>
+            <div class="date">15 May 2019</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">12</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/normy-oswietlenia-oraz-jego-natezenie-na-stanowisku-pracy/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/o%C5%9Bwietlenie-dla-biur-3827kp3cmb9d6rw2l4e39m.jpg)">
+          <div>
+            <h1>Info</h1>
+            <p>Lighting standards and its intensity at the workplace</p>
+            <div class="date">1 Mar 2019</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">11</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/lampy-uliczne-led-oswietlenie-dla-gminy/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/o%C5%9Bwietlenie-uliczne-36vllcf2nhr1fv8ih76m16.jpg)">
+          <div>
+            <h1>Info</h1>
+            <p>LED street lamps - energy-saving lighting for the municipality</p>
+            <div class="date">18 Feb 2019</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">10</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/oswietlenie-biurowe-nowoczesne-i-estetyczne-rozwiazania-dla-biur/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/o%C5%9Bwietlenie-biurowe-led-36z1gxmzyu57d48fb8flsa.jpg)">
+          <div>
+            <h1>Info</h1>
+            <p>Office lighting - modern and aesthetic solutions for offices</p>
+            <div class="date">15 Feb 2019</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">09</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/lampy-przemyslowe-led-nowoczesne-oswietlenie-przemyslowe/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/sterowanie-37k29kbkfa482vs0d3gqa2.jpg)">
+          <div>
+            <h1>Info</h1>
+            <p>Industrial LED lamps - everything worth knowing about modern industrial lighting</p>
+            <div class="date">11 Feb 2019</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">08</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/sterowanie-oswietleniem-led-rozwiazania-dla-przemyslu/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/o%C5%9Bwietlenie-led-37k29q3n4qmvx4442xyw3u.jpg)">
+          <div>
+            <h1>Control</h1>
+            <p>LED lighting control - solutions for industry</p>
+            <div class="date">13 Dec 2018</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">07</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/oswietlenie-i-ogrodnictwo-w-jaki-sposob-mozna-sterowac-wzrostem-roslin/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/plant-green-paprika-pepper-310svtpuaptbodvebfe2oa.jpg)">
+          <div>
+            <h1>Idea</h1>
+            <p>LED garden lighting. How can plant growth be controlled with light?</p>
+            <div class="date">8 Mar 2016</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="card-grid-space">
+        <div class="num">06</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/realizacja-globusa-na-lamach-rynku-elektrycznego/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/2016-01-29-111-3bt5pzm9u65ek6n7cwjua2.png)">
+          <div>
+            <h1>Info</h1>
+            <p>Implementation of the Globus in the "Rynek Ekonomiczne" magazine</p>
+            <div class="date">8 Feb 2016</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">05</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/nowy-katalog-globus-lighting-oswietlenie-dla-przemyslu-juz-dostepny/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/ok%C5%82adka-36q1dy1c6ycxpxlq8hbuh6.png)">
+          <div>
+            <h1>Info</h1>
+            <p>The new Globus Lighting catalog - Lighting for industry - now available!</p>
+            <div class="date">29 Jan 2016</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">04</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/projektowanie-oswietlenia-w-programie-dialux-odc-2-przygotowanie-projektu-oswietlenia-wewnetrznego/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/161-30q3j8bglwujssftroh3ii.png)">
+          <div>
+            <h1>Info</h1>
+            <p>Lighting design in the DIALux program ep. 2 - Preparation of the interior lighting project</p>
+            <div class="date">21 Jan 2016</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">03</div>
+        <a class="card"
+          href="https://www.globuslighting.pl/blog/projektowanie-oswietlenia-w-programie-dialux-odc-1-instalacja-i-konfiguracja/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/2016/01/5.png)">
+          <div>
+            <h1>Info</h1>
+            <p>Lighting design in the DIALux program ep. 1 - installation and configuration</p>
+            <div class="date">14 Jan 2016</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">02</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/atest-pzh/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/pa%C5%84stwowy-zak%C5%82ad-higieniczny-2z83bizia6dvjvgx94qdqi.png)">
+          <div>
+            <h1>Info</h1>
+            <p>On May 21, Globus lighting received an attestation from the National Institute of Hygiene for the line of
+              GL-BSL luminaires</p>
+            <div class="date">3 Jun 2015</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+      <!-- start Elementu  -->
+      <div class="card-grid-space">
+        <div class="num">01</div>
+        <a class="card" href="https://www.globuslighting.pl/blog/nowe-linie-opraw/"
+          style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/deco-4-2z69w0jvmshhvv3skub5sa.png)">
+          <div>
+            <h1>Info</h1>
+            <p>Two new lines of luminaires have joined the offer of Globus Lighting.</p>
+            <div class="date">25 May 2015</div>
+            <div class="tags">
+              <div class="tag">See more</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <!-- koniec Elementu  -->
+    </section>
+
+    <section>
+      <footer style="background-color: #333;margin-top:2%;position:bottom;border-radius: 25px;margin-left: 17%;">
+        <div class="row_foot">
+          <div class="column_foot">
+            <h2 style="text-transform: uppercase;letter-spacing: 2.4px;"> <i
+                class="fa-regular fa-address-book"></i>&nbsp
+              Contact details </h2>
+            <!-- <hr style="background-color: #fecb00;content: '';width: 50%;left:3%;size:5px;"/> -->
+            <p> <i class="fa-regular fa-envelope"></i>&nbsp GL Sp. z o.o.<br>
+              st. Fabryczna 14<br>
+              53-609 Wroclaw <br>
+              <br>
+              <span> <i class="fa-solid fa-phone"></i>&nbsp Phone:</span>
+              <a href="#">+48 71 307 33 39</a><br>
+              <span> <i class="fa-solid fa-globe"></i>&nbsp e-mail:</span>
+              <a href="mailto:gl@globuslighting.pl">gl@globuslighting.pl</a>
+            </p>
+          </div>
+          <div class="column_foot">
+            <h2 style="content: ''; margin-bottom: 1em;"></h2>
+            <p> <span> Globus Lighting</span> comes from the Globus company with nearly 100 years of tradition.We
+              started
+              with tools for the industry, now we are a separate
+              company who is Polish, <span><a href="solutions_folder/industrial_LED.html">producer of industry
+                </a></span> and specialist
+              lighting. LED lighting is amazing saving and durable so we would like
+              to invite all interested to contact with us. As a producer of LED lighting
+              we create not only for industry but also <a href="solutions_folder/street_lighting_ENEC.html">street</a>,
+              <span><a href="solutions_folder/lighting_of_shops.html"> commercial,</a>
+                <a href="solutions_folder/hotel_lighting.html">hotel,</a><a
+                  href="solutions_folder/office_lighting.html"> office lighting,</a>
+                or for<a href="solutions_folder/workshop_lighting.html"> workshops lighting.</a></span>
+            </p>
+          </div>
+        </div>
+      </footer>
+    </section>
+    </div>
+    <div style="margin-top:10px;"></div>
+
+  </section>
+
+  <div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  </div>
+
+  <!-- indykator skrolowania  -->
+  <section>
+    <div class="dupp">
+      <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+      </div>
+    </div>
+  </section>
+
+  <script src="js/script.js"></script>
+</body>
+
+</html>
