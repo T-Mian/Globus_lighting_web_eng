@@ -14,16 +14,21 @@ let jezyk_opisu = ["OPIS_TRESC_ANG", "OPIS_TRESC_FR", "OPIS_TRESC_PL"]
 let flaga_języka = jezyk_opisu[0];
 let res = "";
 var id_pr = 0
+var jezyk_przychodzacy =""
+var flaga_językaAflfa=0
 
-
+// dekodowanie adresu
 parametry = encodeURI(window.location.href).split("?");
 if (parametry.length > 1) {
   zmienne = parametry[1].split("&");
 }
 for (i = 0; i < zmienne.length; i++) {
   zm = zmienne[i].split("=");
-  //console.log(zm[1])
   id_pr = zm[1]
+  let x=zm[0]
+  jezyk_przychodzacy =x.slice(0,1)
+  flaga_językaAflfa = parseInt(jezyk_przychodzacy)
+  flaga_języka=jezyk_opisu[flaga_językaAflfa]
 }
 //id_pr -= 1
 
@@ -57,6 +62,7 @@ function loadTabele(params) {
 }
 
 let oko_icon = '<i class="fa-regular fa-eye"></i>'
+
 function downLoad_icon(strona, plik, kod) {
   let str_plik = ""
   str_plik += "'" + plik + "'"
@@ -123,7 +129,7 @@ function funcPoprzedni() {
 }
 
 function funcNastepny() {
-  if (id_pr == 79) {
+  if (id_pr == 80) {
     id_pr = 0
   } else {
     id_pr++
@@ -133,7 +139,6 @@ function funcNastepny() {
 }
 
 function Odczyt(xml) {
-  //console.log("func Odczyt id_pr :", id_pr);
   var xmlDoc = xml.responseXML;
   var x = xmlDoc.getElementsByTagName("RODZINA");
   var y = xmlDoc.getElementsByTagName("H3_OPISU");
@@ -192,10 +197,21 @@ function showInfoIcins() {
 function hidenIkons() {
   document.getElementById("opis_ikons").style.visibility = "hidden";
 }
+
+
 let btn_pl = document.getElementById("btnLangeShowPl");
 let btn_fr = document.getElementById("btnLangeShowFR");
 let btn_ang = document.getElementById("btnLangeShowANG");
-var list_btn = [btn_pl, btn_fr, btn_ang]
+var list_btn = [ btn_ang, btn_fr,  btn_pl ]
+for(let x of list_btn){
+  if(list_btn.indexOf(x)==flaga_językaAflfa){
+      x.firstChild.classList.remove("fa-xmark");
+      x.firstChild.classList.add("fa-check")
+  }else{
+    x.firstChild.classList.remove("fa-check");
+    x.firstChild.classList.add("fa-xmark")
+  }
+}
 var flaga_lange_show = false;
 
 function langeShow() {
@@ -219,9 +235,14 @@ function langeShow() {
 }
 langeShow()
 
-function langeSet(nr, id) {
+function langeSet(nr) {
+  var id=""
+  if(nr==0){id='btnLangeShowANG'}
+  if(nr==1){id='btnLangeShowFR'}
+  if(nr==2){id='btnLangeShowPl'}
   flaga_języka = jezyk_opisu[nr];
   Odczyt(xhttp)
+  
   for (let btn of list_btn) {
     let el = document.getElementById(id)
     btn.firstChild.classList.remove("fa-xmark", "fa-check");
@@ -230,8 +251,43 @@ function langeSet(nr, id) {
       el.firstChild.classList.remove("fa-xmark");
       el.firstChild.classList.add("fa-check")
     }
-  }
+  } 
+  translate_web(nr)
+  
+/*
+  let span_product_description = document.getElementById("product_description_span");
+  let span_photometry = document.getElementById("photometry_span");
+  let span_info = document.getElementById("info_span");
+  let span_configurations = document.getElementById("configurations_span");
+  switch (nr) {
+    case 0:
+      span_product_description.innerHTML = "Product description :";
+      span_photometry.innerHTML = "Photometry";
+      span_info.innerHTML = "Info";
+      span_configurations.innerHTML = "Configurations available :";
+      break;
+    case 1:
+      span_product_description.innerHTML = "Description du produit :";
+      span_photometry.innerHTML = "Photométrie";
+      span_info.innerHTML = "Info";
+      span_configurations.innerHTML = "Paramétrages disponibles :";
+      break;
+    case 2:
+      span_product_description.innerHTML = "Opis produktu :";
+      span_photometry.innerHTML = "Fotometria";
+      span_info.innerHTML = "Informacje";
+      span_configurations.innerHTML = "Dostępne konfiguracje:";
+      break;
+    default:
+      span_product_description.innerHTML = "Product description :";
+      span_photometry.innerHTML = "Photometry";
+      span_info.innerHTML = "Info";
+      span_configurations.innerHTML = "Configurations available :";
+      console.log("langeSet switch default")
+  }*/
+}
 
+function translate_web(nr){
   let span_product_description = document.getElementById("product_description_span");
   let span_photometry = document.getElementById("photometry_span");
   let span_info = document.getElementById("info_span");
@@ -263,6 +319,8 @@ function langeSet(nr, id) {
       console.log("langeSet switch default")
   }
 }
+
+translate_web(flaga_językaAflfa)
 //do opracowania 
 function adresatorTabel(zakladka, plik_danych) {
   let lang_alfa = flaga_języka.split('_')

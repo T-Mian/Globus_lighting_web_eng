@@ -1,16 +1,17 @@
 // Tomasz Mianecki
 // versja 1.5
-
-let czas_new = 4;
-let lista_rodzin_produktu = ["Belus", "SQR", "HB-U", "HB-U2"];
-let obecna_data = new Date();
-let obecnie_rok = obecna_data.getFullYear();
-let obecnie_miesiac = obecna_data.getMonth();
-let obecnie_dzien = obecna_data.getDay();
+//let czas_new = 4;
+//let lista_rodzin_produktu = ["Belus", "SQR", "HB-U", "HB-U2"];
+//let obecna_data = new Date();
+//let obecnie_rok = obecna_data.getFullYear();
+//let obecnie_miesiac = obecna_data.getMonth();
+//let obecnie_dzien = obecna_data.getDay();
 let flaga_ribbon = ["TOP", "NEW", "NON"];
 let color_ribbon = "#fecb00";
 let hiper_link = ["strona_produktu_led.html"];
 let lista_docelowa_id = ["_industr_carts", "_line_carts", "_tepmer_carts", "_specjal_carts", "_ex_carts", "_zewenetrz_carts", "_sport_zew_carts", "_ofice_carts", "_agro_carts", "_archit_carts"];
+let aktualny_jezyk_strony = document.getElementById("jezyk_strony").innerHTML
+//console.log(aktualny_jezyk_strony)
 
 // funkcjia ładująca plik xml
 function loadDoc() {
@@ -91,7 +92,7 @@ function doInnerHtmll(cel, cartt) {
 function kreacjia_karty(a, b, c, d, e) {
   let aa = parseInt(a)
   aa -= 1
-  let spec = b + ".html?nrId=" + aa + '"'
+  let spec = b + ".html?"+aktualny_jezyk_strony+"nrId=" + aa + '"'
 
   let skladak = '<!--' + a + '--><div><a href="' + spec + ' alt=" ' + c + '" target="_blank"><div class="card_produkt"><div class="wrapper_produkt">' + d + '<img src="/produkty_karty_covery/Produkt_cover_bg_hex_' + e + '.jpg" class="cover-image_produkt lozad" /></div><img src="/produkty_karty_title/' + e + '-title.png" class="title_produkt"  /> <img src="/produkty_karty_charakter/' + e + '-char_simple.png" class="character_produkt lozad"/></div></a></div>'
   return skladak
