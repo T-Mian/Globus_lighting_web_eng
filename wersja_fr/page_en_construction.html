@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+
+<head>
+  <!--Strona w konstrukcji -->
+  <!--Konstrukcja -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Globus Lighting – Pages en construction </title>
+  <link href="../css/style.css" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="../foto/Favikon_globus_tru.png">
+  <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
+    integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+   <meta http-equiv="last-modified" content="Tue Sep 05 2023 13:49:25 GMT+0200">
+
+</head>
+
+<body>
+  <section id="main">
+    <div id="div_menu">
+      <div>
+        <a href="page_d'accueil.html">
+          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="../svg/logo_Globus_lighting_FECB00.svg"
+            onmouseover="this.src='../svg/logo_Globus_lighting.svg'"
+            onmouseout="this.src='../svg/logo_Globus_lighting_FECB00.svg'">
+        </a>
+      </div>
+    
+      <div id="burgerMenu" onclick="togleMenu()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+        <i class="fa-solid fa-bars-staggered"></i>
+      </div>
+      <div id="speedProdukt" onclick="speedProdukt()">
+        <i class="fa-solid fa-tags"></i>
+      </div>
+      <a href="../products_led.html">
+        <div id="speedProdukt_led"> 
+          <i class="fa-regular fa-lightbulb"></i> 
+        </div>
+      </a>
+      <a href="#">
+        <div id="speedProdukt_voltaik">
+          <i class="fa-solid fa-solar-panel"></i> 
+        </div>
+      </a>
+      <a href="#">
+        <div id="speedProdukt_station">
+          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i> 
+        </div>
+      </a>
+
+      <!--Navigation-->
+      <nav id="navElement" style="visibility: hidden;">
+        <ul class="menu">
+          <li>
+            <a href="page_d'accueil.html">
+              <i class="fa-solid fa-house"></i>
+              Home
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="../products_led.html">
+              <i class="fa-solid fa-tags"></i>
+              <span>
+                Des produits
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="page_en_construction.html">
+                <i class="fa-regular fa-lightbulb"></i>
+                Luminaires à LED
+              </a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-solar-panel"></i>
+                Photovoltaïque industriel
+              </a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+                Chargeurs de voiture
+              </a>
+              <a href="page_en_construction.html">
+                <i class="fa-regular fa-folder-open"></i>
+                Catalogue produits
+              </a>
+            </div>
+          </li>
+          <li class="dropdown_menu">
+            <a href="page_en_construction.html">
+              <i class="fa-solid fa-pen-ruler"></i>
+              <span>
+                Solutions
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-dollar-sign"></i>
+                Financement
+              </a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-industry"></i>
+                Éclairage industriel </a>
+              <a href="page_en_construction.html">
+                <i class="page_en_construction.html"></i>
+                Lampadaires</a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-hotel"></i>
+                Éclairage d'hôtel</a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-briefcase"></i>
+                Éclairage de bureau </a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-basket-shopping"></i>
+                Éclairage commercial</a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-volleyball"></i>
+                Éclairage des installations sportives</a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-city"></i>
+                Éclairage architectural</a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-monument"></i>
+                Illumination des monuments</a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-archway"></i>
+                Éclairage de façade</a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-clover"></i>
+                Éclairage de parc et de jardin</a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-square-parking"></i>
+                Éclairage de parking</a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-pen-ruler"></i>
+                Éclairage d'atelier </a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-explosion"></i>
+                Éclairage antidéflagrant</a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-microscope"></i>
+                Audit d'éclairage </a>
+            </div>
+          </li>
+          <li>
+            <a href="page_en_construction.html">
+              <i class="fa-solid fa-compass-drafting"></i>
+              Projets
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="page_en_construction.html">
+              <i class="fa-solid fa-landmark-dome"></i>
+              <span>
+                Réalisations
+              </span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="page_en_construction.html">
+                Gare principale de Wroclaw
+              </a>
+              <a href="page_en_construction.html">
+                Mondelez</a>
+              <a href="page_en_construction.html">
+                Siegienia Aubi </a>
+              <a href="page_en_construction.html">
+                Stradom </a>
+              <a href="page_en_construction.html">
+                Terrain de football d'Orlik </a>
+              <a href="page_en_construction.html">
+                Éclairage de verrerie </a>
+              <a href="page_en_construction.html">
+               Éclairage du hall de production </a>
+              <a href="page_en_construction.html">
+                Opakofarb </a>
+              <a href="page_en_construction.html">
+                City Forum Archicom</a>
+              <a href="page_en_construction.html">
+               LG Chem Magazine</a>
+              <a href="page_en_construction.html">
+                Lorenz Bahlsen Magazine</a>
+            </div>
+          </li>
+          <li>
+            <a href="page_en_construction.html">
+              <i class="fa-solid fa-blog"></i>
+              Blog
+            </a>
+          </li>
+          <li class="dropdown_menu">
+            <a href="page_en_construction.html">
+              <i class="fa-solid fa-passport"></i>
+              À propos de nous
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="page_en_construction.html">
+                <i class="fa-regular fa-id-badge"></i>
+                Carrière</a>
+              <a href="page_en_construction.html">
+                <i class="fa-solid fa-pen-nib"></i>
+                Contact
+              </a>
+            </div>
+          </li>
+          <li class="dropdown_menu">
+            <a href="">
+              <i class="fa-solid fa-language"></i>
+              &nbsp
+              <i class="fa fa-caret-down"></i>
+            </a>
+            <div class="dropdown-content">
+              <a href="../wersja_pl/home.html">
+                <i class="fa-solid fa-flag"></i>
+                Polski
+                </a>
+              <a href="../index.html">
+                <i class="fa-solid fa-flag"></i>
+                English
+              </a>
+            </div>
+          </li>
+          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-bars-staggered"></i></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="main-text" style="z-index: 3;text-align:center;margin-top: 5%;">
+      <h1 style="margin-left: 15%;">Producteur d'éclairage LED intelligent</h1>
+      <h1 style="margin-left: 15%;">Globus Lighting</h1>
+      <p style="margin-left: 15%;">Désolé, page en construction &nbsp<i class="fa-solid fa-screwdriver-wrench"></i></p>
+      <div class="image_auto">
+        <img src="../foto/wrocław.jpg" style="border-radius:10px;">
+      </div>
+    </div>
+  </section>
+
+
+  <!-- indykator skrolowania  -->
+  <section>
+    <div class="dupp">
+      <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <section>
+    <footer style="background-color: #333;border-radius:25px;">
+      <div class="row_foot">
+        <div class="column_foot">
+          <h2 style="text-transform: uppercase;letter-spacing: 2.4px;"> <i class="fa-regular fa-address-book"></i>&nbsp
+            DÉTAILS DU CONTACT </h2>
+          <!-- <hr style="background-color: #fecb00;content: '';width: 50%;left:3%;size:5px;"/> -->
+          <p> <i class="fa-regular fa-envelope"></i>&nbsp GL Sp. z o.o.<br>
+            st. Fabryczna 14<br>
+            53-609 Wroclaw <br>
+            <br>
+            <span> <i class="fa-solid fa-phone"></i>&nbsp Téléphone:</span>
+            <a href="tel:+48713073339">+48 71 307 33 39</a><br>
+            <span> <i class="fa-solid fa-globe"></i>&nbsp e-mail:</span>
+            <a href="mailto:gl@globuslighting.pl">gl@globuslighting.pl</a>
+          </p>
+        </div>
+        <div class="column_foot">
+          <h2 style="content: ''; margin-bottom: 1em;"></h2>
+          <p> <span> Globus Lighting </span> vient de la société Globus avec près de 100 ans de tradition. Nous avons commencé avec des outils pour l'industrie et nous sommes maintenant une entreprise distincte qui est un fabricant polonais <span><a href="page_en_construction.html">éclairage industriel</a></span> et spécialiste. L'éclairage LED est une économie et une durabilité extraordinaires, toutes les personnes intéressées sont donc invitées à nous contacter. En tant que fabricant d'éclairage LED, nous créons non seulement des luminaires pour l'industrie, mais aussi des <a href="page_en_construction.html">éclairages publics</a>, <a href="page_en_construction.html">commerciaux</a>, <a href="page_en_construction.html">d'hôtels</a>, <a href="page_en_construction.html"> de bureaux</a> et <a href="page_en_construction.html">d'ateliers</a>.
+        </div>
+      </div>
+    </footer>
+  </section>
+   <section>
+    <h6 style="margin-left: 12%;color: gray;">Globus Lighting – fabricant d'éclairage LED, d'éclairage industriel et spécialisé ainsi que de solutions d'éclairage modernes.</h6>
+  </section>
+  <script src="../js/script.js"></script>
+</body>
+
+</html>
