@@ -18,6 +18,10 @@
 </head>
 
 <body>
+    <div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  </div>
+  
   <section id="main">
     <div id="div_menu">
       <div>
@@ -55,177 +59,7 @@
 
       <!--Navigation-->
       <nav id="navElement" style="visibility: hidden;">
-        <ul class="menu">
-          <li>
-            <a href="home.html">
-              <i class="fa-solid fa-house"></i>
-              Home
-            </a>
-          </li>
-          <li class="dropdown_menu">
-            <a href="../products_led.html">
-              <i class="fa-solid fa-tags"></i>
-              <span>
-                Produkty
-              </span>
-              <i class="fa fa-caret-down"></i>
-            </a>
-            <div class="dropdown-content">
-              <a href="../products_led.html">
-                <i class="fa-regular fa-lightbulb"></i>
-                Produkty LED
-              </a>
-              <a href="#">
-                <i class="fa-solid fa-solar-panel"></i>
-                Fotowoltaika przemysłowa
-              </a>
-              <a href="#">
-                <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
-                Ładowarki do samochodu
-              </a>
-              <a href="#">
-                <i class="fa-regular fa-folder-open"></i>
-                Katalog produktów LED
-              </a>
-            </div>
-          </li>
-          <li class="dropdown_menu">
-            <a href="#">
-              <i class="fa-solid fa-pen-ruler"></i>
-              <span>
-                Rozwiązania
-              </span>
-              <i class="fa fa-caret-down"></i>
-            </a>
-            <div class="dropdown-content">
-              <a href="#">
-                <i class="fa-solid fa-dollar-sign"></i>
-                Finansowanie
-              </a>
-              <a href="#">
-                <i class="fa-solid fa-industry"></i>
-                Oświetlenie przemysłowe </a>
-              <a href="#">
-                <i class="fa-solid fa-road"></i>
-                Oświetlenie uliczne</a>
-              <a href="#">
-                <i class="fa-solid fa-hotel"></i>
-                Oświetlenie hotelowe</a>
-              <a href="#">
-                <i class="fa-solid fa-briefcase"></i>
-                Oświetlenie biurowe </a>
-              <a href="#">
-                <i class="fa-solid fa-basket-shopping"></i>
-                Oświetlenie obiektów handlowych </a>
-              <a href="#">
-                <i class="fa-solid fa-volleyball"></i>
-                Oświetlenie obiektów sportowych</a>
-              <a href="#">
-                <i class="fa-solid fa-city"></i>
-                Oświetlenie architektoniczne</a>
-              <a href="#">
-                <i class="fa-solid fa-monument"></i>
-                Oświetlenie zabytków</a>
-              <a href="#">
-                <i class="fa-solid fa-archway"></i>
-                Oświetlenie elewacji</a>
-              <a href="#">
-                <i class="fa-solid fa-clover"></i>
-                Oświetlenie parkowe i ogrodowe</a>
-              <a href="#">
-                <i class="fa-solid fa-square-parking"></i>
-                Oświetlenie parkingowe</a>
-              <a href="#">
-                <i class="fa-solid fa-pen-ruler"></i>
-                Oświetlenie warsztatu </a>
-              <a href="#">
-                <i class="fa-solid fa-explosion"></i>
-                Oświetlenie przeciwwybuchowe </a>
-              <a href="#">
-                <i class="fa-solid fa-microscope"></i>
-                Audyt oświetlenia </a>
-            </div>
-          </li>
-          <li>
-            <a href="#">
-              <i class="fa-solid fa-compass-drafting"></i>
-              Projektowanie
-            </a>
-          </li>
-          <li class="dropdown_menu">
-            <a href="#">
-              <i class="fa-solid fa-landmark-dome"></i>
-              <span>
-                Realizacje
-              </span>
-              <i class="fa fa-caret-down"></i>
-            </a>
-            <div class="dropdown-content">
-              <a href="#">
-                Dworzec Główny Wrocław
-              </a>
-              <a href="#">
-                Mondelez</a>
-              <a href="#">
-                Siegienia Aubi </a>
-              <a href="#">
-                Stradom </a>
-              <a href="#">
-                Boisko Orlik </a>
-              <a href="#">
-                Oświetlenie huty szkła </a>
-              <a href="#">
-                Oświetlenie hali produkcyjnej </a>
-              <a href="#">
-                Opakofarb </a>
-              <a href="#">
-                City Forum Archicom</a>
-              <a href="#">
-                Magazyn LG Chem</a>
-              <a href="#">
-                Magazyn Lorenz Bahlsen</a>
-            </div>
-          </li>
-          <li>
-            <a href="#">
-              <i class="fa-solid fa-blog"></i>
-              Blog
-            </a>
-          </li>
-          <li class="dropdown_menu">
-            <a href="#">
-              <i class="fa-solid fa-passport"></i>
-              O nas
-              <i class="fa fa-caret-down"></i>
-            </a>
-            <div class="dropdown-content">
-              <a href="#">
-                <i class="fa-regular fa-id-badge"></i>
-                Kariera</a>
-              <a href="#">
-                <i class="fa-solid fa-pen-nib"></i>
-                Kontakt
-              </a>
-            </div>
-          </li>
-          <li class="dropdown_menu">
-            <a href="#">
-              <i class="fa-solid fa-language"></i>
-              &nbsp
-              <i class="fa fa-caret-down"></i>
-            </a>
-            <div class="dropdown-content">
-              <a href="../wersja_fr/page_d'accueil.html">
-                <i class="fa-solid fa-flag"></i>
-                French
-                </a>
-              <a href="../index.html">
-                <i class="fa-solid fa-flag"></i>
-                English
-              </a>
-            </div>
-          </li>
-          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-bars-staggered"></i></li>
+        <ul class="menu" id="menu_in_situ">
         </ul>
       </nav>
     </div>
@@ -250,38 +84,18 @@
     </div>
   </section>
 
-
-
   <section>
-    <footer style="background-color: #333;border-radius:25px;">
-      <div class="row_foot">
-        <div class="column_foot">
-          <h2 style="text-transform: uppercase;letter-spacing: 2.4px;"> <i class="fa-regular fa-address-book"></i>&nbsp
-            DANE KONTAKTOWE </h2>
-          <!-- <hr style="background-color: #fecb00;content: '';width: 50%;left:3%;size:5px;"/> -->
-          <p> <i class="fa-regular fa-envelope"></i>&nbsp GL Sp. z o.o.<br>
-            st. Fabryczna 14<br>
-            53-609 Wroclaw <br>
-            <br>
-            <span> <i class="fa-solid fa-phone"></i>&nbsp Telefon:</span>
-            <a href="tel:+48713073339">+48 71 307 33 39</a><br>
-            <span> <i class="fa-solid fa-globe"></i>&nbsp e-mail:</span>
-            <a href="mailto:gl@globuslighting.pl">gl@globuslighting.pl</a>
-          </p>
-        </div>
-        <div class="column_foot">
-          <h2 style="content: ''; margin-bottom: 1em;"></h2>
-          <p> <span> Globus Lighting </span> wywodzi się z firmy Globus o blisko 100-letniej tradycji. Zaczynaliśmy od narzędzi dla przemysłu, a obecnie jesteśmy oddzielną spółką, która jest polskim producentem <span><a href="../solutions_folder/industrial_LED.html">oświetlenia przemysłowego</a></span> oraz specjalistycznego. Oświetlenie ledowe to niezwykła oszczędność i trwałość, dlatego wszystkich zainteresowanych zapraszamy do kontaktu. Jako producent oświetlenia LED tworzymy nie tylko oprawy dla przemysłu, ale również <a href="../solutions_folder/street_lighting_ENEC.html">oświetlenie uliczne</a>, <a href="../solutions_folder/lighting_of_shops.html">handlowe</a>,  <a href="../solutions_folder/hotel_lighting.html">hotelowe</a>, <a href="../solutions_folder/office_lighting.html">biurowe </a>czy dla<a href="../solutions_folder/workshop_lighting.html"> warsztatów</a>.</p>
-        </div>
-      </div>
+    <footer style="background-color: #333;border-radius:25px;"  id="stopka_web">
     </footer>
   </section>
 
   <section>
     <h6 style="margin-left: 12%;color: gray;">Globus Lighting – producent oświetlenia LED, oświetlenia przemysłowego i specjalistycznego oraz nowoczesnych rozwiązań oświetleniowych. Oświetlenie LED jest w 100% wyprodukowane w Polsce.</h6>
-
+<h6 id="jezyk_strony" style="color: #222;">2</h6>
   </section>
-  </section>
+   <div id="services" style="z-index:-10;margin-bottom: 1px;"></div>
+  
+    <script src="../js/elementy_enkapsuly.js"></script>
   <script src="../js/script.js"></script>
 </body>
 

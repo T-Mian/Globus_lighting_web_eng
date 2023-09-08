@@ -14,11 +14,14 @@
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-   <meta http-equiv="last-modified" content="Thu Sep 07 2023 09:40:54 GMT+0200">
+  <meta http-equiv="last-modified" content="Thu Sep 07 2023 09:40:54 GMT+0200">
 
 </head>
 
 <body>
+  <div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  </div>
   <section id="main">
     <div id="div_menu">
       <div>
@@ -28,7 +31,7 @@
             onmouseout="this.src='svg/logo_Globus_lighting_FECB00.svg'">
         </a>
       </div>
-    
+
       <div id="burgerMenu" onclick="togleMenu()">
         <i class="fa-solid fa-bars"></i>
       </div>
@@ -39,25 +42,25 @@
         <i class="fa-solid fa-tags"></i>
       </div>
       <a href="products_led.html">
-        <div id="speedProdukt_led"> 
-          <i class="fa-regular fa-lightbulb"></i> 
+        <div id="speedProdukt_led">
+          <i class="fa-regular fa-lightbulb"></i>
         </div>
       </a>
       <a href="page_constr.html">
         <div id="speedProdukt_voltaik">
-          <i class="fa-solid fa-solar-panel"></i> 
+          <i class="fa-solid fa-solar-panel"></i>
         </div>
       </a>
       <a href="page_constr.html">
         <div id="speedProdukt_station">
-          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i> 
+          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
         </div>
       </a>
 
       <!--Navigation-->
-     <nav id="navElement" style="visibility: hidden;">
+      <nav id="navElement" style="visibility: hidden;">
         <ul class="menu" id="menu_in_situ">
-          
+
         </ul>
       </nav>
     </div>
@@ -65,7 +68,8 @@
     <div class="main-text" style="z-index: 3;text-align:center;margin-top: 5%;">
       <h1 style="margin-left: 15%;">Producer of smart LED lighting</h1>
       <h1 style="margin-left: 15%;">Globus Lighting</h1>
-      <p style="margin-left: 15%;">Sorry, page under construction &nbsp<i class="fa-solid fa-screwdriver-wrench"></i></p>
+      <p style="margin-left: 15%;">Sorry, page under construction &nbsp<i class="fa-solid fa-screwdriver-wrench"></i>
+      </p>
       <div class="image_auto">
         <img src="foto/wrocław.jpg" style="border-radius:10px;">
       </div>
@@ -76,6 +80,7 @@
   <!-- indykator skrolowania  -->
   <section>
     <div class="dupp">
+      <h6 id="jezyk_strony" style="color: #222;">0</h6>
       <div class="progress-container">
         <div class="progress-bar" id="myBar"></div>
       </div>
@@ -86,7 +91,7 @@
 
   <section>
     <footer style="background-color: #333;" id="stopka_web">
-      
+
     </footer>
   </section>
   <p id="services"></p>
