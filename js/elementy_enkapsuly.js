@@ -305,13 +305,13 @@ let obiekt_menu_fr=`<li>
             </div>
           </li>
           <li>
-            <a href="page_en_construction.html">
+            <a href="blog.html">
               <i class="fa-solid fa-blog"></i>
               Blog
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="page_en_construction.html">
+            <a href="à_propos_de_nous.html">
               <i class="fa-solid fa-passport"></i>
               À propos de nous
               <i class="fa fa-caret-down"></i>
@@ -479,13 +479,13 @@ let obiekt_menu_pl= ` <li>
             </div>
           </li>
           <li>
-            <a href="strona_w_konstrukcji.html">
+            <a href="blog.html">
               <i class="fa-solid fa-blog"></i>
               Blog
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="strona_w_konstrukcji.html">
+            <a href="o_nas.html">
               <i class="fa-solid fa-passport"></i>
               O nas
               <i class="fa fa-caret-down"></i>
@@ -1158,13 +1158,13 @@ let obiekt_menu_solution_fr=`<li>
             </div>
           </li>
           <li>
-            <a href="../page_en_construction.html">
+            <a href="../blog.html">
               <i class="fa-solid fa-blog"></i>
               Blog
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="../page_en_construction.html">
+            <a href="../à_propos_de_nous.html">
               <i class="fa-solid fa-passport"></i>
               À propos de nous
               <i class="fa fa-caret-down"></i>
@@ -1330,13 +1330,13 @@ let obiekt_menu_solution_pl=` <li>
             </div>
           </li>
           <li>
-            <a href="../strona_w_konstrukcji.html">
+            <a href="../blog.html">
               <i class="fa-solid fa-blog"></i>
               Blog
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="../strona_w_konstrukcji.html">
+            <a href="../o_nas.html">
               <i class="fa-solid fa-passport"></i>
               O nas
               <i class="fa fa-caret-down"></i>

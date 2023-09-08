@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Globus Lighting –À propos de nous </title>
+  <link href="../css/style.css" rel="stylesheet" type="text/css" />
+  <!--<link href="style_produkt.css" rel="stylesheet" type="text/css" /> -->
+  <link rel="shortcut icon" href="../foto/Favikon_globus_tru.png">
+  <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
+    integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <meta http-equiv="last-modified" content="Fri Sep 08 2023 12:48:05 GMT+0200">
+  <style>
+    .neon {
+      color: #fecb00;
+      text-shadow:
+        0 0 5px #fecb00,
+        0 0 10px #fecb00,
+        0 0 15px #fecb00;
+    }
+
+    .span_fecb {
+      color: #fecb00;
+    }
+
+    p {
+      margin-left: 15%;
+    }
+
+    .column_abus {
+      float: left;
+      width: 20%;
+      padding: 10px;
+      height: 250px;
+      border: 4mm ridge rgba(255, 204, 0, .2);
+    }
+
+
+    .row_abus:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .row_abus p {
+      color: #fecb00;
+    }
+
+    .row_abus h2 {
+      color: #fecb00;
+    }
+
+    .btn_abus {
+      margin-left: 15%;
+      width: 70%;
+      color: #e5e5e5;
+      background-color: #222;
+      border: 2px solid #fecb00;
+    }
+
+    .btn_abus:hover {
+      box-shadow: 0 0.5em 0.5em -0.4em #e5ff60;
+      transform: translateY(-0.25em);
+    }
+
+    h2 i {
+      color: #fecb00;
+    }
+
+    .firstcharacter {
+      color: #fecb00;
+      float: left;
+      font-family: Copperplate, Papyrus, fantasy;
+      font-size: 50px;
+      line-height: 45px;
+      padding-right: 4px;
+      padding-left: 3px;
+    }
+
+    @media screen and (max-width: 600px) {
+      .column_abus {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <section id="main">
+    <div id="div_menu">
+      <div>
+         <div id="logo_firmy">
+        <a href="page_d'accueil.html">
+          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="../svg/logo_Globus_lighting_FECB00.svg"
+            onmouseover="this.src='../svg/logo_Globus_lighting.svg'"
+            onmouseout="this.src='../svg/logo_Globus_lighting_FECB00.svg'">
+        </a>
+      </div>
+      <div id="burgerMenu" onclick="togleMenu()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+        <i class="fa-solid fa-bars-staggered"></i>
+      </div>
+      <div id="speedProdukt" onclick="speedProdukt()"><i class="fa-solid fa-tags"></i></div>
+      <a href="../products_led.html?lang=fr">
+        <div id="speedProdukt_led"> <i class="fa-regular fa-lightbulb"></i> </div>
+      </a>
+      <a href="page_en_construction.html">
+        <div id="speedProdukt_voltaik"><i class="fa-solid fa-solar-panel"></i> </div>
+      </a>
+      <a href="page_en_construction.html">
+        <div id="speedProdukt_station"><i class="fa-solid fa-charging-station fa-flip-horizontal"></i> </div>
+      </a>
+
+      <!--Navigation-->
+     <nav id="navElement" style="visibility: hidden;">
+        <ul class="menu" id="menu_in_situ">
+      </nav>
+    </div>
+
+    <div class="image_auto" style="margin-top:25vh;">
+      <img src="../foto/wrocław.jpg" style="border-radius:10px;">
+    </div>
+    <div style="z-index: 3;text-align:center;margin-top: 3%;color:#e5e5e5;width:80%;margin-left:5%;">
+      <h1 style="margin-left: 15%;"> Quelques mots sur <span style="color: #fecb00;">Globus Lighting</span> </h1>
+      <h2 style="margin-left: 15%;margin-top:3%;"> Fabricant d'éclairage LED </h2>
+      <h2 style="margin-left: 15%;"> Histoire  <i class="fa-solid fa-scroll"></i></h2><br>
+
+      <p> <span class="firstcharacter neon">N</span> <span class="span_fecb">ous avons </span> démarré notre activité sur la base de l’expérience d’une des plus grandes entreprises produisant des outils industriels avec près de 100 ans de tradition. De l'entreprise Globus, nous avons créé une société distincte, Globus Lighting, devenant ainsi l'un des producteurs polonais d'éclairage industriel et spécialisé.<br>
+
+Depuis près de 100 ans, Globus produit des outils pour l'industrie, qui constituaient à l'époque la base de toute entreprise professionnelle. En 2007, à la suite de l'approfondissement de la révolution technologique et des changements dans le domaine de l'éclairage LED, une nouvelle société a été créée - Globus Lighting, qui devait s'occuper principalement de la production d'éclairage LED.<br>
+
+Actuellement, Globus Lighting est une entreprise indépendante dotée d’installations de production privées. L'une des étapes les plus importantes dans le développement de l'entreprise a été la création de sa propre section de recherche et développement, indépendante de la société mère Globus. C'est ici que les produits et les composants d'éclairage LED individuels sont conçus, testés et améliorés.</p>
+      <br>
+      <h2 style="margin-left: 15%;">
+        Début d'activité 
+        <i class="fa-regular fa-chess-pawn"></i>
+      </h2><br><br>
+      <p><span class="firstcharacter neon">2</span><span class="span_fecb">007 n'était que le début </span>: il était nécessaire de préparer une ligne de production spécialisée d'éclairage LED, fournissant des composants d'excellente qualité aux clients étrangers et polonais. La première production a commencé quelques années plus tard à Bielsko-Biała et depuis lors, Globus Lighting est devenue l'une des entreprises polonaises les plus importantes fournissant un éclairage LED même aux clients les plus exigeants.
+<br>
+<span class="span_fecb">Mais au début</span>, l’offre se limitait aux seuls produits destinés à l’industrie. Actuellement, Globus Lighting produit et distribue des éclairages pour les bâtiments publics, les hôtels, les salles de sport et les bureaux. Les luminaires LED Globus Lighting sont donc utilisés aussi bien dans les installations industrielles que dans les endroits soumis à des conditions météorologiques difficiles, ce qui ne fait que souligner l'extraordinaire durabilité et fiabilité de l'éclairage LED proposé.</p>
+      <br>
+      <br>
+      <h2 style="margin-left: 15%;"> 
+        Solutions utilisées par Globus Lighting
+        <i class="fa-solid fa-gears"></i>
+      </h2>
+      <br>
+      <br>
+
+      <div class="row_abus" style="margin-left: 15%;">
+        <div class="column_abus" style="background-color:#222;cursor: pointer;" onclick="window.open('')">
+          <h2>Solutions</h2>
+          <p> Éclairage industriel <br></p>
+          <h2><span><i class="fa-solid fa-industry"></i></span></h2>
+        </div>
+        <div class="column_abus" style="background-color:#222;cursor: pointer;" onclick="window.open('')">
+          <h2>Solutions</h2>
+          <p>Lampadaires</p>
+          <h2><span> <i class="fa-solid fa-tree-city"></i></span></h2>
+        </div>
+        <div class="column_abus" style="background-color:#222;cursor: pointer;" onclick="window.open('')">
+          <h2>Solutions</h2>
+          <p>Éclairage d'hôtel</p>
+          <h2><span> <i class="fa-solid fa-landmark"></i></span></h2>
+        </div>
+        <div class="column_abus" style="background-color:#222;cursor: pointer;" onclick="window.open('')">
+          <h2>Solutions</h2>
+          <p>Éclairage de bureau</p>
+          <h2><span><i class="fa-solid fa-business-time"></i></span></h2>
+        </div>
+        <div class="column_abus" style="background-color:#222;cursor: pointer;" onclick="window.open('')">
+          <h2>Solutions</h2>
+          <p>Éclairage anti-explosion</p>
+          <h2><span><i class="fa-solid fa-explosion"></i></span></h2>
+        </div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <button class="btn_abus" onclick="window.open('')">
+        <h3>Découvrez plus de solutions<i class="fa-solid fa-angles-right"></i></h3>
+      </button>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <h2 style="margin-left: 15%;"> L'offre s'adresse aux clients les plus exigeants
+        <i class="fa-solid fa-folder-tree"></i>
+      </h2>
+      <br>
+      <p><span class="firstcharacter neon">C</span><span class="span_fecb">es dernières années</span> , Globus Lighting a atteint une position extrêmement élevée parmi de nombreux concurrents. La perfection du design de nos luminaires est confirmée par le lieu de leur création - les lignes de production sont situées en Pologne. La technologie moderne utilisée pour les produire garantit la sécurité des utilisateurs et génère également des économies croissantes, ce qui se traduira certainement par une réduction des coûts de fonctionnement de l'entreprise. Des composants sans défaut et un éclairage LED de haute qualité ont un grand impact sur la qualité du travail des employés employés dans un lieu donné, augmentant leur efficacité et améliorant leur bien-être.</p>
+      <br>
+      <br>
+      <h2 style="margin-left: 15%;">
+        Qu'est-ce qui nous distingue ? 
+        <i class="fa-solid fa-dice"></i>
+      </h2>
+      <br>
+      <p>
+        <span class="firstcharacter neon">N</span><span class="span_fecb">os clients</span> peuvent compter sur des luminaires entièrement LED, complétés en outre par un système de commande dans le modèle traditionnel ou dans le modèle DALI universel et couramment utilisé. Nous commençons notre travail en créant un projet d'aménagement d'éclairage individuel et nous complétons la documentation avec les coûts nécessaires et, surtout, les informations pertinentes pour calculer le retour sur investissement du remplacement de l'éclairage traditionnel.<br>
+<br>
+<span class="span_fecb">Dans la production</span> de cadres, nous utilisons à la fois des technologies éprouvées et des innovations visant à obtenir le bénéfice économique le plus élevé possible pour tous les clients. Nous nous concentrons également sur la qualité et l'amélioration du confort de travail dans les lieux où l'éclairage traditionnel devrait être remplacé par des luminaires LED. L'essence de notre travail est de fournir des produits de la meilleure qualité, conformes aux dernières normes et innovations technologiques, en tenant compte de tous les besoins des clients.</p>
+      <h2 style="margin-left: 15%;">
+        Exemples de projets
+        <i class="fa-solid fa-filter"></i>
+      </h2>
+      <br>
+      <p><span class="firstcharacter neon">M</span><span class="span_fecb">ême si Globus Lighting</span> n'est entré que récemment sur le marché de l'éclairage LED, nous avons réussi à développer une réputation auprès de nos concurrents. Grâce à cela, nous avons eu l'opportunité de concevoir un éclairage LED professionnel, ainsi qu'un système de contrôle, pour l'entrepôt de la plus grande entreprise alimentaire Mondelez à Skarbimierz, près de Wrocław.<br>
+<br>
+<span class="span_fecb">Les luminaires LED</span> pour Mondelez ont été utilisés dans les conditions HACAP, avec certificat PZHz, tout en respectant les exigences strictes résultant des spécifications de l'industrie alimentaire. La conception de l'éclairage utilise un luminaire LED High Bay, qui s'intègre parfaitement dans les espaces industriels. L'intensité du luminaire dans une pièce au-dessus de 4 mètres est extrêmement confortable pour les employés et leur assure une grande sécurité. En conséquence, l’efficacité et la durabilité de l’éclairage ont augmenté, ce qui a entraîné des économies d’électricité et une réduction des coûts liés au remplacement et à l’entretien de l’éclairage de plus de 60 % !<br>
+<br>
+<span class="span_fecb">Nous avons également développé</span> un projet spécifique de remplacement de l'éclairage pour l'entreprise industrielle Stradom de Częstochowa. L'espace utilise des faisceaux LED Belus étroits avec un système de contrôle DALI, destinés à l'éclairage des halls de production et des entrepôts. La modernisation de l'éclairage LED et l'installation de solutions ciblées sur les postes de travail individuels ont permis d'économiser jusqu'à 70 % des coûts d'électricité.</p>
+<br>
+      <h3 style="margin-top: 5%;margin-left:17%;">Nous vous invitons à coopérer !<br> <a
+          href="mailto:gl@globuslighting.pl"><i class="fa-solid fa-envelope"></i>&nbsp
+          gl@globuslighting.pl </a> </h3>
+      <h3 style="margin-bottom:17px;margin-left:17%;"><a href="tel:+48537119116"> <i class="fa-solid fa-phone"></i>
+          &nbsp +48 537 119
+          116 </a></h3>
+    </div>
+
+    <section>
+      <footer  id="stopka_web" style="background-color: #333;margin-top:2%;position:bottom;border-radius: 25px;margin-left: 17%;" >
+        
+      </footer>
+    </section>
+    </div>
+
+  </section>
+
+  <div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  </div>
+
+  <!-- indykator skrolowania  -->
+  <section>
+    <div class="dupp">
+      <div class="progress-container">
+        <h6 id="jezyk_strony" style="color: #222;">1</h6>
+        <div class="progress-bar" id="myBar"></div>
+      </div>
+    </div>
+  </section>
+<u id="services"></u>
+  <script src="../js/script.js"></script>
+  <script src="../js/elementy_enkapsuly.js"></script>
+</body>
+
+</html>
