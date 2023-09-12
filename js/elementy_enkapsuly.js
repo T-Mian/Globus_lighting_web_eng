@@ -439,7 +439,7 @@ let obiekt_menu_pl= ` <li>
             </div>
           </li>
           <li>
-            <a href="strona_w_konstrukcji.html">
+            <a href="projektowanie.html">
               <i class="fa-solid fa-compass-drafting"></i>
               Projektowanie
             </a>
