@@ -208,7 +208,7 @@ let obiekt_menu_fr=`<li>
             </div>
           </li>
           <li class="dropdown_menu">
-            <a href="page_en_construction.html">
+            <a href="solutions.html">
               <i class="fa-solid fa-pen-ruler"></i>
               <span>
                 Solutions
