@@ -153,7 +153,7 @@ let obiekt_menu_ang = `          <li>
             </div>
           </li>
           <li class="dropdown_menu">
-            <a href="">
+            <a href="#">
               <i class="fa-solid fa-language"></i>
               &nbsp
               <i class="fa fa-caret-down"></i>
@@ -327,7 +327,7 @@ let obiekt_menu_fr=`<li>
             </div>
           </li>
           <li class="dropdown_menu">
-            <a href="">
+            <a href="#">
               <i class="fa-solid fa-language"></i>
               &nbsp
               <i class="fa fa-caret-down"></i>
@@ -355,7 +355,7 @@ let obiekt_menu_pl= ` <li>
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="../products_led.html">
+            <a href="produkty_LED.html">
               <i class="fa-solid fa-tags"></i>
               <span>
                 Produkty
@@ -363,7 +363,7 @@ let obiekt_menu_pl= ` <li>
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="../products_led.html">
+              <a href="produkty_LED.html">
                 <i class="fa-regular fa-lightbulb"></i>
                 Produkty LED
               </a>
@@ -501,7 +501,7 @@ let obiekt_menu_pl= ` <li>
             </div>
           </li>
           <li class="dropdown_menu">
-            <a href="">
+            <a href="#">
               <i class="fa-solid fa-language"></i>
               &nbsp
               <i class="fa fa-caret-down"></i>
@@ -808,10 +808,7 @@ let obiekt_form_contakt_fr=`<div class="form">
 
 
 let obiekt_form_contakt_pl=`      <div class="form">
-        <span class="form-row honey-row">
-          <label for="honey">Boot trap</label>
-          <input type="text" name="honey">
-        </span>
+
         <div class="row">
           <input type="text" name="name" placeholder="Imię (wymagane)" required pattern=.{3,} id="name"
             data-error-text="Błędne wprowadzenie imienia" />

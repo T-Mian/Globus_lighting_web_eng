@@ -1,25 +1,24 @@
 // Tomasz Mianecki
-// versja 1.5
-//let czas_new = 4;
-//let lista_rodzin_produktu = ["Belus", "SQR", "HB-U", "HB-U2"];
-//let obecna_data = new Date();
-//let obecnie_rok = obecna_data.getFullYear();
-//let obecnie_miesiac = obecna_data.getMonth();
-//let obecnie_dzien = obecna_data.getDay();
+// versja 2.0
+
 let flaga_ribbon = ["TOP", "NEW", "NON"];
 let color_ribbon = "#fecb00";
 let hiper_link = ["strona_produktu_led.html"];
 let lista_docelowa_id = ["_industr_carts", "_line_carts", "_tepmer_carts", "_specjal_carts", "_ex_carts", "_zewenetrz_carts", "_sport_zew_carts", "_ofice_carts", "_agro_carts", "_archit_carts"];
 let aktualny_jezyk_strony = document.getElementById("jezyk_strony").innerHTML
 //console.log(aktualny_jezyk_strony)
-
+let adres_pliku_xml_standard ="xml/carty_produkt_catalog.xml"
+let adres_pliku_xml_wyzej_w_hirarhi ="../xml/carty_produkt_catalog.xml"
+let __adres_xml =(aktualny_jezyk_strony<1) ? adres_pliku_xml_standard:adres_pliku_xml_wyzej_w_hirarhi;
+//console.log("__adres_xml")
+//console.log(__adres_xml)
 // funkcjia ładująca plik xml
 function loadDoc() {
   const xhttp = new XMLHttpRequest();
   xhttp.onload = function() {
     funkcjiaOdczytuXML(this);
   }
-  xhttp.open("GET", "xml/carty_produkt_catalog.xml");
+  xhttp.open("GET", __adres_xml);
   xhttp.send();
 }
 

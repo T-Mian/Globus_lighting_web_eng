@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<!-- Strona z Produktami LED -->
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--
+  <meta name="description"  content="">
+  <meta name="keywords" content=""> -->
+  <title>Produkty – Oprawy i systemy oświetleniowe LED</title>
+  <link href="../css/style.css" rel="stylesheet" type="text/css" />
+  <link href="../css/style_produkt.css" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="../foto/Favikon_globus_tru.png">
+  <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
+    integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.0.8/lozad.min.js"
+    integrity="sha512-Nt+V5JYamXCSvlHzNVleriGhTrolnfxckJ8sEXxv/BJ0tKV1HyPDXH+bIFNcUJ5hcthQ95uAeU2JClPT16mFyg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <!-- meta Ostatnia modyfikacja -->
+  <meta http-equiv="last-modified" content="Thu Sep 07 2023 09:40:54 GMT+0200">
+  </style>
+</head>
+
+<!-- sektor body -->
+
+<body>
+  <script>
+    const observer = lozad();
+    observer.observe();
+  </script>
+  <!-- sektor z btn. na poczatek strony -->
+  <section>
+    <div>
+      <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    </div>
+  </section>
+
+  <!--sekcjia dla menu  -->
+  <section>
+    <!-- sekcja z logiem firmy -->
+    <div>
+      <div>
+        <a href="home.html">
+          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="../svg/logo_Globus_lighting_FECB00.svg"
+            onmouseover="this.src='../svg/logo_Globus_lighting.svg'"
+            onmouseout="this.src='../svg/logo_Globus_lighting_FECB00.svg'">
+        </a>
+      </div>
+      <div id="burgerMenu" onclick="togleMenu()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+        <i class="fa-solid fa-bars-staggered"></i>
+      </div>
+      <!-- sektor i speed produkt-->
+      <div id="speedProdukt" onclick="speedProdukt()"><i class="fa-solid fa-tags"></i></div>
+      <a href="produkty_LED.html">
+        <div id="speedProdukt_led"> <i class="fa-regular fa-lightbulb"></i> </div>
+      </a>
+      <a href="strona_w_konstrukcji.html">
+        <div id="speedProdukt_voltaik"><i class="fa-solid fa-solar-panel"></i> </div>
+      </a>
+      <a href="strona_w_konstrukcji.html">
+        <div id="speedProdukt_station"><i class="fa-solid fa-charging-station fa-flip-horizontal"></i> </div>
+      </a>
+      <!-- sekcja z nav -->
+      <nav id="navElement" style="visibility: hidden;">
+        <ul class="menu" id="menu_in_situ">
+
+          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-xmark"></i></li>
+        </ul>
+      </nav>
+    </div>
+  </section>
+
+  <!--sektor Zastosowań  -->
+  <section style="margin-top:3%;">
+    <div id="zastosowanie_produkt">
+
+      <a id="produkt_industr" href="#_industr" title="Hale przemysłowe i magazyny"
+        onclick="zminaKategorii('Hale przemysłowe i magazyny','produkt_industr')"
+        onmouseenter="pokazHint('Hale przemysłowe i magazyny')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 576 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M64 32C46.3 32 32 46.3 32 64V304v48 80c0 26.5 21.5 48 48 48H496c26.5 0 48-21.5 48-48V304 152.2c0-18.2-19.4-29.7-35.4-21.1L352 215.4V152.2c0-18.2-19.4-29.7-35.4-21.1L160 215.4V64c0-17.7-14.3-32-32-32H64z" />
+        </svg>
+      </a>
+
+      <a id="produkt_line" href="#_line" title="Oprawy liniowe i szynowe "
+        onclick="zminaKategorii('Oprawy liniowe i szynowe ','produkt_line')"
+        onmouseenter="pokazHint('Oprawy liniowe i szynowe ')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M5.1 9.2C13.3-1.2 28.4-3.1 38.8 5.1l592 464c10.4 8.2 12.3 23.3 4.1 33.7s-23.3 12.3-33.7 4.1L9.2 42.9C-1.2 34.7-3.1 19.6 5.1 9.2z" />
+        </svg>
+      </a>
+
+      <a id="produkt_tepmer" href="#_tepmer" title="Oprawy do wysokich i niskich temperatur"
+        onclick="zminaKategorii('Oprawy do wysokich i niskich temperatur','produkt_tepmer')"
+        onmouseenter="pokazHint('Oprawy do wysokich i niskich temperatur')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 512 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M416 64a32 32 0 1 1 0 64 32 32 0 1 1 0-64zm0 128A96 96 0 1 0 416 0a96 96 0 1 0 0 192zM96 112c0-26.5 21.5-48 48-48s48 21.5 48 48V276.5c0 17.3 7.1 31.9 15.3 42.5C217.8 332.6 224 349.5 224 368c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-18.5 6.2-35.4 16.7-48.9C88.9 308.4 96 293.8 96 276.5V112zM144 0C82.1 0 32 50.2 32 112V276.5c0 .1-.1 .3-.2 .6c-.2 .6-.8 1.6-1.7 2.8C11.2 304.2 0 334.8 0 368c0 79.5 64.5 144 144 144s144-64.5 144-144c0-33.2-11.2-63.8-30.1-88.1c-.9-1.2-1.5-2.2-1.7-2.8c-.1-.3-.2-.5-.2-.6V112C256 50.2 205.9 0 144 0zm0 416c26.5 0 48-21.5 48-48c0-20.9-13.4-38.7-32-45.3V112c0-8.8-7.2-16-16-16s-16 7.2-16 16V322.7c-18.6 6.6-32 24.4-32 45.3c0 26.5 21.5 48 48 48z" />
+        </svg>
+      </a>
+
+      <a id="produkt_specjal" href="#_specjal" title="Oświetlenie specjalistyczne"
+        onclick="zminaKategorii('Oświetlenie specjalistyczne','produkt_specjal')"
+        onmouseenter="pokazHint('Oświetlenie specjalistyczne')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 576 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M413.5 237.5c-28.2 4.8-58.2-3.6-80-25.4l-38.1-38.1C280.4 159 272 138.8 272 117.6V105.5L192.3 62c-5.3-2.9-8.6-8.6-8.3-14.7s3.9-11.5 9.5-14l47.2-21C259.1 4.2 279 0 299.2 0h18.1c36.7 0 72 14 98.7 39.1l44.6 42c24.2 22.8 33.2 55.7 26.6 86L503 183l8-8c9.4-9.4 24.6-9.4 33.9 0l24 24c9.4 9.4 9.4 24.6 0 33.9l-88 88c-9.4 9.4-24.6 9.4-33.9 0l-24-24c-9.4-9.4-9.4-24.6 0-33.9l8-8-17.5-17.5zM27.4 377.1L260.9 182.6c3.5 4.9 7.5 9.6 11.8 14l38.1 38.1c6 6 12.4 11.2 19.2 15.7L134.9 484.6c-14.5 17.4-36 27.4-58.6 27.4C34.1 512 0 477.8 0 435.7c0-22.6 10.1-44.1 27.4-58.6z" />
+        </svg>
+      </a>
+
+      <a id="produkt_ex" href="#_ex" title="Oprawy przeciwwybuchowe"
+        onclick="zminaKategorii('Oprawy przeciwwybuchowe','produkt_ex')"
+        onmouseenter="pokazHint('Oprawy przeciwwybuchowe')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 576 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M499.6 11.3c6.7-10.7 20.5-14.5 31.7-8.5s15.8 19.5 10.6 31L404.8 338.6c2.2 2.3 4.3 4.7 6.3 7.1l97.2-54.7c10.5-5.9 23.6-3.1 30.9 6.4s6.3 23-2.2 31.5l-87 87H378.5c-13.2-37.3-48.7-64-90.5-64s-77.4 26.7-90.5 64H117.8L42.3 363.7c-9.7-6.7-13.1-19.6-7.9-30.3s17.4-15.9 28.7-12.4l97.2 30.4c3-3.9 6.1-7.7 9.4-11.3L107.4 236.3c-6.1-10.1-3.9-23.1 5.1-30.7s22.2-7.5 31.1 .1L246 293.6c1.5-.4 3-.8 4.5-1.1l13.6-142.7c1.2-12.3 11.5-21.7 23.9-21.7s22.7 9.4 23.9 21.7l13.5 141.9L499.6 11.3zM64 448v0H512v0h32c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H64zM288 0c13.3 0 24 10.7 24 24V72c0 13.3-10.7 24-24 24s-24-10.7-24-24V24c0-13.3 10.7-24 24-24z" />
+        </svg>
+      </a>
+
+      <a id="produkt_zewenetrz" href="#_zewenetrz" title="Oświetlenie zewnętrzne"
+        onclick="zminaKategorii('Oświetlenie zewnętrzne','produkt_zewenetrz')" onmouseenter="pokazHint('Oświetlenie zewnętrzne')"
+        onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M288 48c0-26.5 21.5-48 48-48h96c26.5 0 48 21.5 48 48V192h40V120c0-13.3 10.7-24 24-24s24 10.7 24 24v72h24c26.5 0 48 21.5 48 48V464c0 26.5-21.5 48-48 48H432 336c-26.5 0-48-21.5-48-48V48zm64 32v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V80c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16zm16 80c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V176c0-8.8-7.2-16-16-16H368zM352 272v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V272c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16zm176-16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V272c0-8.8-7.2-16-16-16H528zM512 368v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V368c0-8.8-7.2-16-16-16H528c-8.8 0-16 7.2-16 16zM224 160c0 6-1 11-2 16c20 14 34 38 34 64c0 45-36 80-80 80H160V480c0 18-15 32-32 32c-18 0-32-14-32-32V320H80c-45 0-80-35-80-80c0-26 13-50 33-64c-1-5-1-10-1-16c0-53 42-96 96-96c53 0 96 43 96 96z" />
+        </svg>
+
+      </a>
+
+      <a id="produkt_sport_zew" href="#_sport_zew" title="Obiekty sportowe i tereny zewnętrzne"
+        onclick="zminaKategorii('Obiekty sportowe i tereny zewnętrzne','produkt_sport_zew')"
+        onmouseenter="pokazHint('Obiekty sportowe i tereny zewnętrzne')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M400 96a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm27.2 64l-61.8-48.8c-17.3-13.6-41.7-13.8-59.1-.3l-83.1 64.2c-30.7 23.8-28.5 70.8 4.3 91.6L288 305.1V416c0 17.7 14.3 32 32 32s32-14.3 32-32V288c0-10.7-5.3-20.7-14.2-26.6L295 232.9l60.3-48.5L396 217c5.7 4.5 12.7 7 20 7h64c17.7 0 32-14.3 32-32s-14.3-32-32-32H427.2zM56 384a72 72 0 1 1 144 0A72 72 0 1 1 56 384zm200 0A128 128 0 1 0 0 384a128 128 0 1 0 256 0zm184 0a72 72 0 1 1 144 0 72 72 0 1 1 -144 0zm200 0a128 128 0 1 0 -256 0 128 128 0 1 0 256 0z" />
+        </svg>
+
+      </a>
+
+      <a id="produkt_ofice" href="#_ofice" title="Biura i pomieszczenia socjalne"
+        onclick="zminaKategorii('Biura i pomieszczenia socjalne','produkt_ofice')"
+        onmouseenter="pokazHint('Biura i pomieszczenia socjalne')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 640 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M184 48H328c4.4 0 8 3.6 8 8V96H176V56c0-4.4 3.6-8 8-8zm-56 8V96H64C28.7 96 0 124.7 0 160v96H192 352h8.2c32.3-39.1 81.1-64 135.8-64c5.4 0 10.7 .2 16 .7V160c0-35.3-28.7-64-64-64H384V56c0-30.9-25.1-56-56-56H184c-30.9 0-56 25.1-56 56zM320 352H224c-17.7 0-32-14.3-32-32V288H0V416c0 35.3 28.7 64 64 64H360.2C335.1 449.6 320 410.5 320 368c0-5.4 .2-10.7 .7-16l-.7 0zm320 16a144 144 0 1 0 -288 0 144 144 0 1 0 288 0zM496 288c8.8 0 16 7.2 16 16v48h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H496c-8.8 0-16-7.2-16-16V304c0-8.8 7.2-16 16-16z" />
+        </svg>
+      </a>
+
+      <a id="produkt_agro" href="#_agro" title="Oprawy do uprawy roślin"
+        onclick="zminaKategorii('Oprawy do uprawy roślin','produkt_agro')"
+        onmouseenter="pokazHint('Oprawy do uprawy roślin')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 512 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M512 32c0 113.6-84.6 207.5-194.2 222c-7.1-53.4-30.6-101.6-65.3-139.3C290.8 46.3 364 0 448 0h32c17.7 0 32 14.3 32 32zM0 96C0 78.3 14.3 64 32 64H64c123.7 0 224 100.3 224 224v32V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V320C100.3 320 0 219.7 0 96z" />
+        </svg>
+      </a>
+
+      <a id="produkt_archit" href="#_archit" title="Oświetlenie architektoniczne"
+        onclick="zminaKategorii('Oświetlenie architektoniczne','produkt_archit')"
+        onmouseenter="pokazHint('Oświetlenie architektoniczne')" onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 512 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M240.1 4.2c9.8-5.6 21.9-5.6 31.8 0l171.8 98.1L448 104l0 .9 47.9 27.4c12.6 7.2 18.8 22 15.1 36s-16.4 23.8-30.9 23.8H32c-14.5 0-27.2-9.8-30.9-23.8s2.5-28.8 15.1-36L64 104.9V104l4.4-1.6L240.1 4.2zM64 224h64V416h40V224h64V416h48V224h64V416h40V224h64V420.3c.6 .3 1.2 .7 1.8 1.1l48 32c11.7 7.8 17 22.4 12.9 35.9S494.1 512 480 512H32c-14.1 0-26.5-9.2-30.6-22.7s1.1-28.1 12.9-35.9l48-32c.6-.4 1.2-.7 1.8-1.1V224z" />
+        </svg>
+      </a>
+
+      <a id="produkt_catalog" href="#zastosowanie_produkt" title="Katalog"
+        onclick="zminaKategorii('Katalog','produkt_catalog')" onmouseenter="pokazHint('Katalog')"
+        onmouseleave="schowajHint()">
+        <svg xmlns="http://www.w3.org/2000/svg" class="heexx" viewBox="0 0 572 512">
+          <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License -
+            https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+          <path
+            d="M528.3 46.5H388.5c-48.1 0-89.9 33.3-100.4 80.3-10.6-47-52.3-80.3-100.4-80.3H48c-26.5 0-48 21.5-48 48v245.8c0 26.5 21.5 48 48 48h89.7c102.2 0 132.7 24.4 147.3 75 .7 2.8 5.2 2.8 6 0 14.7-50.6 45.2-75 147.3-75H528c26.5 0 48-21.5 48-48V94.6c0-26.4-21.3-47.9-47.7-48.1zM242 311.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5V289c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5V251zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm259.3 121.7c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5V228c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5v-22.8c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5V190z" />
+        </svg>
+      </a>
+    </div>
+  </section>
+
+  <!-- text dla bg -->
+  <div class="bg" style="z-index:2;opacity: 0.2;">
+    <h1>Produkty</h1>
+    <h1 style="text-align:center;">LED</h1>
+  </div>
+
+  <!-- obszar z kartami produktów plus  -->
+  <h2 class="category_produkt">
+    <span id="text_categorii">
+      Katalog
+    </span>
+    <em id="hint"></em>
+  </h2>
+
+  <section class="content_wraper" style="text-align: center;z-index:8;">
+    <!-- sektor dla produktów -->
+    <section class="body_produkt" id="alfa">
+      <!-- przepysl_magazyn  -->
+      <div id="_industr" class="zastosowania_zgrupowanie_kart">
+        <h2 class="category_produkt" style="margin-top: 1px;">
+          <i class="fa-solid fa-industry"></i>
+        </h2>
+        <!--carts -->
+        <div id="_industr_carts" class="zastosowania_zgrupowanie_kart">
+        </div>
+      </div>
+      <!-- liniowe-->
+      <div id="_line" class="zastosowania_zgrupowanie_kart">
+        <h2 class="category_produkt">
+          <i class="fa-solid fa-slash"></i>
+        </h2>
+        <!--carts -->
+        <div id="_line_carts" class="zastosowania_zgrupowanie_kart">
+        </div>
+      </div>
+      <!--temperatury -->
+      <div id="_tepmer" class="zastosowania_zgrupowanie_kart">
+        <h2 class="category_produkt">
+          <i class="fa-solid fa-temperature-high"></i>
+        </h2>
+        <!--carts -->
+        <div id="_tepmer_carts" class="zastosowania_zgrupowanie_kart">
+        </div>
+      </div>
+      <!--specjalistyczne -->
+      <div id="_specjal" class="zastosowania_zgrupowanie_kart">
+        <h2 class="category_produkt">
+          <i class="fa-solid fa-hammer"></i>
+        </h2>
+        <!--carts -->
+        <div id="_specjal_carts" class="zastosowania_zgrupowanie_kart">
+        </div>
+      </div>
+      <!--przeciwwybuchowe-->
+      <div id="_ex" class="zastosowania_zgrupowanie_kart">
+        <h2 class="category_produkt">
+          <i class="fa-solid fa-explosion"></i>
+        </h2>
+        <!--carts -->
+        <div id="_ex_carts" class="zastosowania_zgrupowanie_kart">
+        </div>
+      </div>
+      <!-- zewnetrzne -->
+      <div id="_zewenetrz" class="zastosowania_zgrupowanie_kart">
+        <h2 class="category_produkt">
+          <i class="fa-solid fa-tree-city"></i>
+        </h2>
+        <!--carts -->
+        <div id="_zewenetrz_carts" class="zastosowania_zgrupowanie_kart">
+        </div>
+      </div>
+      <!-- sportowe -->
+      <div id="_sport_zew" class="zastosowania_zgrupowanie_kart">
+        <h2 class="category_produkt">
+          <i class="fa-solid fa-person-biking"></i>
+        </h2>
+        <!--carts -->
+        <div id="_sport_zew_carts" class="zastosowania_zgrupowanie_kart">
+        </div>
+      </div>
+      <!-- biorowe -->
+      <div id="_ofice" class="zastosowania_zgrupowanie_kart">
+        <h2 class="category_produkt">
+          <i class="fa-solid fa-business-time"></i>
+        </h2>
+        <!--carts -->
+        <div id="_ofice_carts" class="zastosowania_zgrupowanie_kart">
+        </div>
+      </div>
+      <!-- do_roslin -->
+      <div id="_agro" class="zastosowania_zgrupowanie_kart">
+        <h2 class="category_produkt">
+          <i class="fa-solid fa-seedling"></i>
+        </h2>
+        <!--carts -->
+        <div id="_agro_carts" class="zastosowania_zgrupowanie_kart">
+        </div>
+      </div>
+      <!-- do_aritektury -->
+      <div id="_archit" class="zastosowania_zgrupowanie_kart">
+
+        <h2 class="category_produkt">
+          <i class="fa-solid fa-landmark"></i>
+        </h2>
+        <!--carts -->
+        <div id="_archit_carts" class="zastosowania_zgrupowanie_kart">
+        </div>
+      </div>
+      <div id="produktY_text">
+
+      </div>
+      <div >
+        <form class="form" style="margin-left: 35% ;margin-top:50px;" id="contactForm" method="post" action="../send-script.php">
+          
+        </form>
+        <footer style="background-color: #333;margin-top: 150px;border-radius:25px;" id="stopka_web">
+
+        </footer>
+      </div>
+    </section>
+<h6 id="jezyk_strony" style="color: #22222200;opacity: 0.1;">2</h6>
+  </section>
+  <div id="services" style="z-index:-10;margin-bottom: 1px;"></div>
+  <!-- sektor dla progresBar-->
+  <section style="z-index:2;">
+    <div class="dupp">
+      <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+      </div>
+    </div>
+  </section>
+  <script src="../js/contakt.js"></script>
+  <script src="../js/script_tworzenie_kart_produktu.js"></script>
+  <script src="../js/elementy_enkapsuly.js"></script>
+  <script src="../js/script.js"></script>
+
+</body>
+
+</html>
