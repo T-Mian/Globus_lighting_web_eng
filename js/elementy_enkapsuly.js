@@ -271,7 +271,7 @@ let obiekt_menu_fr=`<li>
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="page_en_construction.html">
+            <a href="implémentations.html">
               <i class="fa-solid fa-landmark-dome"></i>
               <span>
                 Réalisations
