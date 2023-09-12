@@ -1556,7 +1556,11 @@ let obiekt_speed_menu_solution_pl=` <a href="../produkty_LED.html">
 
 //  <script src="../js/elementy_enkapsuly.js"></script>
 
-//<article id="__sped_Menu_Produkt">
+//  <article id="__sped_Menu_Produkt">
+// <h6 id="jezyk_strony" style="color: #22222200;opacity: 0.1;" >0</h6>
+// <h6 id="jezyk_strony" style="color: #22222200;opacity: 0.1;">1</h6>
+// <h6 id="jezyk_strony" style="color: #22222200;opacity: 0.1;">2</h6>
+
 
 
 let flaga_wersji_jezykowej =document.getElementById("jezyk_strony");
