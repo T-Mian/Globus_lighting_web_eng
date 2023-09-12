@@ -181,7 +181,7 @@ let obiekt_menu_fr=`<li>
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="../products_led.html">
+            <a href="produits_Led.html">
               <i class="fa-solid fa-tags"></i>
               <span>
                 Des produits
@@ -189,7 +189,7 @@ let obiekt_menu_fr=`<li>
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="../products_led.html">
+              <a href="produits_Led.html">
                 <i class="fa-regular fa-lightbulb"></i>
                 Luminaires à LED
               </a>

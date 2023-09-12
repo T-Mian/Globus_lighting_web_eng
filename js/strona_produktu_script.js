@@ -16,7 +16,7 @@ let res = "";
 var id_pr = 0
 var jezyk_przychodzacy =""
 var flaga_językaAflfa=0
-
+let _jezyk_strony = document.getElementById("jezyk_strony")
 // dekodowanie adresu
 parametry = encodeURI(window.location.href).split("?");
 if (parametry.length > 1) {
@@ -254,37 +254,6 @@ function langeSet(nr) {
   } 
   translate_web(nr)
   
-/*
-  let span_product_description = document.getElementById("product_description_span");
-  let span_photometry = document.getElementById("photometry_span");
-  let span_info = document.getElementById("info_span");
-  let span_configurations = document.getElementById("configurations_span");
-  switch (nr) {
-    case 0:
-      span_product_description.innerHTML = "Product description :";
-      span_photometry.innerHTML = "Photometry";
-      span_info.innerHTML = "Info";
-      span_configurations.innerHTML = "Configurations available :";
-      break;
-    case 1:
-      span_product_description.innerHTML = "Description du produit :";
-      span_photometry.innerHTML = "Photométrie";
-      span_info.innerHTML = "Info";
-      span_configurations.innerHTML = "Paramétrages disponibles :";
-      break;
-    case 2:
-      span_product_description.innerHTML = "Opis produktu :";
-      span_photometry.innerHTML = "Fotometria";
-      span_info.innerHTML = "Informacje";
-      span_configurations.innerHTML = "Dostępne konfiguracje:";
-      break;
-    default:
-      span_product_description.innerHTML = "Product description :";
-      span_photometry.innerHTML = "Photometry";
-      span_info.innerHTML = "Info";
-      span_configurations.innerHTML = "Configurations available :";
-      console.log("langeSet switch default")
-  }*/
 }
 
 function translate_web(nr){
@@ -292,24 +261,28 @@ function translate_web(nr){
   let span_photometry = document.getElementById("photometry_span");
   let span_info = document.getElementById("info_span");
   let span_configurations = document.getElementById("configurations_span");
+  let _jezyk_strony = document.getElementById("jezyk_strony")
   switch (nr) {
     case 0:
       span_product_description.innerHTML = "Product description :";
       span_photometry.innerHTML = "Photometry";
       span_info.innerHTML = "Info";
       span_configurations.innerHTML = "Configurations available :";
+      _jezyk_strony.innerHTML=0
       break;
     case 1:
       span_product_description.innerHTML = "Description du produit :";
       span_photometry.innerHTML = "Photométrie";
       span_info.innerHTML = "Info";
       span_configurations.innerHTML = "Paramétrages disponibles :";
+      _jezyk_strony.innerHTML=1
       break;
     case 2:
       span_product_description.innerHTML = "Opis produktu :";
       span_photometry.innerHTML = "Fotometria";
       span_info.innerHTML = "Informacje";
       span_configurations.innerHTML = "Dostępne konfiguracje:";
+      _jezyk_strony.innerHTML=2
       break;
     default:
       span_product_description.innerHTML = "Product description :";
@@ -317,6 +290,7 @@ function translate_web(nr){
       span_info.innerHTML = "Info";
       span_configurations.innerHTML = "Configurations available :";
       console.log("langeSet switch default")
+      _jezyk_strony.innerHTML=0
   }
 }
 

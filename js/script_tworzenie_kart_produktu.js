@@ -89,6 +89,7 @@ function doInnerHtmll(cel, cartt) {
 
 
 function kreacjia_karty(a, b, c, d, e) {
+  
   let aa = parseInt(a)
   aa -= 1
   let spec = b + ".html?"+aktualny_jezyk_strony+"nrId=" + aa + '"'
@@ -122,10 +123,9 @@ function funkcjiaOdczytuXML(xml) {
     let flaga = x[i].getElementsByTagName("FLAGA")[0].childNodes[0].nodeValue;
     let stronaWeb = x[i].getElementsByTagName("STRONA_WEB")[0].childNodes[0].nodeValue;
     let div_flaga = flagowanie(flaga);
-
-
-    var carta = kreacjia_karty(numerId, stronaWeb, alt, div_flaga, rodzina)
-    //console.log(carta)
+    let test_strony = (aktualny_jezyk_strony<1) ? stronaWeb:"../"+stronaWeb
+    var carta = kreacjia_karty(numerId, test_strony, alt, div_flaga, rodzina)
+    console.log(carta)
     doInnerHtmll(categoria, carta)
 
   }
