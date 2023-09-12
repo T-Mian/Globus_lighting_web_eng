@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Globus Lighting –Kariera </title>
+  <link href="../css/style.css" rel="stylesheet" type="text/css" />
+  <!--<link href="style_produkt.css" rel="stylesheet" type="text/css" /> -->
+  <link rel="shortcut icon" href="../foto/Favikon_globus_tru.png">
+  <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
+    integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <meta http-equiv="last-modified" content="Thu Sep 07 2023 09:40:54 GMT+0200">
+  <style>
+    .neon {
+      color: #fecb00;
+      text-shadow:
+        0 0 5px #fecb00,
+        0 0 10px #fecb00,
+        0 0 15px #fecb00;
+    }
+
+    .span_fecb {
+      color: #fecb00;
+    }
+
+    p {
+      margin-left: 15%;
+    }
+
+    .column_abus {
+      float: left;
+      width: 33%;
+      padding: 10px;
+      height: 300px;
+      border: 4mm ridge rgba(255, 204, 0, .2);
+    }
+
+    p span {
+      font-weight: bold;
+    }
+
+    .row_abus:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .row_abus p {
+      color: #fecb00;
+    }
+
+    .row_abus h2 {
+      color: #fecb00;
+    }
+
+    .btn_abus {
+      margin-left: 15%;
+      width: 70%;
+      color: #e5e5e5;
+      background-color: #222;
+      border: 2px solid #fecb00;
+    }
+
+    .btn_abus:hover {
+      box-shadow: 0 0.5em 0.5em -0.4em #e5ff60;
+      transform: translateY(-0.25em);
+    }
+
+    h2 i {
+      color: #fecb00;
+    }
+
+    .firstcharacter {
+      color: #fecb00;
+      float: left;
+      font-family: Copperplate, Papyrus, fantasy;
+      font-size: 50px;
+      line-height: 45px;
+      padding-right: 4px;
+      padding-left: 3px;
+    }
+
+    @media screen and (max-width: 850px) {
+      .column_abus {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <section id="main">
+    <div id="div_menu">
+      <div>
+        <a href="home.html">
+          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="../svg/logo_Globus_lighting_FECB00.svg"
+            onmouseover="this.src='../svg/logo_Globus_lighting.svg'"
+            onmouseout="this.src='../svg/logo_Globus_lighting_FECB00.svg'">
+        </a>
+      </div>
+
+      <div id="burgerMenu" onclick="togleMenu()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+        <i class="fa-solid fa-bars-staggered"></i>
+      </div>
+      <div id="speedProdukt" onclick="speedProdukt()">
+        <i class="fa-solid fa-tags"></i>
+      </div>
+      <a href="../products_led.html">
+        <div id="speedProdukt_led">
+          <i class="fa-regular fa-lightbulb"></i>
+        </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_voltaik">
+          <i class="fa-solid fa-solar-panel"></i>
+        </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_station">
+          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+        </div>
+      </a>
+
+      <!--Navigation-->
+      <nav id="navElement" style="visibility: hidden;">
+        <ul class="menu" id="menu_in_situ">
+          
+        </ul>
+      </nav>
+    </div>
+
+
+    <div style="z-index: 3;text-align:center;margin-top: 25vh;color:#e5e5e5;width:80%;margin-left:5%;">
+      <h1 style="margin-left: 15%;"> <span class="neon">K</span>ariera </h1>
+      <h2 style="margin-left: 15%;margin-top:3%; font-family: Copperplate, Papyrus, fantasy;">
+        Rozpocznij z nami swoja nowa kariere
+      </h2>
+
+      <div class="image_auto" style="margin-top:6%;">
+        <img src="https://www.globuslighting.pl/wp-content/uploads/2018/11/projekty-o%C5%9Bwietlenia.jpg"
+          style="border-radius:10px;">
+      </div>
+
+      <p> <span class="firstcharacter neon">J</span> <span style="color: #fecb00;">e</span>steśmy innowacyjną firmą powstałą dzięki doświadczeniom produkcyjnych firmy Globus, która od blisko 100 lat produkuje narzędzia dla przemysłu. Nasze oprawy LED produkowane są w Polsce, dzięki czemu możemy się szczycić wysoką jakością produktów oraz dużą szybkością reakcji na potrzeby naszych klientów. Koncentrujemy się na tym aby wykorzystywać innowacje technologiczne dla korzyści naszych odbiorców. Poszukujemy osób, z którymi wspólnie zadbamy o dalszy rozwój firmy</p>
+      <br>
+      <br>
+      <h2 style="margin-left: 15%;margin-top:3%;font-family: Copperplate, Papyrus, fantasy;">Poszukiwany</h2>
+      <br>
+      <br>
+      <div class="row_abus" style="margin-left: 15%;">
+        <div class="column_abus" style="background-color:#222;">
+          <h2>Doradca Techniczny Sprzedaży</h2>
+          <p>Polska Zachodnia</p>
+          <p>Miejsce pracy: dolnośląskie, opolskie, lubuskie, wielkopolskie, zachodniopomorskie </p>
+          <p style="text-decoration: underline;"><a
+              href="https://www.globuslighting.pl/wp-content/uploads/2016/02/RKS-PZ-GL.pdf">Zobacz więcej</a></p><br><br><br>
+
+        </div>
+        <div class="column_abus" style="background-color:#222;opacity: 0.3;">
+          <h2>Doradca Techniczny Sprzedaży</h2>
+          <p> Polska Centralna</p>
+          <p>Miejsce pracy: reszta województw </p>
+          <p>Zobacz więcej </p>
+        </div>
+        <div class="column_abus" style="background-color:#222;">
+          <h2>Doradca Techniczny Sprzedaży</h2>
+          <p>Polska Północna</p>
+          <p>Miejsce pracy:wielkopolskie, zachodnio-pomorskie, kujawsko-pomorskie,
+warmińsko-mazurskie, pomorskie</p>
+          <p style="text-decoration: underline;"><a
+              href="https://www.globuslighting.pl/wp-content/uploads/2016/02/RKS-PN-GL.pdf">
+            Zobacz więcej</a></p>
+          <br><br><br>
+        </div>
+      </div>
+
+      <div class="image_auto" style="margin-top:6%;">
+        <img
+          src="https://www.globuslighting.pl/wp-content/uploads/bfi_thumb/oswietlona-elewacja-hotelu-3h9s58qo0f2jhi6ii9y58q.jpeg"
+          style="border-radius:10px;">
+      </div>
+      <br>
+      <br>
+      <br>
+      <h2 style="margin-left: 15%;">
+        PROCES REKRUTACJI 
+      </h2>
+      <br>
+      <h3 style="margin-left: 15%;">
+        <span class="span_fecb">
+          Etap 1
+        </span> 
+        -Przesłanie dokumentów aplikacyjnych
+      </h3>
+      <br>
+      <p> Oferty pracy znajdują się w zakładce „oferty pracy”. Dokumenty aplikacyjne czyli CV i list motywacyjny należy przesłać na adres 
+        <a href="mailto:praca@globuslighting.pl">
+          praca@globuslighting.pl
+        </a> umieszczając w temacie nazwę stanowiska pracy
+      </p>
+      <br>
+      <h3 style="margin-left: 15%;">
+        <span class="span_fecb">
+          Etap 2
+        </span>
+        - Analiza i selekcja dokumentów aplikacyjnych
+      </h3>
+      <br>
+      <p>
+        Na wstępie zapoznajemy się z nadesłanymi dokumentami i analizujemy je pod kątem profilu zawodowego oraz zgodności z wymaganiami zamieszczonymi w ogłoszeniu. Na podstawie tej analizy wybieramy osoby, które zostają zaproszone na rozmowę kwalifikacyjną. Jest to tzw. etap wstępnej selekcji kandydatów.
+      </p>
+      <br>
+      <h3 style="margin-left: 15%;">
+        <span class="span_fecb">
+          Etap 3
+        </span>
+        - Spotkania kwalifikacyjne
+      </h3>
+      <br>
+      <p>
+        Spotkania pozwalają na uzyskanie dodatkowych informacji na temat wiedzy, umiejętności i doświadczenia kandydata.
+      </p>
+      <br>
+      <h3 style="margin-left: 15%;">
+        <span class="span_fecb">
+          Etap 4 
+        </span>
+        - Złożenie oferty współpracy i zakończenie procesu rekrutacji
+        <br>
+      </h3>
+      <p>
+        Oferta zawiera nazwę stanowiska, okres na jaki zawierana jest umowa, kwotę wynagrodzenia i inne warunki związane z poszczególnymi stanowiskami pracy. Każdy kandydat, który brał udział w danym procesie rekrutacyjnym otrzyma informację zwrotną o jego wyniku. Wiadomość tą przekażemy w formie mailowej lub telefonicznej.
+      </p>
+
+      <h3 style="margin-top: 5%;margin-left:17%;">Skontaktuj się z nami<br> <a href="mailto:gl@globuslighting.pl"><i
+            class="fa-solid fa-envelope"></i>&nbsp
+          gl@globuslighting.pl </a> </h3>
+      <h3 style="margin-bottom:17px;margin-left:17%;"><a href="tel:+48537119116"> <i class="fa-solid fa-phone"></i>
+          &nbsp +48 537 119
+          116 </a></h3>
+    </div>
+
+    <section>
+      <footer id="stopka_web" style="background-color: #333;margin-top:2%;position:bottom;border-radius: 25px;margin-left: 17%;">
+        
+      </footer>
+    </section>
+    </div>
+<h6 id="jezyk_strony" style="color: #22222200;opacity: 0.1;">2</h6>
+  </section>
+
+  <div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  </div>
+
+  <!-- indykator skrolowania  -->
+  <section>
+    <div class="dupp">
+      
+      <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+      </div>
+    </div>
+  </section>
+
+  <p id="services"></p>
+
+
+  <script src="../js/script.js"></script>
+  <script src="../js/elementy_enkapsuly.js"></script>
+</body>
+
+</html>

@@ -181,7 +181,7 @@ let obiekt_menu_fr=`<li>
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="../products_led.html?lang=fr">
+            <a href="../products_led.html">
               <i class="fa-solid fa-tags"></i>
               <span>
                 Des produits
@@ -189,7 +189,7 @@ let obiekt_menu_fr=`<li>
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="page_en_construction.html">
+              <a href="../products_led.html">
                 <i class="fa-regular fa-lightbulb"></i>
                 Luminaires à LED
               </a>
@@ -317,7 +317,7 @@ let obiekt_menu_fr=`<li>
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="page_en_construction.html">
+              <a href="carrière.html">
                 <i class="fa-regular fa-id-badge"></i>
                 Carrière</a>
               <a href="page_en_construction.html">
@@ -355,7 +355,7 @@ let obiekt_menu_pl= ` <li>
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="../products_led.html?lang=pl">
+            <a href="../products_led.html">
               <i class="fa-solid fa-tags"></i>
               <span>
                 Produkty
@@ -382,7 +382,7 @@ let obiekt_menu_pl= ` <li>
             </div>
           </li>
           <li class="dropdown_menu">
-            <a href="strona_w_konstrukcji.html">
+            <a href="rozwiązania.html">
               <i class="fa-solid fa-pen-ruler"></i>
               <span>
                 Rozwiązania
@@ -491,7 +491,7 @@ let obiekt_menu_pl= ` <li>
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="strona_w_konstrukcji.html">
+              <a href="kariera.html">
                 <i class="fa-regular fa-id-badge"></i>
                 Kariera</a>
               <a href="strona_w_konstrukcji.html">

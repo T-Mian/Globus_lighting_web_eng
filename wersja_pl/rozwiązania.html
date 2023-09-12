@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+
+<head>
+  <!--Finansowanie -->
+  <!--financing -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Globus Lighting – Nowoczesne rozwiązania oświetleniowe – inteligentne oświetlenie </title>
+  <link href="../css/style.css" rel="stylesheet" type="text/css" />
+  <!--<link href="style_produkt.css" rel="stylesheet" type="text/css" /> -->
+  <link rel="shortcut icon" href="../foto/Favikon_globus_tru.png">
+  <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
+    integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <meta http-equiv="last-modified" content="Thu Sep 07 2023 09:40:54 GMT+0200">
+  <style>
+    .span_fecb {
+      color: #fecb00;
+    }
+
+    p {
+      margin-left: 15%;
+    }
+
+    /*Dla galeri z animacją  */
+    .container_galeria {
+      position: relative;
+      width: 1160px;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      transform-style: preserve-3d;
+      perspective: 500px;
+      margin-left: 20%;
+    }
+
+    .container_galeria .box {
+      position: relative;
+      width: 275px;
+      height: 275px;
+      background: #333;
+      transition: 0.5s;
+      transform-style: preserve-3d;
+      overflow: hidden;
+      margin-right: 15px;
+      margin-top: 45px;
+    }
+
+    .container_galeria:hover .box {
+      transform: rotateY(25deg);
+    }
+
+    .container_galeria .box:hover~.box {
+      transform: rotateY(-25deg);
+    }
+
+    .container_galeria .box:hover {
+      transform: rotateY(0deg) scale(1.25);
+      z-index: 1;
+      box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
+    }
+
+    .container_galeria .box .imgBx {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    .container_galeria .box .imgBx:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(180deg, #fecb00, #e5e5e5);
+      z-index: 1;
+      opacity: 0;
+      transition: 0.5s;
+      mix-blend-mode: multiply;
+    }
+
+    .container_galeria .box:hover .imgBx:before {
+      opacity: 1;
+    }
+
+    .container_galeria .box .imgBx img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .container_galeria .box .content {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 1;
+      display: flex;
+      padding: 20px;
+      align-items: flex-end;
+      box-sizing: border-box;
+      cursor: pointer;
+    }
+
+    .container_galeria .box .content h2 {
+      color: #760DC6;
+      transition: 0.5s;
+      text-transform: uppercase;
+      margin-bottom: 5px;
+      font-size: 20px;
+      transform: translateY(200px);
+      transition-delay: 0.1s;
+    }
+
+    .container_galeria .box:hover .content h2 {
+      transform: translateY(0px);
+    }
+
+    .container_galeria .box .content p {
+      margin-left: -5%;
+      color: #FF00FF;
+      transition: 0.5s;
+      font-size: 14px;
+      transform: translateY(200px);
+      transition-delay: 0.4s;
+    }
+
+    .container_galeria .box:hover .content p {
+      transform: translateY(0px);
+    }
+  </style>
+</head>
+
+<body>
+  <section id="main">
+    <div id="div_menu">
+      <div>
+        <a href="home.html">
+          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="../svg/logo_Globus_lighting_FECB00.svg"
+            onmouseover="this.src='../svg/logo_Globus_lighting.svg'"
+            onmouseout="this.src='../svg/logo_Globus_lighting_FECB00.svg'">
+        </a>
+      </div>
+
+      <div id="burgerMenu" onclick="togleMenu()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+        <i class="fa-solid fa-bars-staggered"></i>
+      </div>
+      <div id="speedProdukt" onclick="speedProdukt()">
+        <i class="fa-solid fa-tags"></i>
+      </div>
+      <a href="../products_led.html">
+        <div id="speedProdukt_led">
+          <i class="fa-regular fa-lightbulb"></i>
+        </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_voltaik">
+          <i class="fa-solid fa-solar-panel"></i>
+        </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_station">
+          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+        </div>
+      </a>
+
+      <!--Navigation-->
+      <nav id="navElement" style="visibility: hidden;">
+        <ul class="menu" id="menu_in_situ">
+         
+        </ul>
+      </nav>
+    </div>
+
+    <div style="z-index: 3;text-align:center;margin-top: 25vh;color:#e5e5e5;width:80%;margin-left:5%;">
+      <h1 style="margin-left: 15%;">Rozwiązania oświetleniowe</h1>
+      <h1 style="margin-left: 15%;">Inteligentne oświetlenie</h1>
+      <div class="image_auto">
+        <img src="https://www.globuslighting.pl/wp-content/uploads/2018/10/o%C5%9Bwietlenie-led.jpg"
+          style="border-radius:10px;">
+      </div>
+      <p>Globus Lighting to firma oferująca <span class="span_fecb">rozwiązania oświetleniowe LED</span>. Oferowane przez firmę są między innymi: przemysłowe oświetlenie LED, oświetlenie LED dla obiektów handlowych, oświetlenie uliczne LED, oświetlenie hotelowe LED, oświetlenie obiektów sportowych, oświetlenie biurowe oraz oświetlenie architektoniczne.</p>
+      <h2 style="margin-left: 15%;">Nowoczesne rozwiązania oświetleniowe – inteligentne oświetlenie</h2>
+      <p>Globus Lighting to nie zwyczajne oświetlenie, a <span class="span_fecb">nowoczesne rozwiązania oświetleniowe</span>, które działają przy pomocy <span >inteligentnych systemów</span>. Dzięki czemu oświetlenie tworzone przez Globus Lighting jest wydajnym oraz efektywnym oświetleniem LED. Nasze nowoczesne rozwiązania oświetleniowe tworzymy w taki sposób, aby oświetlenie dynamicznie dostosowywało się do warunków otoczenia, a wszystko to dzięki <span class="span_fecb">czujnikom</span> ruchu, czujnikom natężenia oraz automatycznemu sterowaniu oświetleniem.
+<br>
+Wśród produktów naszych nowoczesnych rozwiązań oświetleniowych znajdują się między innymi liniowe oprawy przemysłowe BELUS, oprawy High Bay BELUS i SQUBUS,  oprawy Downlight LED, panele LED, naświetlacze BFlo oraz FL-Max czy oprawy uliczne. Zachęcamy do kontaktu oraz zapoznania się z naszą pełną ofertą oświetlenia LED oraz nowoczesnych rozwiązań oświetleniowych.</p>
+      <div class="container_galeria">
+        <div class="box" onclick="window.open('')">
+          <div class="imgBx">
+            <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/Rozwiazania_przemysl1.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Przemysł</h2>
+              <p>Rozwiązania dedykowane dla wszystkich gałęzi przemysłu
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box" onclick="window.open('')">
+          <div class="imgBx">
+            <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/Warsztat.png" ">
+          </div>
+          <div class=" content">
+            <div>
+              <h2>Warsztat</h2>
+              <p>
+                Oświetlenie, które idealnie sprawdzi się zarówno w małym, jak i dużym warsztacie
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box" onclick="window.open('')">
+          <div class="imgBx">
+            <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/Sklep.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Sklep</h2>
+              <p>
+                Oprawy charakteryzują się bogatą paletą barw światła oraz elegancką obudową
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box" onclick="window.open('')">
+          <div class="imgBx">
+            <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/Biuro.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Biuro</h2>
+              <p>
+               Oprawy dyskretne, łatwe w montażu i dające przyjemne dla oczu światło
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container_galeria">
+        <div class="box" onclick="window.open('')">
+          <div class="imgBx">
+            <img src="https://www.globuslighting.pl/wp-content/uploads/2014/10/Hala_sportowa.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Obiekty sportowe</h2>
+              <p>Oprawy, które nawet z dużej wysokości gwarantują doskonałe oświetlenie podczas każdej aktywności sportowej
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box" onclick="window.open('')">
+          <div class="imgBx">
+            <img src="../foto/Rozwiazania_arcit.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Architektura</h2>
+              <p>Oświetlenie idealnie komponujące się z przestrzenią miejską
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box" onclick="window.open('')">
+          <div class="imgBx">
+            <img src="../foto/hotel.png" ">
+          </div>
+          <div class=" content">
+            <div>
+              <h2>Hotel</h2>
+              <p>Oprawy idealne do tworzenia przytulnej atmosfery
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="box" onclick="window.open('')">
+          <div class="imgBx">
+            <img src="../foto/miasto.png">
+          </div>
+          <div class="content">
+            <div>
+              <h2>Miasto</h2>
+              <p>Lampy, które sprawdzają się w każdą pogodę i dbają o budżet
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h3 style="margin-top: 5%;margin-left:17%;">Skontaktuj się z naszymi przedstawicielami handlowymi <br> <a
+            href="mailto:gl@globuslighting.pl">Mail:
+            gl@globuslighting.pl </a> </h3>
+        <h3 style="margin-bottom:17px;margin-left:17%;"><a href="tel:+48537119116"> <i class="fa-solid fa-phone"></i>
+            &nbsp +48 537 119
+            116 </a></h3>
+      </div>
+
+      <section>
+        <footer style="background-color: #333;margin-top:2%;position:bottom;border-radius: 25px;margin-left: 17%;" id="stopka_web">
+          
+        </footer>
+      </section>
+    </div>
+    <div style="margin-top:10px;"></div>
+
+  </section>
+<h6 id="jezyk_strony" style="color: #22222200;opacity: 0.1;">2</h6>
+  <div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  </div>
+
+  <!-- indykator skrolowania  -->
+  <section>
+    <div class="dupp">
+      <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+      </div>
+    </div>
+  </section>
+
+
+ <p id="services"></p>
+ <script src="../js/elementy_enkapsuly.js"></script>
+  <script src="../js/script.js"></script>
+</body>
+
+</html>
