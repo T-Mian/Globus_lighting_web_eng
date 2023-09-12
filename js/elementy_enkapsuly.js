@@ -265,7 +265,7 @@ let obiekt_menu_fr=`<li>
             </div>
           </li>
           <li>
-            <a href="page_en_construction.html">
+            <a href="projets.html">
               <i class="fa-solid fa-compass-drafting"></i>
               Projets
             </a>

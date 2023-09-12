@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Globus Lighting –Conception d'éclairage LED | Dispositions d'éclairage </title>
+  <link href="../css/style.css" rel="stylesheet" type="text/css" />
+  <!--<link href="style_produkt.css" rel="stylesheet" type="text/css" /> -->
+  <link rel="shortcut icon" href="../foto/Favikon_globus_tru.png">
+  <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
+    integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <meta http-equiv="last-modified" content="Thu Sep 07 2023 09:40:54 GMT+0200">
+  <style>
+    .neon {
+      color: #fecb00;
+      text-shadow:
+        0 0 5px #fecb00,
+        0 0 10px #fecb00,
+        0 0 15px #fecb00;
+    }
+
+    .span_fecb {
+      color: #fecb00;
+    }
+
+    p {
+      margin-left: 15%;
+    }
+
+    .column_abus {
+      float: left;
+      width: 33%;
+      padding: 10px;
+      height: 250px;
+      border: 4mm ridge rgba(255, 204, 0, .2);
+    }
+
+    p span{
+      font-weight: bold;
+    }
+
+    .row_abus:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .row_abus p {
+      color: #fecb00;
+    }
+
+    .row_abus h2 {
+      color: #fecb00;
+    }
+
+    .btn_abus {
+      margin-left: 15%;
+      width: 70%;
+      color: #e5e5e5;
+      background-color: #222;
+      border: 2px solid #fecb00;
+    }
+
+    .btn_abus:hover {
+      box-shadow: 0 0.5em 0.5em -0.4em #e5ff60;
+      transform: translateY(-0.25em);
+    }
+
+    h2 i {
+      color: #fecb00;
+    }
+
+    .firstcharacter {
+      color: #fecb00;
+      float: left;
+      font-family: Copperplate, Papyrus, fantasy;
+      font-size: 50px;
+      line-height: 45px;
+      padding-right: 4px;
+      padding-left: 3px;
+    }
+
+    @media screen and (max-width: 850px) {
+      .column_abus {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <section id="main">
+    <div id="div_menu">
+      <div>
+        <a href="page_d'accueil.html">
+          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="../svg/logo_Globus_lighting_FECB00.svg"
+            onmouseover="this.src='../svg/logo_Globus_lighting.svg'"
+            onmouseout="this.src='../svg/logo_Globus_lighting_FECB00.svg'">
+        </a>
+      </div>
+
+      <div id="burgerMenu" onclick="togleMenu()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+        <i class="fa-solid fa-bars-staggered"></i>
+      </div>
+      <div id="speedProdukt" onclick="speedProdukt()">
+        <i class="fa-solid fa-tags"></i>
+      </div>
+      <a href="products_led.html">
+        <div id="speedProdukt_led">
+          <i class="fa-regular fa-lightbulb"></i>
+        </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_voltaik">
+          <i class="fa-solid fa-solar-panel"></i>
+        </div>
+      </a>
+      <a href="page_constr.html">
+        <div id="speedProdukt_station">
+          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+        </div>
+      </a>
+
+      <!--Navigation-->
+     <nav id="navElement" style="visibility: hidden;">
+        <ul class="menu" id="menu_in_situ">
+        </ul>
+      </nav>
+    </div>
+
+    
+    <div style="z-index: 3;text-align:center;margin-top: 25vh;color:#e5e5e5;width:80%;margin-left:5%;">
+      <h1 style="margin-left: 15%;"> Conception d'éclairage LED |</h1>
+      <h2 style="margin-left: 15%;margin-top:3%;">Dispositions d'éclairage </h2>
+      
+      <div class="image_auto" style="margin-top:6%;">
+      <img src="https://www.globuslighting.pl/wp-content/uploads/2018/11/projektowanie-o%C5%9Bwietlenia.jpg" style="border-radius:10px;">
+    </div>
+      
+      <p> <span class="firstcharacter neon">D</span> <span class="span_fecb">ans</span> le cas d'installations d'éclairage existantes, dès le début de la conception de l'éclairage, nous créons un <span class="span_fecb">audit d'éclairage</span> détaillé dans lequel nous démontrons les économies réalisées en remplaçant l'éclairage traditionnel par un éclairage LED. Il comprend une évaluation du système d'éclairage actuel et indique les changements possibles à mettre en œuvre lors de sa modernisation. Les possibilités d'installation sont vérifiées et les exigences d'éclairage pour le projet dans une installation donnée sont déterminées.</p>
+      <br>
+      <br>
+      <h2 style="margin-left: 15%;margin-top:3%;">Conception d'éclairage LED – étapes </h2>
+      <br>
+      <br>
+      <p><span class="firstcharacter neon">S</span><span class="span_fecb">ur</span> la base de l'audit et des exigences du client, une simulation d'éclairage est créée. Nous utilisons le <span class="span_fecb">programme Dialux</span> pour concevoir l'éclairage. Lors de la création de conceptions d'éclairage, nous calculons les gains énergétiques après la modernisation de l'éclairage, ainsi que le retour sur investissement.</p>
+      
+      <div class="image_auto" style="margin-top:6%;">
+      <img src="https://www.globuslighting.pl/wp-content/uploads/2018/11/projektowanie-o%C5%9Bwietlenia-LED.jpg" style="border-radius:10px;">
+    </div> 
+      
+      <h2 style="margin-left: 15%;"> Analyse du projet</h2>
+      <br>
+      <br>
+      <p><span class="firstcharacter neon">C</span><span class="span_fecb">ependant</span>, la base de la conception d’éclairage LED réside dans<span> l’analyse de chaque concept d’éclairage</span>. Chaque éclairage doit répondre à des conditions appropriées (<span class="span_fecb">souvent également spécifiées par la loi</span>) et présenter des caractéristiques particulières (correspondant à la nature du bâtiment et aux travaux qui y sont effectués). Les normes dictent le niveau<span> d'intensité lumineuse, le degré de protection contre l'éblouissement, la luminosité et le niveau de rendu des couleurs</span>. Lorsqu'il s'agit d'une planification de qualité, il est très important d'obtenir autant d'informations que possible sur l'environnement qui doit être éclairé, y compris la manière dont l'éclairage sera utilisé, qui l'utilisera et le style d'architecture.</p>
+      <br>
+      <br>
+      
+      <h2 style="margin-left: 15%;">Nous sommes spécialisés dans :</h2>
+      <br>
+      <br>
+      <div class="row_abus" style="margin-left: 15%;">
+        <div class="column_abus" style="background-color:#222;" >
+          <h2>Projets d'éclairage routier  </h2>
+          <p>(passages pour piétons)</p>
+
+          <h2><span>
+            <i class="fa-solid fa-traffic-light"></i>
+          </span></h2>
+        </div>
+        <div class="column_abus" style="background-color:#222;" >
+          <h2>Projets d'éclairage public,</h2>
+          <h2><span>
+            <i class="fa-solid fa-road"></i>
+          </span></h2>
+        </div>
+        <div class="column_abus" style="background-color:#222;" >
+          <h2>Projets d'éclairage de bureau,</h2>
+
+          <h2><span> 
+            <i class="fa-solid fa-briefcase"></i>
+          </span></h2>
+        </div>
+      </div>
+      <div class="row_abus" style="margin-left: 15%;">
+        <div class="column_abus" style="background-color:#222;" >
+          <h2>Projets d'éclairage de piscine,</h2>
+          <h2><span>
+            <i class="fa-solid fa-person-swimming"></i>
+          </span></h2>
+        </div>
+        <div class="column_abus" style="background-color:#222;" >
+          <h2>Conceptions d'éclairage de hall,</h2>
+          <h2><span> 
+            <i class="fa-solid fa-warehouse"></i>
+          </span></h2>
+        </div>
+        <div class="column_abus" style="background-color:#222;" >
+          <h2>Et beaucoup d'autres.</h2>
+          <h2><span> <i class="fa-solid fa-landmark"></i></span></h2>
+        </div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <button class="btn_abus" onclick="window.open('../products_led.html')">
+        <h3><a href="products_led.html" target="_blank">En savoir plus sur nos produits</a>&nbsp <i class="fa-solid fa-angles-right"></i></h3>
+      </button>
+      <br>
+      <br>
+        <div class="image_auto" style="margin-top:6%;">
+      <img src="https://www.globuslighting.pl/wp-content/uploads/2018/11/projekty-o%C5%9Bwietlenia.jpg" style="border-radius:10px;">
+        </div>
+      <br>
+      <h2 style="margin-left: 15%;"> 
+        Concept de mise en œuvre de l'éclairage
+      </h2>
+      <br>
+      <p><span class="firstcharacter neon">L</span><span class="span_fecb">a</span> prochaine étape de la création d'un éclairage consiste à créer son concept. <span>Le concept de design </span>combine les exigences techniques et esthétiques de directives complètes. Il est conforme au cahier des charges et aux normes requises, et prend également en compte les coûts d'investissement et d'exploitation. Un bon concept d’éclairage créera le meilleur design d’éclairage.</p>
+      <br>
+      <br>
+      <h2 style="margin-left: 15%;">Conception d'éclairage LED</h2>
+      <br>
+      <p><span class="firstcharacter neon">A</span><span class="span_fecb">u</span> cours de la phase de conception de l’éclairage LED, des décisions sont prises concernant les luminaires et les lampes qui seront utilisés. À ce stade, la disposition et l'installation de l'éclairage, ainsi que les dispositifs de commande et de contrôle requis sont également décidés. La conception d'éclairage est un processus cyclique dans lequel les solutions développées sont constamment comparées aux exigences préalablement définies.</p>
+      <p><span>Le travail de conception se termine par l'élaboration d'une conception technique complète</span>, notre société travaille à chaque étape de la mise en œuvre du projet et de l'investissement, en contactant le client et en tenant compte de ses besoins individuels.</p>
+      
+      <h3 style="margin-top: 5%;margin-left:17%;">
+       Contactez nos représentants commerciaux
+        <br> <a
+          href="mailto:gl@globuslighting.pl"><i class="fa-solid fa-envelope"></i>&nbsp
+          gl@globuslighting.pl </a> </h3>
+      <h3 style="margin-bottom:17px;margin-left:17%;"><a href="tel:+48537119116"> <i class="fa-solid fa-phone"></i>
+          &nbsp +48 537 119
+          116 </a></h3>
+    </div>
+
+    <section>
+      <footer id="stopka_web" style="background-color: #333;margin-top:2%;position:bottom;border-radius: 25px;margin-left: 17%;">
+        
+      </footer>
+    </section>
+    </div>
+  </section>
+<h6 id="jezyk_strony" style="color: #22222200;opacity: 0.1;">1</h6>
+  <div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  </div>
+
+  <!-- indykator skrolowania  -->
+  <section>
+    <div class="dupp">
+      <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+      </div>
+    </div>
+  </section>
+
+<p id="services"></p>
+
+   <script src="../js/elementy_enkapsuly.js"></script>
+  <script src="../js/script.js"></script>
+</body>
+
+</html>
