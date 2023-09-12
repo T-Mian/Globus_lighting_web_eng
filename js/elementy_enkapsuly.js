@@ -445,7 +445,7 @@ let obiekt_menu_pl= ` <li>
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="strona_w_konstrukcji.html">
+            <a href="realizacjie.html">
               <i class="fa-solid fa-landmark-dome"></i>
               <span>
                 Realizacje
