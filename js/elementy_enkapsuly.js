@@ -1442,6 +1442,107 @@ let obiekt_footer_solution_pl=` <div class="row_foot">
         </div>
       </div>`
  
+// sped menu produkt ANG
+let obiekt_speed_menu_ang=`<a href="products_led.html">
+          <div id="speedProdukt_led">
+            <i class="fa-regular fa-lightbulb"></i>
+          </div>
+        </a>
+        <a href="page_constr.html">
+          <div id="speedProdukt_voltaik">
+            <i class="fa-solid fa-solar-panel"></i>
+          </div>
+        </a>
+        <a href="page_constr.html">
+          <div id="speedProdukt_station">
+            <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+          </div>
+        </a>`
+// sped menu produkt FR
+let obiekt_speed_menu_fr=`        <a href="produits_Led.html">
+          <div id="speedProdukt_led">
+            <i class="fa-regular fa-lightbulb"></i>
+          </div>
+        </a>
+        <a href="page_en_construction">
+          <div id="speedProdukt_voltaik">
+            <i class="fa-solid fa-solar-panel"></i> 
+          </div>
+        </a>
+        <a href="page_en_construction">
+          <div id="speedProdukt_station">
+            <i class="fa-solid fa-charging-station fa-flip-horizontal"></i> 
+          </div>
+        </a>`
+// sped menu produkt PL
+let obiekt_speed_menu_pl=` <a href="produkty_LED.html">
+          <div id="speedProdukt_led">
+            <i class="fa-regular fa-lightbulb"></i>
+          </div>
+        </a>
+
+        <a href="strona_w_konstrukcji.html">
+          <div id="speedProdukt_voltaik">
+            <i class="fa-solid fa-solar-panel"></i>
+          </div>
+        </a>
+
+        <a href="strona_w_konstrukcji.html">
+          <div id="speedProdukt_station">
+            <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+          </div>
+        </a>`
+
+// sped menu produkt ANG solution
+let obiekt_speed_menu_solution_ang=`<a href="products_led.html">
+          <div id="../speedProdukt_led">
+            <i class="fa-regular fa-lightbulb"></i>
+          </div>
+        </a>
+        <a href="../page_constr.html">
+          <div id="speedProdukt_voltaik">
+            <i class="fa-solid fa-solar-panel"></i>
+          </div>
+        </a>
+        <a href="../page_constr.html">
+          <div id="speedProdukt_station">
+            <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+          </div>
+        </a>`
+// sped menu produkt FR solution
+let obiekt_speed_menu_solution_fr=`        <a href="../produits_Led.html">
+          <div id="speedProdukt_led">
+            <i class="fa-regular fa-lightbulb"></i>
+          </div>
+        </a>
+        <a href="../page_en_construction">
+          <div id="speedProdukt_voltaik">
+            <i class="fa-solid fa-solar-panel"></i> 
+          </div>
+        </a>
+        <a href="../page_en_construction">
+          <div id="speedProdukt_station">
+            <i class="fa-solid fa-charging-station fa-flip-horizontal"></i> 
+          </div>
+        </a>`
+// sped menu produkt PL solution
+let obiekt_speed_menu_solution_pl=` <a href="../produkty_LED.html">
+          <div id="speedProdukt_led">
+            <i class="fa-regular fa-lightbulb"></i>
+          </div>
+        </a>
+
+        <a href="../strona_w_konstrukcji.html">
+          <div id="speedProdukt_voltaik">
+            <i class="fa-solid fa-solar-panel"></i>
+          </div>
+        </a>
+
+        <a href="../strona_w_konstrukcji.html">
+          <div id="speedProdukt_station">
+            <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+          </div>
+        </a>`
 
 // id="menu_in_situ"
 //  id="stopka_web"
@@ -1454,6 +1555,8 @@ let obiekt_footer_solution_pl=` <div class="row_foot">
 //  <u id="jezyk_strony" style="color: #222;">0</u>
 
 //  <script src="../js/elementy_enkapsuly.js"></script>
+
+//<article id="__sped_Menu_Produkt">
 
 
 let flaga_wersji_jezykowej =document.getElementById("jezyk_strony");
@@ -1502,6 +1605,19 @@ else{
   console.log("Nie znaleziono ID 'contactForm'")
 }
 
+let mont_obiekt_speed_menu = document.getElementById("__sped_Menu_Produkt");
+
+let obiekt_speed_menu_arr=[obiekt_speed_menu_ang,obiekt_speed_menu_fr,obiekt_speed_menu_pl]
+
+if(mont_obiekt_speed_menu !=null && flaga_W_J !=null ){
+  mont_obiekt_speed_menu.innerHTML=obiekt_speed_menu_arr[flaga_W_J]
+  console.log("Wykonanao proces speed menu")
+}
+else{
+  console.log("Nie znaleziono ID '__sped_Menu_Produkt'")
+}
+
+
 // sektor podmenu solution
 // id="menu_in_situ"
 // id="menu_in_situ_solution"
@@ -1527,4 +1643,16 @@ if(mont_solut_footer !=null && flaga_W_J !=null ){
 }
 else{
   console.log("Nie znaleziono ID 'stopka_web_solution'")
+}
+
+
+let mont_solut_sped_Menu_Produkt =  document.getElementById("__sped_Menu_Produkt_Solution");
+let solut_sped_Menu_Produkt_arr=[obiekt_speed_menu_solution_ang,obiekt_speed_menu_solution_fr,obiekt_speed_menu_solution_pl]
+
+if(mont_solut_sped_Menu_Produkt !=null && flaga_W_J !=null ){
+  mont_solut_sped_Menu_Produkt.innerHTML=solut_sped_Menu_Produkt_arr[flaga_W_J]
+  console.log("Wykonanao proces speed menu")
+}
+else{
+  console.log("Nie znaleziono ID '__sped_Menu_Produkt_Solution'")
 }
