@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <!-- Strona z Produktami LED -->
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -21,7 +20,7 @@
     integrity="sha512-Nt+V5JYamXCSvlHzNVleriGhTrolnfxckJ8sEXxv/BJ0tKV1HyPDXH+bIFNcUJ5hcthQ95uAeU2JClPT16mFyg=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <!-- meta Ostatnia modyfikacja -->
-  <meta http-equiv="last-modified" content="Thu Sep 07 2023 09:40:54 GMT+0200">
+  <meta http-equiv="last-modified" content="Wed Sep 13 2023 11:10:25 GMT+0200">
   </style>
 </head>
 
@@ -35,7 +34,9 @@
   <!-- sektor z btn. na poczatek strony -->
   <section>
     <div>
-      <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+      <button onclick="topFunction()" id="myBtn" title="Go to top">
+        Top
+      </button>
     </div>
   </section>
 
@@ -57,23 +58,30 @@
         <i class="fa-solid fa-bars-staggered"></i>
       </div>
       <!-- sektor i speed produkt-->
-      <div id="speedProdukt" onclick="speedProdukt()"><i class="fa-solid fa-tags"></i></div>
+      <div id="speedProdukt" onclick="speedProdukt()"><i class="fa-solid fa-tags"></i>
+      </div>
+      
       <article id="__sped_Menu_Produkt">
         <a href="products_led.html">
-          <div id="speedProdukt_led"> <i class="fa-regular fa-lightbulb"></i> </div>
+          <div id="speedProdukt_led">
+            <i class="fa-regular fa-lightbulb"></i> 
+          </div>
         </a>
         <a href="page_constr.html">
-          <div id="speedProdukt_voltaik"><i class="fa-solid fa-solar-panel"></i> </div>
+          <div id="speedProdukt_voltaik">
+            <i class="fa-solid fa-solar-panel"></i> 
+          </div>
         </a>
         <a href="page_constr.html">
-          <div id="speedProdukt_station"><i class="fa-solid fa-charging-station fa-flip-horizontal"></i> </div>
+          <div id="speedProdukt_station">
+            <i class="fa-solid fa-charging-station fa-flip-horizontal"></i> 
+          </div>
         </a>
       </article>
+      
       <!-- sekcja z nav -->
       <nav id="navElement" style="visibility: hidden;">
         <ul class="menu" id="menu_in_situ">
-
-          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-xmark"></i></li>
         </ul>
       </nav>
     </div>
@@ -200,8 +208,12 @@
 
   <!-- text dla bg -->
   <div class="bg" style="z-index:2;opacity: 0.2;">
-    <h1>Products</h1>
-    <h1 style="text-align:center;">LED</h1>
+    <h1>
+      Products
+    </h1>
+    <h1 style="text-align:center;">
+      LED
+    </h1>
   </div>
 
   <!-- obszar z kartami produktów plus  -->
@@ -209,7 +221,8 @@
     <span id="text_categorii">
       Catalogue
     </span>
-    <em id="hint"></em>
+    <em id="hint">
+    </em>
   </h2>
 
   <section class="content_wraper" style="text-align: center;z-index:8;">
@@ -311,9 +324,9 @@
       </div>
       <div>
         <form class="form" style="margin-left: 35% ;margin-top:50px;" id="contactForm" method="post"
-          action="send-script.php"></form>
+          action="send-script.php">
+          </form>
         <footer style="background-color: #333;margin-top: 150px;border-radius:25px;" id="stopka_web">
-
         </footer>
       </div>
     </section>
@@ -325,7 +338,8 @@
   <section style="z-index:2;">
     <div class="dupp">
       <div class="progress-container">
-        <div class="progress-bar" id="myBar"></div>
+        <div class="progress-bar" id="myBar">
+        </div>
       </div>
     </div>
   </section>

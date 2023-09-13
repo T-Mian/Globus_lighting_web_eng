@@ -184,7 +184,7 @@ let obiekt_menu_fr=`<li>
             <a href="produits_Led.html">
               <i class="fa-solid fa-tags"></i>
               <span>
-                Des produits
+                Produits
               </span>
               <i class="fa fa-caret-down"></i>
             </a>
@@ -1043,7 +1043,7 @@ let obiekt_menu_solution_fr=`<li>
             <a href="../products_led.html?lang=fr">
               <i class="fa-solid fa-tags"></i>
               <span>
-                Des produits
+                Produits
               </span>
               <i class="fa fa-caret-down"></i>
             </a>

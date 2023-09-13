@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <!-- Strona dla produktu -->
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,9 +8,7 @@
   <link href="css/style.css" rel="stylesheet" type="text/css" />
   <link href="css/produkt_led.css" rel="stylesheet" type="text/css" />
   <link rel="shortcut icon" href="foto/Favikon_globus_tru.png">
-  <!-- testowe start-->
   <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
-  <!-- testowe end-->
   <script src="https://kit.fontawesome.com/a10a039624.js" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
@@ -22,7 +19,7 @@
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://unpkg.com/downloadjs@1.4.7"></script>
   <!-- meta Ostatnia modyfikacja -->
-  <meta http-equiv="last-modified" content="Thu Sep 07 2023 09:40:54 GMT+0200">
+  <meta http-equiv="last-modified" content="Wed Sep 13 2023 12:35:10 GMT+0200">
   <style>
     table {
       margin-top: 2%;
@@ -57,10 +54,12 @@
     }
   </style>
 </head>
-
+  
 <body style="background-image:url(foto/bg_produkt.jpg);background-attachment: fixed;">
   <div>
-    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">
+      Top
+    </button>
   </div>
   <section>
     <div id="logo_firmy"></div>
@@ -82,6 +81,7 @@
     <div id="speedProdukt" onclick="speedProdukt()">
       <i class="fa-solid fa-tags"></i>
     </div>
+    
     <article id="__sped_Menu_Produkt">
       <a href="products_led.html">
         <div id="speedProdukt_led">
@@ -99,17 +99,34 @@
         </div>
       </a>
     </article>
-    <button id="btnLangeShow" onclick="langeShow()"><i class="fa-solid fa-language"
-        style="color:#fecb00;transform: scale(1.5);"></i></button>
+    <button id="btnLangeShow" onclick="langeShow()">
+      <i class="fa-solid fa-language" style="color:#fecb00;transform: scale(1.5);"></i>
+    </button>
 
-    <button id="btnLangeShowPl" onclick="langeSet(2)"><i class="fa-solid fa-xmark"
-        style="color:#fecb00;transform: scale(1.5);"></i> &nbsp<span>Polski</span></button>
+    <button id="btnLangeShowPl" onclick="langeSet(2)">
+      <i class="fa-solid fa-xmark" style="color:#fecb00;transform: scale(1.5);"></i>
+      &nbsp
+      <span>
+        Polski
+      </span>
+    </button>
 
-    <button id="btnLangeShowFR" onclick="langeSet(1)"><i class="fa-solid fa-xmark"
-        style="color:#fecb00;transform: scale(1.5);"></i> &nbsp<span>Français</span></button>
+    <button id="btnLangeShowFR" onclick="langeSet(1)">
+      <i class="fa-solid fa-xmark" style="color:#fecb00;transform: scale(1.5);"></i>
+      &nbsp
+      <span>
+        Français
+      </span>
+    </button>
 
-    <button id="btnLangeShowANG" onclick="langeSet(0)"><i class="fa-solid fa-check"
-        style="color:#fecb00;transform: scale(1.5);"></i> &nbsp<span>English</span></button>
+    <button id="btnLangeShowANG" onclick="langeSet(0)">
+      <i class="fa-solid fa-check" style="color:#fecb00;transform: scale(1.5);"></i>
+      &nbsp
+      <span>
+        English
+      </span>
+    </button>
+    
     <!--Navigation-->
     <nav id="navElement" style="visibility: hidden;">
       <ul class="menu" id="menu_in_situ">
@@ -123,7 +140,9 @@
         <i class="fa-regular fa-face-flushed"></i>
       </span>
       <span id="produkt_ikons">
-        <i class="fa-solid fa-question"></i><i class="fa-solid fa-question"></i><i class="fa-solid fa-question"></i>
+        <i class="fa-solid fa-question"></i>
+        <i class="fa-solid fa-question"></i>
+        <i class="fa-solid fa-question"></i>
       </span>
     </h1>
   </div>
@@ -148,10 +167,12 @@
             Product description :
           </span>
         </h3>
-        <p id="szczegułowy_opis" style="text-align: center;color: #333;"> The database for this product has not yet been
-          entered for this site.
-          They are available in the Polish version at <a href="https://www.globuslighting.pl/produkty/"> Globus Lighting
-            Pl </a>
+        <p id="szczegułowy_opis" style="text-align: center;color: #333;">
+          The database for this product has not yet been entered for this site.
+          They are available in the Polish version at 
+          <a href="https://www.globuslighting.pl/produkty/">
+            Globus Lighting.pl 
+          </a>
         </p>
         <div style="display: block;align-content: space-around;">
           <button onclick="myFunctionSize()" id="myBtnPlus">
@@ -160,8 +181,12 @@
           <button onclick="myFunctionSizeMin()" id="myBtnMinus" disabled>
             <i class="fa-solid fa-down-left-and-up-right-to-center"></i>
           </button>
-          <button onclick="funcPoprzedni()"><i class="fa-solid fa-arrow-left-long"></i></button>
-          <button onclick="funcNastepny()"><i class="fa-solid fa-arrow-right"></i> </button>
+          <button onclick="funcPoprzedni()">
+            <i class="fa-solid fa-arrow-left-long"></i>
+          </button>
+          <button onclick="funcNastepny()">
+            <i class="fa-solid fa-arrow-right"></i>
+          </button>
         </div>
       </div>
     </div>
@@ -220,7 +245,6 @@
   <!-- footer -->
   <section style="margin-top: 7%;">
     <footer style="background-color: #333;border-radius:25px;" id="stopka_web">
-
     </footer>
   </section>
   <h6 id="jezyk_strony" style="color: #22222200;opacity: 0.1;">0</h6>
