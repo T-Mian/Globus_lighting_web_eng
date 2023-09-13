@@ -320,7 +320,7 @@ let obiekt_menu_fr=`<li>
               <a href="carrière.html">
                 <i class="fa-regular fa-id-badge"></i>
                 Carrière</a>
-              <a href="page_en_construction.html">
+              <a href="contactez-nous.html">
                 <i class="fa-solid fa-pen-nib"></i>
                 Contact
               </a>
