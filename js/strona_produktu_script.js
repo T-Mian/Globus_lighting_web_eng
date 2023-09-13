@@ -28,6 +28,9 @@ for (i = 0; i < zmienne.length; i++) {
   let x=zm[0]
   jezyk_przychodzacy =x.slice(0,1)
   flaga_językaAflfa = parseInt(jezyk_przychodzacy)
+  console.log("flaga_językaAflfa")
+  console.log(flaga_językaAflfa)
+  _jezyk_strony.innerHTML=flaga_językaAflfa
   flaga_języka=jezyk_opisu[flaga_językaAflfa]
 }
 //id_pr -= 1
@@ -197,14 +200,16 @@ function showInfoIcins() {
 function hidenIkons() {
   document.getElementById("opis_ikons").style.visibility = "hidden";
 }
-
-
+/*
 let btn_pl = document.getElementById("btnLangeShowPl");
 let btn_fr = document.getElementById("btnLangeShowFR");
 let btn_ang = document.getElementById("btnLangeShowANG");
-var list_btn = [ btn_ang, btn_fr,  btn_pl ]
+var list_btn = [btn_ang,btn_fr,btn_pl]
 for(let x of list_btn){
+  console.log("for(let x of list_btn) ")
+  console.log(x)
   if(list_btn.indexOf(x)==flaga_językaAflfa){
+    console.log(" if(list_btn.indexOf(x)==flaga_językaAflfa)")
       x.firstChild.classList.remove("fa-xmark");
       x.firstChild.classList.add("fa-check")
   }else{
@@ -257,32 +262,31 @@ function langeSet(nr) {
 }
 
 function translate_web(nr){
+  consola.log("translate_web")
+  consola.log("nr")
+  consola.log(nr)
   let span_product_description = document.getElementById("product_description_span");
   let span_photometry = document.getElementById("photometry_span");
   let span_info = document.getElementById("info_span");
   let span_configurations = document.getElementById("configurations_span");
-  let _jezyk_strony = document.getElementById("jezyk_strony")
   switch (nr) {
     case 0:
       span_product_description.innerHTML = "Product description :";
       span_photometry.innerHTML = "Photometry";
       span_info.innerHTML = "Info";
       span_configurations.innerHTML = "Configurations available :";
-      _jezyk_strony.innerHTML=0
       break;
     case 1:
       span_product_description.innerHTML = "Description du produit :";
       span_photometry.innerHTML = "Photométrie";
       span_info.innerHTML = "Info";
       span_configurations.innerHTML = "Paramétrages disponibles :";
-      _jezyk_strony.innerHTML=1
       break;
     case 2:
       span_product_description.innerHTML = "Opis produktu :";
       span_photometry.innerHTML = "Fotometria";
       span_info.innerHTML = "Informacje";
       span_configurations.innerHTML = "Dostępne konfiguracje:";
-      _jezyk_strony.innerHTML=2
       break;
     default:
       span_product_description.innerHTML = "Product description :";
@@ -290,11 +294,22 @@ function translate_web(nr){
       span_info.innerHTML = "Info";
       span_configurations.innerHTML = "Configurations available :";
       console.log("langeSet switch default")
-      _jezyk_strony.innerHTML=0
   }
-}
+}*/
+  let span_product_description = document.getElementById("product_description_span");
+  let span_photometry = document.getElementById("photometry_span");
+  //let span_info = document.getElementById("info_span");
+  let span_configurations = document.getElementById("configurations_span");
 
-translate_web(flaga_językaAflfa)
+let tlumaczenie_strony=["Product description :","Description du produit ","Opis produktu :","Photometry","Photométrie","Fotometria","Configurations available :","Paramétrages disponibles :","Dostępne konfiguracje:"]
+
+  span_product_description.innerHTML = tlumaczenie_strony[flaga_językaAflfa];
+  span_photometry.innerHTML = tlumaczenie_strony[flaga_językaAflfa+3];
+  span_info.innerHTML = tlumaczenie_strony[flaga_językaAflfa+9];
+  span_configurations.innerHTML = tlumaczenie_strony[flaga_językaAflfa+12];
+
+//translate_web(flaga_językaAflfa)
+
 //do opracowania 
 function adresatorTabel(zakladka, plik_danych) {
   let lang_alfa = flaga_języka.split('_')
