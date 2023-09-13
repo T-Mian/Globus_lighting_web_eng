@@ -494,7 +494,7 @@ let obiekt_menu_pl= ` <li>
               <a href="kariera.html">
                 <i class="fa-regular fa-id-badge"></i>
                 Kariera</a>
-              <a href="strona_w_konstrukcji.html">
+              <a href="kontakt.html">
                 <i class="fa-solid fa-pen-nib"></i>
                 Kontakt
               </a>
@@ -753,11 +753,14 @@ let obiekt_form_contakt_ang =`
               +48 537 119 116
             </span>
           </a>
-        </button><span style="padding: 10px;">or</span>
+        </button>
+        
+       <span style="padding: 10px;">or</span>
+       
         <button class="glowing-btn" style="width: 45%" ;>
           <a href="tel:+48713073339">
             <span class='glowing-txt'>
-              +48 71 307 33 39
+              +48 713 073 339
             </span>
           </a>
         </button>
@@ -795,11 +798,14 @@ let obiekt_form_contakt_fr=`<div class="form">
               +48 537 119 116
             </span>
           </a>
-        </button><span style="padding: 10px;">ou</span>
+        </button>
+
+         <span style="padding: 10px;">ou</span>
+
         <button class="glowing-btn" style="width: 45%" ;>
           <a href="tel:+48713073339">
             <span class='glowing-txt'>
-              +48 71 307 33 39
+              +48 713 073 339
             </span>
           </a>
         </button>
@@ -807,8 +813,8 @@ let obiekt_form_contakt_fr=`<div class="form">
 // sektor FORM  PL
 
 
-let obiekt_form_contakt_pl=`      <div class="form">
-
+let obiekt_form_contakt_pl=`      
+        <div class="form">
         <div class="row">
           <input type="text" name="name" placeholder="Imię (wymagane)" required pattern=.{3,} id="name"
             data-error-text="Błędne wprowadzenie imienia" />
@@ -838,11 +844,14 @@ let obiekt_form_contakt_pl=`      <div class="form">
               +48 537 119 116
             </span>
           </a>
-        </button><span style="padding: 10px;">lub</span>
-        <button class="glowing-btn" style="width: 45%" ;>
+        </button>
+        <span style="padding: 10px;">
+        lub
+        </span>
+        <button class="glowing-btn" style="width: 45%;">
           <a href="tel:+48713073339">
             <span class='glowing-txt'>
-              +48 71 307 33 39
+              +48 713 073 339
             </span>
           </a>
         </button>
