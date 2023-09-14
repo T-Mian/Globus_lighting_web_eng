@@ -1,5 +1,5 @@
 // Tomasz Mianecki
-// versja 2.0
+// versja 2.5
 
 let flaga_ribbon = ["TOP", "NEW", "NON"];
 let color_ribbon = "#fecb00";
@@ -45,7 +45,7 @@ function do_swojej_categori(cel, lista) {
   let sum = ""
   for (let x of lista) {
     sum += x
-    console.log(sum)
+    //console.log(sum)
   }
 
   document.getElementById(cel).innerHTML = sum;
@@ -125,7 +125,7 @@ function funkcjiaOdczytuXML(xml) {
     let div_flaga = flagowanie(flaga);
     let test_strony = (aktualny_jezyk_strony<1) ? stronaWeb:"../"+stronaWeb
     var carta = kreacjia_karty(numerId, test_strony, alt, div_flaga, rodzina)
-    console.log(carta)
+    //console.log(carta)
     doInnerHtmll(categoria, carta)
 
   }

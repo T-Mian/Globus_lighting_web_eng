@@ -1,6 +1,6 @@
 // Tomasz Mianecki 
 //Skrypt do obsługi strony z produktem 
-// versja 2
+// versja 5
 
 
 let tytul_produktu = document.getElementById("title_produkts")
@@ -33,7 +33,7 @@ for (i = 0; i < zmienne.length; i++) {
   _jezyk_strony.innerHTML=flaga_językaAflfa
   flaga_języka=jezyk_opisu[flaga_językaAflfa]
 }
-//id_pr -= 1
+
 
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
@@ -43,7 +43,9 @@ xhttp.onreadystatechange = function() {
     console.log(this.status)
   }
 };
-xhttp.open("GET", "xml/opisy_produktow.xml", true);
+
+let adres_opisu_xml=(flaga_językaAflfa<1) ? "xml/opisy_produktow.xml":"../xml/opisy_produktow.xml"
+xhttp.open("GET", adres_opisu_xml, true);
 xhttp.send();
 
 
@@ -305,8 +307,8 @@ let tlumaczenie_strony=["Product description :","Description du produit ","Opis 
 
   span_product_description.innerHTML = tlumaczenie_strony[flaga_językaAflfa];
   span_photometry.innerHTML = tlumaczenie_strony[flaga_językaAflfa+3];
-  span_info.innerHTML = tlumaczenie_strony[flaga_językaAflfa+9];
-  span_configurations.innerHTML = tlumaczenie_strony[flaga_językaAflfa+12];
+  //span_info.innerHTML = tlumaczenie_strony[flaga_językaAflfa+9];
+  span_configurations.innerHTML = tlumaczenie_strony[flaga_językaAflfa+6];
 
 //translate_web(flaga_językaAflfa)
 
