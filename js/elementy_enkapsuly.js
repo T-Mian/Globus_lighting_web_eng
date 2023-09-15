@@ -173,7 +173,7 @@ let obiekt_menu_ang = `
           <li id="closeBurger" onclick="togleMenu()">
             <i class="fa-solid fa-bars-staggered"></i>
           </li>
-          `
+          `;
 // sektor menu FR
 
 
@@ -350,7 +350,7 @@ let obiekt_menu_fr=`
           <li id="closeBurger" onclick="togleMenu()">
             <i class="fa-solid fa-bars-staggered"></i>
           </li>
-        `
+        `;
 
 // sektor menu PL
 
@@ -526,7 +526,7 @@ let obiekt_menu_pl= `
           </li>
           <li id="closeBurger" onclick="togleMenu()">
             <i class="fa-solid fa-bars-staggered"></i>
-          </li>`
+          </li>`;
 // sektor footer ANG
 
 let obiekt_footer_ang =`
@@ -599,7 +599,7 @@ let obiekt_footer_ang =`
         </p>
       </div>
     </div>
-      ` 
+      ` ;
 
 // sektor footer FR 
 
@@ -646,7 +646,7 @@ let obiekt_footer_pl=` <div class="row_foot">
           <h2 style="content: ''; margin-bottom: 1em;"></h2>
           <p> <span> Globus Lighting </span> wywodzi się z firmy Globus o blisko 100-letniej tradycji. Zaczynaliśmy od narzędzi dla przemysłu, a obecnie jesteśmy oddzielną spółką, która jest polskim producentem <span><a href="strona_w_konstrukcji.html">oświetlenia przemysłowego</a></span> oraz specjalistycznego. Oświetlenie ledowe to niezwykła oszczędność i trwałość, dlatego wszystkich zainteresowanych zapraszamy do kontaktu. Jako producent oświetlenia LED tworzymy nie tylko oprawy dla przemysłu, ale również <a href="strona_w_konstrukcji.html">oświetlenie uliczne</a>, <a href="strona_w_konstrukcji.html">handlowe</a>,  <a href="strona_w_konstrukcji.html">hotelowe</a>, <a href="strona_w_konstrukcji.html">biurowe </a>czy dla<a href="strona_w_konstrukcji.html"> warsztatów</a>.</p>
         </div>
-      </div>`
+      </div>`;
 
 // sektor INNE  ANG
 
@@ -685,7 +685,7 @@ let obiekt_produktY_led_ang =`<h3 style="color:#fecb00;margin-top: 65px;  border
           automation is important. </p>
         <h4 style="color:#fecb00;margin-top: 45px;"><b>Are you interested in our offer? Contact us!</b></h4>
 
-        `
+        `;
 
 // sektor INNE  FR 
 
@@ -730,7 +730,7 @@ Les autres types de luminaires extérieurs de notre assortiment comprennent les 
         Les luminaires downlight LED que nous proposons comprennent le Downlight DLA, le Downlight et le Downlight DGS. Les downlights LED ont une large gamme d'applications, par exemple pour l'éclairage de bureaux, d'hôtels et d'installations commerciales.
 Toutes nos solutions sont des éclairages intelligents, parfaits pour les endroits où l'automatisation est importante. </p>
         <h4 style="color:#fecb00;margin-top: 45px;"><b>Êtes-vous intéressé par notre offre? Contactez-nous!</b></h4>
-`
+`;
 // sektor INNE  PL
 
 
@@ -768,7 +768,7 @@ Innymi rodzajami opraw oświetlenia zewnętrznego w naszym asortymencie są opra
         <p style="color:#e5e5e5;padding-left:5%;padding-right: 5%;">Oprawy LED typu Downlight, jakie posiadamy w asortymencie to między innymi Downlight DLA, Downlight oraz Downlight DGS. oprawy LED typu Downlight mają szerokie zastosowanie, np. jako oświetlenie biurowe, oświetlenie hotelowe oraz w obiektach handlowych.
 Wszystkie nasze rozwiązania to inteligentne oświetlenie, świetnie sprawdzające się w miejscach, gdzie istotna jest automatyzacja. </p>
         <h4 style="color:#fecb00;margin-top: 45px;"><b>Jesteś zainteresowany naszą ofertą? Skontaktuj się z nami!</b></h4>
-`
+`;
 // sektor FORM  ANG
 
 
@@ -815,7 +815,7 @@ let obiekt_form_contakt_ang =`
             </span>
           </a>
         </button>
-      </div>`
+      </div>`;
 // sektor FORM  FR
 
 
@@ -860,7 +860,7 @@ let obiekt_form_contakt_fr=`<div class="form">
             </span>
           </a>
         </button>
-      </div>`
+      </div>`;
 // sektor FORM  PL
 
 
@@ -906,7 +906,7 @@ let obiekt_form_contakt_pl=`
             </span>
           </a>
         </button>
-      </div>`
+      </div>`;
 
 // kapsułki dla foldera solution 
 // sektor menu solution 
@@ -1080,7 +1080,7 @@ let obiekt_menu_solution_ang=`<li>
               </a>
             </div>
           </li>
-          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-bars-staggered"></i></li>`
+          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-bars-staggered"></i></li>`;
 
 // sektor menu solution FR
 
@@ -1253,7 +1253,7 @@ let obiekt_menu_solution_fr=`<li>
               </a>
             </div>
           </li>
-          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-bars-staggered"></i></li>`
+          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-bars-staggered"></i></li>`;
 // sektor menu solution PL
 
 let obiekt_menu_solution_pl=` <li>
@@ -1425,7 +1425,7 @@ let obiekt_menu_solution_pl=` <li>
               </a>
             </div>
           </li>
-          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-bars-staggered"></i></li>`
+          <li id="closeBurger" onclick="togleMenu()"><i class="fa-solid fa-bars-staggered"></i></li>`;
 
 // sektor footer 
 
@@ -1460,7 +1460,7 @@ let obiekt_footer_solution_ang=`<div class="row_foot">
                 or for<a href="workshop_lighting.html"> workshops lighting.</a></span>
             </p>
           </div>
-        </div>`
+        </div>`;
 let obiekt_footer_solution_fr=`<div class="row_foot">
         <div class="column_foot">
           <h2 style="text-transform: uppercase;letter-spacing: 2.4px;"> <i class="fa-regular fa-address-book"></i>&nbsp
@@ -1480,7 +1480,7 @@ let obiekt_footer_solution_fr=`<div class="row_foot">
           <h2 style="content: ''; margin-bottom: 1em;"></h2>
           <p> <span> Globus Lighting </span> vient de la société Globus avec près de 100 ans de tradition. Nous avons commencé avec des outils pour l'industrie et nous sommes maintenant une entreprise distincte qui est un fabricant polonais <span><a href="page_en_construction.html">éclairage industriel</a></span> et spécialiste. L'éclairage LED est une économie et une durabilité extraordinaires, toutes les personnes intéressées sont donc invitées à nous contacter. En tant que fabricant d'éclairage LED, nous créons non seulement des luminaires pour l'industrie, mais aussi des <a href="page_en_construction.html">éclairages publics</a>, <a href="page_en_construction.html">commerciaux</a>, <a href="page_en_construction.html">d'hôtels</a>, <a href="page_en_construction.html"> de bureaux</a> et <a href="page_en_construction.html">d'ateliers</a>.
         </div>
-      </div>`
+      </div>`;
 let obiekt_footer_solution_pl=` <div class="row_foot">
         <div class="column_foot">
           <h2 style="text-transform: uppercase;letter-spacing: 2.4px;"> <i class="fa-regular fa-address-book"></i>&nbsp
@@ -1500,7 +1500,7 @@ let obiekt_footer_solution_pl=` <div class="row_foot">
           <h2 style="content: ''; margin-bottom: 1em;"></h2>
           <p> <span> Globus Lighting </span> wywodzi się z firmy Globus o blisko 100-letniej tradycji. Zaczynaliśmy od narzędzi dla przemysłu, a obecnie jesteśmy oddzielną spółką, która jest polskim producentem <span><a href="strona_w_konstrukcji.html">oświetlenia przemysłowego</a></span> oraz specjalistycznego. Oświetlenie ledowe to niezwykła oszczędność i trwałość, dlatego wszystkich zainteresowanych zapraszamy do kontaktu. Jako producent oświetlenia LED tworzymy nie tylko oprawy dla przemysłu, ale również <a href="strona_w_konstrukcji.html">oświetlenie uliczne</a>, <a href="strona_w_konstrukcji.html">handlowe</a>,  <a href="strona_w_konstrukcji.html">hotelowe</a>, <a href="strona_w_konstrukcji.html">biurowe </a>czy dla<a href="strona_w_konstrukcji.html"> warsztatów</a>.</p>
         </div>
-      </div>`
+      </div>`;
  
 // sped menu produkt ANG
 let obiekt_speed_menu_ang=`<a href="products_led.html">
@@ -1517,7 +1517,7 @@ let obiekt_speed_menu_ang=`<a href="products_led.html">
           <div id="speedProdukt_station">
             <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
           </div>
-        </a>`
+        </a>`;
 // sped menu produkt FR
 let obiekt_speed_menu_fr=`        <a href="produits_Led.html">
           <div id="speedProdukt_led">
@@ -1533,7 +1533,7 @@ let obiekt_speed_menu_fr=`        <a href="produits_Led.html">
           <div id="speedProdukt_station">
             <i class="fa-solid fa-charging-station fa-flip-horizontal"></i> 
           </div>
-        </a>`
+        </a>`;
 // sped menu produkt PL
 let obiekt_speed_menu_pl=` <a href="produkty_LED.html">
           <div id="speedProdukt_led">
@@ -1551,7 +1551,7 @@ let obiekt_speed_menu_pl=` <a href="produkty_LED.html">
           <div id="speedProdukt_station">
             <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
           </div>
-        </a>`
+        </a>`;
 
 // sped menu produkt ANG solution
 let obiekt_speed_menu_solution_ang=`<a href="products_led.html">
@@ -1568,7 +1568,7 @@ let obiekt_speed_menu_solution_ang=`<a href="products_led.html">
           <div id="speedProdukt_station">
             <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
           </div>
-        </a>`
+        </a>`;
 // sped menu produkt FR solution
 let obiekt_speed_menu_solution_fr=`        <a href="../produits_Led.html">
           <div id="speedProdukt_led">
@@ -1584,7 +1584,7 @@ let obiekt_speed_menu_solution_fr=`        <a href="../produits_Led.html">
           <div id="speedProdukt_station">
             <i class="fa-solid fa-charging-station fa-flip-horizontal"></i> 
           </div>
-        </a>`
+        </a>`;
 // sped menu produkt PL solution
 let obiekt_speed_menu_solution_pl=` <a href="../produkty_LED.html">
           <div id="speedProdukt_led">
@@ -1608,14 +1608,10 @@ let obiekt_speed_menu_solution_pl=` <a href="../produkty_LED.html">
 //  id="stopka_web"
 // <p id="services"></p>
 //  <script src="js/elementy_enkapsuly.js"></script>
-
 //  id="menu_in_situ_solution"
 //  id="stopka_web_solution"
-
 //  <u id="jezyk_strony" style="color: #222;">0</u>
-
 //  <script src="../js/elementy_enkapsuly.js"></script>
-
 //  <article id="__sped_Menu_Produkt">
 // <h6 id="jezyk_strony" style="color: #22222200;opacity: 0.1;" >0</h6>
 // <h6 id="jezyk_strony" style="color: #22222200;opacity: 0.1;">1</h6>
@@ -1624,61 +1620,76 @@ let obiekt_speed_menu_solution_pl=` <a href="../produkty_LED.html">
 
 
 let flaga_wersji_jezykowej =document.getElementById("jezyk_strony");
-let flaga_W_J = flaga_wersji_jezykowej.innerHTML
+let flaga_W_J = flaga_wersji_jezykowej.innerHTML;
+let _title=document.title;
+//console.log("_title");
+//console.log(_title);
+if(_title=="Products" && flaga_W_J!=0) {
+  console.log(_title);
+  if(flaga_W_J==1){
+    console.log("flaga_W_J==1 ",flaga_W_J);
+    obiekt_menu_fr = obiekt_menu_fr.replaceAll('href="','href="wersja_fr/' );
+  }
+  if(flaga_W_J==2){
+    obiekt_menu_pl = obiekt_menu_pl.replaceAll('href="','href="wersja_pl/' );
+     console.log("flaga_W_J==2 ",flaga_W_J);
+  }
+}
+let menu_arr = [obiekt_menu_ang,obiekt_menu_fr,obiekt_menu_pl];
+let footer_arr  = [obiekt_footer_ang,obiekt_footer_fr,obiekt_footer_pl];
+let produktY_text_arr =[obiekt_produktY_led_ang,obiekt_produktY_led_fr,obiekt_produktY_led_pl];
+let contakt_form_arr=[obiekt_form_contakt_ang,obiekt_form_contakt_fr,obiekt_form_contakt_pl];
 
-let menu_arr = [obiekt_menu_ang,obiekt_menu_fr,obiekt_menu_pl]
+
 
 let mont_menu =  document.getElementById("menu_in_situ");
+let mont_footer =  document.getElementById("stopka_web");
+let mont_produktY_text =  document.getElementById("produktY_text");
+let mont_contakt_form = document.getElementById("contactForm");
+
+
+
 
 if(mont_menu !=null && flaga_W_J !=null ){
-  mont_menu.innerHTML=menu_arr[flaga_W_J]
+  mont_menu.innerHTML=menu_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'menu_in_situ'")
+  console.log("Nie znaleziono ID 'menu_in_situ'");
 }
 
-let mont_footer =  document.getElementById("stopka_web");
-
-let footer_arr  = [obiekt_footer_ang,obiekt_footer_fr,obiekt_footer_pl]
 
 if(mont_footer !=null && flaga_W_J !=null ){
-  mont_footer.innerHTML=footer_arr[flaga_W_J]
-}
+  mont_footer.innerHTML=footer_arr[flaga_W_J];
+};
 else{
-  console.log("Nie znaleziono ID 'stopka_web'")
+  console.log("Nie znaleziono ID 'stopka_web'");
 }
 
-
-let mont_produktY_text =  document.getElementById("produktY_text");
-
-let produktY_text_arr =[obiekt_produktY_led_ang,obiekt_produktY_led_fr,obiekt_produktY_led_pl]
 if(mont_produktY_text !=null && flaga_W_J !=null ){
-  mont_produktY_text.innerHTML=produktY_text_arr[flaga_W_J]
+  mont_produktY_text.innerHTML=produktY_text_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'produktY_text'")
+  console.log("Nie znaleziono ID 'produktY_text'");
 }
 
-let mont_contakt_form = document.getElementById("contactForm");
-let contakt_form_arr=[obiekt_form_contakt_ang,obiekt_form_contakt_fr,obiekt_form_contakt_pl]
 
 if(mont_contakt_form !=null && flaga_W_J !=null ){
-  mont_contakt_form.innerHTML=contakt_form_arr[flaga_W_J]
+  mont_contakt_form.innerHTML=contakt_form_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'contactForm'")
+  console.log("Nie znaleziono ID 'contactForm'");
 }
 
 let mont_obiekt_speed_menu = document.getElementById("__sped_Menu_Produkt");
 
-let obiekt_speed_menu_arr=[obiekt_speed_menu_ang,obiekt_speed_menu_fr,obiekt_speed_menu_pl]
+let obiekt_speed_menu_arr=[obiekt_speed_menu_ang,obiekt_speed_menu_fr,obiekt_speed_menu_pl];
 
 if(mont_obiekt_speed_menu !=null && flaga_W_J !=null ){
-  mont_obiekt_speed_menu.innerHTML=obiekt_speed_menu_arr[flaga_W_J]
-  console.log("Wykonanao proces speed menu")
+  mont_obiekt_speed_menu.innerHTML=obiekt_speed_menu_arr[flaga_W_J];
+  console.log("Wykonanao proces speed menu");
 }
 else{
-  console.log("Nie znaleziono ID '__sped_Menu_Produkt'")
+  console.log("Nie znaleziono ID '__sped_Menu_Produkt'");
 }
 
 
@@ -1687,36 +1698,37 @@ else{
 // id="menu_in_situ_solution"
 //  id="stopka_web"
 //  id="stopka_web_solution"
-let menu_solut_arr = [obiekt_menu_solution_ang,obiekt_menu_solution_fr,obiekt_menu_solution_pl]
+
+let menu_solut_arr = [obiekt_menu_solution_ang,obiekt_menu_solution_fr,obiekt_menu_solution_pl];
+let footer_solut_arr  = [obiekt_footer_solution_ang,obiekt_footer_solution_fr,obiekt_footer_solution_pl];
+let solut_sped_Menu_Produkt_arr=[obiekt_speed_menu_solution_ang,obiekt_speed_menu_solution_fr,obiekt_speed_menu_solution_pl];
+
 
 let mont_menu_solut =  document.getElementById("menu_in_situ_solution");
+let mont_solut_footer =  document.getElementById("stopka_web_solution");
+let mont_solut_sped_Menu_Produkt =  document.getElementById("__sped_Menu_Produkt_Solution");
+
 
 if(mont_menu_solut !=null && flaga_W_J !=null ){
-  mont_menu_solut.innerHTML=menu_solut_arr[flaga_W_J]
+  mont_menu_solut.innerHTML=menu_solut_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'menu_in_situ_solution'")
+  console.log("Nie znaleziono ID 'menu_in_situ_solution'");
 }
 
-let mont_solut_footer =  document.getElementById("stopka_web_solution");
-
-let footer_solut_arr  = [obiekt_footer_solution_ang,obiekt_footer_solution_fr,obiekt_footer_solution_pl]
 
 if(mont_solut_footer !=null && flaga_W_J !=null ){
-  mont_solut_footer.innerHTML=footer_solut_arr[flaga_W_J]
+  mont_solut_footer.innerHTML=footer_solut_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'stopka_web_solution'")
+  console.log("Nie znaleziono ID 'stopka_web_solution'");
 }
 
-
-let mont_solut_sped_Menu_Produkt =  document.getElementById("__sped_Menu_Produkt_Solution");
-let solut_sped_Menu_Produkt_arr=[obiekt_speed_menu_solution_ang,obiekt_speed_menu_solution_fr,obiekt_speed_menu_solution_pl]
 
 if(mont_solut_sped_Menu_Produkt !=null && flaga_W_J !=null ){
-  mont_solut_sped_Menu_Produkt.innerHTML=solut_sped_Menu_Produkt_arr[flaga_W_J]
-  console.log("Wykonanao proces speed menu")
+  mont_solut_sped_Menu_Produkt.innerHTML=solut_sped_Menu_Produkt_arr[flaga_W_J];
+  console.log("Wykonanao proces speed menu");
 }
 else{
-  console.log("Nie znaleziono ID '__sped_Menu_Produkt_Solution'")
+  console.log("Nie znaleziono ID '__sped_Menu_Produkt_Solution'");
 }
