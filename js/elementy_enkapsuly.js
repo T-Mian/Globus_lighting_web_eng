@@ -1660,7 +1660,7 @@ else{
 
 if(mont_footer !=null && flaga_W_J !=null ){
   mont_footer.innerHTML=footer_arr[flaga_W_J];
-};
+}
 else{
   console.log("Nie znaleziono ID 'stopka_web'");
 }
