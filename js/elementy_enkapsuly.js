@@ -106,28 +106,28 @@ let obiekt_menu_ang = `
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="page_constr.html">
+              <a href="realisations_folder/railway_station_wroclaw.html">
                 Main Railway Station in Wroclaw
               </a>
-              <a href="page_constr.html">
+              <a href="realisations_folder/mondelez.html">
                 Mondelez</a>
-              <a href="page_constr.html">
+              <a href="realisations_folder/siegienia_aubi.html">
                 Siegienia Aubi </a>
-              <a href="page_constr.html">
+              <a href="realisations_folder/stradom.html">
                 Stradom </a>
-              <a href="page_constr.html">
+              <a href="realisations_folder/orlik_football.html">
                 Orlik football field </a>
-              <a href="page_constr.html">
+              <a href="realisations_folder/glassworks.html">
                 Glassworks lighting </a>
-              <a href="page_constr.html">
+              <a href="realisations_folder/production_halls.html">
                 Production halls lighting </a>
-              <a href="page_constr.html">
+              <a href="realisations_folder/opakofarb.html">
                 Opakofarb </a>
-              <a href="page_constr.html">
+              <a href="realisations_folder/archicom.html">
                 City Forum Archicom</a>
-              <a href="page_constr.html">
+              <a href="realisations_folder/lg_chem.html">
                 LG Chem Magazine</a>
-              <a href="page_constr.html">
+              <a href="realisations_folder/lorenz_bahlsen.html">
                 Lorenz Bahlsen Magazine</a>
             </div>
           </li>
@@ -1016,28 +1016,28 @@ let obiekt_menu_solution_ang=`<li>
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="../page_constr.html">
+              <a href="../realisations_folder/railway_station_wroclaw.html">
                 Main Railway Station in Wroclaw
               </a>
-              <a href="../page_constr.html">
+              <a href="../realisations_folder/mondelez.html">
                 Mondelez</a>
-              <a href="../page_constr.html">
+              <a href="../realisations_folder/siegienia_aubi.html">
                 Siegienia Aubi </a>
-              <a href="../page_constr.html">
+              <a href="../realisations_folder/stradom.html">
                 Stradom </a>
-              <a href="../page_constr.html">
+              <a href="../realisations_folder/orlik_football.html">
                 Orlik football field </a>
-              <a href="../page_constr.html">
+              <a href="../realisations_folder/glassworks.html">
                 Glassworks lighting </a>
-              <a href="../page_constr.html">
+              <a href="../realisations_folder/production_halls.html">
                 Production halls lighting </a>
-              <a href="../page_constr.html">
+              <a href="../realisations_folder/opakofarb.html">
                 Opakofarb </a>
-              <a href="../page_constr.html">
+              <a href="../realisations_folder/archicom.html">
                 City Forum Archicom</a>
-              <a href="../page_constr.html">
+              <a href="../realisations_folder/lg_chem.html">
                 LG Chem Magazine</a>
-              <a href="../page_constr.html">
+              <a href="../realisations_folder/lorenz_bahlsen.html">
                 Lorenz Bahlsen Magazine</a>
             </div>
           </li>
@@ -1895,28 +1895,28 @@ let obiekt_menu_reliza_ang=`
               <i class="fa fa-caret-down"></i>
             </a>
             <div class="dropdown-content">
-              <a href="../page_constr.html">
+              <a href="railway_station_wroclaw.html">
                 Main Railway Station in Wroclaw
               </a>
-              <a href="../page_constr.html">
+              <a href="mondelez.html">
                 Mondelez</a>
-              <a href="../page_constr.html">
+              <a href="siegienia_aubi.html">
                 Siegienia Aubi </a>
-              <a href="../page_constr.html">
+              <a href="stradom.html">
                 Stradom </a>
-              <a href="../page_constr.html">
+              <a href="orlik_football.html">
                 Orlik football field </a>
-              <a href="../page_constr.html">
+              <a href="glassworks.html">
                 Glassworks lighting </a>
-              <a href="../page_constr.html">
+              <a href="production_halls.html">
                 Production halls lighting </a>
-              <a href="../page_constr.html">
+              <a href="opakofarb.html">
                 Opakofarb </a>
-              <a href="../page_constr.html">
+              <a href="archicom.html">
                 City Forum Archicom</a>
-              <a href="../page_constr.html">
+              <a href="lg_chem.html">
                 LG Chem Magazine</a>
-              <a href="../page_constr.html">
+              <a href="lorenz_bahlsen.html">
                 Lorenz Bahlsen Magazine</a>
             </div>
           </li>
