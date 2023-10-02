@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="!">
+  <title>Title -Globus Lighting</title>
+  <link href="../css/style.css" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="../foto/Favikon_globus_tru.png">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
+    integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <!--kit ikon  (Globus ) -->
+  <script src="https://kit.fontawesome.com/a10a039624.js" crossorigin="anonymous"></script>
+  <!--kit ikon  (dev) -->
+  <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <meta http-equiv="last-modified" content="Mon Sep 25 2023 07:57:27 GMT+0200">
+  <style>
+    .neon {
+      color: #fecb00;
+      text-shadow:
+        0 0 5px #fecb00,
+        0 0 10px #fecb00,
+        0 0 15px #fecb00;
+    }
+
+    .span_fecb {
+      color: #fecb00;
+      font-weight: bold;
+    }
+
+    p {
+      margin-left: 15%;
+      font-size: 1.2em;
+      color: #e5e5e5;
+      margin-right: 15%;
+    }
+
+    .firstcharacter {
+      color: #fecb00;
+      float: left;
+      font-family: Copperplate, Papyrus, fantasy;
+      font-size: 50px;
+      line-height: 45px;
+      padding-right: 4px;
+      padding-left: 3px;
+    }
+
+    .btn_abus {
+      margin-left: 15%;
+      width: 70%;
+      color: #e5e5e5;
+      background-color: #222;
+      border: 2px solid #fecb00;
+    }
+
+    .btn_abus:hover {
+      box-shadow: 0 0.5em 0.5em -0.4em #e5ff60;
+      transform: translateY(-0.25em);
+    }
+    footer{
+      background-color: #333;
+      margin-top:2%;
+      position:bottom;
+      border-radius: 25px;
+      margin-left: 17%;
+    }
+  </style>
+</head>
+
+<body>
+  <section id="main">
+    <div id="div_menu">
+      <div>
+        <a href="../index.html">
+          <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="../svg/logo_Globus_lighting_FECB00.svg"
+            onmouseover="this.src='../svg/logo_Globus_lighting.svg'"
+            onmouseout="this.src='../svg/logo_Globus_lighting_FECB00.svg'">
+        </a>
+      </div>
+
+      <div id="burgerMenu" onclick="togleMenu()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <div id="ikona_bars_staget" onclick="togleMenu()" style="visibility: hidden;">
+        <i class="fa-solid fa-bars-staggered"></i>
+      </div>
+      <div id="speedProdukt" onclick="speedProdukt()">
+        <i class="fa-solid fa-tags"></i>
+      </div>
+      <a href="../products_led.html">
+        <div id="speedProdukt_led">
+          <i class="fa-regular fa-lightbulb"></i>
+        </div>
+      </a>
+      <a href="../page_constr.html">
+        <div id="speedProdukt_voltaik">
+          <i class="fa-solid fa-solar-panel"></i>
+        </div>
+      </a>
+      <a href="../page_constr.html">
+        <div id="speedProdukt_station">
+          <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
+        </div>
+      </a>
+
+      <!--Navigation-->
+      <nav id="navElement" style="visibility: hidden;">
+        <ul class="menu" id="menu_in_situ_realizac">
+
+        </ul>
+      </nav>
+      <!-- END Navigation-->
+    </div>
+    <div style="z-index: 3;text-align:center;margin-top: 25vh;color:#e5e5e5;width:80%;margin-left:5%;">
+      <h1 style="margin-left: 15%;"> Tytuł</h1>
+      <h2 style="margin-left: 15%;margin-top:3%;"> Podtytuł </h2>
+
+
+      <div class="image_auto" style="margin-top:6%;">
+        <img src="https://www.globuslighting.pl/wp-content/uploads/2018/10/o%C5%9Bwietlenie-architektoniczne.jpg"
+          style="border-radius:10px;">
+      </div>
+    </div>
+    <div>
+      <p> <span class="firstcharacter neon">L</span> <span class="span_fecb">orem</span> ipsum dolor sit amet. Et quis
+        unde cum voluptates culpa cum internos nesciunt qui omnis distinctio. Sed veritatis consequatur ut dolore
+        aperiam aut natus nostrum id quis nihil cum aliquid necessitatibus et sint dolorum sit consectetur labore? Et
+        voluptatum totam ut temporibus aperiam est distinctio labore non quos enim. Id aliquam asperiores ut repudiandae
+        quas ut quia minima sit minus voluptatem eos autem fugit sit temporibus voluptatem!</p>
+      <br>
+    </div>
+    <div>
+      <button class="btn_abus" onclick="window.open('../products_led.html')">
+        <h3>See our products<i class="fa-solid fa-angles-right"></i></h3>
+      </button>
+    </div>
+  </section>
+
+  <div style="margin-top: 5%;text-align: center;">
+    <h3 style="color: #fecb00;">
+      Contact our sales representatives!
+      <br>
+      <a href="mailto:gl@globuslighting.pl">
+        <i class="fa-solid fa-envelope"></i>
+        &nbsp gl@globuslighting.pl
+      </a>
+    </h3>
+    <h3>
+      <a href="tel:+48537119116">
+        <i class="fa-solid fa-phone"></i>
+        &nbsp +48 537 119 116
+      </a>
+    </h3>
+  </div>
+  <section>
+    <footer id="stopka_web_realis" >
+    </footer>
+  </section>
+  <div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  </div>
+
+  <!-- indykator skrolowania  -->
+  <section>
+    <div class="dupp">
+      <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+      </div>
+    </div>
+  </section>
+
+  <p id="services"></p>
+  <u id="jezyk_strony" style="color: #222;">0</u>
+  <script src="../js/elementy_enkapsuly.js"></script>
+  <script src="../js/script.js"></script>
+</body>
+
+</html>
