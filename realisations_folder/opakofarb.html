@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="The color rendering index (CRI) is a very important factor wherever color is important, for example in the company producing Opakofarb paints. See for yourself!">
   <title>LED lamps and lighting – Opakofarb in Włocławek -Globus Lighting</title>
-  <link href="../css/style.css" rel="stylesheet" type="text/css" />
+  <link href="../css/style.css" rel="stylesheet" type="text/css" >
   <link rel="shortcut icon" href="../foto/Favikon_globus_tru.png">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
@@ -16,7 +16,9 @@
   <!--kit ikon  (dev) -->
   <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <meta http-equiv="last-modified" content="Tue Oct 03 2023 08:04:36 GMT+0200">
+  <!-- <meta http-equiv="last-modified" content="Tue Oct 03 2023 08:04:36 GMT"> -->
+  <meta http-equiv="expires" content="0">
+  <meta http-equiv="expires" content="86400">
   <style>
     .neon {
       color: #fecb00;
@@ -54,6 +56,7 @@
       color: #e5e5e5;
       background-color: #222;
       border: 2px solid #fecb00;
+      font-size:2em;
     }
 
     .btn_abus:hover {
@@ -63,7 +66,6 @@
     footer{
       background-color: #333;
       margin-top:2%;
-      position:bottom;
       border-radius: 25px;
      /* margin-left: 17%;*/
     }
@@ -93,6 +95,33 @@
         flex-direction: column;
       }
     }
+
+    ._ul{
+      color: #e5e5e5;
+      place-items: center;
+      display: flex;
+      flex-direction: column;
+    }
+    ._ul li{
+      width: 65rem;
+      background-color: #333;
+      border-radius: 3rem;
+      text-align: center;
+      margin:8px;
+      box-shadow: 0 15px 15px rgba(0, 0, 0, 0.3);
+      backdrop-filter: blur(15px);
+      letter-spacing:normal;
+    }
+    ._ul li:hover{
+      letter-spacing: 2px;
+    }
+    
+    .opis_img{
+      color: #e5e5e5;
+      opacity: 0.1;
+      display: flex;
+      justify-content: center;
+    }
   </style>
 </head>
 
@@ -103,7 +132,7 @@
         <a href="../index.html">
           <img id="logos" style="padding:25px;" class="logo_s hexagon_loga" src="../svg/logo_Globus_lighting_FECB00.svg"
             onmouseover="this.src='../svg/logo_Globus_lighting.svg'"
-            onmouseout="this.src='../svg/logo_Globus_lighting_FECB00.svg'">
+            onmouseout="this.src='../svg/logo_Globus_lighting_FECB00.svg'" alt="Logo Globus Lighting">
         </a>
       </div>
 
@@ -151,7 +180,7 @@
         <img src="../foto/Barwy_farb.webp" alt="Photo by Steve Johnson on StockSnap"
           style="border-radius:10px;">
       </div>
-      <div style="color: #e5e5e5;opacity: 0.1;">
+      <div class="opis_img">
       <a href="https://stocksnap.io/photo/splatter-abstract-PL3ICFUSW0">Photo</a> by <a href="https://stocksnap.io/author/stevejohnson">Steve Johnson</a> on <a href="https://stocksnap.io">StockSnap</a>
       </div>
     </div>
@@ -169,10 +198,8 @@
     </div>
     <div>
       <button class="btn_abus" onclick="window.open('../products_led.html')">
-        <h3>
           See our products
           <i class="fa-solid fa-angles-right"></i>
-        </h3>
       </button>
     </div>
     <div class="image_auto" style="margin-top:6%;">
@@ -194,7 +221,7 @@
       <br>
     </div>
     <div class="image_auto" style="margin-top:6%;">
-        <img src="https://cdn.pixabay.com/photo/2015/05/23/15/23/glance-780638_1280.jpg"
+        <img src="https://cdn.pixabay.com/photo/2015/05/23/15/23/glance-780638_1280.jpg" alt="Unpainted cans"
           style="border-radius:10px;">
       </div>
         <div>
@@ -211,7 +238,7 @@
     </div>
     <div>
           <div class="image_auto" style="margin-top:6%;">
-        <img src="../foto/_wspolczynnik_oddawania_barw_ra_1.webP"
+        <img src="../foto/_wspolczynnik_oddawania_barw_ra_1.webP" alt="Ra or CRI"
           style="border-radius:10px;">
       </div>
       <p>
@@ -225,11 +252,14 @@
       </p>
       <br>
     </div>
-    <div class="image_auto" style="margin-top:6%;">
-        <img src="https://www.globuslighting.pl/wp-content/uploads/2018/08/bsl_120-500x332.jpg"
-          style="border-radius:10px;">
+    <div class="image_auto" style="margin-top:6%;display: flex;justify-content: center;padding-left:0;">
+        <img src="https://www.globuslighting.pl/wp-content/uploads/2018/08/bsl_120-500x332.jpg" alt="BELUS"
+          style="border-radius:10px;width: 50%;">
       </div>
-            <h3 style="color: #fecb00;text-align: center;">What LED lamps did we use?</h3>
+    <div class="opis_img">
+     <h6>BELUS linear industrial luminaires</h6> 
+      </div>
+      <h3 style="color: #fecb00;text-align: center;">What LED lamps did we use?</h3>
     <div>
       <p>
         <span class="firstcharacter neon">
@@ -240,8 +270,57 @@
         </span>
        linear industrial luminaires are tight LED beams that were designed to illuminate production halls in high rooms. Their housing is made of high-quality aluminum alloy, which also serves as a heat sink, thanks to which the luminaire has the appropriate operating temperature of the LED diodes. Thanks to its properly constructed structure, the fixture is very durable. Belus industrial luminaires use linear LED modules with a length of 28 cm, thanks to which you can adjust the length of the luminaire and the amount of light emitted. appropriate to the specific task.
       </p>
+      </div>
       <br>
-    </div>
+      <div class="image_auto" style="margin-top:6%;">
+        <img src="../foto/business-team-meeting-boardroom.webP" alt="Photo by Steve Johnson on StockSnap"
+          style="border-radius:10px;">
+      </div>
+      <div class="opis_img" >
+     <h6> Photo by <a href="https://www.shopify.com/stock-photos/@matthew_henry?utm_campaign=photo_credit&amp;utm_content=High+Res+Business+Team+Meeting+In+Boardroom+Picture+%E2%80%94+Free+Images&amp;utm_medium=referral&amp;utm_source=credit">Matthew Henry</a> from <a href="https://www.shopify.com/stock-photos/marketing?utm_campaign=photo_credit&amp;utm_content=High+Res+Business+Team+Meeting+In+Boardroom+Picture+%E2%80%94+Free+Images&amp;utm_medium=referral&amp;utm_source=credit">Burst</a></h6> 
+      </div>
+      <br>
+      <br>
+     <h3 style="color: #fecb00;text-align: center;">Summary of implementation</h3>
+    <div>
+      <p>
+        <span class="firstcharacter neon">
+          D
+        </span>
+        <span class="span_fecb">
+          uring
+        </span>
+        the implementation of industrial LED luminaires, we met all customer requirements. Thanks to the use of linear industrial LED luminaires, the following was achieved:
+      </p>
+      <ul class="_ul" >
+        <li>
+          <i class="fa-solid fa-check"></i>
+          required intensity (Intensity from 300 to 1000 lux) 
+        </li>
+        <li>
+          <i class="fa-solid fa-check"></i> appropriate color rendering index (CRI90) 
+        </li>
+        <li>
+          <i class="fa-solid fa-check"></i>
+          high-quality lighting safe for employees
+        </li>
+        <li>
+          <i class="fa-solid fa-check"></i>
+          the ability to properly control print quality<br> by detecting incorrect colors and checking the accuracy of prints and graphics quality.
+        </li>
+      </ul>
+        <p>
+         Ourimplementation was very highly rated by the client. The aesthetics and standard of workmanship of the product and the entire implementation were taken into account. Very good lighting and technical parameters, thanks to which quality control can be carried out properly, and a perfect price-quality ratio.
+          <br>
+          <br>
+If you are interested in modernizing LED lighting, please contact us. We provide LED lighting for industry, offices, warehouses and many other places. We are flexible and individual customer requirements are important to us.
+      </p>
+      </div>
+    <br>
+    <br>
+    <h3 style="color: #fecb00;text-align: center;">Contact our sales representatives!</h3>
+    <br>
+    <br>
      <div class="row_abus" >
         <div class="column_abus" style="background-color:#222;">
           <h2 style="text-align: center;">
@@ -264,9 +343,7 @@
               Privacy Policy
             </span>
             (link 
-            <a href="pdf_zbior/Privacy policy.pdf" target="_blank">
-              here
-            </a>
+            <a href="../pdf_zbior/Privacy policy.pdf" target="_blank">here</a>
             )
           </p>
           <h3 style="text-align: center;color:#e5e5e5;">
@@ -274,13 +351,13 @@
             <br>
             <a href="mailto:gl@globuslighting.pl">
               <i class="fa-solid fa-envelope"></i>
-              &nbsp gl@globuslighting.pl 
+              &nbsp; gl@globuslighting.pl 
             </a> 
           </h3>
           <h3 style="margin-bottom:17px;text-align: center;">
             <a href="tel:+48537119116">
               <i class="fa-solid fa-phone"></i>
-              &nbsp +48 537 119 116 
+              &nbsp; +48 537 119 116 
             </a>
           </h3>
         </div>
@@ -301,8 +378,6 @@
        <footer id="stopka_web_realis" >
     </footer> 
   </section>
-
- 
   <div>
     <button onclick="topFunction()" id="myBtn" title="Go to top">
       Top
@@ -310,13 +385,13 @@
   </div>
 
   <!-- indykator skrolowania  -->
-  <section>
+
     <div class="dupp">
       <div class="progress-container">
         <div class="progress-bar" id="myBar"></div>
       </div>
     </div>
-  </section>
+
 
   <p id="services"></p>
   <u id="jezyk_strony" style="color: #222;">0</u>
