@@ -157,7 +157,10 @@ function Odczyt(xml) {
   opis_produktu.innerHTML = z[id_pr].childNodes[0].nodeValue;
   ickonografia_produktu.innerHTML = ("<!--" + x[id_pr].childNodes[0].nodeValue + "-->" + q[id_pr].childNodes[0].nodeValue);
   let set = f[id_pr].childNodes[0].nodeValue;
-  foto_produktu.setAttribute("src", set);
+  set.toString()
+  let set_2= set.replace("png","webP")
+  foto_produktu.setAttribute("src", set_2);
+  console.log(typeof set)
   let dataPfotometria = ""
   if (g[id_pr].childNodes[0].nodeValue) {
     dataPfotometria = g[id_pr].childNodes[0].nodeValue;
