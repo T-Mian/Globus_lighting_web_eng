@@ -15,6 +15,9 @@
     integrity="sha512-qaBWRiAKQzF5H0yRU9yyAxfK2w70XUOgB4i0YL6Xg86jWbpnUHbAWfx4x08SqoqnmXmF/NjmqtErDHIwYXeulQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://unpkg.com/downloadjs@1.4.7"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
+  integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <!-- meta Ostatnia modyfikacja -->
   <meta http-equiv="last-modified" content="Wed Oct 18 2023 09:14:14 GMT+0200">
   <style>
@@ -142,8 +145,10 @@
     <div style="margin-left: 15%;">
 
       <div id="wizual_produktu" class="column_produkt_led">
-
-        <img id="foto_produkt" src="foto/Placeholder.png" style="max-width: 100%;">
+        <picture id="foto_produkt" >
+        <img  src="foto/Placeholder.png" style="max-width: 100%;">
+        </picture>
+        
       </div>
 
       <div id="opis_produktu" class="column_produkt_led card_opisu">
@@ -163,7 +168,7 @@
             Globus Lighting.pl 
           </a>
         </p>
-        <div style="display: block;align-content: space-around;">
+        <div style="display: none;align-content: space-around;">
           <button onclick="myFunctionSize()" id="myBtnPlus">
             <i class="fa-solid fa-up-right-and-down-left-from-center"></i>
           </button>
@@ -223,7 +228,7 @@
         <i class="fa-solid fa-table"></i>
       </span>
     </h3>
-    <div class="tabela_led" id="table_led" style="display: flex;flex-wrap: wrap;justify-content: center;">
+    <div class="tabela_led" id="table_led" style="display: flex;flex-wrap: wrap;justify-content: center;overflow-x: auto;">
       <i class="fa-solid fa-screwdriver-wrench fa-2xl" style="color: #fecb00;"></i>
     </div>
     <!-- dodatek identyfikacyjny SWI plus footer -->

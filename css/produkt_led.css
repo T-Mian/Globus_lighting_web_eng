@@ -1,21 +1,4 @@
 
-@media screen and (max-width: 900px) {
-  .title_led{
-    margin-top:30vh;
-  }
-  #photometry img{
-   display: grid;
-  }
-}
-
-/* Responsive layout  */
-@media screen and (max-width: 600px) {
-  .column_produkt_led {
-  width: 100%;
-
-  }
-}
-
 .title_led{
   margin-top: 20vh;
   color: #e5e5e5;
@@ -48,11 +31,11 @@
   backdrop-filter: blur(5px);
 }
 #photometry{
-  margin-top:5%;
+  margin-top: 5%;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-end;
+  justify-content: center;
 }
 #photometry img {
   margin:2%;
@@ -130,4 +113,95 @@
   background-color: #333;
   left:1%;
   z-index:1;
+}
+@media screen and (max-width: 1050px){
+  #produkt_ikons{
+    display: flex;
+    margin-left: 0;
+    justify-content: center;
+    padding: 0 1%;
+  }
+  #photometry img{
+   display: grid;
+  }
+  .column_produkt_led {
+    width: 100%;
+  }
+  #foto_produkt{
+    display: flex;
+    justify-content: center;
+  }
+  
+}
+
+@media screen and (max-width: 900px) {
+  .title_led{
+    margin-top:30vh;
+  }
+
+}
+
+/* Responsive layout  */
+@media screen and (max-width: 600px) {
+  .column_produkt_led {
+  width: 100%;
+
+  }
+}
+
+@media (max-width: 950px) {
+    .fl-table {
+        display: block;
+        width: 100%;
+    }
+    .tabela_led:before{
+        content: "Scroll horizontally >";
+        display: block;
+        text-align: right;
+        font-size: 11px;
+        color: white;
+        padding: 0 0 10px;
+    }
+    .fl-table thead, .fl-table tbody, .fl-table thead th {
+        display: block;
+    }
+    .fl-table thead th:last-child{
+        border-bottom: none;
+    }
+    .fl-table thead {
+        float: left;
+    }
+    .fl-table tbody {
+        width: auto;
+        position: relative;
+        overflow-x: auto;
+    }
+    .fl-table td, .fl-table th {
+        padding: 20px .625em .625em .625em;
+        height: 80px;
+        vertical-align: middle;
+        box-sizing: border-box;
+        overflow-x: hidden;
+        overflow-y: auto;
+        width: 150px;
+        font-size: 15px;
+        text-overflow: ellipsis;
+    }
+    .fl-table thead th {
+        text-align: left;
+        border-bottom: 1px solid #f7f7f9;
+    }
+    .fl-table tbody tr {
+        display: table-cell;
+    }
+    .fl-table tbody tr:nth-child(odd) {
+        background: none;
+    }
+    .fl-table tr:nth-child(even) {
+        background: transparent;
+    }
+    .fl-table tbody td {
+        display: block;
+        text-align: center;
+    }
 }

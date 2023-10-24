@@ -84,7 +84,7 @@ function zaladowacTabele(xml, plik_nazwa) {
   const xmlDoc = xml.responseXML;
   const x = xmlDoc.getElementsByTagName("MODEL");
   let indeks=jezyk_opisu.indexOf(flaga_języka)
-  let table = `<table><tr><th>${lang[indeks]}</th><th>Ra & CCT [K]</th><th>${lang[indeks+3]} [W]</th><th>${lang[indeks+6]} [lm]</th><th>${lang[indeks+9]}</th><th>IP & IK</th><th>${lang[indeks+12]}</th><th>Download</th></tr>`;
+  let table = `<table class="fl-table"><thead><tr><th>${lang[indeks]}</th><th>Ra & CCT [K]</th><th>${lang[indeks+3]} [W]</th><th>${lang[indeks+6]} [lm]</th><th>${lang[indeks+9]}</th><th>IP & IK</th><th>${lang[indeks+12]}</th><th>Download</th></tr></thead><tbody>`;
 
   let strona = 3;
   for (let i = 0; i < x.length; i++) {
@@ -119,7 +119,7 @@ function zaladowacTabele(xml, plik_nazwa) {
       "</td><td>" + downLoad_icon(strona, nazwa, a) + "</td></tr>"
     strona += 2
   }
-  table += "</table>"
+  table += "</tbody></table>"
   document.getElementById("table_led").innerHTML = table;
 }
 
@@ -153,13 +153,17 @@ function Odczyt(xml) {
   var g = xmlDoc.getElementsByTagName("PFOTOMETRIA");
   var tabela = xmlDoc.getElementsByTagName("PLIK_TABELI");
   tytul_produktu.innerHTML = x[id_pr].childNodes[0].nodeValue;
+  document.title="LED luminaires "+x[id_pr].childNodes[0].nodeValue;
   tytul_opisu.innerHTML = y[id_pr].childNodes[0].nodeValue;
   opis_produktu.innerHTML = z[id_pr].childNodes[0].nodeValue;
   ickonografia_produktu.innerHTML = ("<!--" + x[id_pr].childNodes[0].nodeValue + "-->" + q[id_pr].childNodes[0].nodeValue);
   let set = f[id_pr].childNodes[0].nodeValue;
   set.toString()
   let set_2= set.replace("png","webP")
-  foto_produktu.setAttribute("src", set_2);
+  foto_produktu.innerHTML=`
+  <source srcset="${set_2}" type="image/webp" />
+  <source srcset="${set}" type="image/png" />
+  <img src="${set}" alt="${x[id_pr].childNodes[0].nodeValue}" />`
   console.log(typeof set)
   let dataPfotometria = ""
   if (g[id_pr].childNodes[0].nodeValue) {
@@ -205,108 +209,13 @@ function showInfoIcins() {
 function hidenIkons() {
   document.getElementById("opis_ikons").style.visibility = "hidden";
 }
-/*
-let btn_pl = document.getElementById("btnLangeShowPl");
-let btn_fr = document.getElementById("btnLangeShowFR");
-let btn_ang = document.getElementById("btnLangeShowANG");
-var list_btn = [btn_ang,btn_fr,btn_pl]
-for(let x of list_btn){
-  console.log("for(let x of list_btn) ")
-  console.log(x)
-  if(list_btn.indexOf(x)==flaga_językaAflfa){
-    console.log(" if(list_btn.indexOf(x)==flaga_językaAflfa)")
-      x.firstChild.classList.remove("fa-xmark");
-      x.firstChild.classList.add("fa-check")
-  }else{
-    x.firstChild.classList.remove("fa-check");
-    x.firstChild.classList.add("fa-xmark")
-  }
-}
-var flaga_lange_show = false;
 
-function langeShow() {
-  let x = 40
-  if (flaga_lange_show) {
-    for (let btn of list_btn) {
-      btn.style.opacity = "1"
-      btn.style.transition = " all 1s ease-out"
-      btn.style.top = x + 8 + "%"
-      x += 8
-    }
-  } else {
-    for (let btn of list_btn) {
-      btn.style.opacity = "0"
-      btn.style.transition = " all 1s ease-out"
-      btn.style.top = "40%"
-      x -= 8
-    }
-  }
-  flaga_lange_show = !flaga_lange_show
-}
-langeShow()
-
-function langeSet(nr) {
-  var id=""
-  if(nr==0){id='btnLangeShowANG'}
-  if(nr==1){id='btnLangeShowFR'}
-  if(nr==2){id='btnLangeShowPl'}
-  flaga_języka = jezyk_opisu[nr];
-  Odczyt(xhttp)
-  
-  for (let btn of list_btn) {
-    let el = document.getElementById(id)
-    btn.firstChild.classList.remove("fa-xmark", "fa-check");
-    btn.firstChild.classList.add("fa-xmark")
-    if (el == btn) {
-      el.firstChild.classList.remove("fa-xmark");
-      el.firstChild.classList.add("fa-check")
-    }
-  } 
-  translate_web(nr)
-  
-}
-
-function translate_web(nr){
-  consola.log("translate_web")
-  consola.log("nr")
-  consola.log(nr)
-  let span_product_description = document.getElementById("product_description_span");
-  let span_photometry = document.getElementById("photometry_span");
-  let span_info = document.getElementById("info_span");
-  let span_configurations = document.getElementById("configurations_span");
-  switch (nr) {
-    case 0:
-      span_product_description.innerHTML = "Product description :";
-      span_photometry.innerHTML = "Photometry";
-      span_info.innerHTML = "Info";
-      span_configurations.innerHTML = "Configurations available :";
-      break;
-    case 1:
-      span_product_description.innerHTML = "Description du produit :";
-      span_photometry.innerHTML = "Photométrie";
-      span_info.innerHTML = "Info";
-      span_configurations.innerHTML = "Paramétrages disponibles :";
-      break;
-    case 2:
-      span_product_description.innerHTML = "Opis produktu :";
-      span_photometry.innerHTML = "Fotometria";
-      span_info.innerHTML = "Informacje";
-      span_configurations.innerHTML = "Dostępne konfiguracje:";
-      break;
-    default:
-      span_product_description.innerHTML = "Product description :";
-      span_photometry.innerHTML = "Photometry";
-      span_info.innerHTML = "Info";
-      span_configurations.innerHTML = "Configurations available :";
-      console.log("langeSet switch default")
-  }
-}*/
   let span_product_description = document.getElementById("product_description_span");
   let span_photometry = document.getElementById("photometry_span");
   //let span_info = document.getElementById("info_span");
   let span_configurations = document.getElementById("configurations_span");
 
-let tlumaczenie_strony=["Product description :","Description du produit ","Opis produktu :","Photometry","Photométrie","Fotometria","Configurations available :","Paramétrages disponibles :","Dostępne konfiguracje:"]
+let tlumaczenie_strony=["Product description :","Description du produit ","Opis produktu :","Photometry","Photométrie","Fotometria","Configurations available :","Paramétrages disponibles :","Dostępne konfiguracje:"]
 
   span_product_description.innerHTML = tlumaczenie_strony[flaga_językaAflfa];
   span_photometry.innerHTML = tlumaczenie_strony[flaga_językaAflfa+3];
