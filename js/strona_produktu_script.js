@@ -1,6 +1,6 @@
 // Tomasz Mianecki 
 //Skrypt do obsługi strony z produktem 
-// versja 5
+// versja 6
 
 
 let tytul_produktu = document.getElementById("title_produkts")
@@ -21,15 +21,21 @@ let _jezyk_strony = document.getElementById("jezyk_strony")
 parametry = encodeURI(window.location.href).split("?");
 if (parametry.length > 1) {
   zmienne = parametry[1].split("&");
+  //console.log(zmienne)
 }
 for (i = 0; i < zmienne.length; i++) {
   zm = zmienne[i].split("=");
-  id_pr = zm[1]
+ // console.log(zm)
+  let pre_id=zm[1]
+  let pp_id=pre_id.split("-")
+  id_pr = pp_id[0]
+  //console.log(id_pr)
   let x=zm[0]
+  //console.log(x)
   jezyk_przychodzacy =x.slice(0,1)
   flaga_językaAflfa = parseInt(jezyk_przychodzacy)
-  console.log("flaga_językaAflfa")
-  console.log(flaga_językaAflfa)
+  //console.log("flaga_językaAflfa")
+  //console.log(flaga_językaAflfa)
   _jezyk_strony.innerHTML=flaga_językaAflfa
   flaga_języka=jezyk_opisu[flaga_językaAflfa]
 }
@@ -164,7 +170,7 @@ function Odczyt(xml) {
   <source srcset="${set_2}" type="image/webp" />
   <source srcset="${set}" type="image/png" />
   <img src="${set}" alt="${x[id_pr].childNodes[0].nodeValue}" />`
-  console.log(typeof set)
+  //console.log(typeof set)
   let dataPfotometria = ""
   if (g[id_pr].childNodes[0].nodeValue) {
     dataPfotometria = g[id_pr].childNodes[0].nodeValue;

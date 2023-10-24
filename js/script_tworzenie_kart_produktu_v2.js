@@ -111,7 +111,8 @@ function kreacjia_karty(a, b, c, d, e) {
 function kreacjia_karty(a, b, c, d, e) {
   let aa = parseInt(a);
   aa -= 1;
-  let spec =` ${b}.html?${aktualny_jezyk_strony}nrId=${aa}"`;
+  let e_adresu_lc =e.toLowerCase()
+  let spec =` ${b}.html?${aktualny_jezyk_strony}nrId=${aa}-${e_adresu_lc}"`;
 
   let skladak =`<!--  ${a}  -->
   <div>
