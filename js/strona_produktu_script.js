@@ -273,7 +273,7 @@ async function copyPages(strona, plik, kod) {
     const pdfBytes = await pdfDoc.save()
     download(pdfBytes, kod + ".pdf", "application/pdf");
   } else {
-    console.log("Flaga false")
+    console.log("func=copyPages==false")
   }
 
 }
