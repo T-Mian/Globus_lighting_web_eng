@@ -87,27 +87,6 @@ function doInnerHtmll(cel, cartt) {
   //console.log(str_archit_carts)
 }
 
-/*
-function kreacjia_karty(a, b, c, d, e) {
-  
-  let aa = parseInt(a)
-  aa -= 1
-  let spec = b + ".html?"+aktualny_jezyk_strony+"nrId=" + aa + '"'
-
-  let skladak = '<!--' + a + '--><div><a href="' + spec + ' alt=" ' + c + '" target="_blank"><div class="card_produkt"><div class="wrapper_produkt">' + d + '<img src="/produkty_karty_covery/Produkt_cover_bg_hex_' + e + '.jpg" class="cover-image_produkt lozad" /></div><img src="/produkty_karty_title/' + e + '-title.png" class="title_produkt"  /> <img src="/produkty_karty_charakter/' + e + '-char_simple.png" class="character_produkt lozad"/></div></a></div>'
-  return skladak
-}
-function kreacjia_karty(a, b, c, d, e) {
-  
-  let aa = parseInt(a);
-  aa -= 1;
-  let spec = b + ".html?"+aktualny_jezyk_strony+"nrId=" + aa + '"';
-
-  let skladak = '<!--' + a + '--><div><a href="' + spec + ' alt=" ' + c + '" target="_blank"><div class="card_produkt"><div class="wrapper_produkt">' + d + '<img src="/produkty_karty_covery/Produkt_cover_bg_hex_' + e + '.webP" class="cover-image_produkt lozad" /></div><img src="/produkty_karty_title/' + e + '-title.webP" class="title_produkt"  /> <img src="/produkty_karty_charakter/' + e + '-char_simple.webP" class="character_produkt lozad"/></div></a></div>';
-  return skladak;
-}
-*/
-
 function kreacjia_karty(a, b, c, d, e) {
   let aa = parseInt(a);
   aa -= 1;
@@ -217,7 +196,6 @@ function funkcjiaOdczytuXML(xml) {
 
   }
 }
-
 
 loadDoc();
 

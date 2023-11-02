@@ -1611,14 +1611,14 @@ let _title=document.title;
 //console.log("_title");
 //console.log(_title);
 if(_title=="Products" && flaga_W_J!=0) {
-  console.log(_title);
+  //console.log(_title);
   if(flaga_W_J==1){
-    console.log("flaga_W_J==1 ",flaga_W_J);
+    //console.log("flaga_W_J==1 ",flaga_W_J);
     obiekt_menu_fr = obiekt_menu_fr.replaceAll('href="','href="wersja_fr/' );
   }
   if(flaga_W_J==2){
     obiekt_menu_pl = obiekt_menu_pl.replaceAll('href="','href="wersja_pl/' );
-     console.log("flaga_W_J==2 ",flaga_W_J);
+     //console.log("flaga_W_J==2 ",flaga_W_J);
   }
 }
 let menu_arr = [obiekt_menu_ang,obiekt_menu_fr,obiekt_menu_pl];
@@ -1638,7 +1638,7 @@ if(mont_menu !=null && flaga_W_J !=null ){
   mont_menu.innerHTML=menu_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'menu_in_situ'");
+  console.log("ID != 'menu_in_situ'");
 }
 
 
@@ -1646,14 +1646,14 @@ if(mont_footer !=null && flaga_W_J !=null ){
   mont_footer.innerHTML=footer_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'stopka_web'");
+  console.log("ID !='stopka_web'");
 }
 
 if(mont_produktY_text !=null && flaga_W_J !=null ){
   mont_produktY_text.innerHTML=produktY_text_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'produktY_text'");
+  console.log("ID != 'produktY_text'");
 }
 
 
@@ -1661,7 +1661,7 @@ if(mont_contakt_form !=null && flaga_W_J !=null ){
   mont_contakt_form.innerHTML=contakt_form_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'contactForm'");
+  console.log(" ID !='contactForm'");
 }
 
 let mont_obiekt_speed_menu = document.getElementById("__sped_Menu_Produkt");
@@ -1670,10 +1670,10 @@ let obiekt_speed_menu_arr=[obiekt_speed_menu_ang,obiekt_speed_menu_fr,obiekt_spe
 
 if(mont_obiekt_speed_menu !=null && flaga_W_J !=null ){
   mont_obiekt_speed_menu.innerHTML=obiekt_speed_menu_arr[flaga_W_J];
-  console.log("Wykonanao proces speed menu");
+  //console.log("Proces speed menu ==OK");
 }
 else{
-  console.log("Nie znaleziono ID '__sped_Menu_Produkt'");
+  console.log("ID !='__sped_Menu_Produkt'");
 }
 
 
@@ -1691,7 +1691,7 @@ if(mont_menu_solut !=null && flaga_W_J !=null ){
   mont_menu_solut.innerHTML=menu_solut_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'menu_in_situ_solution'");
+  console.log(" ID != 'menu_in_situ_solution'");
 }
 
 
@@ -1699,16 +1699,16 @@ if(mont_solut_footer !=null && flaga_W_J !=null ){
   mont_solut_footer.innerHTML=footer_solut_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'stopka_web_solution'");
+  console.log("ID !=  'stopka_web_solution'");
 }
 
 
 if(mont_solut_sped_Menu_Produkt !=null && flaga_W_J !=null ){
   mont_solut_sped_Menu_Produkt.innerHTML=solut_sped_Menu_Produkt_arr[flaga_W_J];
-  console.log("Wykonanao proces speed menu");
+  //console.log("Proces speed menu==ok");
 }
 else{
-  console.log("Nie znaleziono ID '__sped_Menu_Produkt_Solution'");
+  console.log("ID !=  '__sped_Menu_Produkt_Solution'");
 }
 
 
@@ -1973,15 +1973,15 @@ let mont_foot_real =  document.getElementById("stopka_web_realis");
 let mont_menu_real_arr=[obiekt_menu_reliza_ang,obiekt_menu_reliza_fr, obiekt_menu_reliza_pl];
 if(mont_menu_real !=null && flaga_W_J !=null ){
   mont_menu_real.innerHTML=mont_menu_real_arr[flaga_W_J];
-  console.log(" mont_menu_real");
+  //console.log(" mont_menu_real==ok");
 }
 else{
-  console.log("Nie znaleziono ID 'menu_in_situ_realizac'");
+  console.log("ID != 'menu_in_situ_realizac'");
 }
 let footer_real_arr =[obiekt_footer_raliza_ang,obiekt_footer_raliza_fr,obiekt_footer_raliza_pl]
 if(mont_foot_real !=null && flaga_W_J !=null ){
   mont_foot_real.innerHTML=footer_real_arr[flaga_W_J];
 }
 else{
-  console.log("Nie znaleziono ID 'footer_real_arr'");
+  console.log("ID !=  'footer_real_arr'");
 }
