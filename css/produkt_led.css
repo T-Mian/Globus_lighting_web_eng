@@ -114,61 +114,10 @@
   left:1%;
   z-index:1;
 }
-
-@keyframes lights {
-  0% {
-    color: hsl(230, 40%, 80%);
-    text-shadow:
-      0 0 1em hsla(320, 100%, 50%, 0.2),
-      0 0 0.125em hsla(320, 100%, 60%, 0.3),
-      -1em -0.125em 0.5em hsla(40, 100%, 60%, 0),
-      1em 0.125em 0.5em hsla(200, 100%, 60%, 0);
-  }
-
-  30% { 
-    color: hsl(230, 80%, 90%);
-    text-shadow:
-      0 0 1em hsla(320, 100%, 50%, 0.5),
-      0 0 0.125em hsla(320, 100%, 60%, 0.5),
-      -0.5em -0.125em 0.25em hsla(40, 100%, 60%, 0.2),
-      0.5em 0.125em 0.25em hsla(200, 100%, 60%, 0.4);
-  }
-
-  40% { 
-    color: hsl(230, 100%, 95%);
-    text-shadow:
-      0 0 1em hsla(320, 100%, 50%, 0.5),
-      0 0 0.125em hsla(320, 100%, 90%, 0.5),
-      -0.25em -0.125em 0.125em hsla(40, 100%, 60%, 0.2),
-      0.25em 0.125em 0.125em hsla(200, 100%, 60%, 0.4);
-  }
-
-  70% {
-    color: hsl(230, 80%, 90%);
-    text-shadow:
-      0 0 1em hsla(320, 100%, 50%, 0.5),
-      0 0 0.125em hsla(320, 100%, 60%, 0.5),
-      0.5em -0.125em 0.25em hsla(40, 100%, 60%, 0.2),
-      -0.5em 0.125em 0.25em hsla(200, 100%, 60%, 0.4);
-  }
-
-  100% {
-    color: hsl(230, 40%, 80%);
-    text-shadow:
-      0 0 1em hsla(320, 100%, 50%, 0.2),
-      0 0 0.125em hsla(320, 100%, 60%, 0.3),
-      1em -0.125em 0.5em hsla(40, 100%, 60%, 0),
-      -1em 0.125em 0.5em hsla(200, 100%, 60%, 0);
-  }
-
+#photometry img:hover{
+  scale: 1.5;
 }
 
-.cne{
-  margin: auto;
-  font-size: 2rem;
-  font-weight: 300;
-  animation: lights 5s 750ms linear infinite;
-}
 
 @media screen and (max-width: 1050px){
   #produkt_ikons{
@@ -179,29 +128,52 @@
   }
   #photometry img{
    display: grid;
+    max-width:45%;
   }
   .column_produkt_led {
     width: 100%;
   }
   #foto_produkt{
     display: flex;
+    height: 100%;
     justify-content: center;
   }
-  
+  #opis_produktu{
+    margin-left: -8%;
+  }
 }
 
 @media screen and (max-width: 900px) {
   .title_led{
     margin-top:30vh;
   }
-
+  #title_produkts{
+    border-radius: 0;
+  }
 }
 
 /* Responsive layout  */
 @media screen and (max-width: 600px) {
   .column_produkt_led {
   width: 100%;
+  }
+  #configurations_span{
+    font-size: 28px;
+  }
+}
 
+@media screen and (max-width: 480px) {
+  #title_produkts{
+    background-color: transparent;
+  }
+  #configurations_span{
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .title_led {
+      margin-top: 40vh;
   }
 }
 

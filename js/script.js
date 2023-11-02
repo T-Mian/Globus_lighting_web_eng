@@ -1,6 +1,7 @@
 
 let mybutton = document.getElementById("myBtn");
 
+
 window.addEventListener("scroll", function() {
   myEventHandlers.myFunction();
 });
@@ -43,13 +44,14 @@ const nextTL = gsap.timeline();
 
 
 
+
+
 function cykl() {
-  mirrorTL.restart();
-  setTimeout(cykl, 10000);
+  if(panels && backs){
+      mirrorTL.restart();
+      setTimeout(cykl, 10000);
+  }
 }
-
-cykl()
-
 
 mirrorTL
   .to(fronts, 2.5, { backgroundPosition: "30px 0px", ease: "expo.inOut" })
@@ -275,15 +277,15 @@ function updateSize() {
     burger.style.visibility="hidden"
     burger.style.zIndex="0"
   }
-  if (ekran < 400) {
+  if (ekran < 400 && servi) {
     servi.style.marginBottom = "110vh"
     console.log("110vh")
   }
-  if ( ekran < 830 && 400 < ekran ) {
+  if ( ekran < 830 && 400 < ekran && servi) {
     servi.style.marginBottom = "81vh"
     console.log("81vh")
   }
-  if ( ekran < 1180 && 830 < ekran ) {
+  if ( ekran < 1180 && 830 < ekran && servi) {
     servi.style.marginBottom = "45vh"
     console.log("45vh")
   }
@@ -295,7 +297,7 @@ function updateSize() {
     root.style.setProperty("--SB_margin", "0")
   }
 
-  if (ekran > 1209) {
+  if (ekran > 1209 && servi) {
     servi.style.marginBottom = "2vh"
     root.style.setProperty("--grid-template-columns", "50% 50%")
     root.style.setProperty("--SB_max-width", "50%")
@@ -308,3 +310,4 @@ function updateSize() {
 
 window.addEventListener("resize", updateSize);
 updateSize()
+cykl()
