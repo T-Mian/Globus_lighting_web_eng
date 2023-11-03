@@ -5,6 +5,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title> Globus Lighting – Solutions d'éclairage modernes – éclairage intelligent </title>
+  <meta name="description" content="Globus Lighting propose des solutions d'éclairage modernes pour chaque usage: bureau, musée, hall de production? Ou autre chose? Consultez-nous!">
+  <meta name="keywords" content="globus lighting,éclairage intelligent, détecteurs de mouvement, éclairage industriel, éclairage de magasin, luminaires LED, luminaires LED, éclairage d'atelier, éclairage d'hôtel, éclairage d'installations sportives, éclairage public, éclairage de parc, éclairage de parking">
   <link href="../css/style.css" rel="stylesheet" type="text/css" />
   <link rel="shortcut icon" href="../foto/Favikon_globus_tru.png">
   <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
@@ -134,6 +136,24 @@
     .container_galeria .box:hover .content p {
       transform: translateY(0px);
     }
+
+    .div_main{
+      text-align:center;
+      margin-top: 25vh;
+      color:#e5e5e5;
+      width:80%;
+      margin-left:5%;
+    }
+    
+    /*rozwiązanie tymczasowe */
+    @media screen and (max-width: 1280px) {
+      .container_galeria .box .content p {
+        transform:none;
+      }
+      .container_galeria .box .content h2 {
+        transform: none;
+      }
+    }
   </style>
 </head>
 
@@ -182,7 +202,7 @@
       </nav>
     </div>
 
-    <div style="z-index: 3;text-align:center;margin-top: 25vh;color:#e5e5e5;width:80%;margin-left:5%;">
+    <div class="div_main">
       <h1 style="margin-left: 15%;">Solutions d'éclairage</h1>
       <h1 style="margin-left: 15%;">Éclairage intelligent</h1>
       <div class="image_auto">
