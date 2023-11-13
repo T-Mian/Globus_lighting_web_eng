@@ -35,15 +35,12 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 
-
+/*
 let panels = document.querySelectorAll(".panel_baner");
 let fronts = document.querySelectorAll(".front_baner");
 let backs = document.querySelectorAll(".back_baner");
 const mirrorTL = gsap.timeline();
 const nextTL = gsap.timeline();
-
-
-
 
 
 function cykl() {
@@ -89,7 +86,7 @@ mirrorTL
     },
     "-=2.3")
   .to(fronts, 2.5, { backgroundPosition: "30px 0px", ease: "expo.inOut" })
-  .to(panels, 2.5, { z: 0, rotationY: 0, ease: "expo.inOut" }, "-=2.5")
+  .to(panels, 2.5, { z: 0, rotationY: 0, ease: "expo.inOut" }, "-=2.5") */
 
 
 var aktuall_category = document.getElementById("text_categorii")
@@ -310,4 +307,4 @@ function updateSize() {
 
 window.addEventListener("resize", updateSize);
 updateSize()
-cykl()
+//cykl()

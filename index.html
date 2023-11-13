@@ -6,38 +6,49 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-  <meta name="description" content="➡️ We are a LED lighting manufacturer with rich tradition and experience. We offer LED lighting for use, among others: in industry.">
+  <meta name="description"
+    content="➡️ We are a LED lighting manufacturer with rich tradition and experience. We offer LED lighting for use, among others: in industry.">
   <title>Producer of LED lighting – Globus Lighting</title>
   <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/animacje_web.css" rel="stylesheet" type="text/css" />
   <link rel="shortcut icon" href="foto/Favikon_globus_tru.png">
   <script src="https://kit.fontawesome.com/3dfbae5f2e.js" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
     integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <!-- meta Ostatnia modyfikacja -->
+   meta Ostatnia modyfikacja -->
   <meta http-equiv="last-modified" content="Wed Sep 13 2023 11:25:33 GMT+0200">
   <style>
-    .p_class {
-      /*text-align: center;*/
-      background: linear-gradient(90deg, #000, #e5e5e5, #fff, #fecb00);
-      -webkit-background-clip: text;
-      background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-repeat: no-repeat;
-      background-size: 80%;
-      animation: shine 10s cubic-bezier(0, .4, .77, .05) infinite;
-      position: relative;
-      letter-spacing: 5px;
+    #heerro_sama {
+      scale: 1.1;
+      animation: bluruje_sie 10s cubic-bezier(.04, .74, .96, .36) infinite;
+      overflow: hidden;
     }
 
-    @keyframes shine {
+    @keyframes bluruje_sie {
       0% {
-        background-position-x: -500%;
+        opacity: 0.1;
+        filter: blur(10px);
+
+      }
+
+      40% {
+        opacity: 1;
+        filter: blur(0px);
+
+      }
+
+      80% {
+        opacity: 1;
+        filter: blur(0px);
+
       }
 
       100% {
-        background-position-x: 500%;
+        opacity: 0.1;
+        filter: blur(10px);
+
       }
     }
 
@@ -126,6 +137,34 @@
     .form .honey-row {
       display: none;
     }
+
+    #home_intro_1 {
+      background-color: #33333390;
+      color: #fecb00;
+      padding-left: 1%;
+      padding-right: 1%;
+      border-radius: 25px;
+    }
+
+    #home_intro_2 {
+      background-color: #33333390;
+      color: #fecb00;
+      padding-left: 1%;
+      padding-right: 1%;
+      border-radius: 25px;
+    }
+
+    #btn_cta_alfa {
+      color: #fecb00;
+      background-color: #333;
+      border-radius: 25px;
+      padding: 10px;
+      font-size: 1.2rem;
+      box-shadow: 0px 1px 2px rgba(254, 203, 0, 0.5),
+        0px 2px 4px rgba(254, 203, 0, 0.5),
+        0px 4px 8px rgba(254, 203, 0, 0.5),
+        0px 8px 16px rgba(254, 203, 0, 0.5);
+    }
   </style>
 </head>
 
@@ -180,70 +219,17 @@
       </nav>
     </div>
 
-    <div class="main-text" style="z-index: 3;padding-left: 10%;padding-top: 29vh;padding-bottom: 5%;">
-      <div>
-        <h1 class="neon">
-          Globus Lighting
-        </h1>
-      </div>
-      <p class="p_class" id="home_intro_1"></p>
-      <p class="p_class" id="home_intro_2"></p>
+    <div class="main-text">
+      <h1 class="neon text-focus-in">Globus Lighting</h1>
+      <p id="home_intro_1"></p>
+      <p id="home_intro_2"></p>
+      <p id="btn_cta_mont"></p>
+      <p style="color: transparent;">
+        ---------------------------------------------------------------------------------------------------------------------------------
+      </p>
     </div>
   </section>
 
-  <script>
-    const lista_pod_tytulow_1 = ["Manufacturer of intelligent LED lighting", "Modern solutions", "Economical and efficient", "Integrated lighting systems"]
-
-    const lista_pod_tytulow_2 = ["Modern technologies and dedicated solutions", "For offices and commercial facilities", "Lighting for industry and not only", "For new investments and modernized objects"]
-
-    let pod_tytul_1 = document.getElementById("home_intro_1")
-    let pod_tytul_2 = document.getElementById("home_intro_2")
-
-    let inter = 0
-    let maxInter = 3
-    let alfa = 1
-
-    function zmianaPodtytulow() {
-      if (inter <= maxInter) {
-        pod_tytul_1.innerHTML = lista_pod_tytulow_1[inter]
-        pod_tytul_2.innerHTML = lista_pod_tytulow_2[inter]
-        inter += alfa
-      } else {
-        inter = 0
-      }
-    }
-
-    setInterval(zmianaPodtytulow, 10000)
-  </script>
-<!--
-  <section>
-    <div class="container_baner">
-      <div class="panel_baner">
-        <div class="front_baner">
-        </div>
-        <div class="back_baner">
-        </div>
-      </div>
-      <div class="panel_baner">
-        <div class="front_baner">
-        </div>
-        <div class="back_baner">
-        </div>
-      </div>
-      <div class="panel_baner">
-        <div class="front_baner">
-        </div>
-        <div class="back_baner">
-        </div>
-      </div>
-      <div class="panel_baner">
-        <div class="front_baner">
-        </div>
-        <div class="back_baner">
-        </div>
-      </div>
-    </div>
-  </section> -->
   <section>
     <div style="display: flex;
       position: absolute;
@@ -252,11 +238,10 @@
       justify-content: center;">
       <picture id="heerro_sama">
         <source srcset="foto/miasta_noc.webP" type="image/webp" />
-        <img src="foto/miasta_noc.jpg" alt="photo" style="scale: 1.2;"/>
+        <img src="foto/miasta_noc.jpg" alt="photo" />
       </picture>
     </div>
   </section>
-
   <!-- Services -->
   <section id="services">
     <div class="title">
@@ -277,11 +262,13 @@
           <i class="fa-solid fa-magnifying-glass fa-flip-horizontal"></i>
         </h2>
         <p>
-          During lighting audit we check current Energy consumption, current technical condition of the luminaires and light intensity and quality of
+          During lighting audit we check current Energy consumption, current technical condition of the luminaires and
+          light intensity and quality of
           <span class='neon'>
             LED
           </span>
-          lighting. We pay attention to characteristics of rooms and kind of works which will realized in these rooms, we find capabilities how improve workers’ comfort. In the same time we try to
+          lighting. We pay attention to characteristics of rooms and kind of works which will realized in these rooms,
+          we find capabilities how improve workers’ comfort. In the same time we try to
           <span class='neon'>
             reduce costs
           </span>
@@ -302,7 +289,8 @@
           <i class="fa-solid fa-pen-ruler"></i>
         </h2>
         <p>
-          As a <a href="realisations_folder/alfa.html"> producer</a> of LED lighting who creates light fittings in plants in Poland we offer the ability to change parameters of
+          As a producer of LED lighting who creates light fittings in plants in Poland we offer the ability to change
+          parameters of
           <span class='neon'>
             LED
           </span>
@@ -331,7 +319,9 @@
           <span class='neon'>
             LED
           </span>
-          luminaires is not the only one modern lighting solution. Modern light systems which are efficient and economical are developed thanks to technological development. Lighting solutions which are created by Globus Lighting dynamically adjust to environmental conditions. It could be thanks to 
+          luminaires is not the only one modern lighting solution. Modern light systems which are efficient and
+          economical are developed thanks to technological development. Lighting solutions which are created by Globus
+          Lighting dynamically adjust to environmental conditions. It could be thanks to
           <span class='neon'>
             motion detectors, light intensity sensors and lighting control.
           </span>
@@ -350,12 +340,12 @@
         </span>
         <div class="content">
           <h2 style="font-size: 45px;" id="konsumcja">
-            70% 
+            70%
             <br>
           </h2>
           <br>
           <p style="font-size: 20px;">
-            Less energy consumption 
+            Less energy consumption
           </p>
           <!--<a href="#">
           Read More
@@ -384,7 +374,7 @@
         </span>
         <div class="content">
           <h2 style="font-size: 45px;" id="producent">
-            100 % 
+            100 %
           </h2>
           <p style="font-size: 20px;">
             Produkt mercury free
@@ -409,21 +399,26 @@
         </b>
       </h2>
       <p style="font-size:20px;">
-        Globus has been creating tools for the industry for nearly hundred years. Gained experience was the basis for the project. Current 
+        Globus has been creating tools for the industry for nearly hundred years. Gained experience was the basis for
+        the project. Current
         <span class='neon'>
           Globus Lighting
         </span>
-        is fully independent company which creates smart and modern lighting solutions based on LED technology. The heart of the company is 
+        is fully independent company which creates smart and modern lighting solutions based on LED technology. The
+        heart of the company is
         <span>
-          Research and Development Department 
+          Research and Development Department
         </span>
-        which projects, tests and improves every product 
+        which projects, tests and improves every product
         <span class="neon" onclick="window.open('solutions.html')" style="cursor: pointer;">
           <u>
-            Lighting solutions 
+            Lighting solutions
           </u>
         </span>
-        which we deliver are fully adapted to the customer’s needs. Each realisations begins with a detailed design of the arrangement of lighting together with all the information necessary to calculate return on investment. We focus on using technological innovations for economic benefits of our customers as well as improving the comfort of work for people staying in places use our lighting solutions.
+        which we deliver are fully adapted to the customer’s needs. Each realisations begins with a detailed design of
+        the arrangement of lighting together with all the information necessary to calculate return on investment. We
+        focus on using technological innovations for economic benefits of our customers as well as improving the comfort
+        of work for people staying in places use our lighting solutions.
       </p>
     </div>
     <div class="blores_element_grid">
@@ -446,21 +441,23 @@
         </b>
       </h2>
       <p style="font-size:20px;">
-        As a 
+        As a
         <span>
           producer of industry and specialist lighting
         </span>
         we offer you an individual approach when it comes
         <span>
-          LED lighting 
+          LED lighting
         </span>
-        and 
+        and
         <span class="neon" onclick="window.open('solutions.html')" style="cursor: pointer;">
           <u>
             modern lighting solutions
           </u>
         </span>
-        We can modify our lighting products to be most suited to your needs. Creating LED lighting for a given company, we first create a detailed design and correct it in this way parameters of LED lighting so as to the are most adapted to the requirements customer.
+        We can modify our lighting products to be most suited to your needs. Creating LED lighting for a given company,
+        we first create a detailed design and correct it in this way parameters of LED lighting so as to the are most
+        adapted to the requirements customer.
       </p>
 
       <div class="sqwBorder_flic" style="position: relative;">
@@ -480,22 +477,24 @@
     <div class="blores_element_grid">
       <h2 class="belka_333">
         <b>
-          LED lighting – LED Polish luminaires 
+          LED lighting – LED Polish luminaires
         </b>
       </h2>
       <p style="font-size:20px;">
-        Every industrial plant should has well-litt rooms – it is a priority. As 
-        <span> 
+        Every industrial plant should has well-litt rooms – it is a priority. As
+        <span>
           a Polish LED lighting producer
         </span>
-        we know it well, employers also know it and more and more often pay attention to the use of LED lighting and modern lighting solutions in the industry. Why? 
+        we know it well, employers also know it and more and more often pay attention to the use of LED lighting and
+        modern lighting solutions in the industry. Why?
       </p>
       <p style="font-size:20px;">
-        LED lighting is primarily more durable, what is more LED luminaires characterize 
+        LED lighting is primarily more durable, what is more LED luminaires characterize
         <span class="neon">
           longer life
         </span>
-        , thanks to it they work more efficiently. Looking at this fact from a broader perspective – they are cheaper option. The average lifetime of LED lighting is 
+        , thanks to it they work more efficiently. Looking at this fact from a broader perspective – they are cheaper
+        option. The average lifetime of LED lighting is
         <span>
           50 000 hours
         </span>
@@ -508,7 +507,7 @@
         Another reason why employers choose LED lighting is the fact that it is
         <span class="neon">
           healthier for the human body.</span>
-        LED lighting produce less IR radiation, what iis positive for human skin. 
+        LED lighting produce less IR radiation, what iis positive for human skin.
       </p>
       <p style="font-size:20px;">
         LED lighting is primarily
@@ -518,7 +517,9 @@
         , not only does it last longer, it also consumes less electricity.
       </p>
       <p style="font-size:20px;">
-        Led lighting companies in Poland are also able to choose the right one light intensity or color temperature depend on a workplace. The most popular color temperature in the workplaces is white but choosing LED lighting exist possibility buy other colors.
+        Led lighting companies in Poland are also able to choose the right one light intensity or color temperature
+        depend on a workplace. The most popular color temperature in the workplaces is white but choosing LED lighting
+        exist possibility buy other colors.
       </p>
     </div>
     </div>
@@ -526,12 +527,12 @@
       <img src="foto/foto_fragment_2.png" style="border-radius:25px;">
       <div class="sqwBorder_flic" style="position: relative;margin-bottom: 10vh;">
         <h2>
-          <a href="#" style="font-size: 3vh;">
+          <a href="blog.html" style="font-size: 3vh;">
             Get more information
             <br>
             about LED lighting
             <br>
-            on our blog! 
+            on our blog!
           </a>
         </h2>
       </div>
@@ -546,68 +547,69 @@
     <div class="blores_element_grid">
       <h2 class="belka_fec">
         <b>
-          Polish producer of LED lighting – products 
+          Polish producer of LED lighting – products
         </b>
       </h2>
       <p style="font-size:20px;">
         <span>
           Globus Lighting is Polish producer of LED lighting
         </span>
-        who offers a wide range of solutions to its customers. We create not only LED lighting but also modern lighting solutions which are smart and thanks to move sensors or light sensors could adjust to the conditions.
+        who offers a wide range of solutions to its customers. We create not only LED lighting but also modern lighting
+        solutions which are smart and thanks to move sensors or light sensors could adjust to the conditions.
       </p>
       <p style="font-size:20px;">
         In our assortment of LED lighting you can find:
       </p>
       <p style="font-size:20px;">
         <span class="span_color_a">
-          <a href="strona_produktu_led.html?nrId=0" target="_blank">
+          <a href="strona_produktu_led.html?0nrId=0-belus" target="_blank">
             ar industrial lighting,
           </a>
         </span>
       </p>
       <p style="font-size:20px;">
         <span class="span_color_a">
-          <a href="strona_produktu_led.html?nrId=14" target="_blank">
+          <a href="strona_produktu_led.html?0nrId=14-bsl" target="_blank">
             workplace luminaires,
           </a>
         </span>
       </p>
       <p style="font-size:20px;">
         <span class="span_color_a">
-          <a href="strona_produktu_led.html?nrId=13" target="_blank">
+          <a href="strona_produktu_led.html?0nrId=13-cleanline" target="_blank">
             linear beams,
           </a>
         </span>
       </p>
       <p style="font-size:20px;">
         <span class="span_color_a">
-          <a href="strona_produktu_led.html?nrId=2" target="_blank">
+          <a href="strona_produktu_led.html?0nrId=2-high-bay-squbus" target="_blank">
             High Bay luminaires,
           </a>
         </span>
       </p>
       <p style="font-size:20px;">
         <span class="span_color_a">
-          <a href="strona_produktu_led.html?nrId=24" target="_blank">
+          <a href="strona_produktu_led.html?0nrId=24-csl" target="_blank">
             luminaires for cold stores and freezers,
           </a>
         </span>
       </p>
       <p style="font-size:20px;">
         <span class="span_color_a">
-          <a href="strona_produktu_led.html?nrId=57" target="_blank">
+          <a href="strona_produktu_led.html?0nrId=57-dnl" target="_blank">
             Downlight LED,
           </a>
         </span>
       </p>
       <p style="font-size:20px;">
         <span class="span_color_a">
-          <a href="strona_produktu_led.html?nrId=67" target="_blank">
-            LED panels, 
-          </a> 
+          <a href="strona_produktu_led.html?0nrId=67-panel" target="_blank">
+            LED panels,
+          </a>
         </span>
-        and 
-        <a href="strona_produktu_led.html?nrId=47" target="_blank">
+        and
+        <a href="strona_produktu_led.html?0nrId=47-nimbo" target="_blank">
           flood lights.
         </a>
       </p>
@@ -628,23 +630,25 @@
         Contact
       </h2>
       <p style="font-size:20px;">
-        Would you like to know more? Do you have questions or suggestion? Send message via form or contact with our specialists
+        Would you like to know more? Do you have questions or suggestion? Send message via form or contact with our
+        specialists
       </p>
       <p style="color:royalblue;">
-        The administrator of personal data is 
-        <span> 
+        The administrator of personal data is
+        <span>
           GL Sp. z o.o.
         </span>
-         known as
+        known as
         <span>
           Globus Lighting.
         </span>
         <br>
-        The data entered in the contact form will be processed in order to answer <br> the sent inquiry in accordance with our 
+        The data entered in the contact form will be processed in order to answer <br> the sent inquiry in accordance
+        with our
         <span class='neon'>
           Privacy Policy
-        </span> 
-        (link 
+        </span>
+        (link
         <a href="pdf_zbior/Privacy policy.pdf" target="_blank">
           here
         </a>
@@ -664,31 +668,20 @@
     </h2>
 
     <div class="heksag">
-      <!-- <div class="hexagon-wrapper">
-        <div class="hexagon" onclick="">
-          <i class="fab fa-facebook"></i>
-        </div>
-      </div>-->
       <div class="hexagon-wrapper" onclick="window.open('https://www.linkedin.com/company/globus-lighting/')">
         <div class="hexagon">
           <i class="fa-brands fa-linkedin"></i>
         </div>
       </div>
-      <!--   <div class="hexagon-wrapper">
-        <div class="hexagon">
-          <i class="fab fa-instagram"></i>
-        </div>
-      </div>-->
     </div>
     <div class="mapa_google" id="map_map_Globus">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d744.6906870764383!2d16.984187366000718!3d51.11157972512839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470fc34c9c6b1bdf%3A0x455ecb9d30a97c4c!2sGlobus%20Lighting%20-%20o%C5%9Bwietlenie%20LED%20dla%20przemys%C5%82u!5e0!3m2!1spl!2spl!4v1683271163090!5m2!1spl!2spl"
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d744.6906870764383!2d16.984187366000718!3d51.11157972512839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470fc34c9c6b1bdf%3A0x455ecb9d30a97c4c!2sGlobus%20Lighting%20-%20o%C5%9Bwietlenie%20LED%20dla%20przemys%C5%82u!5e0!3m2!1spl!2spl!4v1683271163090!5m2!1spl!2spl"
         width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"
         referrerpolicy="no-referrer-when-downgrade">
-        </iframe>
+      </iframe>
     </div>
   </section>
-
-
   <br class="pauza">
   <!-- indykator skrolowania  -->
   <section>
@@ -715,7 +708,64 @@
     </h6>
     <h6 id="jezyk_strony" style="color: #22222200;opacity: 0.1;">0</h6>
   </section>
+  <script>
+    const lista_pod_tytulow_1 = ["<h2 class='tracking-in-expand'>Modern solutions</h2>", "<h2 class='tracking-in-expand'>Economical and efficient</h2>", "<h2 class='tracking-in-expand'>Integrated lighting systems</h2>", "<h2 class='tracking-in-expand'>Manufacturer of intelligent LED lighting</h2>"];
 
+    const lista_pod_tytulow_2 = ["<h2 class='tracking-in-expand'>For offices and commercial facilities</h2>", "<h2 class='tracking-in-expand'>Lighting for industry and not only</h2>", "<h2 class='tracking-in-expand'>For new investments and modernized objects</h2>", "<h2 class='tracking-in-expand'>Modern technologies and dedicated solutions</h2>"];
+
+    let pod_tytul_1 = document.getElementById("home_intro_1");
+    let pod_tytul_2 = document.getElementById("home_intro_2");
+    let button_CTA = document.getElementById("btn_cta_mont");
+    let inter = 0;
+    let maxInter = 3;
+
+    let imgiHerr = document.getElementById("heerro_sama");
+    let arr_herro = [`
+                   <source srcset="foto/ofice-restar.webP" type="image/webp" />
+                   <img src="foto/ofice-restar.jpg" alt="Lamps for offices and restaurants" />`,
+      `
+                   <source srcset="foto/miasto_widno.webP" type="image/webp" />
+                   <img src="foto/miasto_widno.jpg" alt="Smart lamps for cities and streets" s/>`,
+      `
+                   <source srcset="foto/parkingi.webP" type="image/webp" />
+                   <img src="foto/parkingi.jpg" alt="LED lamps for parking lots" />`,
+      `
+                  <source srcset="foto/miasta_noc.webP" type="image/webp" />
+                  <img src="foto/miasta_noc.jpg" alt="LED luminaires for architecture" />`];
+
+    let btn_CTA_arr = [
+      `<button id='btn_cta_alfa' class="rotate-in-ver"
+      onclick="window.open('solutions_folder/office_lighting.html')">
+    Check out our lamps for the office
+    </button>`,
+      `<button id='btn_cta_alfa' class="rotate-in-ver"
+      onclick="window.open('solutions_folder/industrial_LED.html')">
+    Check industrial lamps
+    </button>`,
+      `<button id='btn_cta_alfa' class="rotate-in-ver"
+      onclick="window.open('products_led.html')">
+    Check out our offer
+    </button>`,
+      `<button id='btn_cta_alfa' class="rotate-in-ver"
+      onclick="window.open('solutions.html')">
+    Check out our solutions
+    </button>`]
+    let randomizer_herro_sama = Math.floor(Math.random() * 4);
+    imgiHerr.innerHTML = arr_herro[randomizer_herro_sama]
+    function anima_in_situ() {
+      if (inter <= maxInter) {
+        pod_tytul_1.innerHTML = lista_pod_tytulow_1[inter];
+        pod_tytul_2.innerHTML = lista_pod_tytulow_2[inter];
+        button_CTA.innerHTML = btn_CTA_arr[inter]
+        inter++
+      }
+      if (inter == 4) {
+        inter = 0;
+      }
+    }
+
+    setInterval(anima_in_situ, 10000);
+  </script>
   <script src="js/script.js"></script>
   <script src="js/elementy_enkapsuly.js"></script>
   <script src="js/contakt.js"></script>

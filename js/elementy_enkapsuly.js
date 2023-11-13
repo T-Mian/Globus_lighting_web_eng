@@ -8,13 +8,9 @@ let obiekt_menu_ang = `
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="products_led.html">
-              <i class="fa-solid fa-tags"></i>
-              <span>
+              <b > <i class="fa-solid fa-tags"></i>
                 Products
-              </span>
-              <i class="fa fa-caret-down"></i>
-            </a>
+              <i class="fa fa-caret-down"></i></b>
             <div class="dropdown-content">
               <a href="products_led.html">
                 <i class="fa-regular fa-lightbulb"></i>
@@ -28,21 +24,19 @@ let obiekt_menu_ang = `
                 <i class="fa-solid fa-charging-station fa-flip-horizontal"></i>
                 Car chargers
               </a>
-              <a href="page_constr.html">
-                <i class="fa-regular fa-folder-open"></i>
-                LED products catalogue
-              </a>
             </div>
           </li>
           <li class="dropdown_menu">
-            <a href="solutions.html">
+              <b >
               <i class="fa-solid fa-pen-ruler"></i>
-              <span>
                 Solutions
-              </span>
               <i class="fa fa-caret-down"></i>
-            </a>
+              </b>
             <div class="dropdown-content">
+            <a href="solutions.html">
+            <i class="fa-solid fa-pen-ruler"></i>
+                Solutions
+            </a>
               <a href="financing.html">
                 <i class="fa-solid fa-dollar-sign"></i>
                 Financing
@@ -98,14 +92,14 @@ let obiekt_menu_ang = `
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="realisations.html">
-              <i class="fa-solid fa-landmark-dome"></i>
-              <span>
+              <b ><i class="fa-solid fa-landmark-dome"></i>
                 Realisations
-              </span>
-              <i class="fa fa-caret-down"></i>
-            </a>
+              <i class="fa fa-caret-down"></i></b >
             <div class="dropdown-content">
+            <a href="realisations.html">
+             <i class="fa-solid fa-landmark-dome"></i>
+            Realisations
+            </a>
               <a href="realisations_folder/railway_station_wroclaw.html">
                 Main Railway Station in Wroclaw
               </a>
@@ -138,19 +132,23 @@ let obiekt_menu_ang = `
             </a>
           </li>
           <li class="dropdown_menu">
-            <a href="about_us.html">
+            <b>
               <i class="fa-solid fa-passport"></i>
               About us
               <i class="fa fa-caret-down"></i>
-            </a>
+            </b>
             <div class="dropdown-content">
+            <a href="about_us.html">
+              <i class="fa-solid fa-passport"></i>
+              About us
+            </a>
               <a href="career.html">
                 <i class="fa-regular fa-id-badge"></i>
                 Career</a>
               <a href="contact.html">
                 <i class="fa-solid fa-pen-nib"></i>
                 Contact
-              </a> 
+              </a>
             </div>
           </li>
           <li class="dropdown_menu">
@@ -169,9 +167,6 @@ let obiekt_menu_ang = `
                 French
               </a>
             </div>
-          </li>
-          <li id="closeBurger" onclick="togleMenu()">
-            <i class="fa-solid fa-bars-staggered"></i>
           </li>
           `;
 // sektor menu FR
